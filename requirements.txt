@@ -1,0 +1,29 @@
+# Core
+python-dotenv>=1.0.0
+psycopg2-binary>=2.9.9
+geoalchemy2>=0.14.0
+shapely>=2.0.0
+geopandas>=0.14.0
+pandas>=2.0.0
+
+# Web / Scraping
+playwright>=1.44.0
+firecrawl-py>=1.0.0
+requests>=2.31.0
+beautifulsoup4>=4.12.0
+
+# Mapping
+folium>=0.17.0
+# qgis>=3.28.0  # optional - only needed if running inside QGIS Python environment
+
+# Utilities
+tqdm>=4.66.0
+python-dateutil>=2.8.0
+pyyaml>=6.0.0
+
+# Anti-bot / Proxy (integrate as needed)
+scrapingbee>=1.0.0   # optional
+twocaptcha>=0.0.1    # optional
+
+# Hermes / Delegation (if using local Hermes SDK)
+# hermes-agent-sdk  (add when available)

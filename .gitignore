@@ -1,0 +1,9 @@
+venv/
+__pycache__/
+*.pyc
+.env
+*.log
+data/raw/
+brown_county_map.html
+brown_county.qgs
+*.qgz
