@@ -102,6 +102,45 @@ Or use the helper script:
 | Town of Scott             | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
 | Town of Wrightstown       | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
 
+## High Priority Municipal Zoning Ordinance Sources (Brown County Only)
+
+**Last Updated**: 2026-07-06
+
+| Municipality              | Type   | Best Available Source                                      | Status                  | Notes |
+|---------------------------|--------|------------------------------------------------------------|-------------------------|-------|
+| City of Green Bay         | City   | https://library.municode.com/wi/green_bay                  | Municode (no direct PDF) | Full code available online |
+| City of De Pere           | City   | data/raw/brown/municipal/City_of_De_Pere_Zoning_Ordinance.pdf | Downloaded (14 MB)     | Full 201-page ordinance |
+| Village of Allouez        | Village| data/raw/brown/municipal/Village_of_Allouez_Zoning_Ordinance.pdf | Downloaded (4.1 MB)    | Full ordinance |
+| Village of Ashwaubenon    | Village| https://ashwaubenon.gov/government/municipal-code/         | Partial code only      | No single PDF |
+| Village of Bellevue       | Village| County-level only (search ongoing)                         | Pending                | - |
+| Village of Denmark        | Village| County-level only                                          | Pending                | - |
+| Village of Greenleaf      | Village| County-level only                                          | Pending                | - |
+| Village of Hobart         | Village| County-level only                                          | Pending                | - |
+| Village of Howard         | Village| https://library.municode.com/wi/howard                     | Municode               | No single PDF |
+| Village of Pulaski        | Village| County-level only                                          | Pending                | Partial overlap |
+| Village of Suamico        | Village| data/raw/brown/municipal/Village_of_Suamico_Zoning_Map.pdf + https://ecode360.com/36664591 | Map downloaded (12 MB) | Chapter 18 on ecode360 |
+| Village of Wrightstown    | Village| County-level only                                          | Pending                | - |
+| Town of Eaton             | Town   | County-level only                                          | Pending                | - |
+| Town of Glenmore          | Town   | County-level only                                          | Pending                | - |
+| Town of Green Bay         | Town   | County-level only                                          | Pending                | - |
+| Town of Holland           | Town   | County-level only                                          | Pending                | - |
+| Town of Humboldt          | Town   | County-level only                                          | Pending                | - |
+| Town of Lawrence          | Town   | County-level only                                          | Pending                | - |
+| Town of Ledgeview         | Town   | https://ecode360.com/8435332 (Chapter 135)                 | ecode360               | Full Chapter 135 |
+| Town of Morrison          | Town   | County-level only                                          | Pending                | - |
+| Town of New Denmark       | Town   | County-level only                                          | Pending                | - |
+| Town of Pittsfield        | Town   | County-level only                                          | Pending                | - |
+| Town of Rockland          | Town   | County-level only                                          | Pending                | - |
+| Town of Scott             | Town   | County-level only                                          | Pending                | - |
+| Town of Wrightstown       | Town   | County-level only                                          | Pending                | - |
+
+**Extraction Status Legend**:
+- **Downloaded** = Full ordinance PDF saved locally
+- **Municode / ecode360** = Full code available online (will extract via browser if needed)
+- **Pending** = Source search ongoing
+
+**Next Actions**: Extract zoning keys from downloaded PDFs (De Pere, Allouez, Suamico map) then proceed to next batch.
+
 **Legend**:
 - **Extracted?** = Whether municipality-specific zoning ordinance has been downloaded and processed into zoning keys.
 - All current work uses **Brown County Clerk** ordinances (CHAP011, CHAP014, CHAP022, Ch23_Floodplains) as baseline.
