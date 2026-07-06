@@ -102,6 +102,47 @@ Or use the helper script:
 | Town of Scott             | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
 | Town of Wrightstown       | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
 
+## Complete Municipal Zoning Ordinance Source List – Brown County (All 25)
+
+**PRD v1.4 – Full Ordinance Inventory (2026-07-06)**
+
+**Rule**: Only Brown County municipalities. No other counties.
+
+| #  | Municipality              | Type     | Best Source / Link                                                                 | Download Status          | Notes |
+|----|---------------------------|----------|------------------------------------------------------------------------------------|--------------------------|-------|
+| 1  | City of Green Bay         | City     | https://library.municode.com/wi/green_bay                                          | Municode (no PDF)        | Full code online |
+| 2  | City of De Pere           | City     | data/raw/brown/municipal/City_of_De_Pere_Zoning_Ordinance.pdf                      | Downloaded (14 MB)       | Full 201-page ordinance |
+| 3  | Village of Allouez        | Village  | data/raw/brown/municipal/Village_of_Allouez_Zoning_Ordinance.pdf                   | Downloaded (4.1 MB)      | Full ordinance |
+| 4  | Village of Ashwaubenon    | Village  | https://ashwaubenon.gov/government/municipal-code/                                 | Partial only             | No single PDF |
+| 5  | Village of Bellevue       | Village  | https://ecode360.com/BE3132                                                        | ecode360                 | Full code online |
+| 6  | Village of Denmark        | Village  | County-level baseline                                                              | Pending                  | Search ongoing |
+| 7  | Village of Greenleaf      | Village  | County-level baseline                                                              | Pending                  | Search ongoing |
+| 8  | Village of Hobart         | Village  | https://ecode360.com/28090647 (Chapter 295)                                        | ecode360                 | Full Chapter 295 |
+| 9  | Village of Howard         | Village  | https://library.municode.com/wi/howard                                             | Municode                 | Full code online |
+| 10 | Village of Pulaski        | Village  | County-level baseline                                                              | Pending                  | Partial overlap |
+| 11 | Village of Suamico        | Village  | data/raw/brown/municipal/Village_of_Suamico_Zoning_Map.pdf + ecode360.com/36664591 | Map downloaded (12 MB)   | Chapter 18 on ecode360 |
+| 12 | Village of Wrightstown    | Village  | County-level baseline                                                              | Pending                  | Search ongoing |
+| 13 | Town of Eaton             | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 14 | Town of Glenmore          | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 15 | Town of Green Bay         | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 16 | Town of Holland           | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 17 | Town of Humboldt          | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 18 | Town of Lawrence          | Town     | https://energyzoning.org (sample only) + ecode360                                  | Partial sample           | Full code behind paywall |
+| 19 | Town of Ledgeview         | Town     | https://ecode360.com/8435332 (Chapter 135)                                         | ecode360                 | Full Chapter 135 |
+| 20 | Town of Morrison          | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 21 | Town of New Denmark       | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 22 | Town of Pittsfield        | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 23 | Town of Rockland          | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+| 24 | Town of Scott             | Town     | data/raw/brown/municipal/Town_of_Scott_Zoning_Ordinance.pdf                        | Downloaded (701 KB)      | 74-page ordinance |
+| 25 | Town of Wrightstown       | Town     | County-level baseline                                                              | Pending                  | Search ongoing |
+
+**Summary**:
+- **Direct PDFs downloaded**: 4 (De Pere, Allouez, Suamico map, Scott)
+- **Municode / ecode360**: 6
+- **Pending / County baseline only**: 15
+
+**All sources documented. Ready for extraction phase once you confirm.**
+
 ## High Priority Municipal Zoning Ordinance Sources (Brown County Only)
 
 **Last Updated**: 2026-07-06
