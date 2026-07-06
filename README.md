@@ -67,3 +67,44 @@ Or use the helper script:
 - `.github/workflows/ci.yml` – CI/CD pipeline
 
 **Status**: Fully implemented and CI/CD ready.
+
+## Brown County Municipality Ordinance Tracking (PRD v1.2)
+
+**Strict Scope**: Only Brown County municipalities. No ordinances from other counties will be included in this build.
+
+### Full Municipality List (Brown County Only)
+
+| Municipality              | Type     | Current Zoning Ordinance Status          | Source / Notes                          | Priority | Extracted? |
+|---------------------------|----------|------------------------------------------|-----------------------------------------|----------|------------|
+| City of Green Bay         | City     | County-level only (CHAP011/022/023)     | Brown County Clerk Ordinances           | High     | No         |
+| City of De Pere           | City     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Allouez        | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Ashwaubenon    | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Bellevue       | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Denmark        | Village  | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Village of Greenleaf      | Village  | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Village of Hobart         | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Howard         | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Pulaski        | Village  | County-level only (partial)             | Brown County Clerk Ordinances           | Medium   | No         |
+| Village of Suamico        | Village  | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Village of Wrightstown    | Village  | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Eaton             | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Glenmore          | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Green Bay         | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Town of Holland           | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Humboldt          | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Lawrence          | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Town of Ledgeview         | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Town of Morrison          | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of New Denmark       | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Pittsfield        | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Rockland          | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+| Town of Scott             | Town     | County-level only                       | Brown County Clerk Ordinances           | High     | No         |
+| Town of Wrightstown       | Town     | County-level only                       | Brown County Clerk Ordinances           | Medium   | No         |
+
+**Legend**:
+- **Extracted?** = Whether municipality-specific zoning ordinance has been downloaded and processed into zoning keys.
+- All current work uses **Brown County Clerk** ordinances (CHAP011, CHAP014, CHAP022, Ch23_Floodplains) as baseline.
+- Next phase: Systematically pull and extract individual municipal zoning ordinances starting with High priority.
+
+**PRD Update Note**: This table replaces any previous partial references. Only Brown County entries are permitted.
