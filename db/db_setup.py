@@ -1,119 +1,68 @@
-#!/usr/bin/env python3
-"""
-Wisconsin Overlay Map - Database Setup Script
-PRD v1.1 compliant - MultiPolygon geometry + PostGIS extensions
-"""
-
 import os
-import psycopg2
-from psycopg2 import sql
-from dotenv import load_dotenv
+from sqlalchemy import create_engine, text
 
-load_dotenv()
+DB_HOST = os.getenv("DB_HOST", "localhost")
+DB_PORT = os.getenv("DB_PORT", "5432")
+DB_NAME = os.getenv("DB_NAME", "wisconsin_spatial")
+DB_USER = os.getenv("DB_USER", "postgres")
+DB_PASSWORD = os.getenv("DB_PASSWORD", "postgres")
 
-DB_CONFIG = {
-    "host": os.getenv("POSTGRES_HOST", "localhost"),
-    "port": os.getenv("POSTGRES_PORT", "5432"),
-    "user": os.getenv("POSTGRES_USER", "postgres"),
-    "password": os.getenv("POSTGRES_PASSWORD", ""),
-    "dbname": os.getenv("POSTGRES_DB", "wisconsin_overlay"),
-}
-
-def create_database():
-    """Create database if it doesn't exist."""
-    conn = psycopg2.connect(
-        host=DB_CONFIG["host"],
-        port=DB_CONFIG["port"],
-        user=DB_CONFIG["user"],
-        password=DB_CONFIG["password"],
-        dbname="postgres"
+def init_database():
+    """Initializes the PostGIS database and required extensions."""
+    engine = create_engine(
+        f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
     )
-    conn.autocommit = True
-    cur = conn.cursor()
+    
+    with engine.begin() as conn:
+        # Enable PostGIS extension
+        conn.execute(text("CREATE EXTENSION IF NOT EXISTS postgis;"))
+        print("[+] PostGIS extension enabled.")
 
-    cur.execute("SELECT 1 FROM pg_database WHERE datname = %s", (DB_CONFIG["dbname"],))
-    if not cur.fetchone():
-        cur.execute(sql.SQL("CREATE DATABASE {}").format(sql.Identifier(DB_CONFIG["dbname"])))
-        print(f"Database '{DB_CONFIG['dbname']}' created.")
-    else:
-        print(f"Database '{DB_CONFIG['dbname']}' already exists.")
-
-    cur.close()
-    conn.close()
-
-def setup_extensions_and_schema():
-    """Connect to target DB and create PostGIS extensions + tables."""
-    conn = psycopg2.connect(**DB_CONFIG)
-    cur = conn.cursor()
-
-    # Enable PostGIS extensions
-    print("Enabling PostGIS extensions...")
-    cur.execute("CREATE EXTENSION IF NOT EXISTS postgis;")
-    cur.execute("CREATE EXTENSION IF NOT EXISTS postgis_topology;")
-
-    # Counties tracker
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS counties (
-            county_id SERIAL PRIMARY KEY,
-            county_name TEXT NOT NULL,
-            state TEXT DEFAULT 'WI',
-            status TEXT DEFAULT 'pending',
-            last_updated TIMESTAMP DEFAULT NOW(),
-            source_files TEXT[]
-        );
-    """)
-
-    # Parcels (MultiPolygon geometry - CRITICAL FIX)
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS parcels (
-            parcel_id SERIAL PRIMARY KEY,
-            apn TEXT UNIQUE NOT NULL,
-            county_id INTEGER REFERENCES counties(county_id),
-            owner_name TEXT,
-            mailing_address TEXT,
-            acreage NUMERIC,
-            current_zoning TEXT,
-            land_use TEXT,
-            geometry GEOMETRY(MultiPolygon, 4326),
-            within_city_limits BOOLEAN,
-            tier INTEGER,
-            distance_to_sewer NUMERIC,
-            distance_to_water NUMERIC,
-            distance_to_electric NUMERIC,
-            future_designation TEXT,
-            rationale TEXT,
-            created_at TIMESTAMP DEFAULT NOW()
-        );
-    """)
-
-    # Growth infrastructure
-    cur.execute("""
-        CREATE TABLE IF NOT EXISTS growth_infrastructure (
-            infra_id SERIAL PRIMARY KEY,
-            county_id INTEGER REFERENCES counties(county_id),
-            infra_type TEXT,
-            geometry GEOMETRY(MultiLineString, 4326),
-            description TEXT,
-            source TEXT,
-            effective_year INTEGER
-        );
-    """)
-
-    # Spatial indexes
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_parcels_geom ON parcels USING GIST (geometry);")
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_infra_geom ON growth_infrastructure USING GIST (geometry);")
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_parcels_apn ON parcels (apn);")
-    cur.execute("CREATE INDEX IF NOT EXISTS idx_parcels_tier ON parcels (tier);")
-
-    conn.commit()
-    print("PostGIS extensions and schema created successfully.")
-    print("Geometry type: MultiPolygon (4326) – ready for county shapefiles.")
-
-    cur.close()
-    conn.close()
+        # Create base tables if they don't exist (lightweight schema)
+        conn.execute(text("""
+            CREATE TABLE IF NOT EXISTS brown_county_parcels (
+                parcel_id TEXT,
+                owner_name TEXT,
+                owner_address TEXT,
+                owner_city_state_zip TEXT,
+                land_class_code TEXT,
+                zoning_description TEXT,
+                calculated_acres DOUBLE PRECISION,
+                assessed_value DOUBLE PRECISION,
+                geom GEOMETRY(MultiPolygon, 3071)
+            );
+        """))
+        
+        conn.execute(text("""
+            CREATE TABLE IF NOT EXISTS future_land_use (
+                planned_use TEXT,
+                municipality TEXT,
+                geom GEOMETRY(MultiPolygon, 3071)
+            );
+        """))
+        
+        conn.execute(text("""
+            CREATE TABLE IF NOT EXISTS sewer_service_area (
+                district_name TEXT,
+                is_serviceable BOOLEAN,
+                geom GEOMETRY(MultiPolygon, 3071)
+            );
+        """))
+        
+        conn.execute(text("""
+            CREATE TABLE IF NOT EXISTS pipeline_targets (
+                apn TEXT,
+                owner_name TEXT,
+                owner_address TEXT,
+                owner_city_state_zip TEXT,
+                acres DOUBLE PRECISION,
+                assessed_value DOUBLE PRECISION,
+                future_designation TEXT,
+                geom_wgs84 GEOMETRY(Geometry, 4326)
+            );
+        """))
+        
+    print("[+] Database schema initialized successfully.")
 
 if __name__ == "__main__":
-    print("=== Wisconsin Overlay Map Database Setup ===")
-    create_database()
-    setup_extensions_and_schema()
-    print("Database setup complete.")
+    init_database()
