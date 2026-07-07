@@ -16,15 +16,16 @@ class DataHarvester:
         # Official Brown County ArcGIS REST endpoints
         self.endpoints = {
             "base_parcels": "https://bcgis.browncountywi.gov/arcgis/rest/services/Parcels/ParcelFeatures/FeatureServer/0",
-            "future_land_use": "https://bcgis.browncountywi.gov/arcgis/rest/services/Planning/FutureLandUse_2040/FeatureServer/0",  # May need adjustment
-            "sewer_service_area": "https://bcgis.browncountywi.gov/arcgis/rest/services/Planning/SewerServiceArea/FeatureServer/0"   # May need adjustment
+            "future_land_use": None,      # Needs discovery
+            "sewer_service_area": None    # Needs discovery
         }
 
     def fetch_layer(self, layer_key: str, where_clause: str = "1=1") -> Optional[str]:
         """Fetches a layer as GeoJSON with pagination support."""
         base_url = self.endpoints.get(layer_key)
         if not base_url:
-            raise ValueError(f"Unknown layer: {layer_key}")
+            print(f"[-] No endpoint configured for {layer_key}")
+            return None
 
         print(f"[Harvester] Fetching: {layer_key}")
 
@@ -80,9 +81,7 @@ class DataHarvester:
         return output_path
 
     def run_all(self):
-        """Run full harvest for all three required layers."""
-        # Brown County parcels (FIPS 55009)
-        self.fetch_layer("base_parcels", where_clause="COUNTY = 'Brown'")
-        self.fetch_layer("future_land_use")
-        self.fetch_layer("sewer_service_area")
-        print("[Harvester] All layers harvested.\n")
+        """Run full harvest for available layers."""
+        # Try fetching parcels without county filter first
+        self.fetch_layer("base_parcels")
+        print("[Harvester] Parcels layer attempt completed.\n")
