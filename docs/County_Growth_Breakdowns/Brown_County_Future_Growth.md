@@ -54,12 +54,18 @@ Brown County planners want controlled, efficient growth that protects farmland, 
 | Town of Lawrence          | Town     | High                   | Strong growth projected due to proximity to De Pere and good access to I-41/I-43. |
 | Village of Suamico        | Village  | High                   | Continuing to grow as a suburban community north of Green Bay. Residential expansion expected. |
 | Village of Howard         | Village  | High                   | Significant residential and commercial development ongoing and planned. |
+| Village of Ashwaubenon    | Village  | High                   | Major commercial and residential growth adjacent to Green Bay. Home to significant retail and employment centers. |
 | Town of Scott             | Town     | Moderate to High       | Growth expected along major roads and near the Village of Howard. |
 | Village of Bellevue       | Village  | Moderate               | Steady residential growth, especially in the southern part of the village. |
 | Town of Humboldt          | Town     | Moderate               | Some residential growth expected, but more rural character preserved. |
 | Town of Green Bay         | Town     | Moderate               | Growth mainly near the City of Green Bay limits. |
 | Town of Wrightstown       | Town     | Moderate               | Growth focused around the Village of Wrightstown. |
+| Village of Hobart         | Village  | Moderate               | Steady growth expected; village status provides local zoning control. |
 | Village of Allouez        | Village  | Low to Moderate        | Mostly built out. Future development will be limited to infill/redevelopment. |
+| Village of Pulaski        | Village  | Low to Moderate        | Partial overlap with Brown County; limited growth expected in county portion. |
+| Village of Denmark        | Village  | Low                    | Rural village character; limited growth expected. |
+| Village of Greenleaf      | Village  | Low                    | Small rural village; very limited growth expected. |
+| Village of Wrightstown    | Village  | Low to Moderate        | Small village; growth tied to nearby Town of Wrightstown patterns. |
 | Town of Eaton             | Town     | Low                    | Remains largely agricultural. Limited growth expected. |
 | Town of Glenmore          | Town     | Low                    | Strong agricultural focus. Very limited development anticipated. |
 | Town of Holland           | Town     | Low                    | Rural character to be preserved. |
@@ -75,10 +81,10 @@ Brown County planners want controlled, efficient growth that protects farmland, 
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  
-Ledgeview, Lawrence, Suamico, Howard, and Scott — These are the main areas where new residential and commercial development is expected to occur outward from Green Bay and De Pere.
+Ledgeview, Lawrence, Suamico, Howard, and Ashwaubenon — These are the main areas where new residential and commercial development is expected to occur outward from Green Bay and De Pere.
 
 **Moderate Growth Areas:**  
-Bellevue, Humboldt, and the Town of Green Bay.
+Bellevue, Humboldt, Hobart, and the Town of Green Bay.
 
 **Low Growth / Agricultural Preservation Areas:**  
 Eaton, Glenmore, Holland, Morrison, New Denmark, Pittsfield, and Rockland.
