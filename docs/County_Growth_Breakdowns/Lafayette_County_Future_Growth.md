@@ -52,16 +52,55 @@ Lafayette County should be researched as an agricultural county where future dev
 ## Lafayette County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Darlington | City | Low to Moderate | County seat/service node; verify FLU and zoning. |
-| Shullsburg | City | Low to Moderate | Local growth node; verify plan. |
-| Belmont | Village | Low to Moderate | Corridor/access influence; verify mapping. |
-| Argyle | Village | Low | Rural village context. |
-| South Wayne | Village | Low | Limited growth expected. |
-| Rural towns | Town | Low | Agricultural preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Cuba City | City | Not yet assessed | Verify growth potential |
+| Blanchardville | Village | Not yet assessed | Verify growth potential |
+| Hazel Green | Village | Not yet assessed | Verify growth potential |
+| South Wayne | Village | Not yet assessed | Verify growth potential |
+| Argyle | Town | Not yet assessed | Verify growth potential |
+| Belmont | Town | Not yet assessed | Verify growth potential |
+| Benton | Town | Not yet assessed | Verify growth potential |
+| Blanchard | Town | Not yet assessed | Verify growth potential |
+| Darlington | Town | Not yet assessed | Verify growth potential |
+| Elk Grove | Town | Not yet assessed | Verify growth potential |
+| Fayette | Town | Not yet assessed | Verify growth potential |
+| Gratiot | Town | Not yet assessed | Verify growth potential |
+| Kendall | Town | Not yet assessed | Verify growth potential |
+| Lamont | Town | Not yet assessed | Verify growth potential |
+| Monticello | Town | Not yet assessed | Verify growth potential |
+| New Diggings | Town | Not yet assessed | Verify growth potential |
+| Seymour | Town | Not yet assessed | Verify growth potential |
+| Shullsburg | Town | Not yet assessed | Verify growth potential |
+| Wayne | Town | Not yet assessed | Verify growth potential |
+| White Oak Springs | Town | Not yet assessed | Verify growth potential |
+| Willow Springs | Town | Not yet assessed | Verify growth potential |
+| Wiota | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Avon
+- Calamine
+- Elk Grove
+- Etna
+- Fayette
+- Five Corners
+- Ipswich
+- Jenkinsville
+- Lamont
+- Leadmine
+- Leslie
+- Meekers Grove
+- New Diggings
+- Red Rock
+- Riverside
+- Seymour Corners
+- Slateford
+- Strawbridge
+- Truman
+- White Oak
+- Wiota
+- Woodford
+- Yellowstone
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Darlington, Shullsburg, Belmont/corridor areas.

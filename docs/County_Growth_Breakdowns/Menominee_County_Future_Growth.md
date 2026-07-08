@@ -49,15 +49,16 @@ Menominee County is not a typical suburban expansion market. Future development 
 ## Menominee County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Keshena | Community | Low to Moderate | Primary community/service node; verify plan maps. |
-| Neopit | Community | Low to Moderate | Community growth possible; verify plan. |
-| Zoar area | Community | Low | Limited growth expected. |
-| County/Town forest lands | County/Town | Low | Resource protection is dominant. |
-| Highway 47/55 nodes | Corridor | Low to Moderate | Check official plan map before any parcel assumptions. |
+|--------------|------|------------------------|-------|
 
----
+### Unincorporated communities
 
+- Keshena
+- Legend Lake
+- Middle Village
+- Neopit
+- Perote
+- Zoar
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Keshena and Neopit community nodes.

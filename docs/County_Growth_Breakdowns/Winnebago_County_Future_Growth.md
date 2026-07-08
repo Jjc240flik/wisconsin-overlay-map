@@ -48,21 +48,55 @@ Winnebago County planners want controlled, efficient growth that protects farmla
 
 ## Winnebago County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Oshkosh           | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Neenah            | City   | Moderate               | Steady residential and commercial growth. |
-| City of Menasha           | City   | Moderate               | Growth focused on redevelopment. |
-| Village of Fox Crossing   | Village| Moderate               | Residential growth expected. |
-| Village of Winneconne     | Village| Low to Moderate        | Limited growth. |
-| Town of Oshkosh           | Town   | Low to Moderate        | Growth near the City of Oshkosh. |
-| Town of Neenah            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Menasha           | Town   | Low                    | Rural character to be preserved. |
-| Town of Winneconne        | Town   | Low                    | Agricultural preservation priority. |
-| Town of Algoma            | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Nekoosa | City | Not yet assessed | Verify growth potential |
+| Pittsville | City | Not yet assessed | Verify growth potential |
+| Wisconsin Rapids | City | Not yet assessed | Verify growth potential |
+| Biron | Village | Not yet assessed | Verify growth potential |
+| Hewitt | Village | Not yet assessed | Verify growth potential |
+| Vesper | Village | Not yet assessed | Verify growth potential |
+| Arpin | Town | Not yet assessed | Verify growth potential |
+| Auburndale | Town | Not yet assessed | Verify growth potential |
+| Cameron | Town | Not yet assessed | Verify growth potential |
+| Cary | Town | Not yet assessed | Verify growth potential |
+| Cranmoor | Town | Not yet assessed | Verify growth potential |
+| Dexter | Town | Not yet assessed | Verify growth potential |
+| Grand Rapids | Town | Not yet assessed | Verify growth potential |
+| Hansen | Town | Not yet assessed | Verify growth potential |
+| Hiles | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Marshfield | Town | Not yet assessed | Verify growth potential |
+| Milladore | Town | Not yet assessed | Verify growth potential |
+| Port Edwards | Town | Not yet assessed | Verify growth potential |
+| Remington | Town | Not yet assessed | Verify growth potential |
+| Richfield | Town | Not yet assessed | Verify growth potential |
+| Rock | Town | Not yet assessed | Verify growth potential |
+| Rudolph | Town | Not yet assessed | Verify growth potential |
+| Saratoga | Town | Not yet assessed | Verify growth potential |
+| Seneca | Town | Not yet assessed | Verify growth potential |
+| Sherry | Town | Not yet assessed | Verify growth potential |
+| Sigel | Town | Not yet assessed | Verify growth potential |
+| Wood | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Altdorf
+- Babcock
+- Bakerville
+- Bethel
+- Blenker
+- Ceex Haci
+- Cranmoor
+- Dexterville
+- Eight Corners
+- Kellner
+- Lake Wazeecha
+- Lindsey
+- Nasonville
+- Sherry
+- Veedum
+- Walker
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

@@ -51,16 +51,60 @@ Pierce County should be researched as a Twin Cities-adjacent corridor county wit
 ## Pierce County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| River Falls | City | Moderate to High | Twin Cities exurban/university growth; strong FLU potential. |
-| Ellsworth | Village | Moderate | County seat/corridor node. |
-| Prescott | City | Moderate | Mississippi River / I-94 edge growth corridor. |
-| Spring Valley | Village | Low to Moderate | Local growth node; verify plan. |
-| Rural towns near corridors | Town | Low to Moderate | Best rural targets if mapped for growth. |
-| Rural agricultural towns | Town | Low | Agricultural/rural preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Prescott | City | Not yet assessed | Verify growth potential |
+| Bay City | Village | Not yet assessed | Verify growth potential |
+| Elmwood | Village | Not yet assessed | Verify growth potential |
+| Plum City | Village | Not yet assessed | Verify growth potential |
+| Spring Valley | Village | Not yet assessed | Verify growth potential |
+| Clifton | Town | Not yet assessed | Verify growth potential |
+| Diamond Bluff | Town | Not yet assessed | Verify growth potential |
+| El Paso | Town | Not yet assessed | Verify growth potential |
+| Ellsworth | Town | Not yet assessed | Verify growth potential |
+| Gilman | Town | Not yet assessed | Verify growth potential |
+| Hartland | Town | Not yet assessed | Verify growth potential |
+| Isabelle | Town | Not yet assessed | Verify growth potential |
+| Maiden Rock | Town | Not yet assessed | Verify growth potential |
+| Martell | Town | Not yet assessed | Verify growth potential |
+| Oak Grove | Town | Not yet assessed | Verify growth potential |
+| River Falls | Town | Not yet assessed | Verify growth potential |
+| Rock Elm | Town | Not yet assessed | Verify growth potential |
+| Salem | Town | Not yet assessed | Verify growth potential |
+| Spring Lake | Town | Not yet assessed | Verify growth potential |
+| Trenton | Town | Not yet assessed | Verify growth potential |
+| Trimbelle | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Beldenville
+- Brasington
+- Diamond Bluff
+- El Paso
+- Esdaile
+- Exile
+- Hager City
+- Hatchville
+- Lawton
+- Lund
+- Martell
+- Moeville
+- Morton Corner
+- Nerike
+- North Red Wing
+- Oakridge
+- Olivet
+- Ono
+- Ottman Corners
+- Pucketville
+- Rock Elm
+- Salem
+- Snows Corner
+- Trenton
+- Trimbelle
+- Viking
+- Warrentown
+- Waverly
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** River Falls, Prescott, Ellsworth, Highway 10 corridor.

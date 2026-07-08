@@ -47,21 +47,50 @@ Racine County planners want controlled, efficient growth that protects farmland,
 
 ## Racine County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Racine            | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Burlington        | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Mount Pleasant | Village| Moderate               | Residential growth expected. |
-| Village of Caledonia      | Village| Moderate               | Growth near the City of Racine. |
-| Village of Sturtevant     | Village| Low to Moderate        | Limited growth. |
-| Town of Burlington        | Town   | Low                    | Agricultural and rural focus. |
-| Town of Dover             | Town   | Low                    | Rural character to be preserved. |
-| Town of Norway            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Raymond           | Town   | Low                    | Limited development expected. |
-| Town of Yorkville         | Town   | Low                    | Agricultural focus. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Racine | City | Moderate | Focus on redevelopment and infill. |
+| Caledonia | Village | Moderate | Growth near the City of Racine. |
+| Elmwood Park | Village | Not yet assessed | Verify growth potential |
+| Mount Pleasant | Village | Moderate | Residential growth expected. |
+| North Bay | Village | Not yet assessed | Verify growth potential |
+| Raymond | Village | Low | Limited development expected. |
+| Rochester | Village | Not yet assessed | Verify growth potential |
+| Sturtevant | Village | Low to Moderate | Limited growth. |
+| Union Grove | Village | Not yet assessed | Verify growth potential |
+| Wind Point | Village | Not yet assessed | Verify growth potential |
+| Yorkville | Village | Low | Agricultural focus. |
+| Burlington | Town | Low | Agricultural and rural focus. |
+| Dover | Town | Low | Rural character to be preserved. |
+| Norway | Town | Low | Agricultural preservation priority. |
+| Waterford | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Beaumont
+- Bohners Lake
+- Browns Lake
+- Buena Park
+- Caldwell
+- Cedar Park
+- Eagle Lake
+- Eagle Lake Manor
+- Eagle Lake Terrace
+- Franksville
+- Honey Creek
+- Honey Lake
+- Husher
+- Ives Grove
+- Kansasville
+- Kneeland
+- North Cape
+- Raymond
+- Rosewood
+- Sylvania
+- Tichigan
+- Union Church
+- Wind Lake
+- Yorkville
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

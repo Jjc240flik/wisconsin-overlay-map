@@ -50,16 +50,38 @@ Price County is a low-growth, forest-and-resource-preservation county. Developme
 ## Price County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Phillips | City | Low to Moderate | County seat/service node; verify plan. |
-| Park Falls | City | Low to Moderate | Service/recreation node; verify FLU. |
-| Prentice | Village | Low | Limited growth. |
-| Catawba | Village | Low | Limited growth expected. |
-| Highway 13 corridor towns | Town | Low | Best targets if mapped for growth. |
-| Forest/rural towns | Town | Low | Resource preservation dominant. |
+|--------------|------|------------------------|-------|
+| Park Falls | City | Not yet assessed | Verify growth potential |
+| Phillips | City | Not yet assessed | Verify growth potential |
+| Catawba | Town | Not yet assessed | Verify growth potential |
+| Eisenstein | Town | Not yet assessed | Verify growth potential |
+| Elk | Town | Not yet assessed | Verify growth potential |
+| Emery | Town | Not yet assessed | Verify growth potential |
+| Fifield | Town | Not yet assessed | Verify growth potential |
+| Flambeau | Town | Not yet assessed | Verify growth potential |
+| Georgetown | Town | Not yet assessed | Verify growth potential |
+| Hackett | Town | Not yet assessed | Verify growth potential |
+| Harmony | Town | Not yet assessed | Verify growth potential |
+| Hill | Town | Not yet assessed | Verify growth potential |
+| Kennan | Town | Not yet assessed | Verify growth potential |
+| Knox | Town | Not yet assessed | Verify growth potential |
+| Lake | Town | Not yet assessed | Verify growth potential |
+| Ogema | Town | Not yet assessed | Verify growth potential |
+| Prentice | Town | Not yet assessed | Verify growth potential |
+| Spirit | Town | Not yet assessed | Verify growth potential |
+| Worcester | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Brantwood
+- Clifford
+- Cranberry Lake
+- Dover
+- Fifield
+- Lugerville
+- Pennington
+- Spirit
+- Worcester
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Phillips, Park Falls, Highway 13 corridor.

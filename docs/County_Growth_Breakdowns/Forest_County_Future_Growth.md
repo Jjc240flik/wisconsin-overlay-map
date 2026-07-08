@@ -46,20 +46,46 @@ Forest County planners want controlled, efficient growth that protects farmland,
 
 ## Forest County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Crandon           | City   | Low to Moderate        | Limited growth. |
-| Village of Laona          | Village| Low                    | Limited development expected. |
-| Village of Wabeno         | Village| Low                    | Limited growth. |
-| Town of Crandon           | Town   | Low to Moderate        | Growth near the City of Crandon. |
-| Town of Laona             | Town   | Low                    | Agricultural and rural focus. |
-| Town of Wabeno            | Town   | Low                    | Rural character to be preserved. |
-| Town of Armstrong         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Caswell           | Town   | Low                    | Limited development expected. |
-| Town of Freedom           | Town   | Low                    | Agricultural focus. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Alvin | Town | Not yet assessed | Verify growth potential |
+| Argonne | Town | Not yet assessed | Verify growth potential |
+| Armstrong Creek | Town | Not yet assessed | Verify growth potential |
+| Blackwell | Town | Not yet assessed | Verify growth potential |
+| Caswell | Town | Low | Limited development expected. |
+| Crandon | Town | Low to Moderate | Growth near the City of Crandon. |
+| Freedom | Town | Low | Agricultural focus. |
+| Hiles | Town | Not yet assessed | Verify growth potential |
+| Laona | Town | Low | Agricultural and rural focus. |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Nashville | Town | Not yet assessed | Verify growth potential |
+| Popple River | Town | Not yet assessed | Verify growth potential |
+| Ross | Town | Not yet assessed | Verify growth potential |
+| Wabeno | Town | Low | Rural character to be preserved. |
 
----
+### Unincorporated communities
 
+- Alvin
+- Argonne
+- Armstrong Creek
+- Atkins
+- Blackwell
+- Bonneval
+- Carter
+- Cavour
+- Hiles
+- Laona
+- Laona Junction
+- Mole Lake
+- Nashville
+- Nelma
+- Newald
+- Padus
+- Popple River
+- Soperton
+- Wabeno
+- Wisconsin Junction
+- Woodlawn
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

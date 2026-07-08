@@ -50,16 +50,44 @@ Washburn County requires municipal-level plan review since there is no countywid
 ## Washburn County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Shell Lake | City | Low to Moderate | County seat/service node. |
-| Spooner | City | Moderate | Highway 53 corridor service node. |
-| Minong | Village | Low | Limited growth. |
-| Birchwood | Village | Low | Limited growth. |
-| Highway 53/63 corridor towns | Town | Low to Moderate | Best if mapped for growth in town plans. |
-| Rural forest/lake towns | Town | Low | Resource preservation dominant. |
+|--------------|------|------------------------|-------|
+| Shell Lake | City | Not yet assessed | Verify growth potential |
+| Barronett | Town | Not yet assessed | Verify growth potential |
+| Bashaw | Town | Not yet assessed | Verify growth potential |
+| Bass Lake | Town | Not yet assessed | Verify growth potential |
+| Beaver Brook | Town | Not yet assessed | Verify growth potential |
+| Birchwood | Town | Not yet assessed | Verify growth potential |
+| Brooklyn | Town | Not yet assessed | Verify growth potential |
+| Casey | Town | Not yet assessed | Verify growth potential |
+| Chicog | Town | Not yet assessed | Verify growth potential |
+| Crystal | Town | Not yet assessed | Verify growth potential |
+| Evergreen | Town | Not yet assessed | Verify growth potential |
+| Frog Creek | Town | Not yet assessed | Verify growth potential |
+| Gull Lake | Town | Not yet assessed | Verify growth potential |
+| Long Lake | Town | Not yet assessed | Verify growth potential |
+| Madge | Town | Not yet assessed | Verify growth potential |
+| Minong | Town | Not yet assessed | Verify growth potential |
+| Sarona | Town | Not yet assessed | Verify growth potential |
+| Spooner | Town | Not yet assessed | Verify growth potential |
+| Springbrook | Town | Not yet assessed | Verify growth potential |
+| Stinnett | Town | Not yet assessed | Verify growth potential |
+| Stone Lake | Town | Not yet assessed | Verify growth potential |
+| Trego | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Beaver Brook
+- Chicago Junction
+- Chittamo
+- Earl
+- Lampson
+- Madge
+- Nobleton
+- Sarona
+- Springbrook
+- Stanberry
+- Stone Lake
+- Trego
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Spooner, Shell Lake, Highway 53 corridor nodes.

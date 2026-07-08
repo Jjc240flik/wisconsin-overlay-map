@@ -47,20 +47,77 @@ Clark County planners want controlled, efficient growth that protects farmland, 
 
 ## Clark County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Neillsville       | City   | Low to Moderate        | Limited growth. |
-| City of Abbotsford        | City   | Low to Moderate        | Residential growth expected. |
-| Village of Colby          | Village| Low to Moderate        | Limited growth. |
-| Village of Granton        | Village| Low                    | Limited development expected. |
-| Town of Neillsville       | Town   | Low to Moderate        | Growth near the City of Neillsville. |
-| Town of Abbotsford        | Town   | Low                    | Agricultural and rural focus. |
-| Town of Colby             | Town   | Low                    | Rural character to be preserved. |
-| Town of Grant            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Levis             | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Abbotsford | City | Low | Agricultural and rural focus. |
+| Greenwood | City | Not yet assessed | Verify growth potential |
+| Neillsville | City | Low to Moderate | Growth near the City of Neillsville. |
+| Owen | City | Not yet assessed | Verify growth potential |
+| Stanley | City | Not yet assessed | Verify growth potential |
+| Curtiss | Village | Not yet assessed | Verify growth potential |
+| Dorchester | Village | Not yet assessed | Verify growth potential |
+| Granton | Village | Low | Limited development expected. |
+| Beaver | Town | Not yet assessed | Verify growth potential |
+| Butler | Town | Not yet assessed | Verify growth potential |
+| Colby | Town | Low | Rural character to be preserved. |
+| Dewhurst | Town | Not yet assessed | Verify growth potential |
+| Eaton | Town | Not yet assessed | Verify growth potential |
+| Foster | Town | Not yet assessed | Verify growth potential |
+| Fremont | Town | Not yet assessed | Verify growth potential |
+| Grant | Town | Low | Agricultural preservation priority. |
+| Green Grove | Town | Not yet assessed | Verify growth potential |
+| Hendren | Town | Not yet assessed | Verify growth potential |
+| Hewett | Town | Not yet assessed | Verify growth potential |
+| Hixon | Town | Not yet assessed | Verify growth potential |
+| Hoard | Town | Not yet assessed | Verify growth potential |
+| Levis | Town | Low | Limited development expected. |
+| Longwood | Town | Not yet assessed | Verify growth potential |
+| Loyal | Town | Not yet assessed | Verify growth potential |
+| Lynn | Town | Not yet assessed | Verify growth potential |
+| Mayville | Town | Not yet assessed | Verify growth potential |
+| Mead | Town | Not yet assessed | Verify growth potential |
+| Mentor | Town | Not yet assessed | Verify growth potential |
+| Pine Valley | Town | Not yet assessed | Verify growth potential |
+| Reseburg | Town | Not yet assessed | Verify growth potential |
+| Seif | Town | Not yet assessed | Verify growth potential |
+| Sherman | Town | Not yet assessed | Verify growth potential |
+| Sherwood | Town | Not yet assessed | Verify growth potential |
+| Thorp | Town | Not yet assessed | Verify growth potential |
+| Unity | Town | Not yet assessed | Verify growth potential |
+| Warner | Town | Not yet assessed | Verify growth potential |
+| Washburn | Town | Not yet assessed | Verify growth potential |
+| Weston | Town | Not yet assessed | Verify growth potential |
+| Withee | Town | Not yet assessed | Verify growth potential |
+| Worden | Town | Not yet assessed | Verify growth potential |
+| York | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Atwood
+- Bright
+- Chili
+- Christie
+- Clark
+- Columbia
+- Eadsville
+- Eidsvold
+- Globe
+- Hemlock
+- Humbird
+- Junction
+- Lombard
+- Longwood
+- Lynn
+- Nevins
+- Reseburg
+- Riplinger
+- Sherwood
+- Shortville
+- Sidney
+- Spokeville
+- Tioga
+- Veefkind
+- Willard
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

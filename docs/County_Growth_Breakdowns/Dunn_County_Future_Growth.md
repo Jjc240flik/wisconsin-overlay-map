@@ -46,20 +46,58 @@ Dunn County planners want controlled, efficient growth that protects farmland, u
 
 ## Dunn County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Menomonie         | City   | Moderate               | Focus on redevelopment and infill. |
-| Village of Boyceville     | Village| Low to Moderate        | Limited growth. |
-| Village of Colfax         | Village| Low to Moderate        | Residential growth expected. |
-| Village of Elk Mound      | Village| Low                    | Limited development expected. |
-| Town of Menomonie         | Town   | Low to Moderate        | Growth near the City of Menomonie. |
-| Town of Colfax            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Dunn              | Town   | Low                    | Rural character to be preserved. |
-| Town of Elk Mound         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Red Cedar         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Boyceville | Village | Low to Moderate | Limited growth. |
+| Downing | Village | Not yet assessed | Verify growth potential |
+| Knapp | Village | Not yet assessed | Verify growth potential |
+| Ridgeland | Village | Not yet assessed | Verify growth potential |
+| Wheeler | Village | Not yet assessed | Verify growth potential |
+| Colfax | Town | Low | Agricultural and rural focus. |
+| Dunn | Town | Low | Rural character to be preserved. |
+| Eau Galle | Town | Not yet assessed | Verify growth potential |
+| Elk Mound | Town | Low | Agricultural preservation priority. |
+| Grant | Town | Not yet assessed | Verify growth potential |
+| Hay River | Town | Not yet assessed | Verify growth potential |
+| Lucas | Town | Not yet assessed | Verify growth potential |
+| Menomonie | Town | Low to Moderate | Growth near the City of Menomonie. |
+| New Haven | Town | Not yet assessed | Verify growth potential |
+| Otter Creek | Town | Not yet assessed | Verify growth potential |
+| Peru | Town | Not yet assessed | Verify growth potential |
+| Red Cedar | Town | Low | Limited development expected. |
+| Rock Creek | Town | Not yet assessed | Verify growth potential |
+| Sand Creek | Town | Not yet assessed | Verify growth potential |
+| Sheridan | Town | Not yet assessed | Verify growth potential |
+| Sherman | Town | Not yet assessed | Verify growth potential |
+| Spring Brook | Town | Not yet assessed | Verify growth potential |
+| Stanton | Town | Not yet assessed | Verify growth potential |
+| Tainter | Town | Not yet assessed | Verify growth potential |
+| Tiffany | Town | Not yet assessed | Verify growth potential |
+| Weston | Town | Not yet assessed | Verify growth potential |
+| Wilson | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Baxter
+- Caryville
+- Cedar Falls
+- Comfort
+- Connorsville
+- Downsville
+- Dunnville
+- Eau Galle
+- Falls City
+- Graytown
+- Hatchville
+- Irvington
+- Meridean
+- Norton
+- Red Cedar
+- Rock Falls
+- Rusk
+- Sand Creek
+- Tainter Lake
+- Weston
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

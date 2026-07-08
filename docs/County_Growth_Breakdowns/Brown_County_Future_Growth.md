@@ -48,36 +48,64 @@ Brown County planners want controlled, efficient growth that protects farmland, 
 
 ## Brown County Future Growth Expectations by Municipality
 
-| Municipality              | Type     | Expected Future Growth | Notes |
-|---------------------------|----------|------------------------|-------|
-| Town of Ledgeview         | Town     | High                   | One of the fastest growing areas. Significant residential and some commercial growth expected, especially near Green Bay and De Pere. |
-| Town of Lawrence          | Town     | High                   | Strong growth projected due to proximity to De Pere and good access to I-41/I-43. |
-| Village of Suamico        | Village  | High                   | Continuing to grow as a suburban community north of Green Bay. Residential expansion expected. |
-| Village of Howard         | Village  | High                   | Significant residential and commercial development ongoing and planned. |
-| Village of Ashwaubenon    | Village  | High                   | Major commercial and residential growth adjacent to Green Bay. Home to significant retail and employment centers. |
-| Town of Scott             | Town     | Moderate to High       | Growth expected along major roads and near the Village of Howard. |
-| Village of Bellevue       | Village  | Moderate               | Steady residential growth, especially in the southern part of the village. |
-| Town of Humboldt          | Town     | Moderate               | Some residential growth expected, but more rural character preserved. |
-| Town of Green Bay         | Town     | Moderate               | Growth mainly near the City of Green Bay limits. |
-| Town of Wrightstown       | Town     | Moderate               | Growth focused around the Village of Wrightstown. |
-| Village of Hobart         | Village  | Moderate               | Steady growth expected; village status provides local zoning control. |
-| Village of Allouez        | Village  | Low to Moderate        | Mostly built out. Future development will be limited to infill/redevelopment. |
-| Village of Pulaski        | Village  | Low to Moderate        | Partial overlap with Brown County; limited growth expected in county portion. |
-| Village of Denmark        | Village  | Low                    | Rural village character; limited growth expected. |
-| Village of Greenleaf      | Village  | Low                    | Small rural village; very limited growth expected. |
-| Village of Wrightstown    | Village  | Low to Moderate        | Small village; growth tied to nearby Town of Wrightstown patterns. |
-| Town of Eaton             | Town     | Low                    | Remains largely agricultural. Limited growth expected. |
-| Town of Glenmore          | Town     | Low                    | Strong agricultural focus. Very limited development anticipated. |
-| Town of Holland           | Town     | Low                    | Rural character to be preserved. |
-| Town of Morrison          | Town     | Low                    | Agricultural preservation is a priority. |
-| Town of New Denmark       | Town     | Low                    | Mostly agricultural with limited growth. |
-| Town of Pittsfield        | Town     | Low                    | Rural. Growth expected to stay minimal. |
-| Town of Rockland          | Town     | Low                    | Agricultural focus. |
-| City of Green Bay         | City     | Moderate               | Growth through redevelopment and infill rather than major annexation. |
-| City of De Pere           | City     | Moderate               | Similar to Green Bay — focus on redevelopment and smart growth. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| De Pere | City | Moderate | Similar to Green Bay — focus on redevelopment and smart growth. |
+| Allouez | Village | Low to Moderate | Mostly built out. Future development will be limited to infill/redevelopment. |
+| Ashwaubenon | Village | High | Major commercial and residential growth adjacent to Green Bay. Home to significant retail and employment centers. |
+| Bellevue | Village | Moderate | Steady residential growth, especially in the southern part of the village. |
+| Denmark | Village | Low | Rural village character; limited growth expected. |
+| Greenleaf | Village | Low | Small rural village; very limited growth expected. |
+| Hobart | Village | Moderate | Steady growth expected; village status provides local zoning control. |
+| Howard | Village | High | Significant residential and commercial development ongoing and planned. |
+| Pulaski | Village | Low to Moderate | Partial overlap with Brown County; limited growth expected in county portion. |
+| Suamico | Village | High | Continuing to grow as a suburban community north of Green Bay. Residential expansion expected. |
+| Eaton | Town | Low | Remains largely agricultural. Limited growth expected. |
+| Glenmore | Town | Low | Strong agricultural focus. Very limited development anticipated. |
+| Green Bay | Town | Moderate | Growth through redevelopment and infill rather than major annexation. |
+| Holland | Town | Low | Rural character to be preserved. |
+| Humboldt | Town | Moderate | Some residential growth expected, but more rural character preserved. |
+| Lawrence | Town | High | Strong growth projected due to proximity to De Pere and good access to I-41/I-43. |
+| Ledgeview | Town | High | One of the fastest growing areas. Significant residential and some commercial growth expected, especially near Green Bay and De Pere. |
+| Morrison | Town | Low | Agricultural preservation is a priority. |
+| New Denmark | Town | Low | Mostly agricultural with limited growth. |
+| Pittsfield | Town | Low | Rural. Growth expected to stay minimal. |
+| Rockland | Town | Low | Agricultural focus. |
+| Scott | Town | Moderate to High | Growth expected along major roads and near the Village of Howard. |
+| Wrightstown | Town | Low to Moderate | Small village; growth tied to nearby Town of Wrightstown patterns. |
 
----
+### Unincorporated communities
 
+- Anston
+- Askeaton
+- Bay Settlement
+- Benderville
+- Buckman
+- Champion
+- Coppens Corner
+- Dyckesville
+- Edgewater Beach
+- Fontenoy
+- Henrysville
+- Hollandtown
+- Kolb
+- Kunesh
+- Langes Corners
+- Lark
+- Little Rapids
+- Mill Center
+- Morrison
+- New Franken
+- Oneida Nation of Wisconsin
+- Pine Grove
+- Pittsfield
+- Poland
+- Red Banks
+- Shirley
+- Sniderville
+- Sugar Bush
+- Wayside
+- Wequiock
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

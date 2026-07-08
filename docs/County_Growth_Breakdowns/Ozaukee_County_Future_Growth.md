@@ -52,16 +52,35 @@ Ozaukee County should be researched as a Lake Michigan I-43 corridor county with
 ## Ozaukee County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Port Washington | City | Moderate | County seat/lakefront; redevelopment + edge growth. |
-| Cedarburg | City | Moderate | Historic downtown + growth nodes; verify plan. |
-| Grafton | Village | Moderate to High | I-43 corridor growth; strong FLU candidate. |
-| Mequon | City | Moderate | Lake corridor suburban growth; verify FLU. |
-| Saukville | Village | Moderate | I-43 corridor growth node. |
-| Western rural towns | Town | Low | Agricultural/rural preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Mequon | City | Not yet assessed | Verify growth potential |
+| Bayside | Village | Not yet assessed | Verify growth potential |
+| Newburg | Village | Not yet assessed | Verify growth potential |
+| Thiensville | Village | Not yet assessed | Verify growth potential |
+| Belgium | Town | Not yet assessed | Verify growth potential |
+| Cedarburg | Town | Not yet assessed | Verify growth potential |
+| Fredonia | Town | Not yet assessed | Verify growth potential |
+| Grafton | Town | Not yet assessed | Verify growth potential |
+| Port Washington | Town | Not yet assessed | Verify growth potential |
+| Saukville | Town | Not yet assessed | Verify growth potential |
+| Waubeka | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Dacada
+- Decker
+- Decker Corner
+- Druecker
+- Hamilton
+- Holy Cross
+- Horns Corners
+- Knellsville
+- Lake Church
+- Lakefield
+- Little Kohler
+- Sauk Trail Beach
+- Stonehaven
+- Ulao
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Grafton, Port Washington, Cedarburg, Mequon, Saukville.

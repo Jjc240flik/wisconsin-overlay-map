@@ -48,21 +48,66 @@ Jefferson County planners want controlled, efficient growth that protects farmla
 
 ## Jefferson County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Jefferson         | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Fort Atkinson     | City   | Moderate               | Steady residential and commercial growth. |
-| City of Watertown         | City   | Moderate               | Growth mainly in the Jefferson County portion. |
-| Village of Johnson Creek  | Village| Moderate               | Residential growth expected near I-94. |
-| Village of Palmyra        | Village| Low to Moderate        | Limited growth. |
-| Town of Jefferson         | Town   | Low to Moderate        | Growth near the City of Jefferson. |
-| Town of Koshkonong        | Town   | Low                    | Agricultural and rural focus. |
-| Town of Hebron            | Town   | Low                    | Rural character to be preserved. |
-| Town of Sullivan          | Town   | Low                    | Agricultural preservation priority. |
-| Town of Cold Spring       | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Fort Atkinson | City | Moderate | Steady residential and commercial growth. |
+| Whitewater | City | Not yet assessed | Verify growth potential |
+| Cambridge | Village | Not yet assessed | Verify growth potential |
+| Johnson Creek | Village | Moderate | Residential growth expected near I-94. |
+| Lac La Belle | Village | Not yet assessed | Verify growth potential |
+| Aztalan | Town | Not yet assessed | Verify growth potential |
+| Cold Spring | Town | Low | Limited development expected. |
+| Concord | Town | Not yet assessed | Verify growth potential |
+| Farmington | Town | Not yet assessed | Verify growth potential |
+| Hebron | Town | Low | Rural character to be preserved. |
+| Ixonia | Town | Not yet assessed | Verify growth potential |
+| Jefferson | Town | Low to Moderate | Growth near the City of Jefferson. |
+| Koshkonong | Town | Low | Agricultural and rural focus. |
+| Lake Mills | Town | Not yet assessed | Verify growth potential |
+| Milford | Town | Not yet assessed | Verify growth potential |
+| Oakland | Town | Not yet assessed | Verify growth potential |
+| Palmyra | Town | Low to Moderate | Limited growth. |
+| Sullivan | Town | Low | Agricultural preservation priority. |
+| Sumner | Town | Not yet assessed | Verify growth potential |
+| Waterloo | Town | Not yet assessed | Verify growth potential |
+| Watertown | Town | Moderate | Growth mainly in the Jefferson County portion. |
 
----
+### Unincorporated communities
 
+- Aztalan
+- Blackhawk Island
+- Busseyville
+- Carcajou
+- Cold Spring
+- Concord
+- Ebenezer
+- Farmington
+- Glenn Oaks Beach
+- Heath Mills
+- Hebron
+- Helenville
+- Hoopers Mill
+- Hubbleton
+- Ixonia
+- Jefferson Junction
+- Koshkonong
+- Koshkonong Manor
+- Koshkonong Mounds
+- Kroghville
+- Lake Koshkonong
+- Lake Lac La Belle
+- Lake Ripley
+- London
+- Maranatha Baptist University
+- Milford
+- North Shore
+- Oakland
+- Pipersville
+- Portland
+- Rome
+- Slabtown
+- Sylvan Mounds
+- Vinnie Ha Ha
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

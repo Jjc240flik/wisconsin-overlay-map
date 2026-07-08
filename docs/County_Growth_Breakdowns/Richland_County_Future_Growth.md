@@ -51,16 +51,68 @@ Richland County should be researched as an agricultural-corridor county with bes
 ## Richland County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Richland Center | City | Moderate | County seat/growth node; verify updated FLU map. |
-| Muscoda | Village | Low to Moderate | Highway 60 corridor node. |
-| Viola | Village | Low | Limited growth expected. |
-| Lone Rock | Village | Low | Highway 60 corridor; limited growth. |
-| Highway 14 corridor towns | Town | Low to Moderate | Best candidates if FLU maps show growth. |
-| Rural agricultural towns | Town | Low | Farmland preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Boaz | Village | Not yet assessed | Verify growth potential |
+| Cazenovia | Village | Not yet assessed | Verify growth potential |
+| Lone Rock | Village | Not yet assessed | Verify growth potential |
+| Viola | Village | Not yet assessed | Verify growth potential |
+| Yuba | Village | Not yet assessed | Verify growth potential |
+| Akan | Town | Not yet assessed | Verify growth potential |
+| Bloom | Town | Not yet assessed | Verify growth potential |
+| Buena Vista | Town | Not yet assessed | Verify growth potential |
+| Dayton | Town | Not yet assessed | Verify growth potential |
+| Eagle | Town | Not yet assessed | Verify growth potential |
+| Forest | Town | Not yet assessed | Verify growth potential |
+| Henrietta | Town | Not yet assessed | Verify growth potential |
+| Ithaca | Town | Not yet assessed | Verify growth potential |
+| Marshall | Town | Not yet assessed | Verify growth potential |
+| Orion | Town | Not yet assessed | Verify growth potential |
+| Richland | Town | Not yet assessed | Verify growth potential |
+| Richwood | Town | Not yet assessed | Verify growth potential |
+| Rockbridge | Town | Not yet assessed | Verify growth potential |
+| Sylvan | Town | Not yet assessed | Verify growth potential |
+| Westford | Town | Not yet assessed | Verify growth potential |
+| Willow | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Ash Ridge
+- Aubrey
+- Balmoral
+- Basswood
+- Bear Valley
+- Bloom City
+- Bosstown
+- Buck Creek
+- Bunker Hill
+- Byrds Creek
+- Eagle Corners
+- Excelsior
+- Five Points
+- Germantown
+- Gillingham
+- Gotham
+- Hub City
+- Ithaca
+- Jimtown
+- Keyesville
+- Loyd
+- Neptune
+- Nevels Corners
+- Orion
+- Port Andrew
+- Rockbridge
+- Sabin
+- Sand Prairie
+- Sextonville
+- Sylvan
+- Tavera
+- Tunnelville
+- Twin Bluffs
+- West Lima
+- Westport
+- Wild Rose
+- Woodstock
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Richland Center, US Highway 14 corridor.

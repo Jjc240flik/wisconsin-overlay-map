@@ -46,20 +46,53 @@ Burnett County planners want controlled, efficient growth that protects farmland
 
 ## Burnett County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Grantsburg        | City   | Low to Moderate        | Limited growth. |
-| Village of Siren          | Village| Low to Moderate        | Residential growth expected. |
-| Village of Webster        | Village| Low                    | Limited development expected. |
-| Town of Grantsburg        | Town   | Low to Moderate        | Growth near the City of Grantsburg. |
-| Town of Meenon            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Sand Lake         | Town   | Low                    | Rural character to be preserved. |
-| Town of Siren             | Town   | Low                    | Agricultural preservation priority. |
-| Town of Swiss             | Town   | Low                    | Limited development expected. |
-| Town of Union             | Town   | Low                    | Agricultural focus. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Webster | Village | Low | Limited development expected. |
+| Anderson | Town | Not yet assessed | Verify growth potential |
+| Blaine | Town | Not yet assessed | Verify growth potential |
+| Danbury | Town | Not yet assessed | Verify growth potential |
+| Daniels | Town | Not yet assessed | Verify growth potential |
+| Dewey | Town | Not yet assessed | Verify growth potential |
+| Grantsburg | Town | Low to Moderate | Growth near the City of Grantsburg. |
+| Jackson | Town | Not yet assessed | Verify growth potential |
+| La Follette | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Meenon | Town | Low | Agricultural and rural focus. |
+| Oakland | Town | Not yet assessed | Verify growth potential |
+| Roosevelt | Town | Not yet assessed | Verify growth potential |
+| Rusk | Town | Not yet assessed | Verify growth potential |
+| Sand Lake | Town | Low | Rural character to be preserved. |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Siren | Town | Low | Agricultural preservation priority. |
+| Swiss | Town | Low | Limited development expected. |
+| Trade Lake | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Low | Agricultural focus. |
+| Webb Lake | Town | Not yet assessed | Verify growth potential |
+| West Marshland | Town | Not yet assessed | Verify growth potential |
+| Wood River | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Alpha
+- Bashaw
+- Benson
+- Branstad
+- Coomer
+- Falun
+- Four Corners
+- Gaslyn
+- Hertel
+- Lind
+- Oakland
+- Pole Cat Crossing
+- Randall
+- Riverside
+- Timberland
+- Trade Lake
+- Trade River
+- Webb Lake
+- Woodland Corner
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

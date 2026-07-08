@@ -51,16 +51,60 @@ Jackson County should be researched as a corridor-and-node county. Best targets 
 ## Jackson County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Black River Falls | City | Moderate | Primary growth and service node; verify future land use map. |
-| Hixton | Village | Low to Moderate | Highway access may support selective growth. |
-| Merrillan | Village | Low | Limited growth; verify local plan. |
-| Alma Center | Village | Low | Rural village; verify comp plan map. |
-| Towns along I-94 / US 12 | Town | Low to Moderate | Potential corridor growth if mapped for future development. |
-| Rural forest/ag towns | Town | Low | Preservation/environmental constraints likely dominate. |
+|--------------|------|------------------------|-------|
+| Alma Center | Village | Not yet assessed | Verify growth potential |
+| Merrillan | Village | Not yet assessed | Verify growth potential |
+| Taylor | Village | Not yet assessed | Verify growth potential |
+| Adams | Town | Not yet assessed | Verify growth potential |
+| Albion | Town | Not yet assessed | Verify growth potential |
+| Alma | Town | Not yet assessed | Verify growth potential |
+| Bear Bluff | Town | Not yet assessed | Verify growth potential |
+| Brockway | Town | Not yet assessed | Verify growth potential |
+| City Point | Town | Not yet assessed | Verify growth potential |
+| Cleveland | Town | Not yet assessed | Verify growth potential |
+| Curran | Town | Not yet assessed | Verify growth potential |
+| Franklin | Town | Not yet assessed | Verify growth potential |
+| Garden Valley | Town | Not yet assessed | Verify growth potential |
+| Garfield | Town | Not yet assessed | Verify growth potential |
+| Hixton | Town | Not yet assessed | Verify growth potential |
+| Irving | Town | Not yet assessed | Verify growth potential |
+| Knapp | Town | Not yet assessed | Verify growth potential |
+| Komensky | Town | Not yet assessed | Verify growth potential |
+| Manchester | Town | Not yet assessed | Verify growth potential |
+| Melrose | Town | Not yet assessed | Verify growth potential |
+| Millston | Town | Not yet assessed | Verify growth potential |
+| North Bend | Town | Not yet assessed | Verify growth potential |
+| Northfield | Town | Not yet assessed | Verify growth potential |
+| Springfield | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Brockway
+- Buckholz Corners
+- City Point
+- Disco
+- Fall Hall Glen
+- Franklin
+- Hatfield
+- Irving
+- Levis
+- Millston
+- Mission
+- North Bend
+- North Branch
+- Northfield
+- Pray
+- Price
+- Requa
+- Sand Pillow
+- Sechlerville
+- Shamrock
+- Spaulding
+- Speck Oaks
+- Vaudreuil
+- Waterbury
+- Winnebago Mission
+- York
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Black River Falls and I-94 / US 12 corridor nodes.

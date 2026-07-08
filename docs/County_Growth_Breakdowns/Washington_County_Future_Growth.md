@@ -47,21 +47,58 @@ Washington County planners want controlled, efficient growth that protects farml
 
 ## Washington County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of West Bend         | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Hartford          | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Jackson        | Village| Moderate               | Residential growth expected. |
-| Village of Kewaskum       | Village| Low to Moderate        | Limited growth. |
-| Town of West Bend         | Town   | Low to Moderate        | Growth near the City of West Bend. |
-| Town of Hartford          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Jackson           | Town   | Low                    | Rural character to be preserved. |
-| Town of Kewaskum          | Town   | Low                    | Agricultural preservation priority. |
-| Town of Barton            | Town   | Low                    | Rural and agricultural focus. |
-| Town of Polk              | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Milwaukee | City | Not yet assessed | Verify growth potential |
+| Newburg | Village | Not yet assessed | Verify growth potential |
+| Richfield | Village | Not yet assessed | Verify growth potential |
+| Slinger | Village | Not yet assessed | Verify growth potential |
+| Addison | Town | Not yet assessed | Verify growth potential |
+| Allenton | Town | Not yet assessed | Verify growth potential |
+| Barton | Town | Low | Rural and agricultural focus. |
+| Erin | Town | Not yet assessed | Verify growth potential |
+| Farmington | Town | Not yet assessed | Verify growth potential |
+| Germantown | Town | Not yet assessed | Verify growth potential |
+| Hartford | Town | Low | Agricultural and rural focus. |
+| Jackson | Town | Low | Rural character to be preserved. |
+| Kewaskum | Town | Low | Agricultural preservation priority. |
+| Polk | Town | Low | Limited development expected. |
+| Trenton | Town | Not yet assessed | Verify growth potential |
+| Wayne | Town | Not yet assessed | Verify growth potential |
+| West Bend | Town | Low to Moderate | Growth near the City of West Bend. |
 
----
+### Unincorporated communities
 
+- Ackerville
+- Addison
+- Aurora
+- Boltonville
+- Cedar Creek
+- Cedar Lake
+- Cheeseville
+- Colgate
+- Diefenbach Corners
+- Fillmore
+- Hubertus
+- Kirchhayn
+- Kohlsville
+- Mayfield
+- Myra
+- Nabob
+- Nenno
+- Orchard Grove
+- Pike Lake
+- Pleasant Hill
+- Rockfield
+- Rugby Junction
+- Saint Anthony
+- Saint Lawrence
+- Saint Michaels
+- Thompson
+- Toland's Prairie
+- Victory Center
+- Wayne
+- Young America
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

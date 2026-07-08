@@ -50,16 +50,50 @@ Rusk County is a low-growth, rural/forest county. Best opportunities are near La
 ## Rusk County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Ladysmith | City | Low to Moderate | County seat/service node; verify update. |
-| Bruce | Village | Low | Limited growth expected. |
-| Hawkins | Village | Low | Limited growth expected. |
-| Weyerhaeuser | Village | Low | Limited growth. |
-| Highway 8 corridor towns | Town | Low | Best candidates if mapped for growth. |
-| Rural forest/ag towns | Town | Low | Resource preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Bruce | Village | Not yet assessed | Verify growth potential |
+| Conrath | Village | Not yet assessed | Verify growth potential |
+| Glen Flora | Village | Not yet assessed | Verify growth potential |
+| Ingram | Village | Not yet assessed | Verify growth potential |
+| Sheldon | Village | Not yet assessed | Verify growth potential |
+| Tony | Village | Not yet assessed | Verify growth potential |
+| Weyerhaeuser | Village | Not yet assessed | Verify growth potential |
+| Atlanta | Town | Not yet assessed | Verify growth potential |
+| Big Bend | Town | Not yet assessed | Verify growth potential |
+| Big Falls | Town | Not yet assessed | Verify growth potential |
+| Cedar Rapids | Town | Not yet assessed | Verify growth potential |
+| Dewey | Town | Not yet assessed | Verify growth potential |
+| Flambeau | Town | Not yet assessed | Verify growth potential |
+| Grant | Town | Not yet assessed | Verify growth potential |
+| Grow | Town | Not yet assessed | Verify growth potential |
+| Hawkins | Town | Not yet assessed | Verify growth potential |
+| Hubbard | Town | Not yet assessed | Verify growth potential |
+| Lawrence | Town | Not yet assessed | Verify growth potential |
+| Marshall | Town | Not yet assessed | Verify growth potential |
+| Murry | Town | Not yet assessed | Verify growth potential |
+| Richland | Town | Not yet assessed | Verify growth potential |
+| Rusk | Town | Not yet assessed | Verify growth potential |
+| South Fork | Town | Not yet assessed | Verify growth potential |
+| Strickland | Town | Not yet assessed | Verify growth potential |
+| Stubbs | Town | Not yet assessed | Verify growth potential |
+| Thornapple | Town | Not yet assessed | Verify growth potential |
+| True | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Not yet assessed | Verify growth potential |
+| Wilkinson | Town | Not yet assessed | Verify growth potential |
+| Willard | Town | Not yet assessed | Verify growth potential |
+| Wilson | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Apollonia
+- Bear Lake
+- Imalone
+- Island Lake
+- Murry
+- Port Arthur
+- South Fork
+- Strickland
+- Thornapple
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Ladysmith, Highway 8 corridor.

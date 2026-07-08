@@ -55,17 +55,26 @@ Milwaukee County should be treated as an urban redevelopment county. The highest
 ## Milwaukee County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Milwaukee | City | High | Major redevelopment/infill/mixed-use market; use city plans. |
-| Wauwatosa | City | Moderate to High | Infill/redevelopment and mixed-use nodes. |
-| West Allis | City | Moderate | Redevelopment and industrial/commercial reuse. |
-| Oak Creek | City | Moderate to High | Southern growth/redevelopment node; verify FLU. |
-| Franklin | City | Moderate | Edge growth and business park/residential areas; verify plans. |
-| Greenfield | City | Moderate | Mostly infill/redevelopment. |
-| South Milwaukee / Cudahy / St. Francis | Cities | Low to Moderate | Lakefront/industrial/redevelopment opportunities. |
-
----
-
+|--------------|------|------------------------|-------|
+| Cudahy | City | Not yet assessed | Verify growth potential |
+| Franklin | City | Not yet assessed | Verify growth potential |
+| Glendale | City | Not yet assessed | Verify growth potential |
+| Greenfield | City | Not yet assessed | Verify growth potential |
+| Milwaukee | City | Not yet assessed | Verify growth potential |
+| Oak Creek | City | Not yet assessed | Verify growth potential |
+| South Milwaukee | City | Not yet assessed | Verify growth potential |
+| St. Francis | City | Not yet assessed | Verify growth potential |
+| Wauwatosa | City | Not yet assessed | Verify growth potential |
+| West Allis | City | Not yet assessed | Verify growth potential |
+| Bayside | Village | Not yet assessed | Verify growth potential |
+| Brown Deer | Village | Not yet assessed | Verify growth potential |
+| Fox Point | Village | Not yet assessed | Verify growth potential |
+| Greendale | Village | Not yet assessed | Verify growth potential |
+| Hales Corners | Village | Not yet assessed | Verify growth potential |
+| River Hills | Village | Not yet assessed | Verify growth potential |
+| Shorewood | Village | Not yet assessed | Verify growth potential |
+| West Milwaukee | Village | Not yet assessed | Verify growth potential |
+| Whitefish Bay | Village | Not yet assessed | Verify growth potential |
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Milwaukee, Oak Creek, Wauwatosa, Franklin, West Allis.

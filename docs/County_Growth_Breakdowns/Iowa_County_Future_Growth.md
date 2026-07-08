@@ -50,16 +50,45 @@ Iowa County should be researched as a corridor-and-node county: future growth is
 ## Iowa County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Dodgeville | City | Moderate | County seat / major service node; verify future residential and commercial expansion maps. |
-| Mineral Point | City | Low to Moderate | Historic community; likely infill and controlled edge growth. |
-| Barneveld | Village | Moderate | Growth pressure possible along US 18/151 corridor. |
-| Highland | Village | Low | More rural/agricultural context. |
-| Hollandale | Village | Low | Limited growth expected; verify local comp plan. |
-| Towns along US 18/151 | Town | Low to Moderate | Best candidates for future growth if municipal plans identify expansion areas. |
+|--------------|------|------------------------|-------|
+| Avoca | Village | Not yet assessed | Verify growth potential |
+| Barneveld | Village | Not yet assessed | Verify growth potential |
+| Blanchardville | Village | Not yet assessed | Verify growth potential |
+| Cobb | Village | Not yet assessed | Verify growth potential |
+| Hollandale | Village | Not yet assessed | Verify growth potential |
+| Livingston | Village | Not yet assessed | Verify growth potential |
+| Montfort | Village | Not yet assessed | Verify growth potential |
+| Muscoda | Village | Not yet assessed | Verify growth potential |
+| Rewey | Village | Not yet assessed | Verify growth potential |
+| Arena | Town | Not yet assessed | Verify growth potential |
+| Brigham | Town | Not yet assessed | Verify growth potential |
+| Clyde | Town | Not yet assessed | Verify growth potential |
+| Dodgeville | Town | Not yet assessed | Verify growth potential |
+| Eden | Town | Not yet assessed | Verify growth potential |
+| Edmund | Town | Not yet assessed | Verify growth potential |
+| Highland | Town | Not yet assessed | Verify growth potential |
+| Linden | Town | Not yet assessed | Verify growth potential |
+| Mifflin | Town | Not yet assessed | Verify growth potential |
+| Mineral Point | Town | Not yet assessed | Verify growth potential |
+| Moscow | Town | Not yet assessed | Verify growth potential |
+| Pulaski | Town | Not yet assessed | Verify growth potential |
+| Ridgeway | Town | Not yet assessed | Verify growth potential |
+| Waldwick | Town | Not yet assessed | Verify growth potential |
+| Wyoming | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Clyde
+- Coon Rock
+- Helena
+- Hyde
+- Jonesdale
+- Middlebury
+- Mifflin
+- Moscow
+- Pleasant Ridge
+- Waldwick
+- Wyoming
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Dodgeville, Barneveld, and the US 18/151 corridor.

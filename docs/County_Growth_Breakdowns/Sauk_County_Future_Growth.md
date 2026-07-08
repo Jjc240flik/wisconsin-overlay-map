@@ -47,20 +47,59 @@ Sauk County planners want controlled, efficient growth that protects farmland, u
 
 ## Sauk County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Baraboo           | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Reedsburg         | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Prairie du Sac | Village| Low to Moderate        | Limited growth. |
-| Village of Sauk City      | Village| Low to Moderate        | Residential growth expected. |
-| Town of Baraboo           | Town   | Low to Moderate        | Growth near the City of Baraboo. |
-| Town of Reedsburg         | Town   | Low                    | Agricultural and rural focus. |
-| Town of Prairie du Sac    | Town   | Low                    | Rural character to be preserved. |
-| Town of Honey Creek       | Town   | Low                    | Agricultural preservation priority. |
-| Town of Franklin          | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
+| Cazenovia | Village | Not yet assessed | Verify growth potential |
+| Lake Delton | Village | Not yet assessed | Verify growth potential |
+| Lime Ridge | Village | Not yet assessed | Verify growth potential |
+| Loganville | Village | Not yet assessed | Verify growth potential |
+| North Freedom | Village | Not yet assessed | Verify growth potential |
+| Plain | Village | Not yet assessed | Verify growth potential |
+| Rock Springs | Village | Not yet assessed | Verify growth potential |
+| Sauk City | Village | Low to Moderate | Residential growth expected. |
+| West Baraboo | Village | Not yet assessed | Verify growth potential |
+| Baraboo | Town | Low to Moderate | Growth near the City of Baraboo. |
+| Bear Creek | Town | Not yet assessed | Verify growth potential |
+| Dellona | Town | Not yet assessed | Verify growth potential |
+| Delton | Town | Not yet assessed | Verify growth potential |
+| Excelsior | Town | Not yet assessed | Verify growth potential |
+| Fairfield | Town | Not yet assessed | Verify growth potential |
+| Franklin | Town | Low | Limited development expected. |
+| Freedom | Town | Not yet assessed | Verify growth potential |
+| Greenfield | Town | Not yet assessed | Verify growth potential |
+| Honey Creek | Town | Low | Agricultural preservation priority. |
+| Ironton | Town | Not yet assessed | Verify growth potential |
+| La Valle | Town | Not yet assessed | Verify growth potential |
+| Merrimac | Town | Not yet assessed | Verify growth potential |
+| Prairie du Sac | Town | Low | Rural character to be preserved. |
+| Reedsburg | Town | Low | Agricultural and rural focus. |
+| Spring Green | Town | Not yet assessed | Verify growth potential |
+| Sumpter | Town | Not yet assessed | Verify growth potential |
+| Troy | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Not yet assessed | Verify growth potential |
+| Westfield | Town | Not yet assessed | Verify growth potential |
+| Winfield | Town | Not yet assessed | Verify growth potential |
+| Woodland | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Black Hawk
+- Bluffview
+- Cassell
+- Dellwood
+- Denzer
+- Greens Corners
+- Hill Point
+- La Rue
+- Lake Wisconsin
+- Leland
+- Loddes Mill
+- Loreta
+- Moon Valley
+- Sandusky
+- Valton
+- Witwen
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

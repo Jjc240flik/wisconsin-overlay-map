@@ -47,20 +47,58 @@ Barron County planners want controlled, efficient growth that protects farmland,
 
 ## Barron County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Barron            | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Rice Lake         | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Cameron        | Village| Low to Moderate        | Limited growth. |
-| Village of Chetek         | Village| Low to Moderate        | Residential growth expected. |
-| Town of Barron            | Town   | Low to Moderate        | Growth near the City of Barron. |
-| Town of Rice Lake         | Town   | Low                    | Agricultural and rural focus. |
-| Town of Chetek            | Town   | Low                    | Rural character to be preserved. |
-| Town of Clinton           | Town   | Low                    | Agricultural preservation priority. |
-| Town of Doyle             | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Cameron | Village | Low to Moderate | Limited growth. |
+| Haugen | Village | Not yet assessed | Verify growth potential |
+| New Auburn | Village | Not yet assessed | Verify growth potential |
+| Almena | Town | Not yet assessed | Verify growth potential |
+| Arland | Town | Not yet assessed | Verify growth potential |
+| Barron | Town | Low to Moderate | Growth near the City of Barron. |
+| Barronett | Town | Not yet assessed | Verify growth potential |
+| Bear Lake | Town | Not yet assessed | Verify growth potential |
+| Cedar Lake | Town | Not yet assessed | Verify growth potential |
+| Chetek | Town | Low | Rural character to be preserved. |
+| Clinton | Town | Low | Agricultural preservation priority. |
+| Crystal Lake | Town | Not yet assessed | Verify growth potential |
+| Cumberland | Town | Not yet assessed | Verify growth potential |
+| Dallas | Town | Not yet assessed | Verify growth potential |
+| Dovre | Town | Not yet assessed | Verify growth potential |
+| Doyle | Town | Low | Limited development expected. |
+| Lakeland | Town | Not yet assessed | Verify growth potential |
+| Maple Grove | Town | Not yet assessed | Verify growth potential |
+| Maple Plain | Town | Not yet assessed | Verify growth potential |
+| Oak Grove | Town | Not yet assessed | Verify growth potential |
+| Prairie Farm | Town | Not yet assessed | Verify growth potential |
+| Prairie Lake | Town | Not yet assessed | Verify growth potential |
+| Rice Lake | Town | Low | Agricultural and rural focus. |
+| Sioux Creek | Town | Not yet assessed | Verify growth potential |
+| Stanfold | Town | Not yet assessed | Verify growth potential |
+| Stanley | Town | Not yet assessed | Verify growth potential |
+| Sumner | Town | Not yet assessed | Verify growth potential |
+| Turtle Lake | Town | Not yet assessed | Verify growth potential |
+| Vance Creek | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Angus
+- Arland
+- Brill
+- Campia
+- Canton
+- Comstock
+- Dobie
+- Graytown
+- Hillsdale
+- Horseman
+- Lehigh
+- Mikana
+- Poskin
+- Reeve
+- Sumner
+- Tuscobia
+- Twin Town
+- Wickware
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

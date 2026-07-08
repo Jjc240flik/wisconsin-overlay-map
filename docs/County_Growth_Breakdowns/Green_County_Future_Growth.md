@@ -47,20 +47,46 @@ Green County planners want controlled, efficient growth that protects farmland, 
 
 ## Green County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Monroe            | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Brodhead          | City   | Low to Moderate        | Limited growth. |
-| Village of New Glarus     | Village| Moderate               | Residential growth expected. |
-| Village of Monticello     | Village| Low to Moderate        | Limited growth. |
-| Town of Monroe            | Town   | Low to Moderate        | Growth near the City of Monroe. |
-| Town of Exeter            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Mount Pleasant    | Town   | Low                    | Rural character to be preserved. |
-| Town of Spring Grove      | Town   | Low                    | Agricultural preservation priority. |
-| Town of Washington        | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Brodhead | City | Low to Moderate | Limited growth. |
+| Belleville | Village | Not yet assessed | Verify growth potential |
+| Browntown | Village | Not yet assessed | Verify growth potential |
+| Monticello | Village | Low to Moderate | Limited growth. |
+| Adams | Town | Not yet assessed | Verify growth potential |
+| Albany | Town | Not yet assessed | Verify growth potential |
+| Brooklyn | Town | Not yet assessed | Verify growth potential |
+| Cadiz | Town | Not yet assessed | Verify growth potential |
+| Clarno | Town | Not yet assessed | Verify growth potential |
+| Decatur | Town | Not yet assessed | Verify growth potential |
+| Exeter | Town | Low | Agricultural and rural focus. |
+| Jefferson | Town | Not yet assessed | Verify growth potential |
+| Jordan | Town | Not yet assessed | Verify growth potential |
+| Juda | Town | Not yet assessed | Verify growth potential |
+| Monroe | Town | Low to Moderate | Growth near the City of Monroe. |
+| Mount Pleasant | Town | Low | Rural character to be preserved. |
+| New Glarus | Town | Moderate | Residential growth expected. |
+| Spring Grove | Town | Low | Agricultural preservation priority. |
+| Sylvester | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Low | Limited development expected. |
+| York | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Attica
+- Clarno
+- Dayton
+- Exeter
+- Jordan Center
+- Martintown
+- Mineral Point
+- Oakley
+- Postville
+- Ross Crossing
+- Schneyville
+- Schultz
+- Stearns
+- Twin Grove
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

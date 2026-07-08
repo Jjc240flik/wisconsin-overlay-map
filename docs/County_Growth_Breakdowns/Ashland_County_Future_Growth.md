@@ -47,21 +47,55 @@ Ashland County planners want controlled, efficient growth that protects farmland
 
 ## Ashland County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Ashland           | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Mellen            | City   | Low                    | Limited growth. |
-| Village of Butternut      | Village| Low                    | Limited development expected. |
-| Town of Ashland           | Town   | Low to Moderate        | Growth near the City of Ashland. |
-| Town of Gordon            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Jacobs            | Town   | Low                    | Rural character to be preserved. |
-| Town of La Pointe         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Marengo           | Town   | Low                    | Limited development expected. |
-| Town of Morse             | Town   | Low                    | Agricultural focus. |
-| Town of Peeksville        | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Butternut | City | Low | Limited development expected. |
+| Mellen | City | Low | Limited growth. |
+| Agenda | Town | Not yet assessed | Verify growth potential |
+| Ashland | Town | Low to Moderate | Growth near the City of Ashland. |
+| Chippewa | Town | Not yet assessed | Verify growth potential |
+| Gingles | Town | Not yet assessed | Verify growth potential |
+| Gordon | Town | Low | Agricultural and rural focus. |
+| Jacobs | Town | Low | Rural character to be preserved. |
+| La Pointe | Town | Low | Agricultural preservation priority. |
+| Marengo | Town | Low | Limited development expected. |
+| Morse | Town | Low | Agricultural focus. |
+| Peeksville | Town | Low | Limited development expected. |
+| Sanborn | Town | Not yet assessed | Verify growth potential |
+| Shanagolden | Town | Not yet assessed | Verify growth potential |
+| White River | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Ballou
+- Bayfront
+- Birch
+- Birch Hill
+- Cayuga
+- Clam Lake
+- Diaperville
+- Foster Junction
+- Franks Field
+- Glidden
+- Highbridge
+- Holts Landing
+- Jolmaville
+- La Pointe
+- Marengo
+- Middleport
+- Minersville
+- Morse
+- New Odanah
+- North York
+- Odanah
+- Old Fort
+- Peeksville
+- Penokee
+- Petes Landing
+- Sanborn
+- Sedgwick
+- Shanagolden
+- White River
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

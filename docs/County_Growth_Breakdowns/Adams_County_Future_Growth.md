@@ -46,21 +46,48 @@ Adams County planners want controlled, efficient growth that protects farmland, 
 
 ## Adams County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Adams             | City   | Low to Moderate        | Limited growth. |
-| Village of Friendship     | Village| Low                    | Limited development expected. |
-| Town of Adams             | Town   | Low to Moderate        | Growth near the City of Adams. |
-| Town of Friendship        | Town   | Low                    | Agricultural and rural focus. |
-| Town of Jackson           | Town   | Low                    | Rural character to be preserved. |
-| Town of Lincoln           | Town   | Low                    | Agricultural preservation priority. |
-| Town of Monroe            | Town   | Low                    | Limited development expected. |
-| Town of New Chester       | Town   | Low                    | Agricultural focus. |
-| Town of Preston           | Town   | Low                    | Rural character to be preserved. |
-| Town of Richfield         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Friendship | City | Low | Agricultural and rural focus. |
+| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
+| Adams | Town | Low to Moderate | Growth near the City of Adams. |
+| Big Flats | Town | Not yet assessed | Verify growth potential |
+| Colburn | Town | Not yet assessed | Verify growth potential |
+| Dell Prairie | Town | Not yet assessed | Verify growth potential |
+| Easton | Town | Not yet assessed | Verify growth potential |
+| Jackson | Town | Low | Rural character to be preserved. |
+| Leola | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Low | Agricultural preservation priority. |
+| Monroe | Town | Low | Limited development expected. |
+| New Chester | Town | Low | Agricultural focus. |
+| New Haven | Town | Not yet assessed | Verify growth potential |
+| Preston | Town | Low | Rural character to be preserved. |
+| Quincy | Town | Not yet assessed | Verify growth potential |
+| Richfield | Town | Low | Limited development expected. |
+| Rome | Town | Not yet assessed | Verify growth potential |
+| Springville | Town | Not yet assessed | Verify growth potential |
+| Strongs Prairie | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Arkdale
+- Big Spring
+- Brooks
+- Brookside
+- Cottonville
+- Davis Corners
+- Dellwood
+- Easton
+- Grand Marsh
+- Lake Arrowhead
+- Lake Camelot
+- Lake Sherwood
+- Monroe Center
+- New Rome
+- Plainville
+- Rome
+- Strongs Prairie
+- White Creek
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

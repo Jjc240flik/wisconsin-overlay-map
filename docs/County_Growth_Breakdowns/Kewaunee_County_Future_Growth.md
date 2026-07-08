@@ -50,16 +50,55 @@ Kewaunee County should be researched as a rural/agricultural county with growth 
 ## Kewaunee County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Kewaunee | City | Low to Moderate | County seat/service node; verify infill and planned edge growth. |
-| Algoma | City | Low to Moderate | Waterfront/community growth; verify comp plan. |
-| Luxemburg | Village | Moderate | Key inland growth node; verify FLU map. |
-| Casco | Village | Low | Limited growth expected unless mapped otherwise. |
-| Ahnapee | Town | Low to Moderate | Town comp plan exists; verify future land use designations. |
-| Rural agricultural towns | Town | Low | Farmland preservation likely important. |
+|--------------|------|------------------------|-------|
+| Algoma | City | Not yet assessed | Verify growth potential |
+| Kewaunee | City | Not yet assessed | Verify growth potential |
+| Ahnapee | Town | Not yet assessed | Verify growth potential |
+| Carlton | Town | Not yet assessed | Verify growth potential |
+| Casco | Town | Not yet assessed | Verify growth potential |
+| Franklin | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Luxemburg | Town | Not yet assessed | Verify growth potential |
+| Montpelier | Town | Not yet assessed | Verify growth potential |
+| Pierce | Town | Not yet assessed | Verify growth potential |
+| Red River | Town | Not yet assessed | Verify growth potential |
+| West Kewaunee | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Alaska
+- Bay View
+- Birchwood
+- Bolt
+- Bruemmerville
+- Casco Junction
+- Cherneyville
+- Clyde
+- Curran
+- Duvall
+- Dyckesville
+- East Krok
+- Ellisville
+- Euren
+- Frog Station
+- Gregorville
+- Kodan
+- Krok
+- Lincoln
+- Neuren
+- Norman
+- Pilsen
+- Rankin
+- Rio Creek
+- Rosiere
+- Rostok
+- Ryans Corner
+- Slovan
+- Stangelville
+- Thiry Daems
+- Tisch Mills
+- Tonet
+- Walhain
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Luxemburg, Kewaunee, and Algoma nodes.

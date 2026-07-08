@@ -51,16 +51,64 @@ Portage County should be researched as a Stevens Point/Plover metro + I-39 corri
 ## Portage County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Stevens Point | City | Moderate | Urban core; infill/redevelopment plus edge growth. |
-| Plover | Village | High | Major growth node along I-39/Highway 10. |
-| Whiting | Village | Moderate | Adjacent to Stevens Point; verify FLU. |
-| Amherst | Village | Moderate | Corridor growth potential. |
-| I-39/Highway 10 corridor towns | Town | Low to Moderate | Best candidates if mapped for growth. |
-| Rural ag towns | Town | Low | Agricultural preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Amherst Junction | Village | Not yet assessed | Verify growth potential |
+| Junction City | Village | Not yet assessed | Verify growth potential |
+| Milladore | Village | Not yet assessed | Verify growth potential |
+| Nelsonville | Village | Not yet assessed | Verify growth potential |
+| Park Ridge | Village | Not yet assessed | Verify growth potential |
+| Rosholt | Village | Not yet assessed | Verify growth potential |
+| Whiting | Village | Not yet assessed | Verify growth potential |
+| Alban | Town | Not yet assessed | Verify growth potential |
+| Almond | Town | Not yet assessed | Verify growth potential |
+| Amherst | Town | Not yet assessed | Verify growth potential |
+| Belmont | Town | Not yet assessed | Verify growth potential |
+| Buena Vista | Town | Not yet assessed | Verify growth potential |
+| Carson | Town | Not yet assessed | Verify growth potential |
+| Dewey | Town | Not yet assessed | Verify growth potential |
+| Eau Pleine | Town | Not yet assessed | Verify growth potential |
+| Grant | Town | Not yet assessed | Verify growth potential |
+| Hull | Town | Not yet assessed | Verify growth potential |
+| Lanark | Town | Not yet assessed | Verify growth potential |
+| Linwood | Town | Not yet assessed | Verify growth potential |
+| New Hope | Town | Not yet assessed | Verify growth potential |
+| Pine Grove | Town | Not yet assessed | Verify growth potential |
+| Plover | Town | Not yet assessed | Verify growth potential |
+| Sharon | Town | Not yet assessed | Verify growth potential |
+| Stockton | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Alban
+- Arnott
+- Badger
+- Bancroft
+- Blaine
+- Casimir
+- Coddington
+- Custer
+- Dopp
+- Ellis
+- Esker
+- Fancher
+- Garfield
+- Heffron
+- Jordan
+- Keene
+- Kellner
+- Lake Emily
+- Little Waupon
+- Meehan
+- Mill Creek Community
+- New Hope
+- North Star
+- Peru
+- Polonia
+- Rocky Run
+- Stockton
+- Torun
+- West Almond
+- West Bancroft
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Plover, Stevens Point metro edge, I-39/Highway 10 interchanges.

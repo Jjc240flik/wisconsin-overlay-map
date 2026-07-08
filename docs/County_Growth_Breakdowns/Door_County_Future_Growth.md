@@ -46,20 +46,54 @@ Door County planners want controlled, efficient growth that protects farmland, u
 
 ## Door County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Sturgeon Bay      | City   | Moderate               | Focus on redevelopment and infill. |
-| Village of Sister Bay     | Village| Moderate               | Tourism and residential growth expected. |
-| Village of Ephraim        | Village| Low                    | Limited growth due to preservation focus. |
-| Village of Fish Creek     | Village| Low                    | Tourism-focused with limited development. |
-| Town of Sturgeon Bay      | Town   | Low to Moderate        | Growth near the City of Sturgeon Bay. |
-| Town of Liberty Grove     | Town   | Low                    | Agricultural and rural focus. |
-| Town of Gibraltar         | Town   | Low                    | Rural character to be preserved. |
-| Town of Baileys Harbor    | Town   | Low                    | Agricultural preservation priority. |
-| Town of Jacksonport       | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Ephraim | Village | Low | Limited growth due to preservation focus. |
+| Sister Bay | Village | Moderate | Tourism and residential growth expected. |
+| Baileys Harbor | Town | Low | Agricultural preservation priority. |
+| Brussels | Town | Not yet assessed | Verify growth potential |
+| Clay Banks | Town | Not yet assessed | Verify growth potential |
+| Egg Harbor | Town | Not yet assessed | Verify growth potential |
+| Forestville | Town | Not yet assessed | Verify growth potential |
+| Gardner | Town | Not yet assessed | Verify growth potential |
+| Gibraltar | Town | Low | Rural character to be preserved. |
+| Jacksonport | Town | Low | Limited development expected. |
+| Liberty Grove | Town | Low | Agricultural and rural focus. |
+| Nasewaupee | Town | Not yet assessed | Verify growth potential |
+| Sevastopol | Town | Not yet assessed | Verify growth potential |
+| Sturgeon Bay | Town | Low to Moderate | Growth near the City of Sturgeon Bay. |
+| Union | Town | Not yet assessed | Verify growth potential |
+| Washington Island | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Baileys Harbor
+- Brussels
+- Carlsville
+- Carnot
+- Detroit Harbor
+- Ellison Bay
+- Fish Creek
+- Gills Rock
+- Idlewild
+- Institute
+- Juddville
+- Kolberg
+- Little Sturgeon
+- Maplewood
+- Namur
+- North Bay
+- Northport
+- Peninsula Center
+- Rosiere
+- Rowleys Bay
+- Salona
+- Shoemaker Point
+- Valmy
+- Vignes
+- Washington
+- West Jacksonport
+- Whitefish Bay
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

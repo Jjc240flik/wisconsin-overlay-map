@@ -47,20 +47,92 @@ Fond du Lac County planners want controlled, efficient growth that protects farm
 
 ## Fond du Lac County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Fond du Lac       | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Ripon             | City   | Low to Moderate        | Limited growth. |
-| Village of North Fond du Lac | Village | Moderate            | Residential growth expected. |
-| Village of Waupun         | Village| Low to Moderate        | Limited growth. |
-| Town of Fond du Lac       | Town   | Low to Moderate        | Growth near the City of Fond du Lac. |
-| Town of Ripon             | Town   | Low                    | Agricultural and rural focus. |
-| Town of Waupun            | Town   | Low                    | Rural character to be preserved. |
-| Town of Eldorado          | Town   | Low                    | Agricultural preservation priority. |
-| Town of Lamartine         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Brandon | Village | Not yet assessed | Verify growth potential |
+| Campbellsport | Village | Not yet assessed | Verify growth potential |
+| Fairwater | Village | Not yet assessed | Verify growth potential |
+| Kewaskum | Village | Not yet assessed | Verify growth potential |
+| Mount Calvary | Village | Not yet assessed | Verify growth potential |
+| North Fond du Lac | Village | Moderate | Residential growth expected. |
+| St. Cloud | Village | Not yet assessed | Verify growth potential |
+| Alto | Town | Not yet assessed | Verify growth potential |
+| Ashford | Town | Not yet assessed | Verify growth potential |
+| Auburn | Town | Not yet assessed | Verify growth potential |
+| Byron | Town | Not yet assessed | Verify growth potential |
+| Calumet | Town | Not yet assessed | Verify growth potential |
+| Eden | Town | Not yet assessed | Verify growth potential |
+| Eldorado | Town | Low | Agricultural preservation priority. |
+| Empire | Town | Not yet assessed | Verify growth potential |
+| Fond du Lac | Town | Low to Moderate | Growth near the City of Fond du Lac. |
+| Forest | Town | Not yet assessed | Verify growth potential |
+| Friendship | Town | Not yet assessed | Verify growth potential |
+| Lamartine | Town | Low | Limited development expected. |
+| Marshfield | Town | Not yet assessed | Verify growth potential |
+| Metomen | Town | Not yet assessed | Verify growth potential |
+| Oakfield | Town | Not yet assessed | Verify growth potential |
+| Osceola | Town | Not yet assessed | Verify growth potential |
+| Ripon | Town | Low | Agricultural and rural focus. |
+| Rosendale | Town | Not yet assessed | Verify growth potential |
+| Springvale | Town | Not yet assessed | Verify growth potential |
+| Taycheedah | Town | Not yet assessed | Verify growth potential |
+| Waupun | Town | Low | Rural character to be preserved. |
 
----
+### Unincorporated communities
 
+- Alto
+- Arcade Acres
+- Armstrong
+- Artesia Beach
+- Ashford
+- Banner
+- Bergen Beach
+- Byron
+- Calumet Harbor
+- Calumetville
+- Calvary
+- Chinatown
+- Dexter
+- Dotyville
+- Dundee
+- Eldorado
+- Elmore
+- Garnet
+- Gladstone Beach
+- Graham Corners
+- Hamilton
+- Highland Park
+- Hopokoekau Beach
+- Johnsburg
+- Ladoga
+- Laudolff Beach
+- Luco
+- Malone
+- Marblehead
+- Marytown
+- Metomen
+- Minawa Beach
+- New Fane
+- New Prospect
+- Oak Center
+- Peebles
+- Pipe
+- Pukwana Beach
+- Rogersville
+- Rosendale Center
+- Silica
+- South Byron
+- St. Joe
+- St. Peter
+- Taycheedah
+- Van Dyne
+- Waucousta
+- Welling Beach
+- West Rosendale
+- Wilmoore Heights
+- Winnebago Heights
+- Winnebago Park
+- Woodhull
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

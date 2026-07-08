@@ -46,19 +46,25 @@ Florence County planners want controlled, efficient growth that protects farmlan
 
 ## Florence County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Florence          | City   | Low to Moderate        | Limited growth. |
-| Village of Aurora         | Village| Low                    | Limited development expected. |
-| Town of Florence          | Town   | Low to Moderate        | Growth near the City of Florence. |
-| Town of Aurora            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Commonwealth      | Town   | Low                    | Rural character to be preserved. |
-| Town of Fence             | Town   | Low                    | Agricultural preservation priority. |
-| Town of Homestead         | Town   | Low                    | Limited development expected. |
-| Town of Tipler            | Town   | Low                    | Agricultural focus. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Aurora | Town | Low | Agricultural and rural focus. |
+| Commonwealth | Town | Low | Rural character to be preserved. |
+| Fence | Town | Low | Agricultural preservation priority. |
+| Fern | Town | Not yet assessed | Verify growth potential |
+| Florence | Town | Low to Moderate | Growth near the City of Florence. |
+| Homestead | Town | Low | Limited development expected. |
+| Long Lake | Town | Not yet assessed | Verify growth potential |
+| Tipler | Town | Low | Agricultural focus. |
 
----
+### Unincorporated communities
 
+- Commonwealth
+- Florence
+- Hematite
+- Long Lake
+- Spread Eagle
+- Tipler
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

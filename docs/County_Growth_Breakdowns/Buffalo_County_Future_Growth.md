@@ -47,20 +47,49 @@ Buffalo County planners want controlled, efficient growth that protects farmland
 
 ## Buffalo County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Alma              | City   | Low to Moderate        | Limited growth. |
-| City of Buffalo           | City   | Low                    | Limited development expected. |
-| Village of Cochrane       | Village| Low                    | Limited growth. |
-| Village of Nelson         | Village| Low                    | Limited development expected. |
-| Town of Alma              | Town   | Low to Moderate        | Growth near the City of Alma. |
-| Town of Buffalo           | Town   | Low                    | Agricultural and rural focus. |
-| Town of Belvidere         | Town   | Low                    | Rural character to be preserved. |
-| Town of Canton            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Cross             | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Buffalo City | City | Not yet assessed | Verify growth potential |
+| Fountain City | City | Not yet assessed | Verify growth potential |
+| Cochrane | Village | Low | Limited growth. |
+| Alma | Town | Low to Moderate | Growth near the City of Alma. |
+| Belvidere | Town | Low | Rural character to be preserved. |
+| Buffalo | Town | Low | Agricultural and rural focus. |
+| Canton | Town | Low | Agricultural preservation priority. |
+| Cross | Town | Low | Limited development expected. |
+| Dover | Town | Not yet assessed | Verify growth potential |
+| Gilmanton | Town | Not yet assessed | Verify growth potential |
+| Glencoe | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Maxville | Town | Not yet assessed | Verify growth potential |
+| Milton | Town | Not yet assessed | Verify growth potential |
+| Modena | Town | Not yet assessed | Verify growth potential |
+| Mondovi | Town | Not yet assessed | Verify growth potential |
+| Montana | Town | Not yet assessed | Verify growth potential |
+| Naples | Town | Not yet assessed | Verify growth potential |
+| Nelson | Town | Low | Limited development expected. |
+| Waumandee | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bluff Siding
+- Cream
+- Czechville
+- East Winona
+- Gilmanton
+- Glencoe
+- Herold
+- Lookout
+- Marshland
+- Maxville
+- Misha Mokwa
+- Modena
+- Montana
+- Praag
+- Tell
+- Trevino
+- Urne
+- Waumandee
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

@@ -46,21 +46,49 @@ Crawford County planners want controlled, efficient growth that protects farmlan
 
 ## Crawford County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Prairie du Chien  | City   | Moderate               | Focus on redevelopment and infill. |
-| Village of De Soto        | Village| Low                    | Limited development expected. |
-| Village of Eastman        | Village| Low                    | Limited growth. |
-| Village of Ferryville     | Village| Low                    | Limited development expected. |
-| Village of Gays Mills     | Village| Low to Moderate        | Residential growth expected. |
-| Town of Prairie du Chien  | Town   | Low to Moderate        | Growth near the City of Prairie du Chien. |
-| Town of Eastman           | Town   | Low                    | Agricultural and rural focus. |
-| Town of Haney             | Town   | Low                    | Rural character to be preserved. |
-| Town of Marietta          | Town   | Low                    | Agricultural preservation priority. |
-| Town of Utica             | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Bell Center | Village | Not yet assessed | Verify growth potential |
+| De Soto | Village | Low | Limited development expected. |
+| Ferryville | Village | Low | Limited development expected. |
+| Gays Mills | Village | Low to Moderate | Residential growth expected. |
+| Lynxville | Village | Not yet assessed | Verify growth potential |
+| Mount Sterling | Village | Not yet assessed | Verify growth potential |
+| Soldiers Grove | Village | Not yet assessed | Verify growth potential |
+| Steuben | Village | Not yet assessed | Verify growth potential |
+| Bridgeport | Town | Not yet assessed | Verify growth potential |
+| Clayton | Town | Not yet assessed | Verify growth potential |
+| Eastman | Town | Low | Agricultural and rural focus. |
+| Freeman | Town | Not yet assessed | Verify growth potential |
+| Haney | Town | Low | Rural character to be preserved. |
+| Marietta | Town | Low | Agricultural preservation priority. |
+| Prairie du Chien | Town | Low to Moderate | Growth near the City of Prairie du Chien. |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Seneca | Town | Not yet assessed | Verify growth potential |
+| Utica | Town | Low | Limited development expected. |
+| Wauzeka | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Barnum
+- Boydtown
+- Bridgeport
+- Charme
+- Easter Rock
+- Fairview
+- Harmony Hill
+- Montgomeryville
+- Mount Zion
+- North Clayton
+- Petersburg
+- Pine Knob
+- Plugtown
+- Reed
+- Rising Sun
+- Rolling Ground
+- Towerville
+- White Corners
+- Yankeetown
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

@@ -52,16 +52,60 @@ Monroe County is a strong county for the current-vs-future comparison because of
 ## Monroe County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Sparta | City | Moderate | County seat/growth node; verify FLU map. |
-| Tomah | City | Moderate to High | Interstate corridor/logistics growth potential. |
-| Cashton | Village | Low to Moderate | Local growth node; verify plan. |
-| Warrens | Village | Low to Moderate | I-94 / tourism/corridor influence. |
-| Interstate corridor towns | Town | Low to Moderate | Development potential if mapped for growth. |
-| Rural agricultural towns | Town | Low | Farmland preservation likely important. |
+|--------------|------|------------------------|-------|
+| Cashton | Village | Not yet assessed | Verify growth potential |
+| Kendall | Village | Not yet assessed | Verify growth potential |
+| Melvina | Village | Not yet assessed | Verify growth potential |
+| Norwalk | Village | Not yet assessed | Verify growth potential |
+| Warrens | Village | Not yet assessed | Verify growth potential |
+| Wyeville | Village | Not yet assessed | Verify growth potential |
+| Adrian | Town | Not yet assessed | Verify growth potential |
+| Angelo | Town | Not yet assessed | Verify growth potential |
+| Byron | Town | Not yet assessed | Verify growth potential |
+| Clifton | Town | Not yet assessed | Verify growth potential |
+| Glendale | Town | Not yet assessed | Verify growth potential |
+| Grant | Town | Not yet assessed | Verify growth potential |
+| Greenfield | Town | Not yet assessed | Verify growth potential |
+| Jefferson | Town | Not yet assessed | Verify growth potential |
+| La Grange | Town | Not yet assessed | Verify growth potential |
+| Lafayette | Town | Not yet assessed | Verify growth potential |
+| Leon | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Little Falls | Town | Not yet assessed | Verify growth potential |
+| New Lyme | Town | Not yet assessed | Verify growth potential |
+| Oakdale | Town | Not yet assessed | Verify growth potential |
+| Portland | Town | Not yet assessed | Verify growth potential |
+| Ridgeville | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Sheldon | Town | Not yet assessed | Verify growth potential |
+| Sparta | Town | Not yet assessed | Verify growth potential |
+| Tomah | Town | Not yet assessed | Verify growth potential |
+| Wellington | Town | Not yet assessed | Verify growth potential |
+| Wells | Town | Not yet assessed | Verify growth potential |
+| Wilton | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Angelo
+- Cataract
+- Clifton
+- Farmers Valley
+- Four Corners
+- Glendale
+- Jacksonville
+- Kirby
+- Leon
+- Norway Ridge
+- Oil City
+- Portland
+- Raymore
+- Ridgeville
+- Scotts Junction
+- Shennington
+- Spring Bank Park
+- St. Mary's
+- Tunnel City
+- Valley Junction
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Tomah, Sparta, and I-90/I-94 corridor nodes.

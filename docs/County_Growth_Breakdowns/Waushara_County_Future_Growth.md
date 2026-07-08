@@ -50,16 +50,49 @@ Waushara County should be researched as a corridor/rural county with best target
 ## Waushara County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Wautoma | City | Low to Moderate | County seat/growth node. |
-| Berlin (Waushara portion) | City | Low to Moderate | Partial county edge; verify plan. |
-| Redgranite | Village | Low | Limited growth. |
-| Hancock | Village | Low | Limited growth. |
-| Highway 21 corridor towns | Town | Low to Moderate | Best if mapped for growth. |
-| Lake/rural towns | Town | Low | Agricultural/lake preservation dominant. |
+|--------------|------|------------------------|-------|
+| Berlin | City | Not yet assessed | Verify growth potential |
+| Lohrville | Village | Not yet assessed | Verify growth potential |
+| Redgranite | Village | Not yet assessed | Verify growth potential |
+| Wild Rose | Village | Not yet assessed | Verify growth potential |
+| Aurora | Town | Not yet assessed | Verify growth potential |
+| Bloomfield | Town | Not yet assessed | Verify growth potential |
+| Coloma | Town | Not yet assessed | Verify growth potential |
+| Dakota | Town | Not yet assessed | Verify growth potential |
+| Deerfield | Town | Not yet assessed | Verify growth potential |
+| Hancock | Town | Not yet assessed | Verify growth potential |
+| Leon | Town | Not yet assessed | Verify growth potential |
+| Marion | Town | Not yet assessed | Verify growth potential |
+| Mount Morris | Town | Not yet assessed | Verify growth potential |
+| Oasis | Town | Not yet assessed | Verify growth potential |
+| Plainfield | Town | Not yet assessed | Verify growth potential |
+| Poy Sippi | Town | Not yet assessed | Verify growth potential |
+| Richford | Town | Not yet assessed | Verify growth potential |
+| Rose | Town | Not yet assessed | Verify growth potential |
+| Saxeville | Town | Not yet assessed | Verify growth potential |
+| Springwater | Town | Not yet assessed | Verify growth potential |
+| Warren | Town | Not yet assessed | Verify growth potential |
+| Wautoma | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Auroraville
+- Bannerman
+- Borth
+- Brushville
+- Dakota
+- Fountain Valley
+- Heffron
+- Metz
+- Mount Morris
+- Pine River
+- Poy Sippi
+- Richford
+- Saxeville
+- Silver Lake
+- Spring Lake
+- Tustin
+- West Bloomfield
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Wautoma, Highway 21 corridor.

@@ -51,15 +51,59 @@ Oneida County should be researched as a lake/forest tourism and service-node cou
 ## Oneida County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Rhinelander | City | Moderate | Primary growth/service node; verify FLU map. |
-| Minocqua | Town | Moderate | Tourism/service corridor node; verify plan. |
-| Woodruff | Town | Moderate | Growth adjacent to Minocqua corridor. |
-| Three Lakes | Town | Low to Moderate | Lake tourism area; verify plan maps. |
-| Rural forest/lake towns | Town | Low | Resource preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Cassian | Town | Not yet assessed | Verify growth potential |
+| Crescent | Town | Not yet assessed | Verify growth potential |
+| Enterprise | Town | Not yet assessed | Verify growth potential |
+| Hazelhurst | Town | Not yet assessed | Verify growth potential |
+| Lake Tomahawk | Town | Not yet assessed | Verify growth potential |
+| Little Rice | Town | Not yet assessed | Verify growth potential |
+| Lynne | Town | Not yet assessed | Verify growth potential |
+| Minocqua | Town | Not yet assessed | Verify growth potential |
+| Monico | Town | Not yet assessed | Verify growth potential |
+| Newbold | Town | Not yet assessed | Verify growth potential |
+| Nokomis | Town | Not yet assessed | Verify growth potential |
+| Pelican | Town | Not yet assessed | Verify growth potential |
+| Piehl | Town | Not yet assessed | Verify growth potential |
+| Pine Lake | Town | Not yet assessed | Verify growth potential |
+| Schoepke | Town | Not yet assessed | Verify growth potential |
+| Stella | Town | Not yet assessed | Verify growth potential |
+| Sugar Camp | Town | Not yet assessed | Verify growth potential |
+| Three Lakes | Town | Not yet assessed | Verify growth potential |
+| Woodboro | Town | Not yet assessed | Verify growth potential |
+| Woodruff | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Clearwater Lake
+- Clifford
+- Crescent Corner
+- Enterprise
+- Gagen
+- Gary Post
+- Goodnow
+- Harshaw
+- Hazelhurst
+- Jennings
+- Lake Tomahawk
+- Lennox
+- Malvern
+- McCord
+- McNaughton
+- Minocqua
+- Monico
+- Newbold
+- Pelican Lake
+- Pratt Junction
+- Rantz
+- Roosevelt
+- Starks
+- Sugar Camp
+- Sunflower
+- Three Lakes
+- Tripoli
+- Woodboro
+- Woodruff
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Rhinelander, Minocqua, Woodruff, corridor nodes.

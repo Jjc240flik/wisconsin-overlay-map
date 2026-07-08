@@ -47,20 +47,70 @@ Oconto County planners want controlled, efficient growth that protects farmland,
 
 ## Oconto County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Oconto            | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Oconto Falls      | City   | Low to Moderate        | Limited growth. |
-| Village of Lena           | Village| Low                    | Limited development expected. |
-| Village of Suring         | Village| Low                    | Rural community with limited growth. |
-| Town of Oconto            | Town   | Low to Moderate        | Growth near the City of Oconto. |
-| Town of Oconto Falls      | Town   | Low                    | Agricultural and rural focus. |
-| Town of Lena              | Town   | Low                    | Rural character to be preserved. |
-| Town of Stiles            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Maple Valley      | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Pulaski | Village | Not yet assessed | Verify growth potential |
+| Suring | Village | Low | Rural community with limited growth. |
+| Abrams | Town | Not yet assessed | Verify growth potential |
+| Bagley | Town | Not yet assessed | Verify growth potential |
+| Brazeau | Town | Not yet assessed | Verify growth potential |
+| Breed | Town | Not yet assessed | Verify growth potential |
+| Chase | Town | Not yet assessed | Verify growth potential |
+| Doty | Town | Not yet assessed | Verify growth potential |
+| Gillett | Town | Not yet assessed | Verify growth potential |
+| How | Town | Not yet assessed | Verify growth potential |
+| Lakewood | Town | Not yet assessed | Verify growth potential |
+| Lena | Town | Low | Rural character to be preserved. |
+| Little River | Town | Not yet assessed | Verify growth potential |
+| Little Suamico | Town | Not yet assessed | Verify growth potential |
+| Maple Valley | Town | Low | Limited development expected. |
+| Morgan | Town | Not yet assessed | Verify growth potential |
+| Mountain | Town | Not yet assessed | Verify growth potential |
+| Oconto | Town | Low to Moderate | Growth near the City of Oconto. |
+| Oconto Falls | Town | Low | Agricultural and rural focus. |
+| Pensaukee | Town | Not yet assessed | Verify growth potential |
+| Riverview | Town | Not yet assessed | Verify growth potential |
+| Spruce | Town | Not yet assessed | Verify growth potential |
+| Stiles | Town | Low | Agricultural preservation priority. |
+| Townsend | Town | Not yet assessed | Verify growth potential |
+| Underhill | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Abrams
+- Bonita
+- Breed
+- Brookside
+- Chase
+- County Line
+- Cullen
+- Forest County Potawatomi Community
+- Frostville
+- Hayes
+- Hickory Corners
+- Hintz
+- Kelly Brook
+- Kingston
+- Klondike
+- Lakewood
+- Leighton
+- Little Suamico
+- Logan
+- Morgan
+- Mosling
+- Mountain
+- Oak Orchard
+- Pensaukee
+- Pine Stump
+- Sampson
+- Sobieski
+- Sobieski Corners
+- South Chase
+- Spruce
+- Stiles
+- Stiles Junction
+- Townsend
+- Underhill
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

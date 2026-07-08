@@ -48,20 +48,51 @@ Kenosha County planners want controlled, efficient growth that protects farmland
 
 ## Kenosha County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Kenosha           | City   | Moderate               | Focus on redevelopment and infill. |
-| Village of Pleasant Prairie | Village | Moderate to High     | Significant residential and commercial growth expected. |
-| Village of Bristol        | Village| Moderate               | Residential growth expected. |
-| Village of Salem Lakes    | Village| Low to Moderate        | Limited growth. |
-| Town of Brighton          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Paris             | Town   | Low                    | Rural character to be preserved. |
-| Town of Randall           | Town   | Low                    | Agricultural preservation priority. |
-| Town of Somers            | Town   | Low to Moderate        | Growth near the City of Kenosha. |
-| Town of Wheatland         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Elroy | City | Not yet assessed | Verify growth potential |
+| Mauston | City | Not yet assessed | Verify growth potential |
+| New Lisbon | City | Not yet assessed | Verify growth potential |
+| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
+| Camp Douglas | Village | Not yet assessed | Verify growth potential |
+| Hustler | Village | Not yet assessed | Verify growth potential |
+| Lyndon Station | Village | Not yet assessed | Verify growth potential |
+| Union Center | Village | Not yet assessed | Verify growth potential |
+| Armenia | Town | Not yet assessed | Verify growth potential |
+| Clearfield | Town | Not yet assessed | Verify growth potential |
+| Cutler | Town | Not yet assessed | Verify growth potential |
+| Finley | Town | Not yet assessed | Verify growth potential |
+| Fountain | Town | Not yet assessed | Verify growth potential |
+| Germantown | Town | Not yet assessed | Verify growth potential |
+| Kildare | Town | Not yet assessed | Verify growth potential |
+| Kingston | Town | Not yet assessed | Verify growth potential |
+| Lemonweir | Town | Not yet assessed | Verify growth potential |
+| Lindina | Town | Not yet assessed | Verify growth potential |
+| Lisbon | Town | Not yet assessed | Verify growth potential |
+| Lyndon | Town | Not yet assessed | Verify growth potential |
+| Marion | Town | Not yet assessed | Verify growth potential |
+| Necedah | Town | Not yet assessed | Verify growth potential |
+| Orange | Town | Not yet assessed | Verify growth potential |
+| Plymouth | Town | Not yet assessed | Verify growth potential |
+| Seven Mile Creek | Town | Not yet assessed | Verify growth potential |
+| Summit | Town | Not yet assessed | Verify growth potential |
+| Wonewoc | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Cloverdale
+- Cutler
+- Finley
+- Indian Heights
+- Kelly
+- Lemonweir
+- Lindina
+- Lone Rock
+- Mather
+- Meadow Valley
+- New Miner
+- Orange Mill
+- Sprague
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

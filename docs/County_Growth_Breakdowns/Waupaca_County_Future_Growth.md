@@ -52,16 +52,66 @@ Waupaca County is excellent for this research because each town has a Preferred 
 ## Waupaca County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Waupaca | City | Moderate | Primary tourism/service node; verify preferred LU map. |
-| New London | City | Moderate | Highway 45 corridor node. |
-| Weyauwega | City | Low to Moderate | Local service node. |
-| Fremont | Village | Low to Moderate | Lake corridor/tourism node. |
-| Highway 10 corridor towns | Town | Low to Moderate | Best if preferred LU maps show growth. |
-| Rural agricultural towns | Town | Low | Agricultural preservation unless mapped for growth. |
+|--------------|------|------------------------|-------|
+| Clintonville | City | Not yet assessed | Verify growth potential |
+| Manawa | City | Not yet assessed | Verify growth potential |
+| Marion | City | Not yet assessed | Verify growth potential |
+| New London | City | Not yet assessed | Verify growth potential |
+| Big Falls | Village | Not yet assessed | Verify growth potential |
+| Embarrass | Village | Not yet assessed | Verify growth potential |
+| Ogdensburg | Village | Not yet assessed | Verify growth potential |
+| Bear Creek | Town | Not yet assessed | Verify growth potential |
+| Caledonia | Town | Not yet assessed | Verify growth potential |
+| Dayton | Town | Not yet assessed | Verify growth potential |
+| Dupont | Town | Not yet assessed | Verify growth potential |
+| Farmington | Town | Not yet assessed | Verify growth potential |
+| Fremont | Town | Not yet assessed | Verify growth potential |
+| Harrison | Town | Not yet assessed | Verify growth potential |
+| Helvetia | Town | Not yet assessed | Verify growth potential |
+| Iola | Town | Not yet assessed | Verify growth potential |
+| Larrabee | Town | Not yet assessed | Verify growth potential |
+| Lebanon | Town | Not yet assessed | Verify growth potential |
+| Lind | Town | Not yet assessed | Verify growth potential |
+| Little Wolf | Town | Not yet assessed | Verify growth potential |
+| Matteson | Town | Not yet assessed | Verify growth potential |
+| Mukwa | Town | Not yet assessed | Verify growth potential |
+| Royalton | Town | Not yet assessed | Verify growth potential |
+| Scandinavia | Town | Not yet assessed | Verify growth potential |
+| St. Lawrence | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Not yet assessed | Verify growth potential |
+| Waupaca | Town | Not yet assessed | Verify growth potential |
+| Weyauwega | Town | Not yet assessed | Verify growth potential |
+| Wyoming | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Baldwins Mill
+- Bear Creek Corners
+- Buckbee
+- Carmel
+- Chain O' Lakes
+- Cobb Town
+- Evanswood
+- Gills Landing
+- Hunting
+- King
+- Lind Center
+- Little Hope
+- Nicholson
+- Norske
+- North Readfield
+- Northland
+- Northport
+- Ostrander
+- Parfreyville
+- Readfield
+- Red Banks
+- Royalton
+- Rural
+- Schmidt Corner
+- Shaw Landing
+- Sheridan
+- Symco
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Waupaca, New London, Highway 10 corridor.

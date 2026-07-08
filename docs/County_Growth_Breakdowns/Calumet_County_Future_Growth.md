@@ -47,20 +47,50 @@ Calumet County planners want controlled, efficient growth that protects farmland
 
 ## Calumet County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Appleton          | City   | Moderate               | Focus on redevelopment and infill (Calumet County portion). |
-| City of Chilton           | City   | Low to Moderate        | Limited growth. |
-| Village of Hilbert        | Village| Low to Moderate        | Residential growth expected. |
-| Village of Brillion       | Village| Low to Moderate        | Limited growth. |
-| Town of Chilton           | Town   | Low to Moderate        | Growth near the City of Chilton. |
-| Town of Brillion          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Stockbridge       | Town   | Low                    | Rural character to be preserved. |
-| Town of Woodville         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Rantoul           | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Appleton | City | Moderate | Focus on redevelopment and infill (Calumet County portion). |
+| Kaukauna | City | Not yet assessed | Verify growth potential |
+| Kiel | City | Not yet assessed | Verify growth potential |
+| Menasha | City | Not yet assessed | Verify growth potential |
+| Hilbert | Village | Low to Moderate | Residential growth expected. |
+| Potter | Village | Not yet assessed | Verify growth potential |
+| Sherwood | Village | Not yet assessed | Verify growth potential |
+| Brillion | Town | Low | Agricultural and rural focus. |
+| Brothertown | Town | Not yet assessed | Verify growth potential |
+| Charlestown | Town | Not yet assessed | Verify growth potential |
+| Chilton | Town | Low to Moderate | Growth near the City of Chilton. |
+| Forest Junction | Town | Not yet assessed | Verify growth potential |
+| Harrison | Town | Not yet assessed | Verify growth potential |
+| New Holstein | Town | Not yet assessed | Verify growth potential |
+| Rantoul | Town | Low | Limited development expected. |
+| Stockbridge | Town | Low | Rural character to be preserved. |
+| Woodville | Town | Low | Agricultural preservation priority. |
 
----
+### Unincorporated communities
 
+- Brant
+- Brothertown
+- Calumetville
+- Charlesburg
+- Dundas
+- Eckers Lakeland
+- Harrison
+- Hayton
+- Highland Beach
+- Jericho
+- Kloten
+- Maple Heights
+- Meggers
+- Pequot
+- Quinney
+- Rockaway Beach
+- Saint Catherines Bay
+- St. Anna
+- St. John
+- Utowana Beach
+- Waverly Beach
+- Wells
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

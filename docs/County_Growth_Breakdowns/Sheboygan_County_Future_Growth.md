@@ -48,21 +48,62 @@ Sheboygan County planners want controlled, efficient growth that protects farmla
 
 ## Sheboygan County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Sheboygan         | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Plymouth          | City   | Moderate               | Steady residential and commercial growth. |
-| City of Sheboygan Falls   | City   | Low to Moderate        | Limited growth. |
-| Village of Kohler         | Village| Low                    | Limited development expected. |
-| Village of Elkhart Lake   | Village| Low                    | Tourism-focused growth. |
-| Town of Sheboygan         | Town   | Low to Moderate        | Growth near the City of Sheboygan. |
-| Town of Plymouth          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Rhine             | Town   | Low                    | Rural character to be preserved. |
-| Town of Herman            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Mosel             | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Adell | Village | Not yet assessed | Verify growth potential |
+| Cascade | Village | Not yet assessed | Verify growth potential |
+| Cedar Grove | Village | Not yet assessed | Verify growth potential |
+| Elkhart Lake | Village | Low | Tourism-focused growth. |
+| Glenbeulah | Village | Not yet assessed | Verify growth potential |
+| Howards Grove | Village | Not yet assessed | Verify growth potential |
+| Kohler | Village | Low | Limited development expected. |
+| Oostburg | Village | Not yet assessed | Verify growth potential |
+| Random Lake | Village | Not yet assessed | Verify growth potential |
+| Waldo | Village | Not yet assessed | Verify growth potential |
+| Greenbush | Town | Not yet assessed | Verify growth potential |
+| Herman | Town | Low | Agricultural preservation priority. |
+| Holland | Town | Not yet assessed | Verify growth potential |
+| Lima | Town | Not yet assessed | Verify growth potential |
+| Lyndon | Town | Not yet assessed | Verify growth potential |
+| Mitchell | Town | Not yet assessed | Verify growth potential |
+| Mosel | Town | Low | Limited development expected. |
+| Plymouth | Town | Low | Agricultural and rural focus. |
+| Rhine | Town | Low | Rural character to be preserved. |
+| Russell | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Sheboygan | Town | Low to Moderate | Growth near the City of Sheboygan. |
+| Sheboygan Falls | Town | Low to Moderate | Limited growth. |
+| Sherman | Town | Not yet assessed | Verify growth potential |
+| Wilson | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Ada
+- Batavia
+- Beechwood
+- Cranberry Marsh
+- Dacada
+- Edwards
+- Franklin
+- German Corners
+- Gibbsville
+- Gooseville
+- Greenbush
+- Haven
+- Hayen
+- Hingham
+- Hulls Crossing
+- Idlewood Beach
+- Johnsonville
+- Mosel
+- New Paris
+- Ourtown
+- Parnell
+- Rhine Center
+- Silver Creek
+- St. Anna
+- Weedens
+- Winooski
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

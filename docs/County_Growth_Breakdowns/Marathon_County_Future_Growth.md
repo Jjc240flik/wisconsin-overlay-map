@@ -53,17 +53,113 @@ Marathon County should be researched as a Wausau-metro-and-corridor growth count
 ## Marathon County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Wausau | City | Moderate | Built-out core; infill/redevelopment likely. |
-| Weston | Village | High | Major suburban growth node; verify FLU map. |
-| Rib Mountain | Town/Village | Moderate to High | Commercial/residential growth near Wausau corridor. |
-| Kronenwetter | Village | Moderate to High | Residential/suburban growth potential. |
-| Mosinee | City | Moderate | Highway/airport/corridor influence. |
-| Marathon City | Village | Low to Moderate | Local growth node; verify plan. |
-| Rural towns | Town | Low | Agricultural/rural preservation likely unless mapped for growth. |
+|--------------|------|------------------------|-------|
+| Abbotsford | City | Not yet assessed | Verify growth potential |
+| Colby | City | Not yet assessed | Verify growth potential |
+| Marshfield | City | Not yet assessed | Verify growth potential |
+| Schofield | City | Not yet assessed | Verify growth potential |
+| Athens | Village | Not yet assessed | Verify growth potential |
+| Birnamwood | Village | Not yet assessed | Verify growth potential |
+| Dorchester | Village | Not yet assessed | Verify growth potential |
+| Edgar | Village | Not yet assessed | Verify growth potential |
+| Fenwood | Village | Not yet assessed | Verify growth potential |
+| Hatley | Village | Not yet assessed | Verify growth potential |
+| Kronenwetter | Village | Not yet assessed | Verify growth potential |
+| Maine | Village | Not yet assessed | Verify growth potential |
+| Marathon City | Village | Not yet assessed | Verify growth potential |
+| Rib Mountain | Village | Not yet assessed | Verify growth potential |
+| Rothschild | Village | Not yet assessed | Verify growth potential |
+| Stratford | Village | Not yet assessed | Verify growth potential |
+| Unity | Village | Not yet assessed | Verify growth potential |
+| Bergen | Town | Not yet assessed | Verify growth potential |
+| Berlin | Town | Not yet assessed | Verify growth potential |
+| Bern | Town | Not yet assessed | Verify growth potential |
+| Bevent | Town | Not yet assessed | Verify growth potential |
+| Brighton | Town | Not yet assessed | Verify growth potential |
+| Cassel | Town | Not yet assessed | Verify growth potential |
+| Cleveland | Town | Not yet assessed | Verify growth potential |
+| Day | Town | Not yet assessed | Verify growth potential |
+| Easton | Town | Not yet assessed | Verify growth potential |
+| Eau Pleine | Town | Not yet assessed | Verify growth potential |
+| Elderon | Town | Not yet assessed | Verify growth potential |
+| Emmet | Town | Not yet assessed | Verify growth potential |
+| Frankfort | Town | Not yet assessed | Verify growth potential |
+| Franzen | Town | Not yet assessed | Verify growth potential |
+| Green Valley | Town | Not yet assessed | Verify growth potential |
+| Guenther | Town | Not yet assessed | Verify growth potential |
+| Halsey | Town | Not yet assessed | Verify growth potential |
+| Hamburg | Town | Not yet assessed | Verify growth potential |
+| Harrison | Town | Not yet assessed | Verify growth potential |
+| Hewitt | Town | Not yet assessed | Verify growth potential |
+| Holton | Town | Not yet assessed | Verify growth potential |
+| Hull | Town | Not yet assessed | Verify growth potential |
+| Johnson | Town | Not yet assessed | Verify growth potential |
+| Knowlton | Town | Not yet assessed | Verify growth potential |
+| Marathon | Town | Not yet assessed | Verify growth potential |
+| McMillan | Town | Not yet assessed | Verify growth potential |
+| Mosinee | Town | Not yet assessed | Verify growth potential |
+| Norrie | Town | Not yet assessed | Verify growth potential |
+| Plover | Town | Not yet assessed | Verify growth potential |
+| Reid | Town | Not yet assessed | Verify growth potential |
+| Rib Falls | Town | Not yet assessed | Verify growth potential |
+| Rietbrock | Town | Not yet assessed | Verify growth potential |
+| Ringle | Town | Not yet assessed | Verify growth potential |
+| Spencer | Town | Not yet assessed | Verify growth potential |
+| Stettin | Town | Not yet assessed | Verify growth potential |
+| Texas | Town | Not yet assessed | Verify growth potential |
+| Wausau | Town | Not yet assessed | Verify growth potential |
+| Weston | Town | Not yet assessed | Verify growth potential |
+| Wien | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Ashley
+- Bradley
+- Cherokee
+- Corinth
+- Dancy
+- Emmerich
+- Evergreen
+- Gad
+- Galloway
+- Glandon
+- Granite Heights
+- Halder
+- Hamburg
+- Hogarty
+- Holt
+- Johnson
+- Kalinke
+- Knowlton
+- Little Chicago
+- Little Eau Claire
+- Little Rose
+- Mann
+- March Rapids
+- McMillan
+- Milan
+- Moon
+- Mount View
+- Naugart
+- Norrie
+- Nutterville
+- Pike Lake
+- Poniatowski
+- Rangeline
+- Rib Falls
+- Rib Mountain
+- Ringle
+- Rocky Corners
+- Rozellville
+- Schnappsville
+- Shantytown
+- Snell
+- Sunset
+- Swan
+- Taegesville
+- Weber
+- Wien
+- Wuertsburg
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Weston, Kronenwetter, Rib Mountain, Wausau metro edge.

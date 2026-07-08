@@ -46,20 +46,75 @@ Douglas County planners want controlled, efficient growth that protects farmland
 
 ## Douglas County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Superior          | City   | Moderate               | Focus on redevelopment and infill. |
-| Village of Lake Nebagamon | Village| Low to Moderate        | Residential growth expected. |
-| Village of Poplar         | Village| Low                    | Limited development expected. |
-| Town of Superior          | Town   | Low to Moderate        | Growth near the City of Superior. |
-| Town of Amnicon           | Town   | Low                    | Agricultural and rural focus. |
-| Town of Bennett           | Town   | Low                    | Rural character to be preserved. |
-| Town of Brule             | Town   | Low                    | Agricultural preservation priority. |
-| Town of Hawthorne         | Town   | Low                    | Limited development expected. |
-| Town of Lakeside          | Town   | Low                    | Agricultural focus. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Lake Nebagamon | Village | Low to Moderate | Residential growth expected. |
+| Oliver | Village | Not yet assessed | Verify growth potential |
+| Poplar | Village | Low | Limited development expected. |
+| Amnicon | Town | Low | Agricultural and rural focus. |
+| Bennett | Town | Low | Rural character to be preserved. |
+| Brule | Town | Low | Agricultural preservation priority. |
+| Cloverland | Town | Not yet assessed | Verify growth potential |
+| Dairyland | Town | Not yet assessed | Verify growth potential |
+| Gordon | Town | Not yet assessed | Verify growth potential |
+| Hawthorne | Town | Low | Limited development expected. |
+| Highland | Town | Not yet assessed | Verify growth potential |
+| Lakeside | Town | Low | Agricultural focus. |
+| Maple | Town | Not yet assessed | Verify growth potential |
+| Oakland | Town | Not yet assessed | Verify growth potential |
+| Parkland | Town | Not yet assessed | Verify growth potential |
+| Solon Springs | Town | Not yet assessed | Verify growth potential |
+| Summit | Town | Not yet assessed | Verify growth potential |
+| Superior | Town | Low to Moderate | Growth near the City of Superior. |
+| Wascott | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Ambridge
+- Amnicon Falls
+- Anton
+- Beebe
+- Bellwood
+- Bennett
+- Black River
+- Blueberry
+- Borea
+- Boylston
+- Boylston Junction
+- Brule
+- Carnegie
+- Chaffey
+- Cloverland
+- Cozy Corner
+- Cutter
+- Dairyland
+- Dedham
+- Dewey
+- Dobie
+- Four Corners
+- Foxboro
+- Gordon
+- Hawthorne
+- Hillcrest
+- Hines
+- Maple
+- Middle River
+- Moose Junction
+- Parkland
+- Patzau
+- Peyton
+- Pokegama
+- Riverview
+- Rockmont
+- Saunders
+- Sauntry
+- South Itasca
+- South Range
+- Sunnyside
+- Waino
+- Wascott
+- Wentworth
+- Winneboujou
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

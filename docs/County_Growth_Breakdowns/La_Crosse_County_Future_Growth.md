@@ -52,16 +52,43 @@ La Crosse County should be researched as a metro-core and corridor-growth county
 ## La Crosse County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| La Crosse | City | Moderate | Built-out urban core; focus on redevelopment/infill. |
-| Onalaska | City | Moderate to High | Suburban growth node; verify FLU map. |
-| Holmen | Village | High | Strong growth corridor/community candidate. |
-| West Salem | Village | Moderate | Corridor/community growth; verify plan. |
-| Bangor | Village | Low to Moderate | Limited but corridor-related growth possible. |
-| Rural towns | Town | Low | Farmland/natural resource preservation likely important. |
+|--------------|------|------------------------|-------|
+| La Crosse | City | Not yet assessed | Verify growth potential |
+| French Island | Village | Not yet assessed | Verify growth potential |
+| Holmen | Village | Not yet assessed | Verify growth potential |
+| Rockland | Village | Not yet assessed | Verify growth potential |
+| West Salem | Village | Not yet assessed | Verify growth potential |
+| Bangor | Town | Not yet assessed | Verify growth potential |
+| Barre | Town | Not yet assessed | Verify growth potential |
+| Burns | Town | Not yet assessed | Verify growth potential |
+| Farmington | Town | Not yet assessed | Verify growth potential |
+| Greenfield | Town | Not yet assessed | Verify growth potential |
+| Hamilton | Town | Not yet assessed | Verify growth potential |
+| Holland | Town | Not yet assessed | Verify growth potential |
+| Medary | Town | Not yet assessed | Verify growth potential |
+| Onalaska | Town | Not yet assessed | Verify growth potential |
+| Shelby | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Barre Mills
+- Brice Prairie
+- Burns
+- Burns Corners
+- Burr Oak
+- Council Bay
+- French Island
+- Medary
+- Middle Ridge
+- Midway
+- Mindoro
+- New Amsterdam
+- Newberg Corners
+- Shelby
+- St. Joseph
+- Stevenstown
+- West La Crosse
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Holmen, Onalaska, and metro La Crosse edge areas.

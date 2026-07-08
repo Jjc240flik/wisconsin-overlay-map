@@ -47,20 +47,24 @@ Green Lake County planners want controlled, efficient growth that protects farml
 
 ## Green Lake County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Green Lake        | City   | Low to Moderate        | Limited growth. |
-| City of Berlin            | City   | Low to Moderate        | Residential growth expected. |
-| Village of Markesan       | Village| Low                    | Limited development expected. |
-| Village of Princeton      | Village| Low                    | Limited growth. |
-| Town of Green Lake        | Town   | Low to Moderate        | Growth near the City of Green Lake. |
-| Town of Berlin            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Mackford          | Town   | Low                    | Rural character to be preserved. |
-| Town of Marquette         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Princeton         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Markesan | City | Low | Limited development expected. |
+| Berlin | Town | Low | Agricultural and rural focus. |
+| Brooklyn | Town | Not yet assessed | Verify growth potential |
+| Dalton | Town | Not yet assessed | Verify growth potential |
+| Green Lake | Town | Low to Moderate | Growth near the City of Green Lake. |
+| Kingston | Town | Not yet assessed | Verify growth potential |
+| Mackford | Town | Low | Rural character to be preserved. |
+| Manchester | Town | Not yet assessed | Verify growth potential |
+| Marquette | Town | Low | Agricultural preservation priority. |
+| Princeton | Town | Low | Limited development expected. |
+| Seneca | Town | Not yet assessed | Verify growth potential |
+| St. Marie | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Manchester
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

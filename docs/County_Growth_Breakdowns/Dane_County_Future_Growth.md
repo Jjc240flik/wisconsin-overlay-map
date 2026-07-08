@@ -48,21 +48,114 @@ Dane County planners want controlled, efficient growth that protects farmland, u
 
 ## Dane County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Madison           | City   | High                   | Significant redevelopment and infill expected. |
-| City of Middleton         | City   | Moderate               | Steady residential and commercial growth. |
-| City of Sun Prairie       | City   | Moderate to High       | Significant residential growth expected. |
-| Village of McFarland      | Village| Moderate               | Residential growth expected. |
-| Village of Oregon         | Village| Moderate               | Residential growth expected. |
-| Town of Madison           | Town   | Low to Moderate        | Growth near the City of Madison. |
-| Town of Middleton         | Town   | Low                    | Agricultural and rural focus. |
-| Town of Sun Prairie       | Town   | Low                    | Rural character to be preserved. |
-| Town of Verona            | Town   | Low to Moderate        | Growth near the City of Verona. |
-| Town of Windsor           | Town   | Moderate               | Residential growth expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Edgerton | City | Not yet assessed | Verify growth potential |
+| Fitchburg | City | Not yet assessed | Verify growth potential |
+| Madison | City | Low to Moderate | Growth near the City of Madison. |
+| Monona | City | Not yet assessed | Verify growth potential |
+| Stoughton | City | Not yet assessed | Verify growth potential |
+| Belleville | Village | Not yet assessed | Verify growth potential |
+| Brooklyn | Village | Not yet assessed | Verify growth potential |
+| Cambridge | Village | Not yet assessed | Verify growth potential |
+| DeForest | Village | Not yet assessed | Verify growth potential |
+| Maple Bluff | Village | Not yet assessed | Verify growth potential |
+| Marshall | Village | Not yet assessed | Verify growth potential |
+| McFarland | Village | Moderate | Residential growth expected. |
+| Mount Horeb | Village | Not yet assessed | Verify growth potential |
+| Rockdale | Village | Not yet assessed | Verify growth potential |
+| Shorewood Hills | Village | Not yet assessed | Verify growth potential |
+| Waunakee | Village | Not yet assessed | Verify growth potential |
+| Windsor | Village | Moderate | Residential growth expected. |
+| Albion | Town | Not yet assessed | Verify growth potential |
+| Berry | Town | Not yet assessed | Verify growth potential |
+| Black Earth | Town | Not yet assessed | Verify growth potential |
+| Blooming Grove | Town | Not yet assessed | Verify growth potential |
+| Blue Mounds | Town | Not yet assessed | Verify growth potential |
+| Bristol | Town | Not yet assessed | Verify growth potential |
+| Burke | Town | Not yet assessed | Verify growth potential |
+| Christiana | Town | Not yet assessed | Verify growth potential |
+| Cottage Grove | Town | Not yet assessed | Verify growth potential |
+| Cross Plains | Town | Not yet assessed | Verify growth potential |
+| Dane | Town | Not yet assessed | Verify growth potential |
+| Deerfield | Town | Not yet assessed | Verify growth potential |
+| Dunkirk | Town | Not yet assessed | Verify growth potential |
+| Dunn | Town | Not yet assessed | Verify growth potential |
+| Mazomanie | Town | Not yet assessed | Verify growth potential |
+| Medina | Town | Not yet assessed | Verify growth potential |
+| Middleton | Town | Low | Agricultural and rural focus. |
+| Montrose | Town | Not yet assessed | Verify growth potential |
+| Oregon | Town | Moderate | Residential growth expected. |
+| Perry | Town | Not yet assessed | Verify growth potential |
+| Pleasant Springs | Town | Not yet assessed | Verify growth potential |
+| Primrose | Town | Not yet assessed | Verify growth potential |
+| Roxbury | Town | Not yet assessed | Verify growth potential |
+| Rutland | Town | Not yet assessed | Verify growth potential |
+| Springdale | Town | Not yet assessed | Verify growth potential |
+| Springfield | Town | Not yet assessed | Verify growth potential |
+| Sun Prairie | Town | Low | Rural character to be preserved. |
+| Vermont | Town | Not yet assessed | Verify growth potential |
+| Verona | Town | Low to Moderate | Growth near the City of Verona. |
+| Vienna | Town | Not yet assessed | Verify growth potential |
+| Westport | Town | Not yet assessed | Verify growth potential |
+| York | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Albion
+- Aldens Corners
+- Ashton
+- Basco
+- Burke
+- Daleyville
+- Deansville
+- Door Creek
+- Dunkirk
+- East Bristol
+- Elvers
+- Fitchburg Center
+- Five Points
+- Forward
+- Hanerville
+- Highwood
+- Hillside
+- Ho-Chunk Indian Reservation
+- Hoffman Corners
+- Hope
+- Indian Heights
+- Kegonsa
+- Kingsley Corners
+- Klevenville
+- Lake Windsor
+- London
+- Lutheran Hill
+- Martinsville
+- Marxville
+- Middleton Junction
+- Montrose
+- Morrisonville
+- Mt. Vernon
+- Nora
+- Norway Grove
+- Oak Hall
+- Old Deerfield
+- Paoli
+- Pierceville
+- Pine Bluff
+- Primrose
+- Riley
+- Roxbury
+- Rutland
+- Schey Acres
+- Seminary Springs
+- Springfield Corners
+- Stone
+- Token Creek
+- Utica
+- Vermont
+- Vilas
+- West Middleton
+- York Center
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

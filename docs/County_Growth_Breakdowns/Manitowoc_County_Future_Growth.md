@@ -52,16 +52,78 @@ Manitowoc County is strong for current-vs-future zoning comparison because the p
 ## Manitowoc County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Manitowoc | City | Moderate | Built-out city; redevelopment/infill plus corridor growth. |
-| Two Rivers | City | Low to Moderate | Waterfront/community redevelopment potential. |
-| Kiel | City | Low to Moderate | Local service node; verify FLU. |
-| Valders | Village | Low to Moderate | Local growth node; verify map. |
-| Reedsville | Village | Low | Limited growth unless mapped otherwise. |
-| Rural agricultural towns | Town | Low | Farmland preservation likely important. |
+|--------------|------|------------------------|-------|
+| Kiel | City | Not yet assessed | Verify growth potential |
+| Cleveland | Village | Not yet assessed | Verify growth potential |
+| Francis Creek | Village | Not yet assessed | Verify growth potential |
+| Kellnersville | Village | Not yet assessed | Verify growth potential |
+| Maribel | Village | Not yet assessed | Verify growth potential |
+| Reedsville | Village | Not yet assessed | Verify growth potential |
+| St. Nazianz | Village | Not yet assessed | Verify growth potential |
+| Valders | Village | Not yet assessed | Verify growth potential |
+| Whitelaw | Village | Not yet assessed | Verify growth potential |
+| Cato | Town | Not yet assessed | Verify growth potential |
+| Centerville | Town | Not yet assessed | Verify growth potential |
+| Cooperstown | Town | Not yet assessed | Verify growth potential |
+| Eaton | Town | Not yet assessed | Verify growth potential |
+| Franklin | Town | Not yet assessed | Verify growth potential |
+| Gibson | Town | Not yet assessed | Verify growth potential |
+| Kossuth | Town | Not yet assessed | Verify growth potential |
+| Liberty | Town | Not yet assessed | Verify growth potential |
+| Manitowoc | Town | Not yet assessed | Verify growth potential |
+| Manitowoc Rapids | Town | Not yet assessed | Verify growth potential |
+| Maple Grove | Town | Not yet assessed | Verify growth potential |
+| Meeme | Town | Not yet assessed | Verify growth potential |
+| Mishicot | Town | Not yet assessed | Verify growth potential |
+| Newton | Town | Not yet assessed | Verify growth potential |
+| Rockland | Town | Not yet assessed | Verify growth potential |
+| Schleswig | Town | Not yet assessed | Verify growth potential |
+| Two Creeks | Town | Not yet assessed | Verify growth potential |
+| Two Rivers | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Branch
+- Cato
+- Cato Falls
+- Clarks Mills
+- Clover
+- Collins
+- Cooperstown
+- Duveneck
+- Fisherville
+- Grimms
+- Hickory Grove
+- Kellners Corners
+- Kingsbridge
+- Larrabee
+- Louis Corners
+- Madsen
+- Maple Grove
+- Meeme
+- Meggers
+- Melnik
+- Menchalville
+- Millhome
+- Newton
+- Newtonburg
+- North Grimms
+- Northeim
+- Osman
+- Reifs Mills
+- Rockville
+- Rockwood
+- Rosecrans
+- Rube
+- School Hill
+- Shoto
+- Spring Valley
+- Steinthal
+- Taus
+- Tisch Mills
+- Two Creeks
+- Wells
+- Zander
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Manitowoc, Two Rivers, and I-43 / Highway 10 corridor nodes.

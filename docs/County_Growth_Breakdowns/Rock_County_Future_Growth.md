@@ -48,21 +48,70 @@ Rock County planners want controlled, efficient growth that protects farmland, u
 
 ## Rock County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Janesville        | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Beloit            | City   | Moderate               | Steady residential and commercial growth. |
-| City of Milton            | City   | Low to Moderate        | Limited growth. |
-| Village of Clinton        | Village| Low to Moderate        | Residential growth expected. |
-| Village of Footville      | Village| Low                    | Limited development expected. |
-| Town of Janesville        | Town   | Low to Moderate        | Growth near the City of Janesville. |
-| Town of Beloit            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Rock              | Town   | Low                    | Rural character to be preserved. |
-| Town of Fulton            | Town   | Low                    | Agricultural preservation priority. |
-| Town of Lima              | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Brodhead | City | Not yet assessed | Verify growth potential |
+| Edgerton | City | Not yet assessed | Verify growth potential |
+| Evansville | City | Not yet assessed | Verify growth potential |
+| Footville | Village | Low | Limited development expected. |
+| Orfordville | Village | Not yet assessed | Verify growth potential |
+| Avon | Town | Not yet assessed | Verify growth potential |
+| Beloit | Town | Low | Agricultural and rural focus. |
+| Bradford | Town | Not yet assessed | Verify growth potential |
+| Center | Town | Not yet assessed | Verify growth potential |
+| Clinton | Town | Low to Moderate | Residential growth expected. |
+| Fulton | Town | Low | Agricultural preservation priority. |
+| Harmony | Town | Not yet assessed | Verify growth potential |
+| Janesville | Town | Low to Moderate | Growth near the City of Janesville. |
+| Johnstown | Town | Not yet assessed | Verify growth potential |
+| La Prairie | Town | Not yet assessed | Verify growth potential |
+| Lima | Town | Low | Limited development expected. |
+| Magnolia | Town | Not yet assessed | Verify growth potential |
+| Milton | Town | Low to Moderate | Limited growth. |
+| Newark | Town | Not yet assessed | Verify growth potential |
+| Plymouth | Town | Not yet assessed | Verify growth potential |
+| Porter | Town | Not yet assessed | Verify growth potential |
+| Rock | Town | Low | Rural character to be preserved. |
+| Spring Valley | Town | Not yet assessed | Verify growth potential |
+| Turtle | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Afton
+- Anderson
+- Avalon
+- Avon
+- Belcrest
+- Bergen
+- Cainville
+- Center
+- Charlie Bluff
+- Cooksville
+- Coopers Shores
+- Crestview
+- Emerald Grove
+- Fairfield
+- Foxhollow
+- Fulton
+- Hanover
+- Indianford
+- Johnstown
+- Johnstown Center
+- Koshkonong
+- Leyden
+- Lima Center
+- Magnolia
+- Mallwood
+- Maple Beach
+- Newark
+- Newville
+- Porters
+- Shopiere
+- Stebbinsville
+- Tiffany
+- Union
+- Victory Heights
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

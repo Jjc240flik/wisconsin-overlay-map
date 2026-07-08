@@ -52,17 +52,65 @@ Polk County should be researched as a Twin Cities-adjacent / lake corridor count
 ## Polk County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Amery | City | Moderate to High | Lake/corridor growth; strong FLU potential. |
-| St. Croix Falls | City | Moderate | River corridor / tourism node. |
-| Osceola | Village | Moderate | River corridor / tourist community; verify plan. |
-| Frederic | Village | Low to Moderate | Local growth node. |
-| Luck | Village | Low to Moderate | Lake community growth potential. |
-| Rural lake/corridor towns | Town | Low to Moderate | Best targets if mapped for growth. |
-| Rural agricultural towns | Town | Low | Agricultural/rural preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Amery | City | Not yet assessed | Verify growth potential |
+| Centuria | Village | Not yet assessed | Verify growth potential |
+| Dresser | Village | Not yet assessed | Verify growth potential |
+| Frederic | Village | Not yet assessed | Verify growth potential |
+| Turtle Lake | Village | Not yet assessed | Verify growth potential |
+| Alden | Town | Not yet assessed | Verify growth potential |
+| Apple River | Town | Not yet assessed | Verify growth potential |
+| Balsam Lake | Town | Not yet assessed | Verify growth potential |
+| Beaver | Town | Not yet assessed | Verify growth potential |
+| Black Brook | Town | Not yet assessed | Verify growth potential |
+| Bone Lake | Town | Not yet assessed | Verify growth potential |
+| Clam Falls | Town | Not yet assessed | Verify growth potential |
+| Clayton | Town | Not yet assessed | Verify growth potential |
+| Clear Lake | Town | Not yet assessed | Verify growth potential |
+| Eureka | Town | Not yet assessed | Verify growth potential |
+| Farmington | Town | Not yet assessed | Verify growth potential |
+| Garfield | Town | Not yet assessed | Verify growth potential |
+| Georgetown | Town | Not yet assessed | Verify growth potential |
+| Johnstown | Town | Not yet assessed | Verify growth potential |
+| Laketown | Town | Not yet assessed | Verify growth potential |
+| Lewis | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Lorain | Town | Not yet assessed | Verify growth potential |
+| Luck | Town | Not yet assessed | Verify growth potential |
+| McKinley | Town | Not yet assessed | Verify growth potential |
+| Milltown | Town | Not yet assessed | Verify growth potential |
+| Osceola | Town | Not yet assessed | Verify growth potential |
+| St. Croix Falls | Town | Not yet assessed | Verify growth potential |
+| Sterling | Town | Not yet assessed | Verify growth potential |
+| West Sweden | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Atlas
+- Bunyan
+- Clam Falls
+- Cushing
+- Deronda
+- East Farmington
+- Eureka Center
+- Fox Creek
+- Horse Creek
+- Indian Creek
+- Joel
+- Lamar
+- Little Falls
+- Lykens
+- McKinley
+- Nye
+- Pole Cat Crossing
+- Range
+- Richardson
+- Sand Lake
+- Ubet
+- Wanderoos
+- West Denmark
+- West Sweden
+- Wolf Creek
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Amery, St. Croix Falls, Osceola, Highway 8/35 corridor nodes.

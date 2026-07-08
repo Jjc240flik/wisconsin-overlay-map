@@ -51,16 +51,35 @@ Marquette County is important because it is actively updating its comprehensive 
 ## Marquette County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Montello | City | Low to Moderate | County seat / service node; verify update maps. |
-| Westfield | Village | Low to Moderate | I-39 / corridor influence. |
-| Oxford | Village | Low | Limited growth unless mapped. |
-| Packwaukee | Town | Low | Rural/lake context; verify plan. |
-| I-39 corridor towns | Town | Low to Moderate | Best candidates if future map supports growth. |
-| Rural ag towns | Town | Low | Farmland preservation likely important. |
+|--------------|------|------------------------|-------|
+| Endeavor | Village | Not yet assessed | Verify growth potential |
+| Briggsville | Town | Not yet assessed | Verify growth potential |
+| Buffalo | Town | Not yet assessed | Verify growth potential |
+| Crystal Lake | Town | Not yet assessed | Verify growth potential |
+| Douglas | Town | Not yet assessed | Verify growth potential |
+| Harris | Town | Not yet assessed | Verify growth potential |
+| Harrisville | Town | Not yet assessed | Verify growth potential |
+| Mecan | Town | Not yet assessed | Verify growth potential |
+| Montello | Town | Not yet assessed | Verify growth potential |
+| Moundville | Town | Not yet assessed | Verify growth potential |
+| Neshkoro | Town | Not yet assessed | Verify growth potential |
+| Newton | Town | Not yet assessed | Verify growth potential |
+| Oxford | Town | Not yet assessed | Verify growth potential |
+| Packwaukee | Town | Not yet assessed | Verify growth potential |
+| Shields | Town | Not yet assessed | Verify growth potential |
+| Springfield | Town | Not yet assessed | Verify growth potential |
+| Westfield | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Budsin
+- Buffalo Shore Estates
+- Douglas Center
+- Germania
+- Glen Oak
+- Harrisville
+- Lawrence
+- Mecan
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Montello, Westfield, and I-39/Highway 23 nodes.

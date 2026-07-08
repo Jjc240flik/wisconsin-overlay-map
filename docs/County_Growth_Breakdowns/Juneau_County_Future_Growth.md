@@ -51,16 +51,42 @@ Juneau County should be researched around Mauston/New Lisbon and I-90/94 corrido
 ## Juneau County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Mauston | City | Moderate | Primary county service/growth node; verify FLU map. |
-| New Lisbon | City | Low to Moderate | Corridor-related growth possible. |
-| Elroy | City | Low to Moderate | Local growth node; verify plan. |
-| Necedah | Village | Low to Moderate | Growth potential tied to local services and land use maps. |
-| Camp Douglas | Village | Low to Moderate | I-90/94 proximity may matter. |
-| Rural towns | Town | Low | Agricultural/rural preservation likely unless mapped otherwise. |
+|--------------|------|------------------------|-------|
+| Bristol | Village | Not yet assessed | Verify growth potential |
+| Genoa City | Village | Not yet assessed | Verify growth potential |
+| Paddock Lake | Village | Not yet assessed | Verify growth potential |
+| Pleasant Prairie | Village | Not yet assessed | Verify growth potential |
+| Salem Lakes | Village | Not yet assessed | Verify growth potential |
+| Twin Lakes | Village | Not yet assessed | Verify growth potential |
+| Brighton | Town | Not yet assessed | Verify growth potential |
+| Paris | Town | Not yet assessed | Verify growth potential |
+| Randall | Town | Not yet assessed | Verify growth potential |
+| Somers | Town | Not yet assessed | Verify growth potential |
+| Wheatland | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bassett
+- Benet Lake
+- Brighton
+- Camp Lake
+- Chapin
+- Cross Lake
+- Fox River
+- Klondike
+- Lake Shangrila
+- Liberty Corners
+- Lily Lake
+- New Munster
+- Paris
+- Powers Lake
+- Salem
+- Salem Oaks
+- Slades Corners
+- Trevor
+- Truesdell
+- Voltz Lake
+- Wilmot
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Mauston, New Lisbon, and I-90/94 corridor nodes.

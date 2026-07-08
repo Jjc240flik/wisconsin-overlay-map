@@ -52,16 +52,61 @@ St. Croix County is one of the highest-growth counties in Wisconsin due to Twin 
 ## St. Croix County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Hudson | City | High | Major Twin Cities exurban growth node. |
-| New Richmond | City | High | I-94 corridor/exurban growth; strong FLU potential. |
-| Baldwin | Village | Moderate | County service/corridor node. |
-| Somerset | Village | Moderate | I-94 corridor growth potential. |
-| I-94 corridor towns | Town | Moderate to High | Best rural growth targets if mapped. |
-| Rural/agricultural towns | Town | Low | Agricultural preservation likely unless mapped for growth. |
+|--------------|------|------------------------|-------|
+| Glenwood City | City | Not yet assessed | Verify growth potential |
+| New Richmond | City | Not yet assessed | Verify growth potential |
+| River Falls | City | Not yet assessed | Verify growth potential |
+| Deer Park | Village | Not yet assessed | Verify growth potential |
+| North Hudson | Village | Not yet assessed | Verify growth potential |
+| Roberts | Village | Not yet assessed | Verify growth potential |
+| Spring Valley | Village | Not yet assessed | Verify growth potential |
+| Wilson | Village | Not yet assessed | Verify growth potential |
+| Woodville | Village | Not yet assessed | Verify growth potential |
+| Baldwin | Town | Not yet assessed | Verify growth potential |
+| Cady | Town | Not yet assessed | Verify growth potential |
+| Cylon | Town | Not yet assessed | Verify growth potential |
+| Eau Galle | Town | Not yet assessed | Verify growth potential |
+| Emerald | Town | Not yet assessed | Verify growth potential |
+| Erin Prairie | Town | Not yet assessed | Verify growth potential |
+| Forest | Town | Not yet assessed | Verify growth potential |
+| Glenwood | Town | Not yet assessed | Verify growth potential |
+| Hammond | Town | Not yet assessed | Verify growth potential |
+| Hudson | Town | Not yet assessed | Verify growth potential |
+| Kinnickinnic | Town | Not yet assessed | Verify growth potential |
+| Pleasant Valley | Town | Not yet assessed | Verify growth potential |
+| Richmond | Town | Not yet assessed | Verify growth potential |
+| Rush River | Town | Not yet assessed | Verify growth potential |
+| Somerset | Town | Not yet assessed | Verify growth potential |
+| Springfield | Town | Not yet assessed | Verify growth potential |
+| St. Joseph | Town | Not yet assessed | Verify growth potential |
+| Stanton | Town | Not yet assessed | Verify growth potential |
+| Star Prairie | Town | Not yet assessed | Verify growth potential |
+| Troy | Town | Not yet assessed | Verify growth potential |
+| Warren | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Boardman
+- Burkhardt
+- Centerville
+- Cylon
+- Dahl
+- Emerald
+- Erin Corner
+- Forest
+- Glover
+- Hatchville
+- Hersey
+- Houlton
+- Huntington
+- Jewett
+- Johannesburg
+- Northline
+- Palmer
+- Sono Junction
+- Stanton
+- Viking
+- Wildwood
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Hudson, New Richmond, Somerset, I-94 corridor.

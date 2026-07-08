@@ -50,15 +50,38 @@ Vilas County should be researched as a lake/forest/tourism county with strongest
 ## Vilas County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Eagle River | City | Moderate | Primary tourism/service node. |
-| Lac du Flambeau | Community | Low to Moderate | Lake tourism/service node. |
-| Phelps | Town | Low | Limited growth. |
-| Boulder Junction | Town | Low | Lake tourism with limited growth. |
-| Rural lake/forest towns | Town | Low | Resource preservation dominant. |
+|--------------|------|------------------------|-------|
+| Arbor Vitae | Town | Not yet assessed | Verify growth potential |
+| Boulder Junction | Town | Not yet assessed | Verify growth potential |
+| Cloverland | Town | Not yet assessed | Verify growth potential |
+| Conover | Town | Not yet assessed | Verify growth potential |
+| Lac du Flambeau | Town | Not yet assessed | Verify growth potential |
+| Land O' Lakes | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Manitowish Waters | Town | Not yet assessed | Verify growth potential |
+| Phelps | Town | Not yet assessed | Verify growth potential |
+| Plum Lake | Town | Not yet assessed | Verify growth potential |
+| Presque Isle | Town | Not yet assessed | Verify growth potential |
+| St. Germain | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Not yet assessed | Verify growth potential |
+| Winchester | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Arbor Vitae
+- Boulder Junction
+- Conover
+- Katinka Village
+- Lac du Flambeau
+- Land O' Lakes
+- Manitowish Waters
+- Marlands
+- Phelps
+- Presque Isle
+- Sayner
+- St. Germain
+- Star Lake
+- Winchester
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Eagle River, highway corridor nodes.

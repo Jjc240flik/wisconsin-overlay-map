@@ -48,21 +48,64 @@ Waukesha County planners want controlled, efficient growth that protects farmlan
 
 ## Waukesha County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Waukesha          | City   | Moderate               | Focus on redevelopment and infill rather than major expansion. |
-| City of Brookfield        | City   | Moderate               | Mostly built out; future growth through redevelopment. |
-| Village of Menomonee Falls| Village| Moderate to High       | Significant residential and commercial growth expected. |
-| Village of Sussex         | Village| Moderate               | Steady residential growth. |
-| Town of Delafield         | Town   | Moderate               | Growth focused near the City of Delafield. |
-| Town of Lisbon            | Town   | Low to Moderate        | Rural character with limited growth. |
-| Town of Merton            | Town   | Low                    | Agricultural and rural preservation focus. |
-| Town of Oconomowoc        | Town   | Low to Moderate        | Limited growth; focus on preserving rural areas. |
-| Town of Genesee           | Town   | Low                    | Agricultural and low-density residential focus. |
-| Town of Mukwonago         | Town   | Low to Moderate        | Growth mainly near the Village of Mukwonago. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Muskego | City | Not yet assessed | Verify growth potential |
+| New Berlin | City | Not yet assessed | Verify growth potential |
+| Big Bend | Village | Not yet assessed | Verify growth potential |
+| Butler | Village | Not yet assessed | Verify growth potential |
+| Chenequa | Village | Not yet assessed | Verify growth potential |
+| Dousman | Village | Not yet assessed | Verify growth potential |
+| Elm Grove | Village | Not yet assessed | Verify growth potential |
+| Hartland | Village | Not yet assessed | Verify growth potential |
+| Lac La Belle | Village | Not yet assessed | Verify growth potential |
+| Lannon | Village | Not yet assessed | Verify growth potential |
+| Lisbon | Village | Low to Moderate | Rural character with limited growth. |
+| Menomonee Falls | Village | Moderate to High | Significant residential and commercial growth expected. |
+| Nashotah | Village | Not yet assessed | Verify growth potential |
+| North Prairie | Village | Not yet assessed | Verify growth potential |
+| Oconomowoc Lake | Village | Not yet assessed | Verify growth potential |
+| Pewaukee | Village | Not yet assessed | Verify growth potential |
+| Summit | Village | Not yet assessed | Verify growth potential |
+| Sussex | Village | Moderate | Steady residential growth. |
+| Vernon | Village | Not yet assessed | Verify growth potential |
+| Wales | Village | Not yet assessed | Verify growth potential |
+| Waukesha | Village | Moderate | Focus on redevelopment and infill rather than major expansion. |
+| Brookfield | Town | Moderate | Mostly built out; future growth through redevelopment. |
+| Delafield | Town | Moderate | Growth focused near the City of Delafield. |
+| Eagle | Town | Not yet assessed | Verify growth potential |
+| Genesee | Town | Low | Agricultural and low-density residential focus. |
+| Menomonee | Town | Not yet assessed | Verify growth potential |
+| Merton | Town | Low | Agricultural and rural preservation focus. |
+| Mukwonago | Town | Low to Moderate | Growth mainly near the Village of Mukwonago. |
+| Oconomowoc | Town | Low to Moderate | Limited growth; focus on preserving rural areas. |
+| Ottawa | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bethesda
+- Buena Vista
+- Camp Whitcomb
+- Colgate
+- Eagleville
+- Genesee
+- Genesee Depot
+- Goerke's Corners
+- Guthrie
+- Jericho
+- Lake Five
+- Mapleton
+- Monches
+- Monterey
+- North Lake
+- Okauchee Lake
+- Ottawa
+- Saylesville
+- Stone Bank
+- Summit Center
+- Summit Corners
+- Vernon
+- Waterville
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

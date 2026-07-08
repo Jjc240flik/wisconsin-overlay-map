@@ -48,21 +48,88 @@ Dodge County planners want controlled, efficient growth that protects farmland, 
 
 ## Dodge County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Beaver Dam        | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Watertown         | City   | Moderate               | Growth mainly in the Dodge County portion. |
-| City of Mayville          | City   | Low to Moderate        | Limited growth. |
-| Village of Lomira         | Village| Low to Moderate        | Residential growth near Highway 41. |
-| Village of Horicon        | Village| Low                    | Limited development expected. |
-| Town of Beaver Dam        | Town   | Low to Moderate        | Growth near the City of Beaver Dam. |
-| Town of Herman            | Town   | Low                    | Agricultural and rural focus. |
-| Town of Hubbard           | Town   | Low                    | Rural character to be preserved. |
-| Town of Leroy             | Town   | Low                    | Agricultural preservation priority. |
-| Town of Trenton           | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Columbus | City | Not yet assessed | Verify growth potential |
+| Hartford | City | Not yet assessed | Verify growth potential |
+| Horicon | City | Low | Limited development expected. |
+| Juneau | City | Not yet assessed | Verify growth potential |
+| Mayville | City | Low to Moderate | Limited growth. |
+| Watertown | City | Moderate | Growth mainly in the Dodge County portion. |
+| Waupun | City | Not yet assessed | Verify growth potential |
+| Brownsville | Village | Not yet assessed | Verify growth potential |
+| Kekoskee | Village | Not yet assessed | Verify growth potential |
+| Neosho | Village | Not yet assessed | Verify growth potential |
+| Randolph | Village | Not yet assessed | Verify growth potential |
+| Reeseville | Village | Not yet assessed | Verify growth potential |
+| Ashippun | Town | Not yet assessed | Verify growth potential |
+| Beaver Dam | Town | Low to Moderate | Growth near the City of Beaver Dam. |
+| Burnett | Town | Not yet assessed | Verify growth potential |
+| Calamus | Town | Not yet assessed | Verify growth potential |
+| Chester | Town | Not yet assessed | Verify growth potential |
+| Clyman | Town | Not yet assessed | Verify growth potential |
+| Elba | Town | Not yet assessed | Verify growth potential |
+| Emmet | Town | Not yet assessed | Verify growth potential |
+| Fox Lake | Town | Not yet assessed | Verify growth potential |
+| Herman | Town | Low | Agricultural and rural focus. |
+| Hubbard | Town | Low | Rural character to be preserved. |
+| Hustisford | Town | Not yet assessed | Verify growth potential |
+| Iron Ridge | Town | Not yet assessed | Verify growth potential |
+| Lebanon | Town | Not yet assessed | Verify growth potential |
+| LeRoy | Town | Low | Agricultural preservation priority. |
+| Lomira | Town | Low to Moderate | Residential growth near Highway 41. |
+| Lowell | Town | Not yet assessed | Verify growth potential |
+| Oak Grove | Town | Not yet assessed | Verify growth potential |
+| Portland | Town | Not yet assessed | Verify growth potential |
+| Rubicon | Town | Not yet assessed | Verify growth potential |
+| Shields | Town | Not yet assessed | Verify growth potential |
+| Theresa | Town | Not yet assessed | Verify growth potential |
+| Trenton | Town | Low | Limited development expected. |
+| Westford | Town | Not yet assessed | Verify growth potential |
+| Williamstown | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Alderley
+- Ashippun
+- Astico
+- Atwater
+- Beaver Edge
+- Burnett
+- Clason Prairie
+- Clyman Junction
+- Danville
+- Delbern Acres
+- East Waupun
+- Farmersville
+- Fox Lake Junction
+- Herman Center
+- Hochheim
+- Huilsburg
+- Knowles
+- LeRoy
+- Lebanon
+- Leipsig
+- Lost Lake
+- Lyndon Dale
+- Minnesota Junction
+- Nasbro
+- Neda
+- North Lowell
+- Oak Grove
+- Old Ashippun
+- Old Lebanon
+- Portland
+- Richwood
+- Rolling Prairie
+- Rubicon
+- Saylesville
+- South Beaver Dam
+- South Randolph
+- Sugar Island
+- Sunset Beach
+- Theresa Station
+- Woodland
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

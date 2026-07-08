@@ -50,15 +50,53 @@ Langlade County should be researched as a low-to-moderate growth county with Ant
 ## Langlade County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Antigo | City | Moderate | Primary county growth/service node; verify maps. |
-| White Lake | Village | Low | Limited growth expected. |
-| Elcho area | Town | Low to Moderate | Tourism/rural development possible; verify plan. |
-| Rolling | Town | Low | Has comprehensive plan lead; verify future land use. |
-| Rural forest/ag towns | Town | Low | Preservation and environmental constraints likely dominate. |
+|--------------|------|------------------------|-------|
+| Ackley | Town | Not yet assessed | Verify growth potential |
+| Ainsworth | Town | Not yet assessed | Verify growth potential |
+| Antigo | Town | Not yet assessed | Verify growth potential |
+| Elcho | Town | Not yet assessed | Verify growth potential |
+| Evergreen | Town | Not yet assessed | Verify growth potential |
+| Langlade | Town | Not yet assessed | Verify growth potential |
+| Neva | Town | Not yet assessed | Verify growth potential |
+| Norwood | Town | Not yet assessed | Verify growth potential |
+| Parrish | Town | Not yet assessed | Verify growth potential |
+| Peck | Town | Not yet assessed | Verify growth potential |
+| Polar | Town | Not yet assessed | Verify growth potential |
+| Price | Town | Not yet assessed | Verify growth potential |
+| Rolling | Town | Not yet assessed | Verify growth potential |
+| Summit | Town | Not yet assessed | Verify growth potential |
+| Upham | Town | Not yet assessed | Verify growth potential |
+| Vilas | Town | Not yet assessed | Verify growth potential |
+| Wolf River | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bavaria
+- Bryant
+- Choate
+- Deerbrook
+- Elcho
+- Elmhurst
+- Elton
+- Four Corners
+- Freeman
+- Hollister
+- Kempster
+- Koepenick
+- Langlade
+- Lily
+- Markton
+- Neva
+- Neva Corners
+- Ormsby
+- Parrish
+- Pearson
+- Phlox
+- Pickerel
+- Polar
+- Post Lake
+- Sherry Junction
+- Summit Lake
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Antigo and highway-adjacent service areas.

@@ -50,16 +50,48 @@ Taylor County is a low-growth, rural/agricultural/forest county. Best opportunit
 ## Taylor County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Medford | City | Low to Moderate | County seat/growth node; verify FLU + zoning. |
-| Rib Lake | Village | Low | Limited growth expected. |
-| Gilman | Village | Low | Limited growth. |
-| Stetsonville | Village | Low | Limited growth. |
-| Highway 13 corridor towns | Town | Low | Best targets if FLU and zoning align. |
-| Rural forest/ag towns | Town | Low | Resource preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Gilman | Village | Not yet assessed | Verify growth potential |
+| Lublin | Village | Not yet assessed | Verify growth potential |
+| Stetsonville | Village | Not yet assessed | Verify growth potential |
+| Aurora | Town | Not yet assessed | Verify growth potential |
+| Browning | Town | Not yet assessed | Verify growth potential |
+| Chelsea | Town | Not yet assessed | Verify growth potential |
+| Cleveland | Town | Not yet assessed | Verify growth potential |
+| Deer Creek | Town | Not yet assessed | Verify growth potential |
+| Ford | Town | Not yet assessed | Verify growth potential |
+| Goodrich | Town | Not yet assessed | Verify growth potential |
+| Greenwood | Town | Not yet assessed | Verify growth potential |
+| Grover | Town | Not yet assessed | Verify growth potential |
+| Hammel | Town | Not yet assessed | Verify growth potential |
+| Holway | Town | Not yet assessed | Verify growth potential |
+| Jump River | Town | Not yet assessed | Verify growth potential |
+| Little Black | Town | Not yet assessed | Verify growth potential |
+| Maplehurst | Town | Not yet assessed | Verify growth potential |
+| McKinley | Town | Not yet assessed | Verify growth potential |
+| Medford | Town | Not yet assessed | Verify growth potential |
+| Molitor | Town | Not yet assessed | Verify growth potential |
+| Pershing | Town | Not yet assessed | Verify growth potential |
+| Rib Lake | Town | Not yet assessed | Verify growth potential |
+| Roosevelt | Town | Not yet assessed | Verify growth potential |
+| Taft | Town | Not yet assessed | Verify growth potential |
+| Westboro | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bellinger
+- Chelsea
+- Gad
+- Goodrich
+- Hannibal
+- Jump River
+- Little Black
+- Murat
+- Perkinstown
+- Polley
+- Queenstown
+- Westboro
+- Whittlesey
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Medford, Highway 13 corridor.

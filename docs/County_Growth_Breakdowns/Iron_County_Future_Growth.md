@@ -49,15 +49,41 @@ Iron County should be treated as a low-growth / high-resource-protection county.
 ## Iron County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Hurley | City | Low to Moderate | Primary county service node; verify redevelopment and edge growth. |
-| Mercer | Town | Low to Moderate | Tourism/recreation-oriented growth; verify land use maps. |
-| Montreal | City | Low | Limited growth expected; verify local/county zoning. |
-| Pence | Town | Low | Rural/forest context; verify comp plan references. |
-| Rural lake/forest towns | Town | Low | Environmental and shoreland constraints likely dominate. |
+|--------------|------|------------------------|-------|
+| Hurley | City | Not yet assessed | Verify growth potential |
+| Montreal | City | Not yet assessed | Verify growth potential |
+| Anderson | Town | Not yet assessed | Verify growth potential |
+| Carey | Town | Not yet assessed | Verify growth potential |
+| Gurney | Town | Not yet assessed | Verify growth potential |
+| Kimball | Town | Not yet assessed | Verify growth potential |
+| Knight | Town | Not yet assessed | Verify growth potential |
+| Mercer | Town | Not yet assessed | Verify growth potential |
+| Oma | Town | Not yet assessed | Verify growth potential |
+| Pence | Town | Not yet assessed | Verify growth potential |
+| Saxon | Town | Not yet assessed | Verify growth potential |
+| Sherman | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Carter
+- Cedar
+- Germania
+- Gurney
+- Hoyt
+- Iron Belt
+- Kimball
+- Manitowish
+- Mercer
+- Orva
+- Pence
+- Pine Lake
+- Powell
+- Rouse
+- Saxon
+- Springstead
+- Tyler Forks
+- Upson
+- Van Buskirk
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Hurley and Mercer area service nodes.

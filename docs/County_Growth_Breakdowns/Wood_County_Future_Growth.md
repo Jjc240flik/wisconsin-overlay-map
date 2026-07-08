@@ -52,17 +52,74 @@ Wood County should be researched as a Wisconsin Rapids/Marshfield + I-39 corrido
 ## Wood County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Wisconsin Rapids | City | Moderate | County seat/growth node; verify FLU. |
-| Marshfield (Wood portion) | City | Moderate | Medical/corridor growth node. |
-| Nekoosa | City | Low to Moderate | River/corridor node; verify plan. |
-| Port Edwards | Town/Village | Low to Moderate | FLU map available from town plan. |
-| Pittsville | Village | Low | Limited growth. |
-| I-39 / Highway 13 corridor towns | Town | Low to Moderate | Best if FLU maps show growth. |
-| Rural agricultural towns | Town | Low | Agricultural preservation unless mapped otherwise. |
+|--------------|------|------------------------|-------|
+| Appleton | City | Not yet assessed | Verify growth potential |
+| Menasha | City | Not yet assessed | Verify growth potential |
+| Fox Crossing | Village | Not yet assessed | Verify growth potential |
+| Algoma | Town | Not yet assessed | Verify growth potential |
+| Black Wolf | Town | Not yet assessed | Verify growth potential |
+| Clayton | Town | Not yet assessed | Verify growth potential |
+| Neenah | Town | Not yet assessed | Verify growth potential |
+| Nekimi | Town | Not yet assessed | Verify growth potential |
+| Nepeuskun | Town | Not yet assessed | Verify growth potential |
+| Omro | Town | Not yet assessed | Verify growth potential |
+| Oshkosh | Town | Not yet assessed | Verify growth potential |
+| Poygan | Town | Not yet assessed | Verify growth potential |
+| Rushford | Town | Not yet assessed | Verify growth potential |
+| Utica | Town | Not yet assessed | Verify growth potential |
+| Vinland | Town | Not yet assessed | Verify growth potential |
+| Winchester | Town | Not yet assessed | Verify growth potential |
+| Winneconne | Town | Not yet assessed | Verify growth potential |
+| Wolf River | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Adella Beach
+- Allenville
+- Black Wolf
+- Black Wolf Point
+- Butte des Morts
+- Clarks Point
+- Decorah Beach
+- Elo
+- Eureka
+- Fairview Beach
+- Fisk
+- Fitzgerald
+- Harbor Springs
+- Highland Shore
+- Indian Shores
+- Island Park
+- Koro
+- Larsen
+- Lasleys Point
+- Leonards Point
+- Little Point
+- Medina Junction
+- Metz
+- Mikesville
+- Nichols Shore Acres
+- Oakwood
+- Orihula
+- Paukotuk
+- Piacenza
+- Pickett
+- Plummer Point
+- Point Comfort
+- Reighmoor
+- Ricker Bay
+- Ring
+- Rivermoor
+- Rush Lake
+- Shangri La Point
+- Snells
+- Sunrise Bay
+- Waukau
+- Waverly Beach
+- Winchester
+- Winnebago
+- Zion
+- Zittau
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Wisconsin Rapids, Marshfield, I-39 corridor.

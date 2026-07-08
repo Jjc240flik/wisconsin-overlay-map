@@ -47,20 +47,60 @@ Marinette County planners want controlled, efficient growth that protects farmla
 
 ## Marinette County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Marinette         | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Peshtigo          | City   | Low to Moderate        | Limited growth. |
-| Village of Crivitz        | Village| Low to Moderate        | Residential growth expected. |
-| Village of Wausaukee      | Village| Low                    | Limited development expected. |
-| Town of Marinette         | Town   | Low to Moderate        | Growth near the City of Marinette. |
-| Town of Peshtigo          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Grover            | Town   | Low                    | Rural character to be preserved. |
-| Town of Lake              | Town   | Low                    | Agricultural preservation priority. |
-| Town of Middle Inlet      | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Marinette | City | Low to Moderate | Growth near the City of Marinette. |
+| Coleman | Village | Not yet assessed | Verify growth potential |
+| Crivitz | Village | Low to Moderate | Residential growth expected. |
+| Amberg | Town | Not yet assessed | Verify growth potential |
+| Athelstane | Town | Not yet assessed | Verify growth potential |
+| Beaver | Town | Not yet assessed | Verify growth potential |
+| Beecher | Town | Not yet assessed | Verify growth potential |
+| Dunbar | Town | Not yet assessed | Verify growth potential |
+| Goodman | Town | Not yet assessed | Verify growth potential |
+| Grover | Town | Low | Rural character to be preserved. |
+| Lake | Town | Low | Agricultural preservation priority. |
+| Middle Inlet | Town | Low | Limited development expected. |
+| Niagara | Town | Not yet assessed | Verify growth potential |
+| Pembine | Town | Not yet assessed | Verify growth potential |
+| Peshtigo | Town | Low | Agricultural and rural focus. |
+| Porterfield | Town | Not yet assessed | Verify growth potential |
+| Pound | Town | Not yet assessed | Verify growth potential |
+| Silver Cliff | Town | Not yet assessed | Verify growth potential |
+| Stephenson | Town | Not yet assessed | Verify growth potential |
+| Wagner | Town | Not yet assessed | Verify growth potential |
+| Wausaukee | Town | Low | Limited development expected. |
 
----
+### Unincorporated communities
 
+- Amberg
+- Athelstane
+- Bagley Junction
+- Beaver
+- Beecher
+- Beecher Lake
+- Cedarville
+- County Line
+- Dunbar
+- Goll
+- Goodman
+- Harmony
+- Kremlin
+- Loomis
+- May Corner
+- McAllister
+- Menekaunee
+- Middle Inlet
+- Miles
+- Packard
+- Pembine
+- Porterfield
+- Rubys Corner
+- Sweetheart City
+- Wagner
+- Walsh
+- White Pine Haven
+- Wilcox
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

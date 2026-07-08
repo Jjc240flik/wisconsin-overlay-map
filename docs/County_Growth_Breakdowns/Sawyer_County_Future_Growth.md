@@ -49,15 +49,47 @@ Sawyer County should be researched as a lake/forest/tourism county with stronges
 ## Sawyer County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Hayward | City | Moderate | Primary tourism/service node; verify FLU. |
-| Winter | Village | Low to Moderate | Local service node; verify plan. |
-| Stone Lake | Unincorporated | Low | Limited growth. |
-| Highway 27/70 corridor towns | Town | Low to Moderate | Best candidates if mapped for growth. |
-| Rural forest/lake towns | Town | Low | Resource preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Exeland | Village | Not yet assessed | Verify growth potential |
+| Bass Lake | Town | Not yet assessed | Verify growth potential |
+| Couderay | Town | Not yet assessed | Verify growth potential |
+| Draper | Town | Not yet assessed | Verify growth potential |
+| Edgewater | Town | Not yet assessed | Verify growth potential |
+| Hayward | Town | Not yet assessed | Verify growth potential |
+| Hunter | Town | Not yet assessed | Verify growth potential |
+| Lenroot | Town | Not yet assessed | Verify growth potential |
+| Meadowbrook | Town | Not yet assessed | Verify growth potential |
+| Meteor | Town | Not yet assessed | Verify growth potential |
+| Ojibwa | Town | Not yet assessed | Verify growth potential |
+| Radisson | Town | Not yet assessed | Verify growth potential |
+| Round Lake | Town | Not yet assessed | Verify growth potential |
+| Sand Lake | Town | Not yet assessed | Verify growth potential |
+| Spider Lake | Town | Not yet assessed | Verify growth potential |
+| Weirgor | Town | Not yet assessed | Verify growth potential |
+| Winter | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Chief Lake
+- Draper
+- Edgewater
+- Hauer
+- Hay Stack Corner
+- Lemington
+- Little Round Lake
+- Loretta
+- Meteor
+- New Post
+- Northwoods Beach
+- Ojibwa
+- Oxbo
+- Phipps
+- Reserve
+- Seeley
+- Stone Lake
+- Weirgor
+- Wooddale
+- Yarnell
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Hayward, Winter, corridor service nodes.

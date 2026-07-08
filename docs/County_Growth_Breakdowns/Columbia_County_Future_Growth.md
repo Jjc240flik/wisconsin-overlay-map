@@ -47,21 +47,60 @@ Columbia County planners want controlled, efficient growth that protects farmlan
 
 ## Columbia County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Portage           | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Columbus          | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Pardeeville    | Village| Low to Moderate        | Limited growth. |
-| Village of Poynette       | Village| Low to Moderate        | Residential growth expected. |
-| Village of Wyocena        | Village| Low                    | Limited development expected. |
-| Town of Portage           | Town   | Low to Moderate        | Growth near the City of Portage. |
-| Town of Columbus          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Dekorra           | Town   | Low                    | Rural character to be preserved. |
-| Town of Hampden           | Town   | Low                    | Agricultural preservation priority. |
-| Town of Otsego            | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Portage | City | Low to Moderate | Growth near the City of Portage. |
+| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
+| Cambria | Village | Not yet assessed | Verify growth potential |
+| Doylestown | Village | Not yet assessed | Verify growth potential |
+| Fall River | Village | Not yet assessed | Verify growth potential |
+| Friesland | Village | Not yet assessed | Verify growth potential |
+| Pardeeville | Village | Low to Moderate | Limited growth. |
+| Poynette | Village | Low to Moderate | Residential growth expected. |
+| Rio | Village | Not yet assessed | Verify growth potential |
+| Arlington | Town | Not yet assessed | Verify growth potential |
+| Caledonia | Town | Not yet assessed | Verify growth potential |
+| Columbus | Town | Low | Agricultural and rural focus. |
+| Courtland | Town | Not yet assessed | Verify growth potential |
+| Dekorra | Town | Low | Rural character to be preserved. |
+| Fort Winnebago | Town | Not yet assessed | Verify growth potential |
+| Fountain Prairie | Town | Not yet assessed | Verify growth potential |
+| Hampden | Town | Low | Agricultural preservation priority. |
+| Leeds | Town | Not yet assessed | Verify growth potential |
+| Lewiston | Town | Not yet assessed | Verify growth potential |
+| Lodi | Town | Not yet assessed | Verify growth potential |
+| Lowville | Town | Not yet assessed | Verify growth potential |
+| Marcellon | Town | Not yet assessed | Verify growth potential |
+| Newport | Town | Not yet assessed | Verify growth potential |
+| Otsego | Town | Low | Limited development expected. |
+| Pacific | Town | Not yet assessed | Verify growth potential |
+| Randolph | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Springvale | Town | Not yet assessed | Verify growth potential |
+| West Point | Town | Not yet assessed | Verify growth potential |
+| Wyocena | Town | Low | Limited development expected. |
 
----
+### Unincorporated communities
 
+- Anacker
+- Belle Fountain
+- Dekorra
+- Durwards Glen
+- East Friesland
+- Englewood
+- Harmony Grove
+- Ingle
+- Keyeser
+- Lake Wisconsin
+- Leeds
+- Leeds Center
+- Lewiston
+- Lowville
+- Marcellon
+- Moe Settlement
+- North Leeds
+- Okee
+- Otsego
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

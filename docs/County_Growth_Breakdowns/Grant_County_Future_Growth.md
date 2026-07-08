@@ -47,20 +47,94 @@ Grant County planners want controlled, efficient growth that protects farmland, 
 
 ## Grant County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Platteville       | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Lancaster         | City   | Low to Moderate        | Limited growth. |
-| Village of Belmont        | Village| Low to Moderate        | Residential growth expected. |
-| Village of Cassville      | Village| Low                    | Limited development expected. |
-| Town of Platteville       | Town   | Low to Moderate        | Growth near the City of Platteville. |
-| Town of Lancaster         | Town   | Low                    | Agricultural and rural focus. |
-| Town of Belmont           | Town   | Low                    | Rural character to be preserved. |
-| Town of Cassville         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Ellenboro         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Cuba City | City | Not yet assessed | Verify growth potential |
+| Lancaster | City | Low | Agricultural and rural focus. |
+| Bagley | Village | Not yet assessed | Verify growth potential |
+| Blue River | Village | Not yet assessed | Verify growth potential |
+| Dickeyville | Village | Not yet assessed | Verify growth potential |
+| Livingston | Village | Not yet assessed | Verify growth potential |
+| Montfort | Village | Not yet assessed | Verify growth potential |
+| Tennyson | Village | Not yet assessed | Verify growth potential |
+| Beetown | Town | Not yet assessed | Verify growth potential |
+| Bloomington | Town | Not yet assessed | Verify growth potential |
+| Boscobel | Town | Not yet assessed | Verify growth potential |
+| Cassville | Town | Low | Agricultural preservation priority. |
+| Castle Rock | Town | Not yet assessed | Verify growth potential |
+| Clifton | Town | Not yet assessed | Verify growth potential |
+| Ellenboro | Town | Low | Limited development expected. |
+| Fennimore | Town | Not yet assessed | Verify growth potential |
+| Glen Haven | Town | Not yet assessed | Verify growth potential |
+| Harrison | Town | Not yet assessed | Verify growth potential |
+| Hazel Green | Town | Not yet assessed | Verify growth potential |
+| Hickory Grove | Town | Not yet assessed | Verify growth potential |
+| Jamestown | Town | Not yet assessed | Verify growth potential |
+| Liberty | Town | Not yet assessed | Verify growth potential |
+| Lima | Town | Not yet assessed | Verify growth potential |
+| Little Grant | Town | Not yet assessed | Verify growth potential |
+| Marion | Town | Not yet assessed | Verify growth potential |
+| Millville | Town | Not yet assessed | Verify growth potential |
+| Mount Hope | Town | Not yet assessed | Verify growth potential |
+| Mount Ida | Town | Not yet assessed | Verify growth potential |
+| Muscoda | Town | Not yet assessed | Verify growth potential |
+| North Lancaster | Town | Not yet assessed | Verify growth potential |
+| Paris | Town | Not yet assessed | Verify growth potential |
+| Patch Grove | Town | Not yet assessed | Verify growth potential |
+| Platteville | Town | Low to Moderate | Growth near the City of Platteville. |
+| Potosi | Town | Not yet assessed | Verify growth potential |
+| Smelser | Town | Not yet assessed | Verify growth potential |
+| South Lancaster | Town | Not yet assessed | Verify growth potential |
+| Waterloo | Town | Not yet assessed | Verify growth potential |
+| Watterstown | Town | Not yet assessed | Verify growth potential |
+| Wingville | Town | Not yet assessed | Verify growth potential |
+| Woodman | Town | Not yet assessed | Verify growth potential |
+| Wyalusing | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Annaton
+- Arthur
+- Beetown
+- Bigpatch
+- British Hollow
+- Brodtville
+- Buena Vista
+- Burton
+- Castle Rock
+- Centerville
+- Cornelia
+- Diamond Grove
+- Ellenboro
+- Elmo
+- Fair Play
+- Five Points
+- Flora Fountain
+- Georgetown
+- Glen Haven
+- Hickory Grove
+- Homer
+- Hurricane
+- Kieler
+- Lancaster Junction
+- Louisburg
+- McCartney
+- Millville
+- Mount Ida
+- North Andover
+- Prairie Corners
+- Preston
+- Rockville
+- Rutledge
+- Saint Rose
+- Sandy Hook
+- Shady Dell
+- Sinsinawa
+- Stitzer
+- Union
+- Van Buren
+- Werley
+- Wyalusing
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

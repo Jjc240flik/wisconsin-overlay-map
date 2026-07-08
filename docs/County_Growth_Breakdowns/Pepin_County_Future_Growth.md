@@ -49,15 +49,29 @@ Pepin County should be researched as a Mississippi River valley agricultural/rur
 ## Pepin County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Durand | City | Low to Moderate | County seat/corridor node; verify FLU map. |
-| Pepin | Village | Low to Moderate | Lake Pepin / tourism corridor; verify plan. |
-| Stockholm | Village | Low | River corridor tourism; limited growth. |
-| Highway 10 corridor towns | Town | Low to Moderate | Best candidates if mapped for growth. |
-| Rural agricultural towns | Town | Low | Farmland/river valley preservation likely important. |
+|--------------|------|------------------------|-------|
+| Albany | Town | Not yet assessed | Verify growth potential |
+| Arkansaw | Town | Not yet assessed | Verify growth potential |
+| Durand | Town | Not yet assessed | Verify growth potential |
+| Frankfort | Town | Not yet assessed | Verify growth potential |
+| Lima | Town | Not yet assessed | Verify growth potential |
+| Pepin | Town | Not yet assessed | Verify growth potential |
+| Stockholm | Town | Not yet assessed | Verify growth potential |
+| Waterville | Town | Not yet assessed | Verify growth potential |
+| Waubeek | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- ![Pepin County panorama, west of Durand
+- Barry Corner
+- Devils Corner
+- Ella
+- Hawkins Corner
+- Lakeport
+- Lima
+- Lund
+- Porcupine
+- Tarrant
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Durand, Pepin, and Highway 10 corridor.

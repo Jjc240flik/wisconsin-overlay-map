@@ -52,16 +52,69 @@ Vernon County is a low-growth, high-constraint county due to steep slopes and fa
 ## Vernon County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Viroqua | City | Low to Moderate | County seat/growth node; verify plan + slope. |
-| Westby | City | Low to Moderate | Corridor node; verify slope/FLU. |
-| Stoddard / De Soto | Village | Low | Mississippi River corridor; limited developable area. |
-| Cashton | Village | Low to Moderate | Corridor node; verify constraints. |
-| Coon Valley | Village | Low | Limited growth. |
-| Rural towns | Town | Low | Driftless-area constraints dominate. |
+|--------------|------|------------------------|-------|
+| Westby | City | Not yet assessed | Verify growth potential |
+| Chaseburg | Village | Not yet assessed | Verify growth potential |
+| Coon Valley | Village | Not yet assessed | Verify growth potential |
+| De Soto | Village | Not yet assessed | Verify growth potential |
+| La Farge | Village | Not yet assessed | Verify growth potential |
+| Ontario | Village | Not yet assessed | Verify growth potential |
+| Readstown | Village | Not yet assessed | Verify growth potential |
+| Stoddard | Village | Not yet assessed | Verify growth potential |
+| Viola | Village | Not yet assessed | Verify growth potential |
+| Bergen | Town | Not yet assessed | Verify growth potential |
+| Christiana | Town | Not yet assessed | Verify growth potential |
+| Clinton | Town | Not yet assessed | Verify growth potential |
+| Coon | Town | Not yet assessed | Verify growth potential |
+| Forest | Town | Not yet assessed | Verify growth potential |
+| Franklin | Town | Not yet assessed | Verify growth potential |
+| Genoa | Town | Not yet assessed | Verify growth potential |
+| Greenwood | Town | Not yet assessed | Verify growth potential |
+| Hamburg | Town | Not yet assessed | Verify growth potential |
+| Harmony | Town | Not yet assessed | Verify growth potential |
+| Hillsboro | Town | Not yet assessed | Verify growth potential |
+| Jefferson | Town | Not yet assessed | Verify growth potential |
+| Kickapoo | Town | Not yet assessed | Verify growth potential |
+| Liberty | Town | Not yet assessed | Verify growth potential |
+| Stark | Town | Not yet assessed | Verify growth potential |
+| Sterling | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Not yet assessed | Verify growth potential |
+| Viroqua | Town | Not yet assessed | Verify growth potential |
+| Webster | Town | Not yet assessed | Verify growth potential |
+| Wheatland | Town | Not yet assessed | Verify growth potential |
+| Whitestown | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Avalanche
+- Bloomingdale
+- Bud
+- Dilly
+- Esofea
+- Fargo
+- Folsom
+- Greenwood
+- Kickapoo Center
+- Liberty
+- Liberty Pole
+- Mount Tabor
+- Newry
+- Newton
+- Pleasant Valley
+- Purdy
+- Red Mound
+- Retreat
+- Rockton
+- Romance
+- Ross
+- Springville
+- Sugar Grove
+- Trippville
+- Tunnelville
+- Valley
+- Victory
+- West Prairie
+- White City
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Viroqua, Westby, selected corridor nodes.

@@ -47,20 +47,64 @@ Chippewa County planners want controlled, efficient growth that protects farmlan
 
 ## Chippewa County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Chippewa Falls    | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Eau Claire        | City   | Moderate               | Growth mainly in the Chippewa County portion. |
-| Village of Cadott         | Village| Low to Moderate        | Limited growth. |
-| Village of Lake Hallie    | Village| Moderate               | Residential growth expected. |
-| Town of Chippewa Falls    | Town   | Low to Moderate        | Growth near the City of Chippewa Falls. |
-| Town of Eagle Point       | Town   | Low                    | Agricultural and rural focus. |
-| Town of Hallie            | Town   | Low                    | Rural character to be preserved. |
-| Town of Lafayette         | Town   | Low                    | Agricultural preservation priority. |
-| Town of Wheaton           | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Chippewa Falls | City | Low to Moderate | Growth near the City of Chippewa Falls. |
+| Cornell | City | Not yet assessed | Verify growth potential |
+| Eau Claire | City | Moderate | Growth mainly in the Chippewa County portion. |
+| Stanley | City | Not yet assessed | Verify growth potential |
+| Boyd | Village | Not yet assessed | Verify growth potential |
+| Cadott | Village | Low to Moderate | Limited growth. |
+| Lake Hallie | Village | Moderate | Residential growth expected. |
+| New Auburn | Village | Not yet assessed | Verify growth potential |
+| Anson | Town | Not yet assessed | Verify growth potential |
+| Arthur | Town | Not yet assessed | Verify growth potential |
+| Auburn | Town | Not yet assessed | Verify growth potential |
+| Birch Creek | Town | Not yet assessed | Verify growth potential |
+| Bloomer | Town | Not yet assessed | Verify growth potential |
+| Cleveland | Town | Not yet assessed | Verify growth potential |
+| Colburn | Town | Not yet assessed | Verify growth potential |
+| Cooks Valley | Town | Not yet assessed | Verify growth potential |
+| Delmar | Town | Not yet assessed | Verify growth potential |
+| Eagle Point | Town | Low | Agricultural and rural focus. |
+| Edson | Town | Not yet assessed | Verify growth potential |
+| Estella | Town | Not yet assessed | Verify growth potential |
+| Goetz | Town | Not yet assessed | Verify growth potential |
+| Hallie | Town | Low | Rural character to be preserved. |
+| Howard | Town | Not yet assessed | Verify growth potential |
+| Lafayette | Town | Low | Agricultural preservation priority. |
+| Lake Holcombe | Town | Not yet assessed | Verify growth potential |
+| Ruby | Town | Not yet assessed | Verify growth potential |
+| Sampson | Town | Not yet assessed | Verify growth potential |
+| Sigel | Town | Not yet assessed | Verify growth potential |
+| Tilden | Town | Not yet assessed | Verify growth potential |
+| Wheaton | Town | Low | Limited development expected. |
+| Woodmohr | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Albertville
+- Anson
+- Arnold
+- Bateman
+- Brownville
+- Cobban
+- Colburn
+- Crescent
+- Drywood
+- Eagle Point
+- Eagleton
+- Edson
+- Holcombe
+- Howard
+- Huron
+- Jim Falls
+- Lake Wissota
+- Maple Hill
+- Old Albertville
+- Pine Grove
+- Ruby
+- Tilden
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

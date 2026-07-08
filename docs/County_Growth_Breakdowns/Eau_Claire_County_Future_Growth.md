@@ -47,20 +47,43 @@ Eau Claire County planners want controlled, efficient growth that protects farml
 
 ## Eau Claire County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Eau Claire        | City   | High                   | Significant redevelopment and infill expected. |
-| City of Altoona           | City   | Moderate               | Steady residential and commercial growth. |
-| Village of Fall Creek     | Village| Low to Moderate        | Limited growth. |
-| Village of Fairchild      | Village| Low                    | Limited development expected. |
-| Town of Eau Claire        | Town   | Low to Moderate        | Growth near the City of Eau Claire. |
-| Town of Altoona           | Town   | Low                    | Agricultural and rural focus. |
-| Town of Bridge Creek      | Town   | Low                    | Rural character to be preserved. |
-| Town of Clear Creek       | Town   | Low                    | Agricultural preservation priority. |
-| Town of Fairchild         | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Altoona | City | Low | Agricultural and rural focus. |
+| Augusta | City | Not yet assessed | Verify growth potential |
+| Eau Claire | City | Low to Moderate | Growth near the City of Eau Claire. |
+| Fall Creek | Village | Low to Moderate | Limited growth. |
+| Bridge Creek | Town | Low | Rural character to be preserved. |
+| Brunswick | Town | Not yet assessed | Verify growth potential |
+| Clear Creek | Town | Low | Agricultural preservation priority. |
+| Drammen | Town | Not yet assessed | Verify growth potential |
+| Fairchild | Town | Low | Limited development expected. |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Ludington | Town | Not yet assessed | Verify growth potential |
+| Otter Creek | Town | Not yet assessed | Verify growth potential |
+| Pleasant Valley | Town | Not yet assessed | Verify growth potential |
+| Seymour | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Not yet assessed | Verify growth potential |
+| Washington | Town | Not yet assessed | Verify growth potential |
+| Wilson | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Allen
+- Brackett
+- Candy Corners
+- Cleghorn
+- Foster
+- Hale Corner
+- Hay Creek
+- Ludington
+- Lufkin
+- Mount Hope Corners
+- Rodell
+- Seymour
+- Truax
+- Union
+- Wilson
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

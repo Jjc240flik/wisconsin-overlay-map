@@ -47,20 +47,66 @@ Bayfield County planners want controlled, efficient growth that protects farmlan
 
 ## Bayfield County Future Growth Expectations by Municipality
 
-| Municipality              | Type   | Expected Future Growth | Notes |
-|---------------------------|--------|------------------------|-------|
-| City of Washburn          | City   | Moderate               | Focus on redevelopment and infill. |
-| City of Bayfield          | City   | Low to Moderate        | Tourism-focused growth. |
-| Village of Cornucopia     | Village| Low                    | Limited development expected. |
-| Village of Port Wing      | Village| Low                    | Limited growth. |
-| Town of Washburn          | Town   | Low to Moderate        | Growth near the City of Washburn. |
-| Town of Bayfield          | Town   | Low                    | Agricultural and rural focus. |
-| Town of Russell           | Town   | Low                    | Rural character to be preserved. |
-| Town of Iron River        | Town   | Low                    | Agricultural preservation priority. |
-| Town of Orienta           | Town   | Low                    | Limited development expected. |
+| Municipality | Type | Expected Future Growth | Notes |
+|--------------|------|------------------------|-------|
+| Ashland | City | Not yet assessed | Verify growth potential |
+| Barksdale | Town | Not yet assessed | Verify growth potential |
+| Barnes | Town | Not yet assessed | Verify growth potential |
+| Bayfield | Town | Low | Agricultural and rural focus. |
+| Bayview | Town | Not yet assessed | Verify growth potential |
+| Bell | Town | Not yet assessed | Verify growth potential |
+| Cable | Town | Not yet assessed | Verify growth potential |
+| Clover | Town | Not yet assessed | Verify growth potential |
+| Delta | Town | Not yet assessed | Verify growth potential |
+| Drummond | Town | Not yet assessed | Verify growth potential |
+| Eileen | Town | Not yet assessed | Verify growth potential |
+| Grand View | Town | Not yet assessed | Verify growth potential |
+| Hughes | Town | Not yet assessed | Verify growth potential |
+| Iron River | Town | Low | Agricultural preservation priority. |
+| Kelly | Town | Not yet assessed | Verify growth potential |
+| Keystone | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Mason | Town | Not yet assessed | Verify growth potential |
+| Namakagon | Town | Not yet assessed | Verify growth potential |
+| Orienta | Town | Low | Limited development expected. |
+| Oulu | Town | Not yet assessed | Verify growth potential |
+| Pilsen | Town | Not yet assessed | Verify growth potential |
+| Port Wing | Town | Low | Limited growth. |
+| Russell | Town | Low | Rural character to be preserved. |
+| Tripp | Town | Not yet assessed | Verify growth potential |
+| Washburn | Town | Low to Moderate | Growth near the City of Washburn. |
 
----
+### Unincorporated communities
 
+- Ashland Junction
+- Bark Point
+- Barksdale
+- Benoit
+- Cable
+- Cornucopia
+- Delta
+- Drummond
+- Grand View
+- Herbster
+- Ino
+- Iron River
+- Lake Owen
+- Leonards
+- Moquah
+- Muskeg
+- Namekagon
+- Oulu
+- Pike River
+- Port Wing
+- Pureair
+- Radspur
+- Red Cliff
+- Salmo
+- Sand Bay
+- Sioux
+- Sutherland
+- Topside
+- Wills
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:**  

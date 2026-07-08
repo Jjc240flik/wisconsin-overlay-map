@@ -53,16 +53,52 @@ Trempealeau County should be researched through its 15 town-level future land us
 ## Trempealeau County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Arcadia | City | Moderate | Primary growth/service node; verify FLU. |
-| Whitehall | Village | Moderate | County seat/corridor node. |
-| Blair | City | Low to Moderate | Corridor influence; verify plan. |
-| Trempealeau | Village | Moderate | Mississippi River / tourism corridor. |
-| Independence | City | Low to Moderate | Local growth node. |
-| Osseo | Village | Moderate | I-94 corridor influence; strong FLU potential. |
+|--------------|------|------------------------|-------|
+| Blair | City | Not yet assessed | Verify growth potential |
+| Galesville | City | Not yet assessed | Verify growth potential |
+| Independence | City | Not yet assessed | Verify growth potential |
+| Osseo | City | Not yet assessed | Verify growth potential |
+| Whitehall | City | Not yet assessed | Verify growth potential |
+| Eleva | Village | Not yet assessed | Verify growth potential |
+| Pigeon Falls | Village | Not yet assessed | Verify growth potential |
+| Strum | Village | Not yet assessed | Verify growth potential |
+| Albion | Town | Not yet assessed | Verify growth potential |
+| Arcadia | Town | Not yet assessed | Verify growth potential |
+| Burnside | Town | Not yet assessed | Verify growth potential |
+| Caledonia | Town | Not yet assessed | Verify growth potential |
+| Chimney Rock | Town | Not yet assessed | Verify growth potential |
+| Dodge | Town | Not yet assessed | Verify growth potential |
+| Ettrick | Town | Not yet assessed | Verify growth potential |
+| Gale | Town | Not yet assessed | Verify growth potential |
+| Hale | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Pigeon | Town | Not yet assessed | Verify growth potential |
+| Preston | Town | Not yet assessed | Verify growth potential |
+| Sumner | Town | Not yet assessed | Verify growth potential |
+| Trempealeau | Town | Not yet assessed | Verify growth potential |
+| Unity | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Beaches Corners
+- Butman Corners
+- Centerville
+- Chapultepee
+- Coral City
+- Dewey Corners
+- Elk Creek
+- Frenchville
+- Hale
+- Hegg
+- Iduna
+- North Creek
+- Pine Creek
+- Pleasantville
+- Russell
+- Tamarack
+- Upper French Creek
+- West Prairie
+- Wrights Corners
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Arcadia, Trempealeau, Whitehall, Osseo.

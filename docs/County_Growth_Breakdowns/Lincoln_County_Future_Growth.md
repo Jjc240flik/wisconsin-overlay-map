@@ -50,15 +50,45 @@ Lincoln County is a high-priority county for future land use map review because 
 ## Lincoln County Future Growth Expectations by Municipality
 
 | Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Merrill | City | Moderate | Primary county service/growth node. |
-| Tomahawk | City | Low to Moderate | Service/recreation node; verify map. |
-| Highway 51 corridor towns | Town | Low to Moderate | Strongest rural development candidates if mapped for growth. |
-| Participating county-zoned towns | Town | TBD | Must use county Future Land Use Map. |
-| Forest/rural towns | Town | Low | Resource preservation likely dominant. |
+|--------------|------|------------------------|-------|
+| Birch | Town | Not yet assessed | Verify growth potential |
+| Bradley | Town | Not yet assessed | Verify growth potential |
+| Corning | Town | Not yet assessed | Verify growth potential |
+| Harding | Town | Not yet assessed | Verify growth potential |
+| Harrison | Town | Not yet assessed | Verify growth potential |
+| King | Town | Not yet assessed | Verify growth potential |
+| Merrill | Town | Not yet assessed | Verify growth potential |
+| Pine River | Town | Not yet assessed | Verify growth potential |
+| Rock Falls | Town | Not yet assessed | Verify growth potential |
+| Russell | Town | Not yet assessed | Verify growth potential |
+| Schley | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Not yet assessed | Verify growth potential |
+| Skanawan | Town | Not yet assessed | Verify growth potential |
+| Somo | Town | Not yet assessed | Verify growth potential |
+| Tomahawk | Town | Not yet assessed | Verify growth potential |
+| Wilson | Town | Not yet assessed | Verify growth potential |
 
----
+### Unincorporated communities
 
+- Bloomville
+- Bradley
+- Bundy
+- Clifford
+- Doering
+- Dudley
+- Dutch Corners
+- Gilbert
+- Gleason
+- Harrison
+- Heafford Junction
+- Irma
+- Jeffris
+- McCord
+- Otis
+- Pine River
+- Spirit Falls
+- Tripoli
+- West Kraft
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Merrill, Tomahawk, and Highway 51 corridor.
