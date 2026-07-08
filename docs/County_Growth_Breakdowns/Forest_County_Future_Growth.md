@@ -48,19 +48,19 @@ Forest County planners want controlled, efficient growth that protects farmland,
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Alvin | Town | Not yet assessed | Verify growth potential |
-| Argonne | Town | Not yet assessed | Verify growth potential |
-| Armstrong Creek | Town | Not yet assessed | Verify growth potential |
-| Blackwell | Town | Not yet assessed | Verify growth potential |
+| Alvin | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Argonne | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Armstrong Creek | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Blackwell | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Caswell | Town | Low | Limited development expected. |
 | Crandon | Town | Low to Moderate | Growth near the City of Crandon. |
 | Freedom | Town | Low | Agricultural focus. |
-| Hiles | Town | Not yet assessed | Verify growth potential |
+| Hiles | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Laona | Town | Low | Agricultural and rural focus. |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Nashville | Town | Not yet assessed | Verify growth potential |
-| Popple River | Town | Not yet assessed | Verify growth potential |
-| Ross | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Nashville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Popple River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Ross | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Wabeno | Town | Low | Rural character to be preserved. |
 
 ### Unincorporated communities

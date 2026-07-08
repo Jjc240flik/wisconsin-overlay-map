@@ -50,46 +50,46 @@ Clark County planners want controlled, efficient growth that protects farmland, 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Abbotsford | City | Low | Agricultural and rural focus. |
-| Greenwood | City | Not yet assessed | Verify growth potential |
+| Greenwood | City | Low | Limited growth; rural/forest character. |
 | Neillsville | City | Low to Moderate | Growth near the City of Neillsville. |
-| Owen | City | Not yet assessed | Verify growth potential |
-| Stanley | City | Not yet assessed | Verify growth potential |
-| Curtiss | Village | Not yet assessed | Verify growth potential |
-| Dorchester | Village | Not yet assessed | Verify growth potential |
+| Owen | City | Low | Limited growth; rural/forest character. |
+| Stanley | City | Low | Limited growth; rural/forest character. |
+| Curtiss | Village | Low | Rural village; limited growth expected. |
+| Dorchester | Village | Low | Rural village; limited growth expected. |
 | Granton | Village | Low | Limited development expected. |
-| Beaver | Town | Not yet assessed | Verify growth potential |
-| Butler | Town | Not yet assessed | Verify growth potential |
+| Beaver | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Butler | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Colby | Town | Low | Rural character to be preserved. |
-| Dewhurst | Town | Not yet assessed | Verify growth potential |
-| Eaton | Town | Not yet assessed | Verify growth potential |
-| Foster | Town | Not yet assessed | Verify growth potential |
-| Fremont | Town | Not yet assessed | Verify growth potential |
+| Dewhurst | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Eaton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Foster | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Fremont | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Grant | Town | Low | Agricultural preservation priority. |
-| Green Grove | Town | Not yet assessed | Verify growth potential |
-| Hendren | Town | Not yet assessed | Verify growth potential |
-| Hewett | Town | Not yet assessed | Verify growth potential |
-| Hixon | Town | Not yet assessed | Verify growth potential |
-| Hoard | Town | Not yet assessed | Verify growth potential |
+| Green Grove | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hendren | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hewett | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hixon | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hoard | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Levis | Town | Low | Limited development expected. |
-| Longwood | Town | Not yet assessed | Verify growth potential |
-| Loyal | Town | Not yet assessed | Verify growth potential |
-| Lynn | Town | Not yet assessed | Verify growth potential |
-| Mayville | Town | Not yet assessed | Verify growth potential |
-| Mead | Town | Not yet assessed | Verify growth potential |
-| Mentor | Town | Not yet assessed | Verify growth potential |
-| Pine Valley | Town | Not yet assessed | Verify growth potential |
-| Reseburg | Town | Not yet assessed | Verify growth potential |
-| Seif | Town | Not yet assessed | Verify growth potential |
-| Sherman | Town | Not yet assessed | Verify growth potential |
-| Sherwood | Town | Not yet assessed | Verify growth potential |
-| Thorp | Town | Not yet assessed | Verify growth potential |
-| Unity | Town | Not yet assessed | Verify growth potential |
-| Warner | Town | Not yet assessed | Verify growth potential |
-| Washburn | Town | Not yet assessed | Verify growth potential |
-| Weston | Town | Not yet assessed | Verify growth potential |
-| Withee | Town | Not yet assessed | Verify growth potential |
-| Worden | Town | Not yet assessed | Verify growth potential |
-| York | Town | Not yet assessed | Verify growth potential |
+| Longwood | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Loyal | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lynn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mayville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mead | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mentor | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pine Valley | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Reseburg | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Seif | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Sherman | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Sherwood | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Thorp | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Unity | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Warner | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Washburn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Weston | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Withee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Worden | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| York | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

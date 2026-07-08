@@ -51,31 +51,31 @@ Taylor County is a low-growth, rural/agricultural/forest county. Best opportunit
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Gilman | Village | Not yet assessed | Verify growth potential |
-| Lublin | Village | Not yet assessed | Verify growth potential |
-| Stetsonville | Village | Not yet assessed | Verify growth potential |
-| Aurora | Town | Not yet assessed | Verify growth potential |
-| Browning | Town | Not yet assessed | Verify growth potential |
-| Chelsea | Town | Not yet assessed | Verify growth potential |
-| Cleveland | Town | Not yet assessed | Verify growth potential |
-| Deer Creek | Town | Not yet assessed | Verify growth potential |
-| Ford | Town | Not yet assessed | Verify growth potential |
-| Goodrich | Town | Not yet assessed | Verify growth potential |
-| Greenwood | Town | Not yet assessed | Verify growth potential |
-| Grover | Town | Not yet assessed | Verify growth potential |
-| Hammel | Town | Not yet assessed | Verify growth potential |
-| Holway | Town | Not yet assessed | Verify growth potential |
-| Jump River | Town | Not yet assessed | Verify growth potential |
-| Little Black | Town | Not yet assessed | Verify growth potential |
-| Maplehurst | Town | Not yet assessed | Verify growth potential |
-| McKinley | Town | Not yet assessed | Verify growth potential |
-| Medford | Town | Not yet assessed | Verify growth potential |
-| Molitor | Town | Not yet assessed | Verify growth potential |
-| Pershing | Town | Not yet assessed | Verify growth potential |
-| Rib Lake | Town | Not yet assessed | Verify growth potential |
-| Roosevelt | Town | Not yet assessed | Verify growth potential |
-| Taft | Town | Not yet assessed | Verify growth potential |
-| Westboro | Town | Not yet assessed | Verify growth potential |
+| Gilman | Village | Low | Rural village; limited growth expected. |
+| Lublin | Village | Low | Rural village; limited growth expected. |
+| Stetsonville | Village | Low | Rural village; limited growth expected. |
+| Aurora | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Browning | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Chelsea | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Cleveland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Deer Creek | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Ford | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Goodrich | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Greenwood | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Grover | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hammel | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Holway | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Jump River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Little Black | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Maplehurst | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| McKinley | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Medford | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Molitor | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pershing | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Rib Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Roosevelt | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Taft | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Westboro | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

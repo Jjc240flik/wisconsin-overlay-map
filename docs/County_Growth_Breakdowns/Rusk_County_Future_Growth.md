@@ -51,37 +51,37 @@ Rusk County is a low-growth, rural/forest county. Best opportunities are near La
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Bruce | Village | Not yet assessed | Verify growth potential |
-| Conrath | Village | Not yet assessed | Verify growth potential |
-| Glen Flora | Village | Not yet assessed | Verify growth potential |
-| Ingram | Village | Not yet assessed | Verify growth potential |
-| Sheldon | Village | Not yet assessed | Verify growth potential |
-| Tony | Village | Not yet assessed | Verify growth potential |
-| Weyerhaeuser | Village | Not yet assessed | Verify growth potential |
-| Atlanta | Town | Not yet assessed | Verify growth potential |
-| Big Bend | Town | Not yet assessed | Verify growth potential |
-| Big Falls | Town | Not yet assessed | Verify growth potential |
-| Cedar Rapids | Town | Not yet assessed | Verify growth potential |
-| Dewey | Town | Not yet assessed | Verify growth potential |
-| Flambeau | Town | Not yet assessed | Verify growth potential |
-| Grant | Town | Not yet assessed | Verify growth potential |
-| Grow | Town | Not yet assessed | Verify growth potential |
-| Hawkins | Town | Not yet assessed | Verify growth potential |
-| Hubbard | Town | Not yet assessed | Verify growth potential |
-| Lawrence | Town | Not yet assessed | Verify growth potential |
-| Marshall | Town | Not yet assessed | Verify growth potential |
-| Murry | Town | Not yet assessed | Verify growth potential |
-| Richland | Town | Not yet assessed | Verify growth potential |
-| Rusk | Town | Not yet assessed | Verify growth potential |
-| South Fork | Town | Not yet assessed | Verify growth potential |
-| Strickland | Town | Not yet assessed | Verify growth potential |
-| Stubbs | Town | Not yet assessed | Verify growth potential |
-| Thornapple | Town | Not yet assessed | Verify growth potential |
-| True | Town | Not yet assessed | Verify growth potential |
-| Washington | Town | Not yet assessed | Verify growth potential |
-| Wilkinson | Town | Not yet assessed | Verify growth potential |
-| Willard | Town | Not yet assessed | Verify growth potential |
-| Wilson | Town | Not yet assessed | Verify growth potential |
+| Bruce | Village | Low | Rural village; limited growth expected. |
+| Conrath | Village | Low | Rural village; limited growth expected. |
+| Glen Flora | Village | Low | Rural village; limited growth expected. |
+| Ingram | Village | Low | Rural village; limited growth expected. |
+| Sheldon | Village | Low | Rural village; limited growth expected. |
+| Tony | Village | Low | Rural village; limited growth expected. |
+| Weyerhaeuser | Village | Low | Rural village; limited growth expected. |
+| Atlanta | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Big Bend | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Big Falls | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Cedar Rapids | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dewey | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Flambeau | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Grant | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Grow | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hawkins | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hubbard | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lawrence | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Marshall | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Murry | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Richland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Rusk | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| South Fork | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Strickland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Stubbs | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Thornapple | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| True | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Washington | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wilkinson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Willard | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wilson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

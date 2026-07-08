@@ -48,25 +48,25 @@ Crawford County planners want controlled, efficient growth that protects farmlan
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Bell Center | Village | Not yet assessed | Verify growth potential |
+| Bell Center | Village | Low | Rural village; limited growth expected. |
 | De Soto | Village | Low | Limited development expected. |
 | Ferryville | Village | Low | Limited development expected. |
 | Gays Mills | Village | Low to Moderate | Residential growth expected. |
-| Lynxville | Village | Not yet assessed | Verify growth potential |
-| Mount Sterling | Village | Not yet assessed | Verify growth potential |
-| Soldiers Grove | Village | Not yet assessed | Verify growth potential |
-| Steuben | Village | Not yet assessed | Verify growth potential |
-| Bridgeport | Town | Not yet assessed | Verify growth potential |
-| Clayton | Town | Not yet assessed | Verify growth potential |
+| Lynxville | Village | Low | Rural village; limited growth expected. |
+| Mount Sterling | Village | Low | Rural village; limited growth expected. |
+| Soldiers Grove | Village | Low | Rural village; limited growth expected. |
+| Steuben | Village | Low | Rural village; limited growth expected. |
+| Bridgeport | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Clayton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Eastman | Town | Low | Agricultural and rural focus. |
-| Freeman | Town | Not yet assessed | Verify growth potential |
+| Freeman | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Haney | Town | Low | Rural character to be preserved. |
 | Marietta | Town | Low | Agricultural preservation priority. |
 | Prairie du Chien | Town | Low to Moderate | Growth near the City of Prairie du Chien. |
-| Scott | Town | Not yet assessed | Verify growth potential |
-| Seneca | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Seneca | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Utica | Town | Low | Limited development expected. |
-| Wauzeka | Town | Not yet assessed | Verify growth potential |
+| Wauzeka | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

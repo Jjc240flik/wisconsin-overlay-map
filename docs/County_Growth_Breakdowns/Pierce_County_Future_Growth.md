@@ -52,28 +52,28 @@ Pierce County should be researched as a Twin Cities-adjacent corridor county wit
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Prescott | City | Not yet assessed | Verify growth potential |
-| Bay City | Village | Not yet assessed | Verify growth potential |
-| Elmwood | Village | Not yet assessed | Verify growth potential |
-| Plum City | Village | Not yet assessed | Verify growth potential |
-| Spring Valley | Village | Not yet assessed | Verify growth potential |
-| Clifton | Town | Not yet assessed | Verify growth potential |
-| Diamond Bluff | Town | Not yet assessed | Verify growth potential |
-| El Paso | Town | Not yet assessed | Verify growth potential |
-| Ellsworth | Town | Not yet assessed | Verify growth potential |
-| Gilman | Town | Not yet assessed | Verify growth potential |
-| Hartland | Town | Not yet assessed | Verify growth potential |
-| Isabelle | Town | Not yet assessed | Verify growth potential |
-| Maiden Rock | Town | Not yet assessed | Verify growth potential |
-| Martell | Town | Not yet assessed | Verify growth potential |
-| Oak Grove | Town | Not yet assessed | Verify growth potential |
-| River Falls | Town | Not yet assessed | Verify growth potential |
-| Rock Elm | Town | Not yet assessed | Verify growth potential |
-| Salem | Town | Not yet assessed | Verify growth potential |
-| Spring Lake | Town | Not yet assessed | Verify growth potential |
-| Trenton | Town | Not yet assessed | Verify growth potential |
-| Trimbelle | Town | Not yet assessed | Verify growth potential |
-| Union | Town | Not yet assessed | Verify growth potential |
+| Prescott | City | Low to Moderate | County service node with modest growth potential. |
+| Bay City | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Elmwood | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Plum City | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Spring Valley | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Clifton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Diamond Bluff | Town | Low | Rural township; agricultural preservation likely dominant. |
+| El Paso | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ellsworth | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Gilman | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hartland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Isabelle | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Maiden Rock | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Martell | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oak Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| River Falls | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rock Elm | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Salem | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Spring Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Trenton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Trimbelle | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Union | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

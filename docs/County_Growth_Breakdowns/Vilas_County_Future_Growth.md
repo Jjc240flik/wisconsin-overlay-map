@@ -51,20 +51,20 @@ Vilas County should be researched as a lake/forest/tourism county with strongest
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Arbor Vitae | Town | Not yet assessed | Verify growth potential |
-| Boulder Junction | Town | Not yet assessed | Verify growth potential |
-| Cloverland | Town | Not yet assessed | Verify growth potential |
-| Conover | Town | Not yet assessed | Verify growth potential |
-| Lac du Flambeau | Town | Not yet assessed | Verify growth potential |
-| Land O' Lakes | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Manitowish Waters | Town | Not yet assessed | Verify growth potential |
-| Phelps | Town | Not yet assessed | Verify growth potential |
-| Plum Lake | Town | Not yet assessed | Verify growth potential |
-| Presque Isle | Town | Not yet assessed | Verify growth potential |
-| St. Germain | Town | Not yet assessed | Verify growth potential |
-| Washington | Town | Not yet assessed | Verify growth potential |
-| Winchester | Town | Not yet assessed | Verify growth potential |
+| Arbor Vitae | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Boulder Junction | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Cloverland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Conover | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lac du Flambeau | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Land O' Lakes | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Manitowish Waters | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Phelps | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Plum Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Presque Isle | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| St. Germain | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Washington | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Winchester | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

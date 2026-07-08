@@ -51,25 +51,25 @@ Jefferson County planners want controlled, efficient growth that protects farmla
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Fort Atkinson | City | Moderate | Steady residential and commercial growth. |
-| Whitewater | City | Not yet assessed | Verify growth potential |
-| Cambridge | Village | Not yet assessed | Verify growth potential |
+| Whitewater | City | Low to Moderate | County service node with modest growth potential. |
+| Cambridge | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Johnson Creek | Village | Moderate | Residential growth expected near I-94. |
-| Lac La Belle | Village | Not yet assessed | Verify growth potential |
-| Aztalan | Town | Not yet assessed | Verify growth potential |
+| Lac La Belle | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Aztalan | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Cold Spring | Town | Low | Limited development expected. |
-| Concord | Town | Not yet assessed | Verify growth potential |
-| Farmington | Town | Not yet assessed | Verify growth potential |
+| Concord | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Farmington | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Hebron | Town | Low | Rural character to be preserved. |
-| Ixonia | Town | Not yet assessed | Verify growth potential |
+| Ixonia | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Jefferson | Town | Low to Moderate | Growth near the City of Jefferson. |
 | Koshkonong | Town | Low | Agricultural and rural focus. |
-| Lake Mills | Town | Not yet assessed | Verify growth potential |
-| Milford | Town | Not yet assessed | Verify growth potential |
-| Oakland | Town | Not yet assessed | Verify growth potential |
+| Lake Mills | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Milford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oakland | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Palmyra | Town | Low to Moderate | Limited growth. |
 | Sullivan | Town | Low | Agricultural preservation priority. |
-| Sumner | Town | Not yet assessed | Verify growth potential |
-| Waterloo | Town | Not yet assessed | Verify growth potential |
+| Sumner | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Waterloo | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Watertown | Town | Moderate | Growth mainly in the Jefferson County portion. |
 
 ### Unincorporated communities

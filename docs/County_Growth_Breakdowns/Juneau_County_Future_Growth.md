@@ -52,17 +52,17 @@ Juneau County should be researched around Mauston/New Lisbon and I-90/94 corrido
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Bristol | Village | Not yet assessed | Verify growth potential |
-| Genoa City | Village | Not yet assessed | Verify growth potential |
-| Paddock Lake | Village | Not yet assessed | Verify growth potential |
-| Pleasant Prairie | Village | Not yet assessed | Verify growth potential |
-| Salem Lakes | Village | Not yet assessed | Verify growth potential |
-| Twin Lakes | Village | Not yet assessed | Verify growth potential |
-| Brighton | Town | Not yet assessed | Verify growth potential |
-| Paris | Town | Not yet assessed | Verify growth potential |
-| Randall | Town | Not yet assessed | Verify growth potential |
-| Somers | Town | Not yet assessed | Verify growth potential |
-| Wheatland | Town | Not yet assessed | Verify growth potential |
+| Bristol | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Genoa City | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Paddock Lake | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Pleasant Prairie | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Salem Lakes | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Twin Lakes | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Brighton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Paris | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Randall | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Somers | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wheatland | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

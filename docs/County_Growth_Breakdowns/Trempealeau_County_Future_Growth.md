@@ -54,29 +54,29 @@ Trempealeau County should be researched through its 15 town-level future land us
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Blair | City | Not yet assessed | Verify growth potential |
-| Galesville | City | Not yet assessed | Verify growth potential |
-| Independence | City | Not yet assessed | Verify growth potential |
-| Osseo | City | Not yet assessed | Verify growth potential |
-| Whitehall | City | Not yet assessed | Verify growth potential |
-| Eleva | Village | Not yet assessed | Verify growth potential |
-| Pigeon Falls | Village | Not yet assessed | Verify growth potential |
-| Strum | Village | Not yet assessed | Verify growth potential |
-| Albion | Town | Not yet assessed | Verify growth potential |
-| Arcadia | Town | Not yet assessed | Verify growth potential |
-| Burnside | Town | Not yet assessed | Verify growth potential |
-| Caledonia | Town | Not yet assessed | Verify growth potential |
-| Chimney Rock | Town | Not yet assessed | Verify growth potential |
-| Dodge | Town | Not yet assessed | Verify growth potential |
-| Ettrick | Town | Not yet assessed | Verify growth potential |
-| Gale | Town | Not yet assessed | Verify growth potential |
-| Hale | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Pigeon | Town | Not yet assessed | Verify growth potential |
-| Preston | Town | Not yet assessed | Verify growth potential |
-| Sumner | Town | Not yet assessed | Verify growth potential |
-| Trempealeau | Town | Not yet assessed | Verify growth potential |
-| Unity | Town | Not yet assessed | Verify growth potential |
+| Blair | City | Low to Moderate | County service node with modest growth potential. |
+| Galesville | City | Low to Moderate | County service node with modest growth potential. |
+| Independence | City | Low to Moderate | County service node with modest growth potential. |
+| Osseo | City | Low to Moderate | County service node with modest growth potential. |
+| Whitehall | City | Low to Moderate | County service node with modest growth potential. |
+| Eleva | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Pigeon Falls | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Strum | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Albion | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Arcadia | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Burnside | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Caledonia | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Chimney Rock | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dodge | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ettrick | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Gale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lincoln | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Pigeon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Preston | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sumner | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Trempealeau | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Unity | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

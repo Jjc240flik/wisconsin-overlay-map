@@ -51,18 +51,18 @@ Kewaunee County should be researched as a rural/agricultural county with growth 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Algoma | City | Not yet assessed | Verify growth potential |
-| Kewaunee | City | Not yet assessed | Verify growth potential |
-| Ahnapee | Town | Not yet assessed | Verify growth potential |
-| Carlton | Town | Not yet assessed | Verify growth potential |
-| Casco | Town | Not yet assessed | Verify growth potential |
-| Franklin | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Luxemburg | Town | Not yet assessed | Verify growth potential |
-| Montpelier | Town | Not yet assessed | Verify growth potential |
-| Pierce | Town | Not yet assessed | Verify growth potential |
-| Red River | Town | Not yet assessed | Verify growth potential |
-| West Kewaunee | Town | Not yet assessed | Verify growth potential |
+| Algoma | City | Low | Limited growth; rural/forest character. |
+| Kewaunee | City | Low | Limited growth; rural/forest character. |
+| Ahnapee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Carlton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Casco | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Franklin | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Luxemburg | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Montpelier | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pierce | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Red River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| West Kewaunee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

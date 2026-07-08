@@ -50,27 +50,27 @@ Walworth County planners want controlled, efficient growth that protects farmlan
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Burlington | City | Not yet assessed | Verify growth potential |
+| Burlington | City | Low to Moderate | County service node with modest growth potential. |
 | Elkhorn | City | Moderate | Focus on redevelopment and infill. |
 | Lake Geneva | City | Moderate | Tourism and residential growth expected. |
-| Fontana-on-Geneva Lake | Village | Not yet assessed | Verify growth potential |
-| Genoa City | Village | Not yet assessed | Verify growth potential |
-| Mukwonago | Village | Not yet assessed | Verify growth potential |
+| Fontana-on-Geneva Lake | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Genoa City | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Mukwonago | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Williams Bay | Village | Low to Moderate | Limited growth. |
-| Bloomfield | Town | Not yet assessed | Verify growth potential |
-| Darien | Town | Not yet assessed | Verify growth potential |
+| Bloomfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Darien | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Delavan | Town | Moderate | Growth near the City of Delavan. |
 | East Troy | Town | Moderate | Residential growth near I-43. |
 | Geneva | Town | Low to Moderate | Limited growth. |
-| La Grange | Town | Not yet assessed | Verify growth potential |
-| Lafayette | Town | Not yet assessed | Verify growth potential |
-| Linn | Town | Not yet assessed | Verify growth potential |
-| Lyons | Town | Not yet assessed | Verify growth potential |
-| Richmond | Town | Not yet assessed | Verify growth potential |
-| Sharon | Town | Not yet assessed | Verify growth potential |
-| Spring Prairie | Town | Not yet assessed | Verify growth potential |
+| La Grange | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lafayette | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Linn | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lyons | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Richmond | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sharon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Spring Prairie | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Sugar Creek | Town | Low | Rural character to be preserved. |
-| Troy | Town | Not yet assessed | Verify growth potential |
+| Troy | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Walworth | Town | Low | Agricultural preservation priority. |
 | Whitewater | Town | Moderate | Steady residential and commercial growth. |
 

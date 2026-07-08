@@ -49,38 +49,38 @@ Sauk County planners want controlled, efficient growth that protects farmland, u
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
-| Cazenovia | Village | Not yet assessed | Verify growth potential |
-| Lake Delton | Village | Not yet assessed | Verify growth potential |
-| Lime Ridge | Village | Not yet assessed | Verify growth potential |
-| Loganville | Village | Not yet assessed | Verify growth potential |
-| North Freedom | Village | Not yet assessed | Verify growth potential |
-| Plain | Village | Not yet assessed | Verify growth potential |
-| Rock Springs | Village | Not yet assessed | Verify growth potential |
+| Wisconsin Dells | City | Low to Moderate | County service node with modest growth potential. |
+| Cazenovia | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Lake Delton | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Lime Ridge | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Loganville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| North Freedom | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Plain | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Rock Springs | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Sauk City | Village | Low to Moderate | Residential growth expected. |
-| West Baraboo | Village | Not yet assessed | Verify growth potential |
+| West Baraboo | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Baraboo | Town | Low to Moderate | Growth near the City of Baraboo. |
-| Bear Creek | Town | Not yet assessed | Verify growth potential |
-| Dellona | Town | Not yet assessed | Verify growth potential |
-| Delton | Town | Not yet assessed | Verify growth potential |
-| Excelsior | Town | Not yet assessed | Verify growth potential |
-| Fairfield | Town | Not yet assessed | Verify growth potential |
+| Bear Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dellona | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Delton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Excelsior | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Fairfield | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Franklin | Town | Low | Limited development expected. |
-| Freedom | Town | Not yet assessed | Verify growth potential |
-| Greenfield | Town | Not yet assessed | Verify growth potential |
+| Freedom | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Greenfield | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Honey Creek | Town | Low | Agricultural preservation priority. |
-| Ironton | Town | Not yet assessed | Verify growth potential |
-| La Valle | Town | Not yet assessed | Verify growth potential |
-| Merrimac | Town | Not yet assessed | Verify growth potential |
+| Ironton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| La Valle | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Merrimac | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Prairie du Sac | Town | Low | Rural character to be preserved. |
 | Reedsburg | Town | Low | Agricultural and rural focus. |
-| Spring Green | Town | Not yet assessed | Verify growth potential |
-| Sumpter | Town | Not yet assessed | Verify growth potential |
-| Troy | Town | Not yet assessed | Verify growth potential |
-| Washington | Town | Not yet assessed | Verify growth potential |
-| Westfield | Town | Not yet assessed | Verify growth potential |
-| Winfield | Town | Not yet assessed | Verify growth potential |
-| Woodland | Town | Not yet assessed | Verify growth potential |
+| Spring Green | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sumpter | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Troy | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Washington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Westfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Winfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Woodland | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

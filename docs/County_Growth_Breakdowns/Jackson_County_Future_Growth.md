@@ -52,30 +52,30 @@ Jackson County should be researched as a corridor-and-node county. Best targets 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Alma Center | Village | Not yet assessed | Verify growth potential |
-| Merrillan | Village | Not yet assessed | Verify growth potential |
-| Taylor | Village | Not yet assessed | Verify growth potential |
-| Adams | Town | Not yet assessed | Verify growth potential |
-| Albion | Town | Not yet assessed | Verify growth potential |
-| Alma | Town | Not yet assessed | Verify growth potential |
-| Bear Bluff | Town | Not yet assessed | Verify growth potential |
-| Brockway | Town | Not yet assessed | Verify growth potential |
-| City Point | Town | Not yet assessed | Verify growth potential |
-| Cleveland | Town | Not yet assessed | Verify growth potential |
-| Curran | Town | Not yet assessed | Verify growth potential |
-| Franklin | Town | Not yet assessed | Verify growth potential |
-| Garden Valley | Town | Not yet assessed | Verify growth potential |
-| Garfield | Town | Not yet assessed | Verify growth potential |
-| Hixton | Town | Not yet assessed | Verify growth potential |
-| Irving | Town | Not yet assessed | Verify growth potential |
-| Knapp | Town | Not yet assessed | Verify growth potential |
-| Komensky | Town | Not yet assessed | Verify growth potential |
-| Manchester | Town | Not yet assessed | Verify growth potential |
-| Melrose | Town | Not yet assessed | Verify growth potential |
-| Millston | Town | Not yet assessed | Verify growth potential |
-| North Bend | Town | Not yet assessed | Verify growth potential |
-| Northfield | Town | Not yet assessed | Verify growth potential |
-| Springfield | Town | Not yet assessed | Verify growth potential |
+| Alma Center | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Merrillan | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Taylor | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Adams | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Albion | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Alma | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bear Bluff | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Brockway | Town | Low | Rural township; agricultural preservation likely dominant. |
+| City Point | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cleveland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Curran | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Franklin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Garden Valley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Garfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hixton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Irving | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Knapp | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Komensky | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Manchester | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Melrose | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Millston | Town | Low | Rural township; agricultural preservation likely dominant. |
+| North Bend | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Northfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Springfield | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

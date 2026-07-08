@@ -51,30 +51,30 @@ Iowa County should be researched as a corridor-and-node county: future growth is
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Avoca | Village | Not yet assessed | Verify growth potential |
-| Barneveld | Village | Not yet assessed | Verify growth potential |
-| Blanchardville | Village | Not yet assessed | Verify growth potential |
-| Cobb | Village | Not yet assessed | Verify growth potential |
-| Hollandale | Village | Not yet assessed | Verify growth potential |
-| Livingston | Village | Not yet assessed | Verify growth potential |
-| Montfort | Village | Not yet assessed | Verify growth potential |
-| Muscoda | Village | Not yet assessed | Verify growth potential |
-| Rewey | Village | Not yet assessed | Verify growth potential |
-| Arena | Town | Not yet assessed | Verify growth potential |
-| Brigham | Town | Not yet assessed | Verify growth potential |
-| Clyde | Town | Not yet assessed | Verify growth potential |
-| Dodgeville | Town | Not yet assessed | Verify growth potential |
-| Eden | Town | Not yet assessed | Verify growth potential |
-| Edmund | Town | Not yet assessed | Verify growth potential |
-| Highland | Town | Not yet assessed | Verify growth potential |
-| Linden | Town | Not yet assessed | Verify growth potential |
-| Mifflin | Town | Not yet assessed | Verify growth potential |
-| Mineral Point | Town | Not yet assessed | Verify growth potential |
-| Moscow | Town | Not yet assessed | Verify growth potential |
-| Pulaski | Town | Not yet assessed | Verify growth potential |
-| Ridgeway | Town | Not yet assessed | Verify growth potential |
-| Waldwick | Town | Not yet assessed | Verify growth potential |
-| Wyoming | Town | Not yet assessed | Verify growth potential |
+| Avoca | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Barneveld | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Blanchardville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Cobb | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Hollandale | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Livingston | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Montfort | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Muscoda | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Rewey | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Arena | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Brigham | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clyde | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dodgeville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Eden | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Edmund | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Highland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Linden | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mifflin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mineral Point | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Moscow | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Pulaski | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ridgeway | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Waldwick | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wyoming | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -52,30 +52,30 @@ Portage County should be researched as a Stevens Point/Plover metro + I-39 corri
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Amherst Junction | Village | Not yet assessed | Verify growth potential |
-| Junction City | Village | Not yet assessed | Verify growth potential |
-| Milladore | Village | Not yet assessed | Verify growth potential |
-| Nelsonville | Village | Not yet assessed | Verify growth potential |
-| Park Ridge | Village | Not yet assessed | Verify growth potential |
-| Rosholt | Village | Not yet assessed | Verify growth potential |
-| Whiting | Village | Not yet assessed | Verify growth potential |
-| Alban | Town | Not yet assessed | Verify growth potential |
-| Almond | Town | Not yet assessed | Verify growth potential |
-| Amherst | Town | Not yet assessed | Verify growth potential |
-| Belmont | Town | Not yet assessed | Verify growth potential |
-| Buena Vista | Town | Not yet assessed | Verify growth potential |
-| Carson | Town | Not yet assessed | Verify growth potential |
-| Dewey | Town | Not yet assessed | Verify growth potential |
-| Eau Pleine | Town | Not yet assessed | Verify growth potential |
-| Grant | Town | Not yet assessed | Verify growth potential |
-| Hull | Town | Not yet assessed | Verify growth potential |
-| Lanark | Town | Not yet assessed | Verify growth potential |
-| Linwood | Town | Not yet assessed | Verify growth potential |
-| New Hope | Town | Not yet assessed | Verify growth potential |
-| Pine Grove | Town | Not yet assessed | Verify growth potential |
-| Plover | Town | Not yet assessed | Verify growth potential |
-| Sharon | Town | Not yet assessed | Verify growth potential |
-| Stockton | Town | Not yet assessed | Verify growth potential |
+| Amherst Junction | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Junction City | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Milladore | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Nelsonville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Park Ridge | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Rosholt | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Whiting | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Alban | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Almond | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Amherst | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Belmont | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Buena Vista | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Carson | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Dewey | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Eau Pleine | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Grant | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hull | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Lanark | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Linwood | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| New Hope | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Pine Grove | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Plover | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Sharon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Stockton | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

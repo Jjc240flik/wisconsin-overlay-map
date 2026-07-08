@@ -53,17 +53,17 @@ Ozaukee County should be researched as a Lake Michigan I-43 corridor county with
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Mequon | City | Not yet assessed | Verify growth potential |
-| Bayside | Village | Not yet assessed | Verify growth potential |
-| Newburg | Village | Not yet assessed | Verify growth potential |
-| Thiensville | Village | Not yet assessed | Verify growth potential |
-| Belgium | Town | Not yet assessed | Verify growth potential |
-| Cedarburg | Town | Not yet assessed | Verify growth potential |
-| Fredonia | Town | Not yet assessed | Verify growth potential |
-| Grafton | Town | Not yet assessed | Verify growth potential |
-| Port Washington | Town | Not yet assessed | Verify growth potential |
-| Saukville | Town | Not yet assessed | Verify growth potential |
-| Waubeka | Town | Not yet assessed | Verify growth potential |
+| Mequon | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Bayside | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Newburg | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Thiensville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Belgium | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cedarburg | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Fredonia | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Grafton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Port Washington | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Saukville | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Waubeka | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

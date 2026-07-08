@@ -53,36 +53,36 @@ Polk County should be researched as a Twin Cities-adjacent / lake corridor count
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Amery | City | Not yet assessed | Verify growth potential |
-| Centuria | Village | Not yet assessed | Verify growth potential |
-| Dresser | Village | Not yet assessed | Verify growth potential |
-| Frederic | Village | Not yet assessed | Verify growth potential |
-| Turtle Lake | Village | Not yet assessed | Verify growth potential |
-| Alden | Town | Not yet assessed | Verify growth potential |
-| Apple River | Town | Not yet assessed | Verify growth potential |
-| Balsam Lake | Town | Not yet assessed | Verify growth potential |
-| Beaver | Town | Not yet assessed | Verify growth potential |
-| Black Brook | Town | Not yet assessed | Verify growth potential |
-| Bone Lake | Town | Not yet assessed | Verify growth potential |
-| Clam Falls | Town | Not yet assessed | Verify growth potential |
-| Clayton | Town | Not yet assessed | Verify growth potential |
-| Clear Lake | Town | Not yet assessed | Verify growth potential |
-| Eureka | Town | Not yet assessed | Verify growth potential |
-| Farmington | Town | Not yet assessed | Verify growth potential |
-| Garfield | Town | Not yet assessed | Verify growth potential |
-| Georgetown | Town | Not yet assessed | Verify growth potential |
-| Johnstown | Town | Not yet assessed | Verify growth potential |
-| Laketown | Town | Not yet assessed | Verify growth potential |
-| Lewis | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Lorain | Town | Not yet assessed | Verify growth potential |
-| Luck | Town | Not yet assessed | Verify growth potential |
-| McKinley | Town | Not yet assessed | Verify growth potential |
-| Milltown | Town | Not yet assessed | Verify growth potential |
-| Osceola | Town | Not yet assessed | Verify growth potential |
-| St. Croix Falls | Town | Not yet assessed | Verify growth potential |
-| Sterling | Town | Not yet assessed | Verify growth potential |
-| West Sweden | Town | Not yet assessed | Verify growth potential |
+| Amery | City | Low to Moderate | County service node with modest growth potential. |
+| Centuria | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Dresser | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Frederic | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Turtle Lake | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Alden | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Apple River | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Balsam Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Beaver | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Black Brook | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bone Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clam Falls | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clayton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clear Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Eureka | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Farmington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Garfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Georgetown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Johnstown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Laketown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lewis | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lincoln | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lorain | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Luck | Town | Low | Rural township; agricultural preservation likely dominant. |
+| McKinley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Milltown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Osceola | Town | Low | Rural township; agricultural preservation likely dominant. |
+| St. Croix Falls | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sterling | Town | Low | Rural township; agricultural preservation likely dominant. |
+| West Sweden | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

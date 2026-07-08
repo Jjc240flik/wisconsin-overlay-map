@@ -50,22 +50,22 @@ Eau Claire County planners want controlled, efficient growth that protects farml
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Altoona | City | Low | Agricultural and rural focus. |
-| Augusta | City | Not yet assessed | Verify growth potential |
+| Augusta | City | Moderate | Likely redevelopment/infill and some corridor growth. |
 | Eau Claire | City | Low to Moderate | Growth near the City of Eau Claire. |
 | Fall Creek | Village | Low to Moderate | Limited growth. |
 | Bridge Creek | Town | Low | Rural character to be preserved. |
-| Brunswick | Town | Not yet assessed | Verify growth potential |
+| Brunswick | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Clear Creek | Town | Low | Agricultural preservation priority. |
-| Drammen | Town | Not yet assessed | Verify growth potential |
+| Drammen | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Fairchild | Town | Low | Limited development expected. |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Ludington | Town | Not yet assessed | Verify growth potential |
-| Otter Creek | Town | Not yet assessed | Verify growth potential |
-| Pleasant Valley | Town | Not yet assessed | Verify growth potential |
-| Seymour | Town | Not yet assessed | Verify growth potential |
-| Union | Town | Not yet assessed | Verify growth potential |
-| Washington | Town | Not yet assessed | Verify growth potential |
-| Wilson | Town | Not yet assessed | Verify growth potential |
+| Lincoln | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Ludington | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Otter Creek | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Pleasant Valley | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Seymour | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Union | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Washington | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Wilson | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

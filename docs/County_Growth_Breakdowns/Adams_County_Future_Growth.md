@@ -49,24 +49,24 @@ Adams County planners want controlled, efficient growth that protects farmland, 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Friendship | City | Low | Agricultural and rural focus. |
-| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
+| Wisconsin Dells | City | Low | Limited growth; rural/forest character. |
 | Adams | Town | Low to Moderate | Growth near the City of Adams. |
-| Big Flats | Town | Not yet assessed | Verify growth potential |
-| Colburn | Town | Not yet assessed | Verify growth potential |
-| Dell Prairie | Town | Not yet assessed | Verify growth potential |
-| Easton | Town | Not yet assessed | Verify growth potential |
+| Big Flats | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Colburn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dell Prairie | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Easton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Jackson | Town | Low | Rural character to be preserved. |
-| Leola | Town | Not yet assessed | Verify growth potential |
+| Leola | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Lincoln | Town | Low | Agricultural preservation priority. |
 | Monroe | Town | Low | Limited development expected. |
 | New Chester | Town | Low | Agricultural focus. |
-| New Haven | Town | Not yet assessed | Verify growth potential |
+| New Haven | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Preston | Town | Low | Rural character to be preserved. |
-| Quincy | Town | Not yet assessed | Verify growth potential |
+| Quincy | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Richfield | Town | Low | Limited development expected. |
-| Rome | Town | Not yet assessed | Verify growth potential |
-| Springville | Town | Not yet assessed | Verify growth potential |
-| Strongs Prairie | Town | Not yet assessed | Verify growth potential |
+| Rome | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Springville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Strongs Prairie | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

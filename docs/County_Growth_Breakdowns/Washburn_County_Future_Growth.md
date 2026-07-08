@@ -51,28 +51,28 @@ Washburn County requires municipal-level plan review since there is no countywid
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Shell Lake | City | Not yet assessed | Verify growth potential |
-| Barronett | Town | Not yet assessed | Verify growth potential |
-| Bashaw | Town | Not yet assessed | Verify growth potential |
-| Bass Lake | Town | Not yet assessed | Verify growth potential |
-| Beaver Brook | Town | Not yet assessed | Verify growth potential |
-| Birchwood | Town | Not yet assessed | Verify growth potential |
-| Brooklyn | Town | Not yet assessed | Verify growth potential |
-| Casey | Town | Not yet assessed | Verify growth potential |
-| Chicog | Town | Not yet assessed | Verify growth potential |
-| Crystal | Town | Not yet assessed | Verify growth potential |
-| Evergreen | Town | Not yet assessed | Verify growth potential |
-| Frog Creek | Town | Not yet assessed | Verify growth potential |
-| Gull Lake | Town | Not yet assessed | Verify growth potential |
-| Long Lake | Town | Not yet assessed | Verify growth potential |
-| Madge | Town | Not yet assessed | Verify growth potential |
-| Minong | Town | Not yet assessed | Verify growth potential |
-| Sarona | Town | Not yet assessed | Verify growth potential |
-| Spooner | Town | Not yet assessed | Verify growth potential |
-| Springbrook | Town | Not yet assessed | Verify growth potential |
-| Stinnett | Town | Not yet assessed | Verify growth potential |
-| Stone Lake | Town | Not yet assessed | Verify growth potential |
-| Trego | Town | Not yet assessed | Verify growth potential |
+| Shell Lake | City | Low | Limited growth; rural/forest character. |
+| Barronett | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Bashaw | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Bass Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Beaver Brook | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Birchwood | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Brooklyn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Casey | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Chicog | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Crystal | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Evergreen | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Frog Creek | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gull Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Long Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Madge | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Minong | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Sarona | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Spooner | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Springbrook | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Stinnett | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Stone Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Trego | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

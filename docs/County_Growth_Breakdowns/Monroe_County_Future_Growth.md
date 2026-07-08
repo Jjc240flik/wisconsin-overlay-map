@@ -53,36 +53,36 @@ Monroe County is a strong county for the current-vs-future comparison because of
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Cashton | Village | Not yet assessed | Verify growth potential |
-| Kendall | Village | Not yet assessed | Verify growth potential |
-| Melvina | Village | Not yet assessed | Verify growth potential |
-| Norwalk | Village | Not yet assessed | Verify growth potential |
-| Warrens | Village | Not yet assessed | Verify growth potential |
-| Wyeville | Village | Not yet assessed | Verify growth potential |
-| Adrian | Town | Not yet assessed | Verify growth potential |
-| Angelo | Town | Not yet assessed | Verify growth potential |
-| Byron | Town | Not yet assessed | Verify growth potential |
-| Clifton | Town | Not yet assessed | Verify growth potential |
-| Glendale | Town | Not yet assessed | Verify growth potential |
-| Grant | Town | Not yet assessed | Verify growth potential |
-| Greenfield | Town | Not yet assessed | Verify growth potential |
-| Jefferson | Town | Not yet assessed | Verify growth potential |
-| La Grange | Town | Not yet assessed | Verify growth potential |
-| Lafayette | Town | Not yet assessed | Verify growth potential |
-| Leon | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Little Falls | Town | Not yet assessed | Verify growth potential |
-| New Lyme | Town | Not yet assessed | Verify growth potential |
-| Oakdale | Town | Not yet assessed | Verify growth potential |
-| Portland | Town | Not yet assessed | Verify growth potential |
-| Ridgeville | Town | Not yet assessed | Verify growth potential |
-| Scott | Town | Not yet assessed | Verify growth potential |
-| Sheldon | Town | Not yet assessed | Verify growth potential |
-| Sparta | Town | Not yet assessed | Verify growth potential |
-| Tomah | Town | Not yet assessed | Verify growth potential |
-| Wellington | Town | Not yet assessed | Verify growth potential |
-| Wells | Town | Not yet assessed | Verify growth potential |
-| Wilton | Town | Not yet assessed | Verify growth potential |
+| Cashton | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Kendall | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Melvina | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Norwalk | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Warrens | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Wyeville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Adrian | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Angelo | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Byron | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clifton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Glendale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Grant | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Greenfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Jefferson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| La Grange | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lafayette | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Leon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lincoln | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Little Falls | Town | Low | Rural township; agricultural preservation likely dominant. |
+| New Lyme | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oakdale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Portland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ridgeville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Scott | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sheldon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sparta | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Tomah | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wellington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wells | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wilton | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

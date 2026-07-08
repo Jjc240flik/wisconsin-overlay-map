@@ -52,27 +52,27 @@ Richland County should be researched as an agricultural-corridor county with bes
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Boaz | Village | Not yet assessed | Verify growth potential |
-| Cazenovia | Village | Not yet assessed | Verify growth potential |
-| Lone Rock | Village | Not yet assessed | Verify growth potential |
-| Viola | Village | Not yet assessed | Verify growth potential |
-| Yuba | Village | Not yet assessed | Verify growth potential |
-| Akan | Town | Not yet assessed | Verify growth potential |
-| Bloom | Town | Not yet assessed | Verify growth potential |
-| Buena Vista | Town | Not yet assessed | Verify growth potential |
-| Dayton | Town | Not yet assessed | Verify growth potential |
-| Eagle | Town | Not yet assessed | Verify growth potential |
-| Forest | Town | Not yet assessed | Verify growth potential |
-| Henrietta | Town | Not yet assessed | Verify growth potential |
-| Ithaca | Town | Not yet assessed | Verify growth potential |
-| Marshall | Town | Not yet assessed | Verify growth potential |
-| Orion | Town | Not yet assessed | Verify growth potential |
-| Richland | Town | Not yet assessed | Verify growth potential |
-| Richwood | Town | Not yet assessed | Verify growth potential |
-| Rockbridge | Town | Not yet assessed | Verify growth potential |
-| Sylvan | Town | Not yet assessed | Verify growth potential |
-| Westford | Town | Not yet assessed | Verify growth potential |
-| Willow | Town | Not yet assessed | Verify growth potential |
+| Boaz | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Cazenovia | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Lone Rock | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Viola | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Yuba | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Akan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bloom | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Buena Vista | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dayton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Eagle | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Forest | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Henrietta | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ithaca | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Marshall | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Orion | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Richland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Richwood | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rockbridge | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sylvan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Westford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Willow | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

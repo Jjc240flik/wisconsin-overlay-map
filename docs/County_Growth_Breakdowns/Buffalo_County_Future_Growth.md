@@ -49,26 +49,26 @@ Buffalo County planners want controlled, efficient growth that protects farmland
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Buffalo City | City | Not yet assessed | Verify growth potential |
-| Fountain City | City | Not yet assessed | Verify growth potential |
+| Buffalo City | City | Low | Limited growth; rural/forest character. |
+| Fountain City | City | Low | Limited growth; rural/forest character. |
 | Cochrane | Village | Low | Limited growth. |
 | Alma | Town | Low to Moderate | Growth near the City of Alma. |
 | Belvidere | Town | Low | Rural character to be preserved. |
 | Buffalo | Town | Low | Agricultural and rural focus. |
 | Canton | Town | Low | Agricultural preservation priority. |
 | Cross | Town | Low | Limited development expected. |
-| Dover | Town | Not yet assessed | Verify growth potential |
-| Gilmanton | Town | Not yet assessed | Verify growth potential |
-| Glencoe | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Maxville | Town | Not yet assessed | Verify growth potential |
-| Milton | Town | Not yet assessed | Verify growth potential |
-| Modena | Town | Not yet assessed | Verify growth potential |
-| Mondovi | Town | Not yet assessed | Verify growth potential |
-| Montana | Town | Not yet assessed | Verify growth potential |
-| Naples | Town | Not yet assessed | Verify growth potential |
+| Dover | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gilmanton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Glencoe | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Maxville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Milton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Modena | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mondovi | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Montana | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Naples | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Nelson | Town | Low | Limited development expected. |
-| Waumandee | Town | Not yet assessed | Verify growth potential |
+| Waumandee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

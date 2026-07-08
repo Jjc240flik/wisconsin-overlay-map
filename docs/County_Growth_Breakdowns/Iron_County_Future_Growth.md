@@ -50,18 +50,18 @@ Iron County should be treated as a low-growth / high-resource-protection county.
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Hurley | City | Not yet assessed | Verify growth potential |
-| Montreal | City | Not yet assessed | Verify growth potential |
-| Anderson | Town | Not yet assessed | Verify growth potential |
-| Carey | Town | Not yet assessed | Verify growth potential |
-| Gurney | Town | Not yet assessed | Verify growth potential |
-| Kimball | Town | Not yet assessed | Verify growth potential |
-| Knight | Town | Not yet assessed | Verify growth potential |
-| Mercer | Town | Not yet assessed | Verify growth potential |
-| Oma | Town | Not yet assessed | Verify growth potential |
-| Pence | Town | Not yet assessed | Verify growth potential |
-| Saxon | Town | Not yet assessed | Verify growth potential |
-| Sherman | Town | Not yet assessed | Verify growth potential |
+| Hurley | City | Low | Limited growth; rural/forest character. |
+| Montreal | City | Low | Limited growth; rural/forest character. |
+| Anderson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Carey | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gurney | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Kimball | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Knight | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mercer | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Oma | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pence | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Saxon | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Sherman | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

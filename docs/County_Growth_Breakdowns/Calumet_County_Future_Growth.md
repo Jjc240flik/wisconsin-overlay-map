@@ -50,19 +50,19 @@ Calumet County planners want controlled, efficient growth that protects farmland
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Appleton | City | Moderate | Focus on redevelopment and infill (Calumet County portion). |
-| Kaukauna | City | Not yet assessed | Verify growth potential |
-| Kiel | City | Not yet assessed | Verify growth potential |
-| Menasha | City | Not yet assessed | Verify growth potential |
+| Kaukauna | City | Low to Moderate | County service node with modest growth potential. |
+| Kiel | City | Low to Moderate | County service node with modest growth potential. |
+| Menasha | City | Low to Moderate | County service node with modest growth potential. |
 | Hilbert | Village | Low to Moderate | Residential growth expected. |
-| Potter | Village | Not yet assessed | Verify growth potential |
-| Sherwood | Village | Not yet assessed | Verify growth potential |
+| Potter | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Sherwood | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Brillion | Town | Low | Agricultural and rural focus. |
-| Brothertown | Town | Not yet assessed | Verify growth potential |
-| Charlestown | Town | Not yet assessed | Verify growth potential |
+| Brothertown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Charlestown | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Chilton | Town | Low to Moderate | Growth near the City of Chilton. |
-| Forest Junction | Town | Not yet assessed | Verify growth potential |
-| Harrison | Town | Not yet assessed | Verify growth potential |
-| New Holstein | Town | Not yet assessed | Verify growth potential |
+| Forest Junction | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harrison | Town | Low | Rural township; agricultural preservation likely dominant. |
+| New Holstein | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Rantoul | Town | Low | Limited development expected. |
 | Stockbridge | Town | Low | Rural character to be preserved. |
 | Woodville | Town | Low | Agricultural preservation priority. |

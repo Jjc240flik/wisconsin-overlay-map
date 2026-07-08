@@ -50,36 +50,36 @@ Waukesha County planners want controlled, efficient growth that protects farmlan
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Muskego | City | Not yet assessed | Verify growth potential |
-| New Berlin | City | Not yet assessed | Verify growth potential |
-| Big Bend | Village | Not yet assessed | Verify growth potential |
-| Butler | Village | Not yet assessed | Verify growth potential |
-| Chenequa | Village | Not yet assessed | Verify growth potential |
-| Dousman | Village | Not yet assessed | Verify growth potential |
-| Elm Grove | Village | Not yet assessed | Verify growth potential |
-| Hartland | Village | Not yet assessed | Verify growth potential |
-| Lac La Belle | Village | Not yet assessed | Verify growth potential |
-| Lannon | Village | Not yet assessed | Verify growth potential |
+| Muskego | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| New Berlin | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Big Bend | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Butler | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Chenequa | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Dousman | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Elm Grove | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Hartland | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Lac La Belle | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Lannon | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | Lisbon | Village | Low to Moderate | Rural character with limited growth. |
 | Menomonee Falls | Village | Moderate to High | Significant residential and commercial growth expected. |
-| Nashotah | Village | Not yet assessed | Verify growth potential |
-| North Prairie | Village | Not yet assessed | Verify growth potential |
-| Oconomowoc Lake | Village | Not yet assessed | Verify growth potential |
-| Pewaukee | Village | Not yet assessed | Verify growth potential |
-| Summit | Village | Not yet assessed | Verify growth potential |
+| Nashotah | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| North Prairie | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Oconomowoc Lake | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Pewaukee | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Summit | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | Sussex | Village | Moderate | Steady residential growth. |
-| Vernon | Village | Not yet assessed | Verify growth potential |
-| Wales | Village | Not yet assessed | Verify growth potential |
+| Vernon | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Wales | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | Waukesha | Village | Moderate | Focus on redevelopment and infill rather than major expansion. |
 | Brookfield | Town | Moderate | Mostly built out; future growth through redevelopment. |
 | Delafield | Town | Moderate | Growth focused near the City of Delafield. |
-| Eagle | Town | Not yet assessed | Verify growth potential |
+| Eagle | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Genesee | Town | Low | Agricultural and low-density residential focus. |
-| Menomonee | Town | Not yet assessed | Verify growth potential |
+| Menomonee | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Merton | Town | Low | Agricultural and rural preservation focus. |
 | Mukwonago | Town | Low to Moderate | Growth mainly near the Village of Mukwonago. |
 | Oconomowoc | Town | Low to Moderate | Limited growth; focus on preserving rural areas. |
-| Ottawa | Town | Not yet assessed | Verify growth potential |
+| Ottawa | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

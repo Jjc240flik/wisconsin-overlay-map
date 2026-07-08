@@ -49,22 +49,22 @@ Washington County planners want controlled, efficient growth that protects farml
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Milwaukee | City | Not yet assessed | Verify growth potential |
-| Newburg | Village | Not yet assessed | Verify growth potential |
-| Richfield | Village | Not yet assessed | Verify growth potential |
-| Slinger | Village | Not yet assessed | Verify growth potential |
-| Addison | Town | Not yet assessed | Verify growth potential |
-| Allenton | Town | Not yet assessed | Verify growth potential |
+| Milwaukee | City | Low to Moderate | County service node with modest growth potential. |
+| Newburg | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Richfield | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Slinger | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Addison | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Allenton | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Barton | Town | Low | Rural and agricultural focus. |
-| Erin | Town | Not yet assessed | Verify growth potential |
-| Farmington | Town | Not yet assessed | Verify growth potential |
-| Germantown | Town | Not yet assessed | Verify growth potential |
+| Erin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Farmington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Germantown | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Hartford | Town | Low | Agricultural and rural focus. |
 | Jackson | Town | Low | Rural character to be preserved. |
 | Kewaskum | Town | Low | Agricultural preservation priority. |
 | Polk | Town | Low | Limited development expected. |
-| Trenton | Town | Not yet assessed | Verify growth potential |
-| Wayne | Town | Not yet assessed | Verify growth potential |
+| Trenton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wayne | Town | Low | Rural township; agricultural preservation likely dominant. |
 | West Bend | Town | Low to Moderate | Growth near the City of West Bend. |
 
 ### Unincorporated communities

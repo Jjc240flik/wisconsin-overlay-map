@@ -54,62 +54,62 @@ Marathon County should be researched as a Wausau-metro-and-corridor growth count
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Abbotsford | City | Not yet assessed | Verify growth potential |
-| Colby | City | Not yet assessed | Verify growth potential |
-| Marshfield | City | Not yet assessed | Verify growth potential |
-| Schofield | City | Not yet assessed | Verify growth potential |
-| Athens | Village | Not yet assessed | Verify growth potential |
-| Birnamwood | Village | Not yet assessed | Verify growth potential |
-| Dorchester | Village | Not yet assessed | Verify growth potential |
-| Edgar | Village | Not yet assessed | Verify growth potential |
-| Fenwood | Village | Not yet assessed | Verify growth potential |
-| Hatley | Village | Not yet assessed | Verify growth potential |
-| Kronenwetter | Village | Not yet assessed | Verify growth potential |
-| Maine | Village | Not yet assessed | Verify growth potential |
-| Marathon City | Village | Not yet assessed | Verify growth potential |
-| Rib Mountain | Village | Not yet assessed | Verify growth potential |
-| Rothschild | Village | Not yet assessed | Verify growth potential |
-| Stratford | Village | Not yet assessed | Verify growth potential |
-| Unity | Village | Not yet assessed | Verify growth potential |
-| Bergen | Town | Not yet assessed | Verify growth potential |
-| Berlin | Town | Not yet assessed | Verify growth potential |
-| Bern | Town | Not yet assessed | Verify growth potential |
-| Bevent | Town | Not yet assessed | Verify growth potential |
-| Brighton | Town | Not yet assessed | Verify growth potential |
-| Cassel | Town | Not yet assessed | Verify growth potential |
-| Cleveland | Town | Not yet assessed | Verify growth potential |
-| Day | Town | Not yet assessed | Verify growth potential |
-| Easton | Town | Not yet assessed | Verify growth potential |
-| Eau Pleine | Town | Not yet assessed | Verify growth potential |
-| Elderon | Town | Not yet assessed | Verify growth potential |
-| Emmet | Town | Not yet assessed | Verify growth potential |
-| Frankfort | Town | Not yet assessed | Verify growth potential |
-| Franzen | Town | Not yet assessed | Verify growth potential |
-| Green Valley | Town | Not yet assessed | Verify growth potential |
-| Guenther | Town | Not yet assessed | Verify growth potential |
-| Halsey | Town | Not yet assessed | Verify growth potential |
-| Hamburg | Town | Not yet assessed | Verify growth potential |
-| Harrison | Town | Not yet assessed | Verify growth potential |
-| Hewitt | Town | Not yet assessed | Verify growth potential |
-| Holton | Town | Not yet assessed | Verify growth potential |
-| Hull | Town | Not yet assessed | Verify growth potential |
-| Johnson | Town | Not yet assessed | Verify growth potential |
-| Knowlton | Town | Not yet assessed | Verify growth potential |
-| Marathon | Town | Not yet assessed | Verify growth potential |
-| McMillan | Town | Not yet assessed | Verify growth potential |
-| Mosinee | Town | Not yet assessed | Verify growth potential |
-| Norrie | Town | Not yet assessed | Verify growth potential |
-| Plover | Town | Not yet assessed | Verify growth potential |
-| Reid | Town | Not yet assessed | Verify growth potential |
-| Rib Falls | Town | Not yet assessed | Verify growth potential |
-| Rietbrock | Town | Not yet assessed | Verify growth potential |
-| Ringle | Town | Not yet assessed | Verify growth potential |
-| Spencer | Town | Not yet assessed | Verify growth potential |
-| Stettin | Town | Not yet assessed | Verify growth potential |
-| Texas | Town | Not yet assessed | Verify growth potential |
-| Wausau | Town | Not yet assessed | Verify growth potential |
-| Weston | Town | Not yet assessed | Verify growth potential |
-| Wien | Town | Not yet assessed | Verify growth potential |
+| Abbotsford | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Colby | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Marshfield | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Schofield | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Athens | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Birnamwood | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Dorchester | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Edgar | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Fenwood | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Hatley | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Kronenwetter | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Maine | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Marathon City | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Rib Mountain | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Rothschild | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Stratford | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Unity | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Bergen | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Berlin | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Bern | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Bevent | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Brighton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cassel | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cleveland | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Day | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Easton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Eau Pleine | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Elderon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Emmet | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Frankfort | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Franzen | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Green Valley | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Guenther | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Halsey | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hamburg | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Harrison | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hewitt | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Holton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hull | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Johnson | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Knowlton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Marathon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| McMillan | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Mosinee | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Norrie | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Plover | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Reid | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Rib Falls | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Rietbrock | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Ringle | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Spencer | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Stettin | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Texas | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Wausau | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Weston | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Wien | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

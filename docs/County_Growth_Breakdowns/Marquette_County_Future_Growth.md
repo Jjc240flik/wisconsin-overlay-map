@@ -52,23 +52,23 @@ Marquette County is important because it is actively updating its comprehensive 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Endeavor | Village | Not yet assessed | Verify growth potential |
-| Briggsville | Town | Not yet assessed | Verify growth potential |
-| Buffalo | Town | Not yet assessed | Verify growth potential |
-| Crystal Lake | Town | Not yet assessed | Verify growth potential |
-| Douglas | Town | Not yet assessed | Verify growth potential |
-| Harris | Town | Not yet assessed | Verify growth potential |
-| Harrisville | Town | Not yet assessed | Verify growth potential |
-| Mecan | Town | Not yet assessed | Verify growth potential |
-| Montello | Town | Not yet assessed | Verify growth potential |
-| Moundville | Town | Not yet assessed | Verify growth potential |
-| Neshkoro | Town | Not yet assessed | Verify growth potential |
-| Newton | Town | Not yet assessed | Verify growth potential |
-| Oxford | Town | Not yet assessed | Verify growth potential |
-| Packwaukee | Town | Not yet assessed | Verify growth potential |
-| Shields | Town | Not yet assessed | Verify growth potential |
-| Springfield | Town | Not yet assessed | Verify growth potential |
-| Westfield | Town | Not yet assessed | Verify growth potential |
+| Endeavor | Village | Low | Rural village; limited growth expected. |
+| Briggsville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Buffalo | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Crystal Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Douglas | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Harris | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Harrisville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mecan | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Montello | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Moundville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Neshkoro | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Newton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Oxford | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Packwaukee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Shields | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Springfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Westfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -53,33 +53,33 @@ Manitowoc County is strong for current-vs-future zoning comparison because the p
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Kiel | City | Not yet assessed | Verify growth potential |
-| Cleveland | Village | Not yet assessed | Verify growth potential |
-| Francis Creek | Village | Not yet assessed | Verify growth potential |
-| Kellnersville | Village | Not yet assessed | Verify growth potential |
-| Maribel | Village | Not yet assessed | Verify growth potential |
-| Reedsville | Village | Not yet assessed | Verify growth potential |
-| St. Nazianz | Village | Not yet assessed | Verify growth potential |
-| Valders | Village | Not yet assessed | Verify growth potential |
-| Whitelaw | Village | Not yet assessed | Verify growth potential |
-| Cato | Town | Not yet assessed | Verify growth potential |
-| Centerville | Town | Not yet assessed | Verify growth potential |
-| Cooperstown | Town | Not yet assessed | Verify growth potential |
-| Eaton | Town | Not yet assessed | Verify growth potential |
-| Franklin | Town | Not yet assessed | Verify growth potential |
-| Gibson | Town | Not yet assessed | Verify growth potential |
-| Kossuth | Town | Not yet assessed | Verify growth potential |
-| Liberty | Town | Not yet assessed | Verify growth potential |
-| Manitowoc | Town | Not yet assessed | Verify growth potential |
-| Manitowoc Rapids | Town | Not yet assessed | Verify growth potential |
-| Maple Grove | Town | Not yet assessed | Verify growth potential |
-| Meeme | Town | Not yet assessed | Verify growth potential |
-| Mishicot | Town | Not yet assessed | Verify growth potential |
-| Newton | Town | Not yet assessed | Verify growth potential |
-| Rockland | Town | Not yet assessed | Verify growth potential |
-| Schleswig | Town | Not yet assessed | Verify growth potential |
-| Two Creeks | Town | Not yet assessed | Verify growth potential |
-| Two Rivers | Town | Not yet assessed | Verify growth potential |
+| Kiel | City | Low to Moderate | County service node with modest growth potential. |
+| Cleveland | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Francis Creek | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Kellnersville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Maribel | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Reedsville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| St. Nazianz | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Valders | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Whitelaw | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Cato | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Centerville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cooperstown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Eaton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Franklin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Gibson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Kossuth | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Liberty | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Manitowoc | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Manitowoc Rapids | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Maple Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Meeme | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mishicot | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Newton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rockland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Schleswig | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Two Creeks | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Two Rivers | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

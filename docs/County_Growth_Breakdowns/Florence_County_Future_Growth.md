@@ -51,10 +51,10 @@ Florence County planners want controlled, efficient growth that protects farmlan
 | Aurora | Town | Low | Agricultural and rural focus. |
 | Commonwealth | Town | Low | Rural character to be preserved. |
 | Fence | Town | Low | Agricultural preservation priority. |
-| Fern | Town | Not yet assessed | Verify growth potential |
+| Fern | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Florence | Town | Low to Moderate | Growth near the City of Florence. |
 | Homestead | Town | Low | Limited development expected. |
-| Long Lake | Town | Not yet assessed | Verify growth potential |
+| Long Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Tipler | Town | Low | Agricultural focus. |
 
 ### Unincorporated communities

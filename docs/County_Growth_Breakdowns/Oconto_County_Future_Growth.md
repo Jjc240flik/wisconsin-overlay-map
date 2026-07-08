@@ -49,31 +49,31 @@ Oconto County planners want controlled, efficient growth that protects farmland,
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Pulaski | Village | Not yet assessed | Verify growth potential |
+| Pulaski | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Suring | Village | Low | Rural community with limited growth. |
-| Abrams | Town | Not yet assessed | Verify growth potential |
-| Bagley | Town | Not yet assessed | Verify growth potential |
-| Brazeau | Town | Not yet assessed | Verify growth potential |
-| Breed | Town | Not yet assessed | Verify growth potential |
-| Chase | Town | Not yet assessed | Verify growth potential |
-| Doty | Town | Not yet assessed | Verify growth potential |
-| Gillett | Town | Not yet assessed | Verify growth potential |
-| How | Town | Not yet assessed | Verify growth potential |
-| Lakewood | Town | Not yet assessed | Verify growth potential |
+| Abrams | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bagley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Brazeau | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Breed | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Chase | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Doty | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Gillett | Town | Low | Rural township; agricultural preservation likely dominant. |
+| How | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lakewood | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Lena | Town | Low | Rural character to be preserved. |
-| Little River | Town | Not yet assessed | Verify growth potential |
-| Little Suamico | Town | Not yet assessed | Verify growth potential |
+| Little River | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Little Suamico | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Maple Valley | Town | Low | Limited development expected. |
-| Morgan | Town | Not yet assessed | Verify growth potential |
-| Mountain | Town | Not yet assessed | Verify growth potential |
+| Morgan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mountain | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Oconto | Town | Low to Moderate | Growth near the City of Oconto. |
 | Oconto Falls | Town | Low | Agricultural and rural focus. |
-| Pensaukee | Town | Not yet assessed | Verify growth potential |
-| Riverview | Town | Not yet assessed | Verify growth potential |
-| Spruce | Town | Not yet assessed | Verify growth potential |
+| Pensaukee | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Riverview | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Spruce | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Stiles | Town | Low | Agricultural preservation priority. |
-| Townsend | Town | Not yet assessed | Verify growth potential |
-| Underhill | Town | Not yet assessed | Verify growth potential |
+| Townsend | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Underhill | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

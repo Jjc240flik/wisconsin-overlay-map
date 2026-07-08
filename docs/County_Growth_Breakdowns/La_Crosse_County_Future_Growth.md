@@ -53,22 +53,22 @@ La Crosse County should be researched as a metro-core and corridor-growth county
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| La Crosse | City | Not yet assessed | Verify growth potential |
-| French Island | Village | Not yet assessed | Verify growth potential |
-| Holmen | Village | Not yet assessed | Verify growth potential |
-| Rockland | Village | Not yet assessed | Verify growth potential |
-| West Salem | Village | Not yet assessed | Verify growth potential |
-| Bangor | Town | Not yet assessed | Verify growth potential |
-| Barre | Town | Not yet assessed | Verify growth potential |
-| Burns | Town | Not yet assessed | Verify growth potential |
-| Farmington | Town | Not yet assessed | Verify growth potential |
-| Greenfield | Town | Not yet assessed | Verify growth potential |
-| Hamilton | Town | Not yet assessed | Verify growth potential |
-| Holland | Town | Not yet assessed | Verify growth potential |
-| Medary | Town | Not yet assessed | Verify growth potential |
-| Onalaska | Town | Not yet assessed | Verify growth potential |
-| Shelby | Town | Not yet assessed | Verify growth potential |
-| Washington | Town | Not yet assessed | Verify growth potential |
+| La Crosse | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| French Island | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Holmen | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Rockland | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| West Salem | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Bangor | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Barre | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Burns | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Farmington | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Greenfield | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hamilton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Holland | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Medary | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Onalaska | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Shelby | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Washington | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

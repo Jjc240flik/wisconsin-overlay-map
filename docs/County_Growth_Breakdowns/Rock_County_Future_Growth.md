@@ -50,31 +50,31 @@ Rock County planners want controlled, efficient growth that protects farmland, u
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Brodhead | City | Not yet assessed | Verify growth potential |
-| Edgerton | City | Not yet assessed | Verify growth potential |
-| Evansville | City | Not yet assessed | Verify growth potential |
+| Brodhead | City | Low to Moderate | County service node with modest growth potential. |
+| Edgerton | City | Low to Moderate | County service node with modest growth potential. |
+| Evansville | City | Low to Moderate | County service node with modest growth potential. |
 | Footville | Village | Low | Limited development expected. |
-| Orfordville | Village | Not yet assessed | Verify growth potential |
-| Avon | Town | Not yet assessed | Verify growth potential |
+| Orfordville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Avon | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Beloit | Town | Low | Agricultural and rural focus. |
-| Bradford | Town | Not yet assessed | Verify growth potential |
-| Center | Town | Not yet assessed | Verify growth potential |
+| Bradford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Center | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Clinton | Town | Low to Moderate | Residential growth expected. |
 | Fulton | Town | Low | Agricultural preservation priority. |
-| Harmony | Town | Not yet assessed | Verify growth potential |
+| Harmony | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Janesville | Town | Low to Moderate | Growth near the City of Janesville. |
-| Johnstown | Town | Not yet assessed | Verify growth potential |
-| La Prairie | Town | Not yet assessed | Verify growth potential |
+| Johnstown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| La Prairie | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Lima | Town | Low | Limited development expected. |
-| Magnolia | Town | Not yet assessed | Verify growth potential |
+| Magnolia | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Milton | Town | Low to Moderate | Limited growth. |
-| Newark | Town | Not yet assessed | Verify growth potential |
-| Plymouth | Town | Not yet assessed | Verify growth potential |
-| Porter | Town | Not yet assessed | Verify growth potential |
+| Newark | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Plymouth | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Porter | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Rock | Town | Low | Rural character to be preserved. |
-| Spring Valley | Town | Not yet assessed | Verify growth potential |
-| Turtle | Town | Not yet assessed | Verify growth potential |
-| Union | Town | Not yet assessed | Verify growth potential |
+| Spring Valley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Turtle | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Union | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

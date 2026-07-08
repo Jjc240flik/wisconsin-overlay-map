@@ -50,34 +50,34 @@ Winnebago County planners want controlled, efficient growth that protects farmla
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Nekoosa | City | Not yet assessed | Verify growth potential |
-| Pittsville | City | Not yet assessed | Verify growth potential |
-| Wisconsin Rapids | City | Not yet assessed | Verify growth potential |
-| Biron | Village | Not yet assessed | Verify growth potential |
-| Hewitt | Village | Not yet assessed | Verify growth potential |
-| Vesper | Village | Not yet assessed | Verify growth potential |
-| Arpin | Town | Not yet assessed | Verify growth potential |
-| Auburndale | Town | Not yet assessed | Verify growth potential |
-| Cameron | Town | Not yet assessed | Verify growth potential |
-| Cary | Town | Not yet assessed | Verify growth potential |
-| Cranmoor | Town | Not yet assessed | Verify growth potential |
-| Dexter | Town | Not yet assessed | Verify growth potential |
-| Grand Rapids | Town | Not yet assessed | Verify growth potential |
-| Hansen | Town | Not yet assessed | Verify growth potential |
-| Hiles | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Marshfield | Town | Not yet assessed | Verify growth potential |
-| Milladore | Town | Not yet assessed | Verify growth potential |
-| Port Edwards | Town | Not yet assessed | Verify growth potential |
-| Remington | Town | Not yet assessed | Verify growth potential |
-| Richfield | Town | Not yet assessed | Verify growth potential |
-| Rock | Town | Not yet assessed | Verify growth potential |
-| Rudolph | Town | Not yet assessed | Verify growth potential |
-| Saratoga | Town | Not yet assessed | Verify growth potential |
-| Seneca | Town | Not yet assessed | Verify growth potential |
-| Sherry | Town | Not yet assessed | Verify growth potential |
-| Sigel | Town | Not yet assessed | Verify growth potential |
-| Wood | Town | Not yet assessed | Verify growth potential |
+| Nekoosa | City | Low to Moderate | County service node with modest growth potential. |
+| Pittsville | City | Low to Moderate | County service node with modest growth potential. |
+| Wisconsin Rapids | City | Low to Moderate | County service node with modest growth potential. |
+| Biron | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Hewitt | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Vesper | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Arpin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Auburndale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cameron | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cary | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cranmoor | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dexter | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Grand Rapids | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hansen | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hiles | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lincoln | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Marshfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Milladore | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Port Edwards | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Remington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Richfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rock | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rudolph | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Saratoga | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Seneca | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sherry | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sigel | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wood | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

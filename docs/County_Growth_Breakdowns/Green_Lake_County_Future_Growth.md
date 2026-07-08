@@ -51,16 +51,16 @@ Green Lake County planners want controlled, efficient growth that protects farml
 |--------------|------|------------------------|-------|
 | Markesan | City | Low | Limited development expected. |
 | Berlin | Town | Low | Agricultural and rural focus. |
-| Brooklyn | Town | Not yet assessed | Verify growth potential |
-| Dalton | Town | Not yet assessed | Verify growth potential |
+| Brooklyn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dalton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Green Lake | Town | Low to Moderate | Growth near the City of Green Lake. |
-| Kingston | Town | Not yet assessed | Verify growth potential |
+| Kingston | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Mackford | Town | Low | Rural character to be preserved. |
-| Manchester | Town | Not yet assessed | Verify growth potential |
+| Manchester | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Marquette | Town | Low | Agricultural preservation priority. |
 | Princeton | Town | Low | Limited development expected. |
-| Seneca | Town | Not yet assessed | Verify growth potential |
-| St. Marie | Town | Not yet assessed | Verify growth potential |
+| Seneca | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| St. Marie | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

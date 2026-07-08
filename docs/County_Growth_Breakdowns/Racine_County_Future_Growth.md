@@ -51,19 +51,19 @@ Racine County planners want controlled, efficient growth that protects farmland,
 |--------------|------|------------------------|-------|
 | Racine | City | Moderate | Focus on redevelopment and infill. |
 | Caledonia | Village | Moderate | Growth near the City of Racine. |
-| Elmwood Park | Village | Not yet assessed | Verify growth potential |
+| Elmwood Park | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Mount Pleasant | Village | Moderate | Residential growth expected. |
-| North Bay | Village | Not yet assessed | Verify growth potential |
+| North Bay | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Raymond | Village | Low | Limited development expected. |
-| Rochester | Village | Not yet assessed | Verify growth potential |
+| Rochester | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Sturtevant | Village | Low to Moderate | Limited growth. |
-| Union Grove | Village | Not yet assessed | Verify growth potential |
-| Wind Point | Village | Not yet assessed | Verify growth potential |
+| Union Grove | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Wind Point | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Yorkville | Village | Low | Agricultural focus. |
 | Burlington | Town | Low | Agricultural and rural focus. |
 | Dover | Town | Low | Rural character to be preserved. |
 | Norway | Town | Low | Agricultural preservation priority. |
-| Waterford | Town | Not yet assessed | Verify growth potential |
+| Waterford | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -49,32 +49,32 @@ Dunn County planners want controlled, efficient growth that protects farmland, u
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Boyceville | Village | Low to Moderate | Limited growth. |
-| Downing | Village | Not yet assessed | Verify growth potential |
-| Knapp | Village | Not yet assessed | Verify growth potential |
-| Ridgeland | Village | Not yet assessed | Verify growth potential |
-| Wheeler | Village | Not yet assessed | Verify growth potential |
+| Downing | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Knapp | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Ridgeland | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Wheeler | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Colfax | Town | Low | Agricultural and rural focus. |
 | Dunn | Town | Low | Rural character to be preserved. |
-| Eau Galle | Town | Not yet assessed | Verify growth potential |
+| Eau Galle | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Elk Mound | Town | Low | Agricultural preservation priority. |
-| Grant | Town | Not yet assessed | Verify growth potential |
-| Hay River | Town | Not yet assessed | Verify growth potential |
-| Lucas | Town | Not yet assessed | Verify growth potential |
+| Grant | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hay River | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lucas | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Menomonie | Town | Low to Moderate | Growth near the City of Menomonie. |
-| New Haven | Town | Not yet assessed | Verify growth potential |
-| Otter Creek | Town | Not yet assessed | Verify growth potential |
-| Peru | Town | Not yet assessed | Verify growth potential |
+| New Haven | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Otter Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Peru | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Red Cedar | Town | Low | Limited development expected. |
-| Rock Creek | Town | Not yet assessed | Verify growth potential |
-| Sand Creek | Town | Not yet assessed | Verify growth potential |
-| Sheridan | Town | Not yet assessed | Verify growth potential |
-| Sherman | Town | Not yet assessed | Verify growth potential |
-| Spring Brook | Town | Not yet assessed | Verify growth potential |
-| Stanton | Town | Not yet assessed | Verify growth potential |
-| Tainter | Town | Not yet assessed | Verify growth potential |
-| Tiffany | Town | Not yet assessed | Verify growth potential |
-| Weston | Town | Not yet assessed | Verify growth potential |
-| Wilson | Town | Not yet assessed | Verify growth potential |
+| Rock Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sand Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sheridan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sherman | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Spring Brook | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Stanton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Tainter | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Tiffany | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Weston | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wilson | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

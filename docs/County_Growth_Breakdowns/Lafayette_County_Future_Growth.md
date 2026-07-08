@@ -53,28 +53,28 @@ Lafayette County should be researched as an agricultural county where future dev
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Cuba City | City | Not yet assessed | Verify growth potential |
-| Blanchardville | Village | Not yet assessed | Verify growth potential |
-| Hazel Green | Village | Not yet assessed | Verify growth potential |
-| South Wayne | Village | Not yet assessed | Verify growth potential |
-| Argyle | Town | Not yet assessed | Verify growth potential |
-| Belmont | Town | Not yet assessed | Verify growth potential |
-| Benton | Town | Not yet assessed | Verify growth potential |
-| Blanchard | Town | Not yet assessed | Verify growth potential |
-| Darlington | Town | Not yet assessed | Verify growth potential |
-| Elk Grove | Town | Not yet assessed | Verify growth potential |
-| Fayette | Town | Not yet assessed | Verify growth potential |
-| Gratiot | Town | Not yet assessed | Verify growth potential |
-| Kendall | Town | Not yet assessed | Verify growth potential |
-| Lamont | Town | Not yet assessed | Verify growth potential |
-| Monticello | Town | Not yet assessed | Verify growth potential |
-| New Diggings | Town | Not yet assessed | Verify growth potential |
-| Seymour | Town | Not yet assessed | Verify growth potential |
-| Shullsburg | Town | Not yet assessed | Verify growth potential |
-| Wayne | Town | Not yet assessed | Verify growth potential |
-| White Oak Springs | Town | Not yet assessed | Verify growth potential |
-| Willow Springs | Town | Not yet assessed | Verify growth potential |
-| Wiota | Town | Not yet assessed | Verify growth potential |
+| Cuba City | City | Low | Limited growth; rural/forest character. |
+| Blanchardville | Village | Low | Rural village; limited growth expected. |
+| Hazel Green | Village | Low | Rural village; limited growth expected. |
+| South Wayne | Village | Low | Rural village; limited growth expected. |
+| Argyle | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Belmont | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Benton | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Blanchard | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Darlington | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Elk Grove | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Fayette | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gratiot | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Kendall | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lamont | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Monticello | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| New Diggings | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Seymour | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Shullsburg | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wayne | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| White Oak Springs | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Willow Springs | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wiota | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

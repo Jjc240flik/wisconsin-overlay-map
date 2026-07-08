@@ -53,24 +53,24 @@ Wood County should be researched as a Wisconsin Rapids/Marshfield + I-39 corrido
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Appleton | City | Not yet assessed | Verify growth potential |
-| Menasha | City | Not yet assessed | Verify growth potential |
-| Fox Crossing | Village | Not yet assessed | Verify growth potential |
-| Algoma | Town | Not yet assessed | Verify growth potential |
-| Black Wolf | Town | Not yet assessed | Verify growth potential |
-| Clayton | Town | Not yet assessed | Verify growth potential |
-| Neenah | Town | Not yet assessed | Verify growth potential |
-| Nekimi | Town | Not yet assessed | Verify growth potential |
-| Nepeuskun | Town | Not yet assessed | Verify growth potential |
-| Omro | Town | Not yet assessed | Verify growth potential |
-| Oshkosh | Town | Not yet assessed | Verify growth potential |
-| Poygan | Town | Not yet assessed | Verify growth potential |
-| Rushford | Town | Not yet assessed | Verify growth potential |
-| Utica | Town | Not yet assessed | Verify growth potential |
-| Vinland | Town | Not yet assessed | Verify growth potential |
-| Winchester | Town | Not yet assessed | Verify growth potential |
-| Winneconne | Town | Not yet assessed | Verify growth potential |
-| Wolf River | Town | Not yet assessed | Verify growth potential |
+| Appleton | City | Low to Moderate | County service node with modest growth potential. |
+| Menasha | City | Low to Moderate | County service node with modest growth potential. |
+| Fox Crossing | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Algoma | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Black Wolf | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clayton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Neenah | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Nekimi | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Nepeuskun | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Omro | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oshkosh | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Poygan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rushford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Utica | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Vinland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Winchester | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Winneconne | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wolf River | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -50,55 +50,55 @@ Dane County planners want controlled, efficient growth that protects farmland, u
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Edgerton | City | Not yet assessed | Verify growth potential |
-| Fitchburg | City | Not yet assessed | Verify growth potential |
+| Edgerton | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Fitchburg | City | Moderate | Likely redevelopment/infill and some corridor growth. |
 | Madison | City | Low to Moderate | Growth near the City of Madison. |
-| Monona | City | Not yet assessed | Verify growth potential |
-| Stoughton | City | Not yet assessed | Verify growth potential |
-| Belleville | Village | Not yet assessed | Verify growth potential |
-| Brooklyn | Village | Not yet assessed | Verify growth potential |
-| Cambridge | Village | Not yet assessed | Verify growth potential |
-| DeForest | Village | Not yet assessed | Verify growth potential |
-| Maple Bluff | Village | Not yet assessed | Verify growth potential |
-| Marshall | Village | Not yet assessed | Verify growth potential |
+| Monona | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Stoughton | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Belleville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Brooklyn | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Cambridge | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| DeForest | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Maple Bluff | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Marshall | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | McFarland | Village | Moderate | Residential growth expected. |
-| Mount Horeb | Village | Not yet assessed | Verify growth potential |
-| Rockdale | Village | Not yet assessed | Verify growth potential |
-| Shorewood Hills | Village | Not yet assessed | Verify growth potential |
-| Waunakee | Village | Not yet assessed | Verify growth potential |
+| Mount Horeb | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Rockdale | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Shorewood Hills | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Waunakee | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | Windsor | Village | Moderate | Residential growth expected. |
-| Albion | Town | Not yet assessed | Verify growth potential |
-| Berry | Town | Not yet assessed | Verify growth potential |
-| Black Earth | Town | Not yet assessed | Verify growth potential |
-| Blooming Grove | Town | Not yet assessed | Verify growth potential |
-| Blue Mounds | Town | Not yet assessed | Verify growth potential |
-| Bristol | Town | Not yet assessed | Verify growth potential |
-| Burke | Town | Not yet assessed | Verify growth potential |
-| Christiana | Town | Not yet assessed | Verify growth potential |
-| Cottage Grove | Town | Not yet assessed | Verify growth potential |
-| Cross Plains | Town | Not yet assessed | Verify growth potential |
-| Dane | Town | Not yet assessed | Verify growth potential |
-| Deerfield | Town | Not yet assessed | Verify growth potential |
-| Dunkirk | Town | Not yet assessed | Verify growth potential |
-| Dunn | Town | Not yet assessed | Verify growth potential |
-| Mazomanie | Town | Not yet assessed | Verify growth potential |
-| Medina | Town | Not yet assessed | Verify growth potential |
+| Albion | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Berry | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Black Earth | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Blooming Grove | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Blue Mounds | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Bristol | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Burke | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Christiana | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cottage Grove | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cross Plains | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Dane | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Deerfield | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Dunkirk | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Dunn | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Mazomanie | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Medina | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Middleton | Town | Low | Agricultural and rural focus. |
-| Montrose | Town | Not yet assessed | Verify growth potential |
+| Montrose | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Oregon | Town | Moderate | Residential growth expected. |
-| Perry | Town | Not yet assessed | Verify growth potential |
-| Pleasant Springs | Town | Not yet assessed | Verify growth potential |
-| Primrose | Town | Not yet assessed | Verify growth potential |
-| Roxbury | Town | Not yet assessed | Verify growth potential |
-| Rutland | Town | Not yet assessed | Verify growth potential |
-| Springdale | Town | Not yet assessed | Verify growth potential |
-| Springfield | Town | Not yet assessed | Verify growth potential |
+| Perry | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Pleasant Springs | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Primrose | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Roxbury | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Rutland | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Springdale | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Springfield | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Sun Prairie | Town | Low | Rural character to be preserved. |
-| Vermont | Town | Not yet assessed | Verify growth potential |
+| Vermont | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Verona | Town | Low to Moderate | Growth near the City of Verona. |
-| Vienna | Town | Not yet assessed | Verify growth potential |
-| Westport | Town | Not yet assessed | Verify growth potential |
-| York | Town | Not yet assessed | Verify growth potential |
+| Vienna | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Westport | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| York | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

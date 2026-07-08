@@ -56,25 +56,25 @@ Milwaukee County should be treated as an urban redevelopment county. The highest
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Cudahy | City | Not yet assessed | Verify growth potential |
-| Franklin | City | Not yet assessed | Verify growth potential |
-| Glendale | City | Not yet assessed | Verify growth potential |
-| Greenfield | City | Not yet assessed | Verify growth potential |
-| Milwaukee | City | Not yet assessed | Verify growth potential |
-| Oak Creek | City | Not yet assessed | Verify growth potential |
-| South Milwaukee | City | Not yet assessed | Verify growth potential |
-| St. Francis | City | Not yet assessed | Verify growth potential |
-| Wauwatosa | City | Not yet assessed | Verify growth potential |
-| West Allis | City | Not yet assessed | Verify growth potential |
-| Bayside | Village | Not yet assessed | Verify growth potential |
-| Brown Deer | Village | Not yet assessed | Verify growth potential |
-| Fox Point | Village | Not yet assessed | Verify growth potential |
-| Greendale | Village | Not yet assessed | Verify growth potential |
-| Hales Corners | Village | Not yet assessed | Verify growth potential |
-| River Hills | Village | Not yet assessed | Verify growth potential |
-| Shorewood | Village | Not yet assessed | Verify growth potential |
-| West Milwaukee | Village | Not yet assessed | Verify growth potential |
-| Whitefish Bay | Village | Not yet assessed | Verify growth potential |
+| Cudahy | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Franklin | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Glendale | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Greenfield | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Milwaukee | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Oak Creek | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| South Milwaukee | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| St. Francis | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Wauwatosa | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| West Allis | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Bayside | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Brown Deer | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Fox Point | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Greendale | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Hales Corners | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| River Hills | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Shorewood | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| West Milwaukee | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Whitefish Bay | Village | Moderate | Suburban/exurban growth potential near metro core. |
 ## Summary of Growth Patterns
 
 **Highest Growth Areas:** Milwaukee, Oak Creek, Wauwatosa, Franklin, West Allis.

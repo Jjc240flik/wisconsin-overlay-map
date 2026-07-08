@@ -50,34 +50,34 @@ Columbia County planners want controlled, efficient growth that protects farmlan
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Portage | City | Low to Moderate | Growth near the City of Portage. |
-| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
-| Cambria | Village | Not yet assessed | Verify growth potential |
-| Doylestown | Village | Not yet assessed | Verify growth potential |
-| Fall River | Village | Not yet assessed | Verify growth potential |
-| Friesland | Village | Not yet assessed | Verify growth potential |
+| Wisconsin Dells | City | Low to Moderate | County service node with modest growth potential. |
+| Cambria | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Doylestown | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Fall River | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Friesland | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Pardeeville | Village | Low to Moderate | Limited growth. |
 | Poynette | Village | Low to Moderate | Residential growth expected. |
-| Rio | Village | Not yet assessed | Verify growth potential |
-| Arlington | Town | Not yet assessed | Verify growth potential |
-| Caledonia | Town | Not yet assessed | Verify growth potential |
+| Rio | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Arlington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Caledonia | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Columbus | Town | Low | Agricultural and rural focus. |
-| Courtland | Town | Not yet assessed | Verify growth potential |
+| Courtland | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Dekorra | Town | Low | Rural character to be preserved. |
-| Fort Winnebago | Town | Not yet assessed | Verify growth potential |
-| Fountain Prairie | Town | Not yet assessed | Verify growth potential |
+| Fort Winnebago | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Fountain Prairie | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Hampden | Town | Low | Agricultural preservation priority. |
-| Leeds | Town | Not yet assessed | Verify growth potential |
-| Lewiston | Town | Not yet assessed | Verify growth potential |
-| Lodi | Town | Not yet assessed | Verify growth potential |
-| Lowville | Town | Not yet assessed | Verify growth potential |
-| Marcellon | Town | Not yet assessed | Verify growth potential |
-| Newport | Town | Not yet assessed | Verify growth potential |
+| Leeds | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lewiston | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lodi | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lowville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Marcellon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Newport | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Otsego | Town | Low | Limited development expected. |
-| Pacific | Town | Not yet assessed | Verify growth potential |
-| Randolph | Town | Not yet assessed | Verify growth potential |
-| Scott | Town | Not yet assessed | Verify growth potential |
-| Springvale | Town | Not yet assessed | Verify growth potential |
-| West Point | Town | Not yet assessed | Verify growth potential |
+| Pacific | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Randolph | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Scott | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Springvale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| West Point | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Wyocena | Town | Low | Limited development expected. |
 
 ### Unincorporated communities

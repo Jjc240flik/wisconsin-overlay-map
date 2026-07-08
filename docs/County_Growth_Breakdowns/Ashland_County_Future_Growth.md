@@ -51,19 +51,19 @@ Ashland County planners want controlled, efficient growth that protects farmland
 |--------------|------|------------------------|-------|
 | Butternut | City | Low | Limited development expected. |
 | Mellen | City | Low | Limited growth. |
-| Agenda | Town | Not yet assessed | Verify growth potential |
+| Agenda | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Ashland | Town | Low to Moderate | Growth near the City of Ashland. |
-| Chippewa | Town | Not yet assessed | Verify growth potential |
-| Gingles | Town | Not yet assessed | Verify growth potential |
+| Chippewa | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gingles | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Gordon | Town | Low | Agricultural and rural focus. |
 | Jacobs | Town | Low | Rural character to be preserved. |
 | La Pointe | Town | Low | Agricultural preservation priority. |
 | Marengo | Town | Low | Limited development expected. |
 | Morse | Town | Low | Agricultural focus. |
 | Peeksville | Town | Low | Limited development expected. |
-| Sanborn | Town | Not yet assessed | Verify growth potential |
-| Shanagolden | Town | Not yet assessed | Verify growth potential |
-| White River | Town | Not yet assessed | Verify growth potential |
+| Sanborn | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Shanagolden | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| White River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -50,43 +50,43 @@ Dodge County planners want controlled, efficient growth that protects farmland, 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Columbus | City | Not yet assessed | Verify growth potential |
-| Hartford | City | Not yet assessed | Verify growth potential |
+| Columbus | City | Low to Moderate | County service node with modest growth potential. |
+| Hartford | City | Low to Moderate | County service node with modest growth potential. |
 | Horicon | City | Low | Limited development expected. |
-| Juneau | City | Not yet assessed | Verify growth potential |
+| Juneau | City | Low to Moderate | County service node with modest growth potential. |
 | Mayville | City | Low to Moderate | Limited growth. |
 | Watertown | City | Moderate | Growth mainly in the Dodge County portion. |
-| Waupun | City | Not yet assessed | Verify growth potential |
-| Brownsville | Village | Not yet assessed | Verify growth potential |
-| Kekoskee | Village | Not yet assessed | Verify growth potential |
-| Neosho | Village | Not yet assessed | Verify growth potential |
-| Randolph | Village | Not yet assessed | Verify growth potential |
-| Reeseville | Village | Not yet assessed | Verify growth potential |
-| Ashippun | Town | Not yet assessed | Verify growth potential |
+| Waupun | City | Low to Moderate | County service node with modest growth potential. |
+| Brownsville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Kekoskee | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Neosho | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Randolph | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Reeseville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Ashippun | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Beaver Dam | Town | Low to Moderate | Growth near the City of Beaver Dam. |
-| Burnett | Town | Not yet assessed | Verify growth potential |
-| Calamus | Town | Not yet assessed | Verify growth potential |
-| Chester | Town | Not yet assessed | Verify growth potential |
-| Clyman | Town | Not yet assessed | Verify growth potential |
-| Elba | Town | Not yet assessed | Verify growth potential |
-| Emmet | Town | Not yet assessed | Verify growth potential |
-| Fox Lake | Town | Not yet assessed | Verify growth potential |
+| Burnett | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Calamus | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Chester | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clyman | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Elba | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Emmet | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Fox Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Herman | Town | Low | Agricultural and rural focus. |
 | Hubbard | Town | Low | Rural character to be preserved. |
-| Hustisford | Town | Not yet assessed | Verify growth potential |
-| Iron Ridge | Town | Not yet assessed | Verify growth potential |
-| Lebanon | Town | Not yet assessed | Verify growth potential |
+| Hustisford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Iron Ridge | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lebanon | Town | Low | Rural township; agricultural preservation likely dominant. |
 | LeRoy | Town | Low | Agricultural preservation priority. |
 | Lomira | Town | Low to Moderate | Residential growth near Highway 41. |
-| Lowell | Town | Not yet assessed | Verify growth potential |
-| Oak Grove | Town | Not yet assessed | Verify growth potential |
-| Portland | Town | Not yet assessed | Verify growth potential |
-| Rubicon | Town | Not yet assessed | Verify growth potential |
-| Shields | Town | Not yet assessed | Verify growth potential |
-| Theresa | Town | Not yet assessed | Verify growth potential |
+| Lowell | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oak Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Portland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rubicon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Shields | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Theresa | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Trenton | Town | Low | Limited development expected. |
-| Westford | Town | Not yet assessed | Verify growth potential |
-| Williamstown | Town | Not yet assessed | Verify growth potential |
+| Westford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Williamstown | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -51,28 +51,28 @@ Waushara County should be researched as a corridor/rural county with best target
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Berlin | City | Not yet assessed | Verify growth potential |
-| Lohrville | Village | Not yet assessed | Verify growth potential |
-| Redgranite | Village | Not yet assessed | Verify growth potential |
-| Wild Rose | Village | Not yet assessed | Verify growth potential |
-| Aurora | Town | Not yet assessed | Verify growth potential |
-| Bloomfield | Town | Not yet assessed | Verify growth potential |
-| Coloma | Town | Not yet assessed | Verify growth potential |
-| Dakota | Town | Not yet assessed | Verify growth potential |
-| Deerfield | Town | Not yet assessed | Verify growth potential |
-| Hancock | Town | Not yet assessed | Verify growth potential |
-| Leon | Town | Not yet assessed | Verify growth potential |
-| Marion | Town | Not yet assessed | Verify growth potential |
-| Mount Morris | Town | Not yet assessed | Verify growth potential |
-| Oasis | Town | Not yet assessed | Verify growth potential |
-| Plainfield | Town | Not yet assessed | Verify growth potential |
-| Poy Sippi | Town | Not yet assessed | Verify growth potential |
-| Richford | Town | Not yet assessed | Verify growth potential |
-| Rose | Town | Not yet assessed | Verify growth potential |
-| Saxeville | Town | Not yet assessed | Verify growth potential |
-| Springwater | Town | Not yet assessed | Verify growth potential |
-| Warren | Town | Not yet assessed | Verify growth potential |
-| Wautoma | Town | Not yet assessed | Verify growth potential |
+| Berlin | City | Low | Limited growth; rural/forest character. |
+| Lohrville | Village | Low | Rural village; limited growth expected. |
+| Redgranite | Village | Low | Rural village; limited growth expected. |
+| Wild Rose | Village | Low | Rural village; limited growth expected. |
+| Aurora | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Bloomfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Coloma | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dakota | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Deerfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hancock | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Leon | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Marion | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mount Morris | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Oasis | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Plainfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Poy Sippi | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Richford | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Rose | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Saxeville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Springwater | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Warren | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wautoma | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -49,24 +49,24 @@ Douglas County planners want controlled, efficient growth that protects farmland
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Lake Nebagamon | Village | Low to Moderate | Residential growth expected. |
-| Oliver | Village | Not yet assessed | Verify growth potential |
+| Oliver | Village | Low | Rural village; limited growth expected. |
 | Poplar | Village | Low | Limited development expected. |
 | Amnicon | Town | Low | Agricultural and rural focus. |
 | Bennett | Town | Low | Rural character to be preserved. |
 | Brule | Town | Low | Agricultural preservation priority. |
-| Cloverland | Town | Not yet assessed | Verify growth potential |
-| Dairyland | Town | Not yet assessed | Verify growth potential |
-| Gordon | Town | Not yet assessed | Verify growth potential |
+| Cloverland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dairyland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gordon | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Hawthorne | Town | Low | Limited development expected. |
-| Highland | Town | Not yet assessed | Verify growth potential |
+| Highland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Lakeside | Town | Low | Agricultural focus. |
-| Maple | Town | Not yet assessed | Verify growth potential |
-| Oakland | Town | Not yet assessed | Verify growth potential |
-| Parkland | Town | Not yet assessed | Verify growth potential |
-| Solon Springs | Town | Not yet assessed | Verify growth potential |
-| Summit | Town | Not yet assessed | Verify growth potential |
+| Maple | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Oakland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Parkland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Solon Springs | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Summit | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Superior | Town | Low to Moderate | Growth near the City of Superior. |
-| Wascott | Town | Not yet assessed | Verify growth potential |
+| Wascott | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

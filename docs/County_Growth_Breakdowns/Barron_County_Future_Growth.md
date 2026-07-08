@@ -50,34 +50,34 @@ Barron County planners want controlled, efficient growth that protects farmland,
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Cameron | Village | Low to Moderate | Limited growth. |
-| Haugen | Village | Not yet assessed | Verify growth potential |
-| New Auburn | Village | Not yet assessed | Verify growth potential |
-| Almena | Town | Not yet assessed | Verify growth potential |
-| Arland | Town | Not yet assessed | Verify growth potential |
+| Haugen | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| New Auburn | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Almena | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Arland | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Barron | Town | Low to Moderate | Growth near the City of Barron. |
-| Barronett | Town | Not yet assessed | Verify growth potential |
-| Bear Lake | Town | Not yet assessed | Verify growth potential |
-| Cedar Lake | Town | Not yet assessed | Verify growth potential |
+| Barronett | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bear Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cedar Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Chetek | Town | Low | Rural character to be preserved. |
 | Clinton | Town | Low | Agricultural preservation priority. |
-| Crystal Lake | Town | Not yet assessed | Verify growth potential |
-| Cumberland | Town | Not yet assessed | Verify growth potential |
-| Dallas | Town | Not yet assessed | Verify growth potential |
-| Dovre | Town | Not yet assessed | Verify growth potential |
+| Crystal Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cumberland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dallas | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dovre | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Doyle | Town | Low | Limited development expected. |
-| Lakeland | Town | Not yet assessed | Verify growth potential |
-| Maple Grove | Town | Not yet assessed | Verify growth potential |
-| Maple Plain | Town | Not yet assessed | Verify growth potential |
-| Oak Grove | Town | Not yet assessed | Verify growth potential |
-| Prairie Farm | Town | Not yet assessed | Verify growth potential |
-| Prairie Lake | Town | Not yet assessed | Verify growth potential |
+| Lakeland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Maple Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Maple Plain | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oak Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Prairie Farm | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Prairie Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Rice Lake | Town | Low | Agricultural and rural focus. |
-| Sioux Creek | Town | Not yet assessed | Verify growth potential |
-| Stanfold | Town | Not yet assessed | Verify growth potential |
-| Stanley | Town | Not yet assessed | Verify growth potential |
-| Sumner | Town | Not yet assessed | Verify growth potential |
-| Turtle Lake | Town | Not yet assessed | Verify growth potential |
-| Vance Creek | Town | Not yet assessed | Verify growth potential |
+| Sioux Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Stanfold | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Stanley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sumner | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Turtle Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Vance Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

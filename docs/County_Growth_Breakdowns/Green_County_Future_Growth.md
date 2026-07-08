@@ -50,26 +50,26 @@ Green County planners want controlled, efficient growth that protects farmland, 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Brodhead | City | Low to Moderate | Limited growth. |
-| Belleville | Village | Not yet assessed | Verify growth potential |
-| Browntown | Village | Not yet assessed | Verify growth potential |
+| Belleville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Browntown | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Monticello | Village | Low to Moderate | Limited growth. |
-| Adams | Town | Not yet assessed | Verify growth potential |
-| Albany | Town | Not yet assessed | Verify growth potential |
-| Brooklyn | Town | Not yet assessed | Verify growth potential |
-| Cadiz | Town | Not yet assessed | Verify growth potential |
-| Clarno | Town | Not yet assessed | Verify growth potential |
-| Decatur | Town | Not yet assessed | Verify growth potential |
+| Adams | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Albany | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Brooklyn | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cadiz | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clarno | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Decatur | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Exeter | Town | Low | Agricultural and rural focus. |
-| Jefferson | Town | Not yet assessed | Verify growth potential |
-| Jordan | Town | Not yet assessed | Verify growth potential |
-| Juda | Town | Not yet assessed | Verify growth potential |
+| Jefferson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Jordan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Juda | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Monroe | Town | Low to Moderate | Growth near the City of Monroe. |
 | Mount Pleasant | Town | Low | Rural character to be preserved. |
 | New Glarus | Town | Moderate | Residential growth expected. |
 | Spring Grove | Town | Low | Agricultural preservation priority. |
-| Sylvester | Town | Not yet assessed | Verify growth potential |
+| Sylvester | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Washington | Town | Low | Limited development expected. |
-| York | Town | Not yet assessed | Verify growth potential |
+| York | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

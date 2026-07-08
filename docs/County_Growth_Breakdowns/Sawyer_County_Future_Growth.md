@@ -50,23 +50,23 @@ Sawyer County should be researched as a lake/forest/tourism county with stronges
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Exeland | Village | Not yet assessed | Verify growth potential |
-| Bass Lake | Town | Not yet assessed | Verify growth potential |
-| Couderay | Town | Not yet assessed | Verify growth potential |
-| Draper | Town | Not yet assessed | Verify growth potential |
-| Edgewater | Town | Not yet assessed | Verify growth potential |
-| Hayward | Town | Not yet assessed | Verify growth potential |
-| Hunter | Town | Not yet assessed | Verify growth potential |
-| Lenroot | Town | Not yet assessed | Verify growth potential |
-| Meadowbrook | Town | Not yet assessed | Verify growth potential |
-| Meteor | Town | Not yet assessed | Verify growth potential |
-| Ojibwa | Town | Not yet assessed | Verify growth potential |
-| Radisson | Town | Not yet assessed | Verify growth potential |
-| Round Lake | Town | Not yet assessed | Verify growth potential |
-| Sand Lake | Town | Not yet assessed | Verify growth potential |
-| Spider Lake | Town | Not yet assessed | Verify growth potential |
-| Weirgor | Town | Not yet assessed | Verify growth potential |
-| Winter | Town | Not yet assessed | Verify growth potential |
+| Exeland | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Bass Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Couderay | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Draper | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Edgewater | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hayward | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hunter | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lenroot | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Meadowbrook | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Meteor | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ojibwa | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Radisson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Round Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sand Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Spider Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Weirgor | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Winter | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

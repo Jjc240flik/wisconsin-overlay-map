@@ -51,23 +51,23 @@ Langlade County should be researched as a low-to-moderate growth county with Ant
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Ackley | Town | Not yet assessed | Verify growth potential |
-| Ainsworth | Town | Not yet assessed | Verify growth potential |
-| Antigo | Town | Not yet assessed | Verify growth potential |
-| Elcho | Town | Not yet assessed | Verify growth potential |
-| Evergreen | Town | Not yet assessed | Verify growth potential |
-| Langlade | Town | Not yet assessed | Verify growth potential |
-| Neva | Town | Not yet assessed | Verify growth potential |
-| Norwood | Town | Not yet assessed | Verify growth potential |
-| Parrish | Town | Not yet assessed | Verify growth potential |
-| Peck | Town | Not yet assessed | Verify growth potential |
-| Polar | Town | Not yet assessed | Verify growth potential |
-| Price | Town | Not yet assessed | Verify growth potential |
-| Rolling | Town | Not yet assessed | Verify growth potential |
-| Summit | Town | Not yet assessed | Verify growth potential |
-| Upham | Town | Not yet assessed | Verify growth potential |
-| Vilas | Town | Not yet assessed | Verify growth potential |
-| Wolf River | Town | Not yet assessed | Verify growth potential |
+| Ackley | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Ainsworth | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Antigo | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Elcho | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Evergreen | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Langlade | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Neva | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Norwood | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Parrish | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Peck | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Polar | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Price | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Rolling | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Summit | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Upham | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Vilas | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wolf River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

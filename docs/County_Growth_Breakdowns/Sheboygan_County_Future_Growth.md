@@ -50,31 +50,31 @@ Sheboygan County planners want controlled, efficient growth that protects farmla
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Adell | Village | Not yet assessed | Verify growth potential |
-| Cascade | Village | Not yet assessed | Verify growth potential |
-| Cedar Grove | Village | Not yet assessed | Verify growth potential |
+| Adell | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Cascade | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Cedar Grove | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Elkhart Lake | Village | Low | Tourism-focused growth. |
-| Glenbeulah | Village | Not yet assessed | Verify growth potential |
-| Howards Grove | Village | Not yet assessed | Verify growth potential |
+| Glenbeulah | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Howards Grove | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Kohler | Village | Low | Limited development expected. |
-| Oostburg | Village | Not yet assessed | Verify growth potential |
-| Random Lake | Village | Not yet assessed | Verify growth potential |
-| Waldo | Village | Not yet assessed | Verify growth potential |
-| Greenbush | Town | Not yet assessed | Verify growth potential |
+| Oostburg | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Random Lake | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Waldo | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Greenbush | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Herman | Town | Low | Agricultural preservation priority. |
-| Holland | Town | Not yet assessed | Verify growth potential |
-| Lima | Town | Not yet assessed | Verify growth potential |
-| Lyndon | Town | Not yet assessed | Verify growth potential |
-| Mitchell | Town | Not yet assessed | Verify growth potential |
+| Holland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lima | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lyndon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mitchell | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Mosel | Town | Low | Limited development expected. |
 | Plymouth | Town | Low | Agricultural and rural focus. |
 | Rhine | Town | Low | Rural character to be preserved. |
-| Russell | Town | Not yet assessed | Verify growth potential |
-| Scott | Town | Not yet assessed | Verify growth potential |
+| Russell | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Scott | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Sheboygan | Town | Low to Moderate | Growth near the City of Sheboygan. |
 | Sheboygan Falls | Town | Low to Moderate | Limited growth. |
-| Sherman | Town | Not yet assessed | Verify growth potential |
-| Wilson | Town | Not yet assessed | Verify growth potential |
+| Sherman | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wilson | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

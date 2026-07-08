@@ -53,36 +53,36 @@ Vernon County is a low-growth, high-constraint county due to steep slopes and fa
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Westby | City | Not yet assessed | Verify growth potential |
-| Chaseburg | Village | Not yet assessed | Verify growth potential |
-| Coon Valley | Village | Not yet assessed | Verify growth potential |
-| De Soto | Village | Not yet assessed | Verify growth potential |
-| La Farge | Village | Not yet assessed | Verify growth potential |
-| Ontario | Village | Not yet assessed | Verify growth potential |
-| Readstown | Village | Not yet assessed | Verify growth potential |
-| Stoddard | Village | Not yet assessed | Verify growth potential |
-| Viola | Village | Not yet assessed | Verify growth potential |
-| Bergen | Town | Not yet assessed | Verify growth potential |
-| Christiana | Town | Not yet assessed | Verify growth potential |
-| Clinton | Town | Not yet assessed | Verify growth potential |
-| Coon | Town | Not yet assessed | Verify growth potential |
-| Forest | Town | Not yet assessed | Verify growth potential |
-| Franklin | Town | Not yet assessed | Verify growth potential |
-| Genoa | Town | Not yet assessed | Verify growth potential |
-| Greenwood | Town | Not yet assessed | Verify growth potential |
-| Hamburg | Town | Not yet assessed | Verify growth potential |
-| Harmony | Town | Not yet assessed | Verify growth potential |
-| Hillsboro | Town | Not yet assessed | Verify growth potential |
-| Jefferson | Town | Not yet assessed | Verify growth potential |
-| Kickapoo | Town | Not yet assessed | Verify growth potential |
-| Liberty | Town | Not yet assessed | Verify growth potential |
-| Stark | Town | Not yet assessed | Verify growth potential |
-| Sterling | Town | Not yet assessed | Verify growth potential |
-| Union | Town | Not yet assessed | Verify growth potential |
-| Viroqua | Town | Not yet assessed | Verify growth potential |
-| Webster | Town | Not yet assessed | Verify growth potential |
-| Wheatland | Town | Not yet assessed | Verify growth potential |
-| Whitestown | Town | Not yet assessed | Verify growth potential |
+| Westby | City | Low to Moderate | County service node with modest growth potential. |
+| Chaseburg | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Coon Valley | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| De Soto | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| La Farge | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Ontario | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Readstown | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Stoddard | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Viola | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Bergen | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Christiana | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clinton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Coon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Forest | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Franklin | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Genoa | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Greenwood | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hamburg | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harmony | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hillsboro | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Jefferson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Kickapoo | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Liberty | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Stark | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sterling | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Union | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Viroqua | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Webster | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wheatland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Whitestown | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -53,36 +53,36 @@ St. Croix County is one of the highest-growth counties in Wisconsin due to Twin 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Glenwood City | City | Not yet assessed | Verify growth potential |
-| New Richmond | City | Not yet assessed | Verify growth potential |
-| River Falls | City | Not yet assessed | Verify growth potential |
-| Deer Park | Village | Not yet assessed | Verify growth potential |
-| North Hudson | Village | Not yet assessed | Verify growth potential |
-| Roberts | Village | Not yet assessed | Verify growth potential |
-| Spring Valley | Village | Not yet assessed | Verify growth potential |
-| Wilson | Village | Not yet assessed | Verify growth potential |
-| Woodville | Village | Not yet assessed | Verify growth potential |
-| Baldwin | Town | Not yet assessed | Verify growth potential |
-| Cady | Town | Not yet assessed | Verify growth potential |
-| Cylon | Town | Not yet assessed | Verify growth potential |
-| Eau Galle | Town | Not yet assessed | Verify growth potential |
-| Emerald | Town | Not yet assessed | Verify growth potential |
-| Erin Prairie | Town | Not yet assessed | Verify growth potential |
-| Forest | Town | Not yet assessed | Verify growth potential |
-| Glenwood | Town | Not yet assessed | Verify growth potential |
-| Hammond | Town | Not yet assessed | Verify growth potential |
-| Hudson | Town | Not yet assessed | Verify growth potential |
-| Kinnickinnic | Town | Not yet assessed | Verify growth potential |
-| Pleasant Valley | Town | Not yet assessed | Verify growth potential |
-| Richmond | Town | Not yet assessed | Verify growth potential |
-| Rush River | Town | Not yet assessed | Verify growth potential |
-| Somerset | Town | Not yet assessed | Verify growth potential |
-| Springfield | Town | Not yet assessed | Verify growth potential |
-| St. Joseph | Town | Not yet assessed | Verify growth potential |
-| Stanton | Town | Not yet assessed | Verify growth potential |
-| Star Prairie | Town | Not yet assessed | Verify growth potential |
-| Troy | Town | Not yet assessed | Verify growth potential |
-| Warren | Town | Not yet assessed | Verify growth potential |
+| Glenwood City | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| New Richmond | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| River Falls | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Deer Park | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| North Hudson | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Roberts | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Spring Valley | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Wilson | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Woodville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Baldwin | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cady | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cylon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Eau Galle | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Emerald | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Erin Prairie | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Forest | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Glenwood | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hammond | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Hudson | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Kinnickinnic | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Pleasant Valley | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Richmond | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Rush River | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Somerset | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Springfield | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| St. Joseph | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Stanton | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Star Prairie | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Troy | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Warren | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

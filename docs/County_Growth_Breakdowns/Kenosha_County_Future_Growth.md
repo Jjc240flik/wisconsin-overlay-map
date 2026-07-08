@@ -50,33 +50,33 @@ Kenosha County planners want controlled, efficient growth that protects farmland
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Elroy | City | Not yet assessed | Verify growth potential |
-| Mauston | City | Not yet assessed | Verify growth potential |
-| New Lisbon | City | Not yet assessed | Verify growth potential |
-| Wisconsin Dells | City | Not yet assessed | Verify growth potential |
-| Camp Douglas | Village | Not yet assessed | Verify growth potential |
-| Hustler | Village | Not yet assessed | Verify growth potential |
-| Lyndon Station | Village | Not yet assessed | Verify growth potential |
-| Union Center | Village | Not yet assessed | Verify growth potential |
-| Armenia | Town | Not yet assessed | Verify growth potential |
-| Clearfield | Town | Not yet assessed | Verify growth potential |
-| Cutler | Town | Not yet assessed | Verify growth potential |
-| Finley | Town | Not yet assessed | Verify growth potential |
-| Fountain | Town | Not yet assessed | Verify growth potential |
-| Germantown | Town | Not yet assessed | Verify growth potential |
-| Kildare | Town | Not yet assessed | Verify growth potential |
-| Kingston | Town | Not yet assessed | Verify growth potential |
-| Lemonweir | Town | Not yet assessed | Verify growth potential |
-| Lindina | Town | Not yet assessed | Verify growth potential |
-| Lisbon | Town | Not yet assessed | Verify growth potential |
-| Lyndon | Town | Not yet assessed | Verify growth potential |
-| Marion | Town | Not yet assessed | Verify growth potential |
-| Necedah | Town | Not yet assessed | Verify growth potential |
-| Orange | Town | Not yet assessed | Verify growth potential |
-| Plymouth | Town | Not yet assessed | Verify growth potential |
-| Seven Mile Creek | Town | Not yet assessed | Verify growth potential |
-| Summit | Town | Not yet assessed | Verify growth potential |
-| Wonewoc | Town | Not yet assessed | Verify growth potential |
+| Elroy | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Mauston | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| New Lisbon | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Wisconsin Dells | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Camp Douglas | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Hustler | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Lyndon Station | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Union Center | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Armenia | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Clearfield | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Cutler | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Finley | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Fountain | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Germantown | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Kildare | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Kingston | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Lemonweir | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Lindina | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Lisbon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Lyndon | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Marion | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Necedah | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Orange | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Plymouth | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Seven Mile Creek | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Summit | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Wonewoc | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

@@ -49,47 +49,47 @@ Grant County planners want controlled, efficient growth that protects farmland, 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Cuba City | City | Not yet assessed | Verify growth potential |
+| Cuba City | City | Low to Moderate | County service node with modest growth potential. |
 | Lancaster | City | Low | Agricultural and rural focus. |
-| Bagley | Village | Not yet assessed | Verify growth potential |
-| Blue River | Village | Not yet assessed | Verify growth potential |
-| Dickeyville | Village | Not yet assessed | Verify growth potential |
-| Livingston | Village | Not yet assessed | Verify growth potential |
-| Montfort | Village | Not yet assessed | Verify growth potential |
-| Tennyson | Village | Not yet assessed | Verify growth potential |
-| Beetown | Town | Not yet assessed | Verify growth potential |
-| Bloomington | Town | Not yet assessed | Verify growth potential |
-| Boscobel | Town | Not yet assessed | Verify growth potential |
+| Bagley | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Blue River | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Dickeyville | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Livingston | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Montfort | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Tennyson | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Beetown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bloomington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Boscobel | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Cassville | Town | Low | Agricultural preservation priority. |
-| Castle Rock | Town | Not yet assessed | Verify growth potential |
-| Clifton | Town | Not yet assessed | Verify growth potential |
+| Castle Rock | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Clifton | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Ellenboro | Town | Low | Limited development expected. |
-| Fennimore | Town | Not yet assessed | Verify growth potential |
-| Glen Haven | Town | Not yet assessed | Verify growth potential |
-| Harrison | Town | Not yet assessed | Verify growth potential |
-| Hazel Green | Town | Not yet assessed | Verify growth potential |
-| Hickory Grove | Town | Not yet assessed | Verify growth potential |
-| Jamestown | Town | Not yet assessed | Verify growth potential |
-| Liberty | Town | Not yet assessed | Verify growth potential |
-| Lima | Town | Not yet assessed | Verify growth potential |
-| Little Grant | Town | Not yet assessed | Verify growth potential |
-| Marion | Town | Not yet assessed | Verify growth potential |
-| Millville | Town | Not yet assessed | Verify growth potential |
-| Mount Hope | Town | Not yet assessed | Verify growth potential |
-| Mount Ida | Town | Not yet assessed | Verify growth potential |
-| Muscoda | Town | Not yet assessed | Verify growth potential |
-| North Lancaster | Town | Not yet assessed | Verify growth potential |
-| Paris | Town | Not yet assessed | Verify growth potential |
-| Patch Grove | Town | Not yet assessed | Verify growth potential |
+| Fennimore | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Glen Haven | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harrison | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hazel Green | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hickory Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Jamestown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Liberty | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lima | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Little Grant | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Marion | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Millville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mount Hope | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mount Ida | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Muscoda | Town | Low | Rural township; agricultural preservation likely dominant. |
+| North Lancaster | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Paris | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Patch Grove | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Platteville | Town | Low to Moderate | Growth near the City of Platteville. |
-| Potosi | Town | Not yet assessed | Verify growth potential |
-| Smelser | Town | Not yet assessed | Verify growth potential |
-| South Lancaster | Town | Not yet assessed | Verify growth potential |
-| Waterloo | Town | Not yet assessed | Verify growth potential |
-| Watterstown | Town | Not yet assessed | Verify growth potential |
-| Wingville | Town | Not yet assessed | Verify growth potential |
-| Woodman | Town | Not yet assessed | Verify growth potential |
-| Wyalusing | Town | Not yet assessed | Verify growth potential |
+| Potosi | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Smelser | Town | Low | Rural township; agricultural preservation likely dominant. |
+| South Lancaster | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Waterloo | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Watterstown | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wingville | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Woodman | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wyalusing | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

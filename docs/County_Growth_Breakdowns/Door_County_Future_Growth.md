@@ -51,19 +51,19 @@ Door County planners want controlled, efficient growth that protects farmland, u
 | Ephraim | Village | Low | Limited growth due to preservation focus. |
 | Sister Bay | Village | Moderate | Tourism and residential growth expected. |
 | Baileys Harbor | Town | Low | Agricultural preservation priority. |
-| Brussels | Town | Not yet assessed | Verify growth potential |
-| Clay Banks | Town | Not yet assessed | Verify growth potential |
-| Egg Harbor | Town | Not yet assessed | Verify growth potential |
-| Forestville | Town | Not yet assessed | Verify growth potential |
-| Gardner | Town | Not yet assessed | Verify growth potential |
+| Brussels | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Clay Banks | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Egg Harbor | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Forestville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Gardner | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Gibraltar | Town | Low | Rural character to be preserved. |
 | Jacksonport | Town | Low | Limited development expected. |
 | Liberty Grove | Town | Low | Agricultural and rural focus. |
-| Nasewaupee | Town | Not yet assessed | Verify growth potential |
-| Sevastopol | Town | Not yet assessed | Verify growth potential |
+| Nasewaupee | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Sevastopol | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Sturgeon Bay | Town | Low to Moderate | Growth near the City of Sturgeon Bay. |
-| Union | Town | Not yet assessed | Verify growth potential |
-| Washington Island | Town | Not yet assessed | Verify growth potential |
+| Union | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Washington Island | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

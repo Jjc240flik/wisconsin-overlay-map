@@ -50,15 +50,15 @@ Pepin County should be researched as a Mississippi River valley agricultural/rur
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Albany | Town | Not yet assessed | Verify growth potential |
-| Arkansaw | Town | Not yet assessed | Verify growth potential |
-| Durand | Town | Not yet assessed | Verify growth potential |
-| Frankfort | Town | Not yet assessed | Verify growth potential |
-| Lima | Town | Not yet assessed | Verify growth potential |
-| Pepin | Town | Not yet assessed | Verify growth potential |
-| Stockholm | Town | Not yet assessed | Verify growth potential |
-| Waterville | Town | Not yet assessed | Verify growth potential |
-| Waubeek | Town | Not yet assessed | Verify growth potential |
+| Albany | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Arkansaw | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Durand | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Frankfort | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lima | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pepin | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Stockholm | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Waterville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Waubeek | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

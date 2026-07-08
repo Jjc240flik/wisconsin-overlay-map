@@ -51,37 +51,37 @@ Outagamie County planners want controlled, efficient growth that protects farmla
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Appleton | City | Moderate | Focus on redevelopment and infill. |
-| New London | City | Not yet assessed | Verify growth potential |
-| Bear Creek | Village | Not yet assessed | Verify growth potential |
-| Combined Locks | Village | Not yet assessed | Verify growth potential |
-| Greenville | Village | Not yet assessed | Verify growth potential |
-| Harrison | Village | Not yet assessed | Verify growth potential |
-| Hortonville | Village | Not yet assessed | Verify growth potential |
-| Howard | Village | Not yet assessed | Verify growth potential |
+| New London | City | Moderate | Likely redevelopment/infill and some corridor growth. |
+| Bear Creek | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Combined Locks | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Greenville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Harrison | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Hortonville | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Howard | Village | Moderate | Suburban/exurban growth potential near metro core. |
 | Kimberly | Village | Low to Moderate | Limited growth. |
 | Little Chute | Village | Moderate | Residential growth expected. |
-| Nichols | Village | Not yet assessed | Verify growth potential |
-| Shiocton | Village | Not yet assessed | Verify growth potential |
-| Wrightstown | Village | Not yet assessed | Verify growth potential |
-| Black Creek | Town | Not yet assessed | Verify growth potential |
-| Bovina | Town | Not yet assessed | Verify growth potential |
+| Nichols | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Shiocton | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Wrightstown | Village | Moderate | Suburban/exurban growth potential near metro core. |
+| Black Creek | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Bovina | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Buchanan | Town | Low to Moderate | Growth near Kaukauna. |
 | Center | Town | Low | Agricultural and rural focus. |
-| Cicero | Town | Not yet assessed | Verify growth potential |
-| Dale | Town | Not yet assessed | Verify growth potential |
-| Deer Creek | Town | Not yet assessed | Verify growth potential |
-| Ellington | Town | Not yet assessed | Verify growth potential |
+| Cicero | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Dale | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Deer Creek | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Ellington | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Freedom | Town | Low | Rural character to be preserved. |
 | Grand Chute | Town | Moderate | Growth near the City of Appleton. |
-| Hortonia | Town | Not yet assessed | Verify growth potential |
+| Hortonia | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Kaukauna | Town | Moderate | Steady residential and commercial growth. |
-| Liberty | Town | Not yet assessed | Verify growth potential |
-| Maine | Town | Not yet assessed | Verify growth potential |
-| Maple Creek | Town | Not yet assessed | Verify growth potential |
+| Liberty | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Maine | Town | Low to Moderate | Rural township; some edge growth near metro. |
+| Maple Creek | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Oneida | Town | Low | Agricultural preservation priority. |
-| Osborn | Town | Not yet assessed | Verify growth potential |
+| Osborn | Town | Low to Moderate | Rural township; some edge growth near metro. |
 | Seymour | Town | Low to Moderate | Limited growth. |
-| Vandenbroek | Town | Not yet assessed | Verify growth potential |
+| Vandenbroek | Town | Low to Moderate | Rural township; some edge growth near metro. |
 
 ### Unincorporated communities
 

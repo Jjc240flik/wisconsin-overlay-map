@@ -49,31 +49,31 @@ Bayfield County planners want controlled, efficient growth that protects farmlan
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Ashland | City | Not yet assessed | Verify growth potential |
-| Barksdale | Town | Not yet assessed | Verify growth potential |
-| Barnes | Town | Not yet assessed | Verify growth potential |
+| Ashland | City | Low | Limited growth; rural/forest character. |
+| Barksdale | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Barnes | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Bayfield | Town | Low | Agricultural and rural focus. |
-| Bayview | Town | Not yet assessed | Verify growth potential |
-| Bell | Town | Not yet assessed | Verify growth potential |
-| Cable | Town | Not yet assessed | Verify growth potential |
-| Clover | Town | Not yet assessed | Verify growth potential |
-| Delta | Town | Not yet assessed | Verify growth potential |
-| Drummond | Town | Not yet assessed | Verify growth potential |
-| Eileen | Town | Not yet assessed | Verify growth potential |
-| Grand View | Town | Not yet assessed | Verify growth potential |
-| Hughes | Town | Not yet assessed | Verify growth potential |
+| Bayview | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Bell | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Cable | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Clover | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Delta | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Drummond | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Eileen | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Grand View | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hughes | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Iron River | Town | Low | Agricultural preservation priority. |
-| Kelly | Town | Not yet assessed | Verify growth potential |
-| Keystone | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
-| Mason | Town | Not yet assessed | Verify growth potential |
-| Namakagon | Town | Not yet assessed | Verify growth potential |
+| Kelly | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Keystone | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Mason | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Namakagon | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Orienta | Town | Low | Limited development expected. |
-| Oulu | Town | Not yet assessed | Verify growth potential |
-| Pilsen | Town | Not yet assessed | Verify growth potential |
+| Oulu | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pilsen | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Port Wing | Town | Low | Limited growth. |
 | Russell | Town | Low | Rural character to be preserved. |
-| Tripp | Town | Not yet assessed | Verify growth potential |
+| Tripp | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Washburn | Town | Low to Moderate | Growth near the City of Washburn. |
 
 ### Unincorporated communities

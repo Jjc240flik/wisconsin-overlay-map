@@ -51,25 +51,25 @@ Price County is a low-growth, forest-and-resource-preservation county. Developme
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Park Falls | City | Not yet assessed | Verify growth potential |
-| Phillips | City | Not yet assessed | Verify growth potential |
-| Catawba | Town | Not yet assessed | Verify growth potential |
-| Eisenstein | Town | Not yet assessed | Verify growth potential |
-| Elk | Town | Not yet assessed | Verify growth potential |
-| Emery | Town | Not yet assessed | Verify growth potential |
-| Fifield | Town | Not yet assessed | Verify growth potential |
-| Flambeau | Town | Not yet assessed | Verify growth potential |
-| Georgetown | Town | Not yet assessed | Verify growth potential |
-| Hackett | Town | Not yet assessed | Verify growth potential |
-| Harmony | Town | Not yet assessed | Verify growth potential |
-| Hill | Town | Not yet assessed | Verify growth potential |
-| Kennan | Town | Not yet assessed | Verify growth potential |
-| Knox | Town | Not yet assessed | Verify growth potential |
-| Lake | Town | Not yet assessed | Verify growth potential |
-| Ogema | Town | Not yet assessed | Verify growth potential |
-| Prentice | Town | Not yet assessed | Verify growth potential |
-| Spirit | Town | Not yet assessed | Verify growth potential |
-| Worcester | Town | Not yet assessed | Verify growth potential |
+| Park Falls | City | Low | Limited growth; rural/forest character. |
+| Phillips | City | Low | Limited growth; rural/forest character. |
+| Catawba | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Eisenstein | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Elk | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Emery | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Fifield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Flambeau | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Georgetown | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hackett | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Harmony | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Hill | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Kennan | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Knox | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Ogema | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Prentice | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Spirit | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Worcester | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -51,22 +51,22 @@ Lincoln County is a high-priority county for future land use map review because 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Birch | Town | Not yet assessed | Verify growth potential |
-| Bradley | Town | Not yet assessed | Verify growth potential |
-| Corning | Town | Not yet assessed | Verify growth potential |
-| Harding | Town | Not yet assessed | Verify growth potential |
-| Harrison | Town | Not yet assessed | Verify growth potential |
-| King | Town | Not yet assessed | Verify growth potential |
-| Merrill | Town | Not yet assessed | Verify growth potential |
-| Pine River | Town | Not yet assessed | Verify growth potential |
-| Rock Falls | Town | Not yet assessed | Verify growth potential |
-| Russell | Town | Not yet assessed | Verify growth potential |
-| Schley | Town | Not yet assessed | Verify growth potential |
-| Scott | Town | Not yet assessed | Verify growth potential |
-| Skanawan | Town | Not yet assessed | Verify growth potential |
-| Somo | Town | Not yet assessed | Verify growth potential |
-| Tomahawk | Town | Not yet assessed | Verify growth potential |
-| Wilson | Town | Not yet assessed | Verify growth potential |
+| Birch | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bradley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Corning | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harding | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harrison | Town | Low | Rural township; agricultural preservation likely dominant. |
+| King | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Merrill | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Pine River | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Rock Falls | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Russell | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Schley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Scott | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Skanawan | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Somo | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Tomahawk | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wilson | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

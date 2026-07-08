@@ -50,25 +50,25 @@ Marinette County planners want controlled, efficient growth that protects farmla
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Marinette | City | Low to Moderate | Growth near the City of Marinette. |
-| Coleman | Village | Not yet assessed | Verify growth potential |
+| Coleman | Village | Low | Rural village; limited growth expected. |
 | Crivitz | Village | Low to Moderate | Residential growth expected. |
-| Amberg | Town | Not yet assessed | Verify growth potential |
-| Athelstane | Town | Not yet assessed | Verify growth potential |
-| Beaver | Town | Not yet assessed | Verify growth potential |
-| Beecher | Town | Not yet assessed | Verify growth potential |
-| Dunbar | Town | Not yet assessed | Verify growth potential |
-| Goodman | Town | Not yet assessed | Verify growth potential |
+| Amberg | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Athelstane | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Beaver | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Beecher | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dunbar | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Goodman | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Grover | Town | Low | Rural character to be preserved. |
 | Lake | Town | Low | Agricultural preservation priority. |
 | Middle Inlet | Town | Low | Limited development expected. |
-| Niagara | Town | Not yet assessed | Verify growth potential |
-| Pembine | Town | Not yet assessed | Verify growth potential |
+| Niagara | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pembine | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Peshtigo | Town | Low | Agricultural and rural focus. |
-| Porterfield | Town | Not yet assessed | Verify growth potential |
-| Pound | Town | Not yet assessed | Verify growth potential |
-| Silver Cliff | Town | Not yet assessed | Verify growth potential |
-| Stephenson | Town | Not yet assessed | Verify growth potential |
-| Wagner | Town | Not yet assessed | Verify growth potential |
+| Porterfield | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Pound | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Silver Cliff | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Stephenson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wagner | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Wausaukee | Town | Low | Limited development expected. |
 
 ### Unincorporated communities

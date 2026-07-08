@@ -53,35 +53,35 @@ Waupaca County is excellent for this research because each town has a Preferred 
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Clintonville | City | Not yet assessed | Verify growth potential |
-| Manawa | City | Not yet assessed | Verify growth potential |
-| Marion | City | Not yet assessed | Verify growth potential |
-| New London | City | Not yet assessed | Verify growth potential |
-| Big Falls | Village | Not yet assessed | Verify growth potential |
-| Embarrass | Village | Not yet assessed | Verify growth potential |
-| Ogdensburg | Village | Not yet assessed | Verify growth potential |
-| Bear Creek | Town | Not yet assessed | Verify growth potential |
-| Caledonia | Town | Not yet assessed | Verify growth potential |
-| Dayton | Town | Not yet assessed | Verify growth potential |
-| Dupont | Town | Not yet assessed | Verify growth potential |
-| Farmington | Town | Not yet assessed | Verify growth potential |
-| Fremont | Town | Not yet assessed | Verify growth potential |
-| Harrison | Town | Not yet assessed | Verify growth potential |
-| Helvetia | Town | Not yet assessed | Verify growth potential |
-| Iola | Town | Not yet assessed | Verify growth potential |
-| Larrabee | Town | Not yet assessed | Verify growth potential |
-| Lebanon | Town | Not yet assessed | Verify growth potential |
-| Lind | Town | Not yet assessed | Verify growth potential |
-| Little Wolf | Town | Not yet assessed | Verify growth potential |
-| Matteson | Town | Not yet assessed | Verify growth potential |
-| Mukwa | Town | Not yet assessed | Verify growth potential |
-| Royalton | Town | Not yet assessed | Verify growth potential |
-| Scandinavia | Town | Not yet assessed | Verify growth potential |
-| St. Lawrence | Town | Not yet assessed | Verify growth potential |
-| Union | Town | Not yet assessed | Verify growth potential |
-| Waupaca | Town | Not yet assessed | Verify growth potential |
-| Weyauwega | Town | Not yet assessed | Verify growth potential |
-| Wyoming | Town | Not yet assessed | Verify growth potential |
+| Clintonville | City | Low to Moderate | County service node with modest growth potential. |
+| Manawa | City | Low to Moderate | County service node with modest growth potential. |
+| Marion | City | Low to Moderate | County service node with modest growth potential. |
+| New London | City | Low to Moderate | County service node with modest growth potential. |
+| Big Falls | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Embarrass | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Ogdensburg | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Bear Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Caledonia | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dayton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Dupont | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Farmington | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Fremont | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Harrison | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Helvetia | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Iola | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Larrabee | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lebanon | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lind | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Little Wolf | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Matteson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Mukwa | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Royalton | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Scandinavia | Town | Low | Rural township; agricultural preservation likely dominant. |
+| St. Lawrence | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Union | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Waupaca | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Weyauwega | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Wyoming | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

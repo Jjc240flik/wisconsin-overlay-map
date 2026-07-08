@@ -52,26 +52,26 @@ Oneida County should be researched as a lake/forest tourism and service-node cou
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Cassian | Town | Not yet assessed | Verify growth potential |
-| Crescent | Town | Not yet assessed | Verify growth potential |
-| Enterprise | Town | Not yet assessed | Verify growth potential |
-| Hazelhurst | Town | Not yet assessed | Verify growth potential |
-| Lake Tomahawk | Town | Not yet assessed | Verify growth potential |
-| Little Rice | Town | Not yet assessed | Verify growth potential |
-| Lynne | Town | Not yet assessed | Verify growth potential |
-| Minocqua | Town | Not yet assessed | Verify growth potential |
-| Monico | Town | Not yet assessed | Verify growth potential |
-| Newbold | Town | Not yet assessed | Verify growth potential |
-| Nokomis | Town | Not yet assessed | Verify growth potential |
-| Pelican | Town | Not yet assessed | Verify growth potential |
-| Piehl | Town | Not yet assessed | Verify growth potential |
-| Pine Lake | Town | Not yet assessed | Verify growth potential |
-| Schoepke | Town | Not yet assessed | Verify growth potential |
-| Stella | Town | Not yet assessed | Verify growth potential |
-| Sugar Camp | Town | Not yet assessed | Verify growth potential |
-| Three Lakes | Town | Not yet assessed | Verify growth potential |
-| Woodboro | Town | Not yet assessed | Verify growth potential |
-| Woodruff | Town | Not yet assessed | Verify growth potential |
+| Cassian | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Crescent | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Enterprise | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Hazelhurst | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lake Tomahawk | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Little Rice | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Lynne | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Minocqua | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Monico | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Newbold | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Nokomis | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Pelican | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Piehl | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Pine Lake | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Schoepke | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Stella | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sugar Camp | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Three Lakes | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Woodboro | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Woodruff | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

@@ -50,36 +50,36 @@ Chippewa County planners want controlled, efficient growth that protects farmlan
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Chippewa Falls | City | Low to Moderate | Growth near the City of Chippewa Falls. |
-| Cornell | City | Not yet assessed | Verify growth potential |
+| Cornell | City | Low to Moderate | County service node with modest growth potential. |
 | Eau Claire | City | Moderate | Growth mainly in the Chippewa County portion. |
-| Stanley | City | Not yet assessed | Verify growth potential |
-| Boyd | Village | Not yet assessed | Verify growth potential |
+| Stanley | City | Low to Moderate | County service node with modest growth potential. |
+| Boyd | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | Cadott | Village | Low to Moderate | Limited growth. |
 | Lake Hallie | Village | Moderate | Residential growth expected. |
-| New Auburn | Village | Not yet assessed | Verify growth potential |
-| Anson | Town | Not yet assessed | Verify growth potential |
-| Arthur | Town | Not yet assessed | Verify growth potential |
-| Auburn | Town | Not yet assessed | Verify growth potential |
-| Birch Creek | Town | Not yet assessed | Verify growth potential |
-| Bloomer | Town | Not yet assessed | Verify growth potential |
-| Cleveland | Town | Not yet assessed | Verify growth potential |
-| Colburn | Town | Not yet assessed | Verify growth potential |
-| Cooks Valley | Town | Not yet assessed | Verify growth potential |
-| Delmar | Town | Not yet assessed | Verify growth potential |
+| New Auburn | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Anson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Arthur | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Auburn | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Birch Creek | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Bloomer | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cleveland | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Colburn | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Cooks Valley | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Delmar | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Eagle Point | Town | Low | Agricultural and rural focus. |
-| Edson | Town | Not yet assessed | Verify growth potential |
-| Estella | Town | Not yet assessed | Verify growth potential |
-| Goetz | Town | Not yet assessed | Verify growth potential |
+| Edson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Estella | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Goetz | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Hallie | Town | Low | Rural character to be preserved. |
-| Howard | Town | Not yet assessed | Verify growth potential |
+| Howard | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Lafayette | Town | Low | Agricultural preservation priority. |
-| Lake Holcombe | Town | Not yet assessed | Verify growth potential |
-| Ruby | Town | Not yet assessed | Verify growth potential |
-| Sampson | Town | Not yet assessed | Verify growth potential |
-| Sigel | Town | Not yet assessed | Verify growth potential |
-| Tilden | Town | Not yet assessed | Verify growth potential |
+| Lake Holcombe | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ruby | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sampson | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Sigel | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Tilden | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Wheaton | Town | Low | Limited development expected. |
-| Woodmohr | Town | Not yet assessed | Verify growth potential |
+| Woodmohr | Town | Low | Rural township; agricultural preservation likely dominant. |
 
 ### Unincorporated communities
 

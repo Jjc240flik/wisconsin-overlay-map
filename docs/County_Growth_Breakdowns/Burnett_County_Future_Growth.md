@@ -49,28 +49,28 @@ Burnett County planners want controlled, efficient growth that protects farmland
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
 | Webster | Village | Low | Limited development expected. |
-| Anderson | Town | Not yet assessed | Verify growth potential |
-| Blaine | Town | Not yet assessed | Verify growth potential |
-| Danbury | Town | Not yet assessed | Verify growth potential |
-| Daniels | Town | Not yet assessed | Verify growth potential |
-| Dewey | Town | Not yet assessed | Verify growth potential |
+| Anderson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Blaine | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Danbury | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Daniels | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Dewey | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Grantsburg | Town | Low to Moderate | Growth near the City of Grantsburg. |
-| Jackson | Town | Not yet assessed | Verify growth potential |
-| La Follette | Town | Not yet assessed | Verify growth potential |
-| Lincoln | Town | Not yet assessed | Verify growth potential |
+| Jackson | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| La Follette | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Lincoln | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Meenon | Town | Low | Agricultural and rural focus. |
-| Oakland | Town | Not yet assessed | Verify growth potential |
-| Roosevelt | Town | Not yet assessed | Verify growth potential |
-| Rusk | Town | Not yet assessed | Verify growth potential |
+| Oakland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Roosevelt | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Rusk | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Sand Lake | Town | Low | Rural character to be preserved. |
-| Scott | Town | Not yet assessed | Verify growth potential |
+| Scott | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Siren | Town | Low | Agricultural preservation priority. |
 | Swiss | Town | Low | Limited development expected. |
-| Trade Lake | Town | Not yet assessed | Verify growth potential |
+| Trade Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 | Union | Town | Low | Agricultural focus. |
-| Webb Lake | Town | Not yet assessed | Verify growth potential |
-| West Marshland | Town | Not yet assessed | Verify growth potential |
-| Wood River | Town | Not yet assessed | Verify growth potential |
+| Webb Lake | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| West Marshland | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
+| Wood River | Town | Low | Rural/agricultural/forest township; preservation likely dominant. |
 
 ### Unincorporated communities
 

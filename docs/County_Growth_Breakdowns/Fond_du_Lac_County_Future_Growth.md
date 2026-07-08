@@ -49,33 +49,33 @@ Fond du Lac County planners want controlled, efficient growth that protects farm
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Brandon | Village | Not yet assessed | Verify growth potential |
-| Campbellsport | Village | Not yet assessed | Verify growth potential |
-| Fairwater | Village | Not yet assessed | Verify growth potential |
-| Kewaskum | Village | Not yet assessed | Verify growth potential |
-| Mount Calvary | Village | Not yet assessed | Verify growth potential |
+| Brandon | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Campbellsport | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Fairwater | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Kewaskum | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Mount Calvary | Village | Low to Moderate | Local service node; verify corridor access and services. |
 | North Fond du Lac | Village | Moderate | Residential growth expected. |
-| St. Cloud | Village | Not yet assessed | Verify growth potential |
-| Alto | Town | Not yet assessed | Verify growth potential |
-| Ashford | Town | Not yet assessed | Verify growth potential |
-| Auburn | Town | Not yet assessed | Verify growth potential |
-| Byron | Town | Not yet assessed | Verify growth potential |
-| Calumet | Town | Not yet assessed | Verify growth potential |
-| Eden | Town | Not yet assessed | Verify growth potential |
+| St. Cloud | Village | Low to Moderate | Local service node; verify corridor access and services. |
+| Alto | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Ashford | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Auburn | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Byron | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Calumet | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Eden | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Eldorado | Town | Low | Agricultural preservation priority. |
-| Empire | Town | Not yet assessed | Verify growth potential |
+| Empire | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Fond du Lac | Town | Low to Moderate | Growth near the City of Fond du Lac. |
-| Forest | Town | Not yet assessed | Verify growth potential |
-| Friendship | Town | Not yet assessed | Verify growth potential |
+| Forest | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Friendship | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Lamartine | Town | Low | Limited development expected. |
-| Marshfield | Town | Not yet assessed | Verify growth potential |
-| Metomen | Town | Not yet assessed | Verify growth potential |
-| Oakfield | Town | Not yet assessed | Verify growth potential |
-| Osceola | Town | Not yet assessed | Verify growth potential |
+| Marshfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Metomen | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Oakfield | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Osceola | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Ripon | Town | Low | Agricultural and rural focus. |
-| Rosendale | Town | Not yet assessed | Verify growth potential |
-| Springvale | Town | Not yet assessed | Verify growth potential |
-| Taycheedah | Town | Not yet assessed | Verify growth potential |
+| Rosendale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Springvale | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Taycheedah | Town | Low | Rural township; agricultural preservation likely dominant. |
 | Waupun | Town | Low | Rural character to be preserved. |
 
 ### Unincorporated communities
