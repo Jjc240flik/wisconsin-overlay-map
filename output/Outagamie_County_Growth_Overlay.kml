@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document>
+  <name>Outagamie County Growth Potential Map</name>
+  <description>Color-coded by growth rating. Created using Cody Bjugan / North Star methodology.</description>
+  <Style id="High">
+    <IconStyle>
+      <color>ff00ff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.1</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="Moderate_to_High">
+    <IconStyle>
+      <color>ff00cc66</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.1</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="Moderate">
+    <IconStyle>
+      <color>ffffff00</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.1</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="Low_to_Moderate">
+    <IconStyle>
+      <color>ffff9900</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.1</scale>
+    </LabelStyle>
+  </Style>
+  <Style id="Low">
+    <IconStyle>
+      <color>ffff0000</color>
+      <scale>1.2</scale>
+      <Icon><href>http://maps.google.com/mapfiles/kml/paddle/wht-blank.png</href></Icon>
+    </IconStyle>
+    <LabelStyle>
+      <scale>1.1</scale>
+    </LabelStyle>
+  </Style>
+  <Placemark>
+    <name>Greenville (Village) - High</name>
+    <styleUrl>#High</styleUrl>
+    <description><![CDATA[<h3>Greenville</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> High</p></description>
+    <Point>
+      <coordinates>-88.536,44.3,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Grand Chute (Town) - High</name>
+    <styleUrl>#High</styleUrl>
+    <description><![CDATA[<h3>Grand Chute</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> High</p></description>
+    <Point>
+      <coordinates>-88.438,44.2819,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Harrison (Village) - High</name>
+    <styleUrl>#High</styleUrl>
+    <description><![CDATA[<h3>Harrison</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> High</p></description>
+    <Point>
+      <coordinates>-88.3267,44.2819,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Combined Locks (Village) - High</name>
+    <styleUrl>#High</styleUrl>
+    <description><![CDATA[<h3>Combined Locks</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> High</p></description>
+    <Point>
+      <coordinates>-88.3015,44.2658,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Little Chute (Village) - High</name>
+    <styleUrl>#High</styleUrl>
+    <description><![CDATA[<h3>Little Chute</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> High</p></description>
+    <Point>
+      <coordinates>-88.3184,44.28,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Black Creek (Town) - Low</name>
+    <styleUrl>#Low</styleUrl>
+    <description><![CDATA[<h3>Black Creek</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low</p></description>
+    <Point>
+      <coordinates>-88.4508,44.4775,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Oneida Twp (Town) - Low</name>
+    <styleUrl>#Low</styleUrl>
+    <description><![CDATA[<h3>Oneida Twp</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low</p></description>
+    <Point>
+      <coordinates>-88.22,44.5,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bear Creek (Village) - Low</name>
+    <styleUrl>#Low</styleUrl>
+    <description><![CDATA[<h3>Bear Creek</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Low</p></description>
+    <Point>
+      <coordinates>-88.7303,44.5314,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Nichols (Village) - Low</name>
+    <styleUrl>#Low</styleUrl>
+    <description><![CDATA[<h3>Nichols</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Low</p></description>
+    <Point>
+      <coordinates>-88.4661,44.5633,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Shiocton (Village) - Low</name>
+    <styleUrl>#Low</styleUrl>
+    <description><![CDATA[<h3>Shiocton</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Low</p></description>
+    <Point>
+      <coordinates>-88.5783,44.4436,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seymour (City) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Seymour</h3><p><b>Type:</b> City<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.3301,44.5153,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>New London (City) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>New London</h3><p><b>Type:</b> City<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.7398,44.3922,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Center (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Center</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.52,44.37,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Ellington (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Ellington</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.57,44.37,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Bovina (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Bovina</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.42,44.4,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Cicero (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Cicero</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.48,44.48,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Dale (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Dale</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.65,44.35,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Deer Creek (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Deer Creek</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.62,44.53,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hortonia (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Hortonia</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.32,44.34,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Liberty (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Liberty</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.52,44.41,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Maine (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Maine</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.56,44.45,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Maple Creek (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Maple Creek</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.65,44.42,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Osborn (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Osborn</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.34,44.46,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Seymour Twp (Town) - Low to Moderate</name>
+    <styleUrl>#Low_to_Moderate</styleUrl>
+    <description><![CDATA[<h3>Seymour Twp</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Low to Moderate</p></description>
+    <Point>
+      <coordinates>-88.33,44.51,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Appleton (City) - Moderate</name>
+    <styleUrl>#Moderate</styleUrl>
+    <description><![CDATA[<h3>Appleton</h3><p><b>Type:</b> City<br><b>Growth Rating:</b> Moderate</p></description>
+    <Point>
+      <coordinates>-88.4154,44.2619,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kaukauna (City) - Moderate</name>
+    <styleUrl>#Moderate</styleUrl>
+    <description><![CDATA[<h3>Kaukauna</h3><p><b>Type:</b> City<br><b>Growth Rating:</b> Moderate</p></description>
+    <Point>
+      <coordinates>-88.2719,44.278,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Vandenbroek (Town) - Moderate</name>
+    <styleUrl>#Moderate</styleUrl>
+    <description><![CDATA[<h3>Vandenbroek</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Moderate</p></description>
+    <Point>
+      <coordinates>-88.295,44.3,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Hortonville (Village) - Moderate</name>
+    <styleUrl>#Moderate</styleUrl>
+    <description><![CDATA[<h3>Hortonville</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Moderate</p></description>
+    <Point>
+      <coordinates>-88.6381,44.335,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Wrightstown (Village) - Moderate</name>
+    <styleUrl>#Moderate</styleUrl>
+    <description><![CDATA[<h3>Wrightstown</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Moderate</p></description>
+    <Point>
+      <coordinates>-88.1637,44.3275,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Buchanan (Town) - Moderate to High</name>
+    <styleUrl>#Moderate_to_High</styleUrl>
+    <description><![CDATA[<h3>Buchanan</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Moderate to High</p></description>
+    <Point>
+      <coordinates>-88.29,44.285,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Freedom (Town) - Moderate to High</name>
+    <styleUrl>#Moderate_to_High</styleUrl>
+    <description><![CDATA[<h3>Freedom</h3><p><b>Type:</b> Town<br><b>Growth Rating:</b> Moderate to High</p></description>
+    <Point>
+      <coordinates>-88.2883,44.3864,0</coordinates>
+    </Point>
+  </Placemark>
+  <Placemark>
+    <name>Kimberly (Village) - Moderate to High</name>
+    <styleUrl>#Moderate_to_High</styleUrl>
+    <description><![CDATA[<h3>Kimberly</h3><p><b>Type:</b> Village<br><b>Growth Rating:</b> Moderate to High</p></description>
+    <Point>
+      <coordinates>-88.3387,44.2722,0</coordinates>
+    </Point>
+  </Placemark>
+</Document>
+</kml>
