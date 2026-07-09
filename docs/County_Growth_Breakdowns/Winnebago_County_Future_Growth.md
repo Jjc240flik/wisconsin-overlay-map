@@ -50,34 +50,28 @@ Winnebago County planners want controlled, efficient growth that protects farmla
 
 | Municipality | Type | Expected Future Growth | Notes |
 |--------------|------|------------------------|-------|
-| Nekoosa | City | Low to Moderate | County service node with modest growth potential. |
-| Pittsville | City | Low to Moderate | County service node with modest growth potential. |
-| Wisconsin Rapids | City | Low to Moderate | County service node with modest growth potential. |
-| Biron | Village | Low to Moderate | Local service node; verify corridor access and services. |
-| Hewitt | Village | Low to Moderate | Local service node; verify corridor access and services. |
-| Vesper | Village | Low to Moderate | Local service node; verify corridor access and services. |
-| Arpin | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Auburndale | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Cameron | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Cary | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Cranmoor | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Dexter | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Grand Rapids | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Hansen | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Hiles | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Lincoln | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Marshfield | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Milladore | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Port Edwards | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Remington | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Richfield | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Rock | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Rudolph | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Saratoga | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Seneca | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Sherry | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Sigel | Town | Low | Rural township; agricultural preservation likely dominant. |
-| Wood | Town | Low | Rural township; agricultural preservation likely dominant. |
+| Municipality | Type | Expected Future Growth | Notes |
+|---|---|---|---|
+| City of Oshkosh | City | Moderate | Core city. Redevelopment and infill. Growth spills outward. |
+| City of Neenah | City | Moderate | Fox River corridor. Redevelopment. |
+| City of Menasha | City | Moderate | Built out. Infill. |
+| **Town of Oshkosh** | **Town** | **High** | **PRIMARY GROWTH. Directly south of Oshkosh. US 41 corridor.** |
+| **Town of Neenah** | **Town** | **High** | **PRIMARY GROWTH. Directly adjacent to Neenah/Menasha. FLU shows residential.** |
+| **Town of Menasha** | **Town** | **High** | **PRIMARY GROWTH. Surrounds Menasha. Edge growth.** |
+| **Town of Algoma** | **Town** | **High** | **PRIMARY GROWTH. North of Oshkosh. US 41 corridor.** |
+| Town of Vinland | Town | Moderate to High | North of Neenah. Edge growth potential. |
+| Town of Clayton | Town | Moderate to High | Southwest of Neenah. Some growth. |
+| Village of Fox Crossing | Village | Moderate to High | Between Neenah and Menasha. Growing. |
+| Village of Winneconne | Village | Moderate | Lake Winnebago. Seasonal and bedroom. |
+| Village of Omro | Village | Moderate | West of Oshkosh. Localized growth. |
+| Town of Wolf River | Town | Low to Moderate | North. Some edge growth. |
+| Town of Rushford | Town | Low to Moderate | West. Limited. |
+| Town of Nekimi | Town | Low to Moderate | South of Oshkosh. Some potential. |
+| Town of Black Wolf | Town | Low to Moderate | South. Some edge growth. |
+| Town of Utica | Town | Low | West. Agricultural. |
+| Town of Poygan | Town | Low | West. Rural. |
+| Town of Winchester | Town | Low | West. Agricultural. |
+| Town of Larsen | Town | Low | West. Rural. |
 
 ### Unincorporated communities
 
