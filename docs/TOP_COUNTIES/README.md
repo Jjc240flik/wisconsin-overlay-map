@@ -13,9 +13,9 @@ These counties have been identified as the highest-priority targets for the Cody
 | **Ozaukee** | Grafton, Saukville, Mequon, Cedarburg | High | 🔄 Coming soon |
 | **Milwaukee** | Franklin, Oak Creek, Harbor District (redevelopment) | Moderate | 🔄 Coming soon |
 | **Rock** | Towns of Beloit, Janesville, Turtle (Stateline corridor) | High | 🔄 Coming soon |
-| **Winnebago** | Towns of Neenah, Menasha, Oshkosh, Algoma | High | 🔄 Coming soon |
-| **Calumet** | Town of Harrison (south of Appleton), lakeshore communities | Moderate | 🔄 Coming soon |
-| **Door** | Sturgeon Bay, Sister Bay (seasonal/tourism focus) | Low-Moderate | 🔄 Coming soon |
+| **Winnebago** | Towns of Neenah, Menasha, Oshkosh, Algoma | High | ✅ [Download Map](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Winnebago_County_Land_Use_Map.html) |
+| **Calumet** | Town of Harrison (south of Appleton), lakeshore communities | Moderate | 🔄 Researching... |
+| **Door** | Sturgeon Bay, Sister Bay (seasonal/tourism focus) | Low-Moderate | ✅ [Download Map](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Door_County_Zoning_Map.html) |
 
 ## Methodology
 All ratings follow the **Cody Bjugan / North Star framework**:

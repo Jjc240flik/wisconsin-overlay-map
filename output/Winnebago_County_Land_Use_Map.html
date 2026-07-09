@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Winnebago County Land Use Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; width: 100vw; }
+        .toggle-container {
+            position: absolute; top: 10px; left: 50%; transform: translateX(-50%);
+            z-index: 1000; background: white; padding: 6px 4px;
+            border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            display: flex; gap: 4px; font-size: 13px;
+        }
+        .toggle-btn { padding: 6px 16px; border: none; cursor: pointer; font-weight: bold; font-size: 13px; transition: 0.2s; border-radius: 6px; }
+        .toggle-btn.active { background: #4CAF50; color: white; }
+        .toggle-btn.inactive { background: transparent; color: #666; }
+        .toggle-btn:hover:not(.active) { background: #f0f0f0; }
+        .legend { background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 11px; line-height: 1.5; max-height: 50vh; overflow-y: auto; }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
+        .note { position: absolute; bottom: 10px; right: 10px; z-index: 1000; background: rgba(255,255,255,0.85); padding: 4px 10px; border-radius: 4px; font-size: 11px; }
+        .info-text { position: absolute; bottom: 10px; left: 200px; z-index: 1000; background: rgba(255,255,255,0.9); padding: 4px 10px; border-radius: 4px; font-size: 11px; }
+        .muni-label { background: none !important; border: none !important; }
+        .muni-label div { box-shadow: 0 1px 4px rgba(0,0,0,0.3); }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="note">Winnebago County, WI</div>
+    <div id="legend-container" class="legend" style="position:absolute;bottom:50px;left:10px;z-index:1000;">
+        <b>Current Land Use (2022)</b><br>
+        <div class="legend-item"><div class="legend-color" style="background:#90EE90"></div>Residential</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FFD700"></div>Agriculture</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FF6347"></div>Commercial</div>
+        <div class="legend-item"><div class="legend-color" style="background:#9370DB"></div>Industrial</div>
+        <div class="legend-item"><div class="legend-color" style="background:#228B22"></div>Recreation/Forest</div>
+        <div class="legend-item"><div class="legend-color" style="background:#808080"></div>Institutional</div>
+        <div class="legend-item"><div class="legend-color" style="background:#A9A9A9"></div>Transportation</div>
+        <br><i>Streaming from Winnebago County GIS</i>
+    </div>
+
+    <script>
+    var map = L.map('map').setView([44.09, -88.57], 10);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '©OSM'}).addTo(map);
+    L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: '©Esri'});
+    L.control.layers({"Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '©OSM'}), 
+        "Satellite": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: '©Esri'})
+    }, null, {position:'topright'}).addTo(map);
+    
+    // Land Use Layer
+    var luUrl = 'https://services6.arcgis.com/gI7hlABYSIIozaRg/arcgis/rest/services/LandUse2022OD/FeatureServer/0';
+    
+    function getLUColor(txt) {
+        var tu = (txt || '').toUpperCase();
+        if (['RESIDENTIAL','SINGLE FAMILY','MULTI FAMILY','DUPLEX','APARTMENT','HOUSING','TRAILER'].some(k => tu.includes(k))) return '#90EE90';
+        if (['AGRICULTURE','FARM','CROPLAND','CROP','DAIRY','PASTURE'].some(k => tu.includes(k))) return '#FFD700';
+        if (['COMMERCIAL','RETAIL','OFFICE','SHOPPING','RESTAURANT','HOTEL','MOTEL'].some(k => tu.includes(k))) return '#FF6347';
+        if (['INDUSTRIAL','MANUFACTURING','WAREHOUSE','FACTORY','STORAGE','YARD'].some(k => tu.includes(k))) return '#9370DB';
+        if (['PARK','RECREATION','FOREST','WOODLAND','GOLF','OPEN SPACE','CEMETERY'].some(k => tu.includes(k))) return '#228B22';
+        if (['INSTITUTION','SCHOOL','CHURCH','GOVERNMENT','HOSPITAL','MEDICAL','COLLEGE'].some(k => tu.includes(k))) return '#808080';
+        if (['TRANSPORTATION','HIGHWAY','ROAD','STREET','RAILROAD','AIRPORT'].some(k => tu.includes(k))) return '#A9A9A9';
+        if (['WATER','LAKE','RIVER','STREAM','WETLAND','POND'].some(k => tu.includes(k))) return '#87CEEB';
+        return '#E0E0E0';
+    }
+    
+    luLayer = L.esri.featureLayer({
+        url: luUrl,
+        style: function(f) { return { fillColor: getLUColor(f.properties.Reglu_txt), weight: 0.3, opacity: 0.5, color: '#666', fillOpacity: 0.5 }; },
+        onEachFeature: function(f, l) { l.bindPopup('<b>' + (f.properties.Reglu_txt || 'Unknown') + '</b><br>Status: ' + (f.properties.Clustatus || '') + '<br>Acres: ' + (f.properties.Acres || '')); }
+    }).addTo(map);
+    
+    // Municipality Labels
+    var muniData = [
+    {"name":"Oshkosh","type":"City","rating":"Moderate","lat":44.025,"lon":-88.542,"color":"#FFC107","size":16},
+    {"name":"Neenah","type":"City","rating":"Moderate","lat":44.186,"lon":-88.463,"color":"#FFC107","size":15},
+    {"name":"Menasha","type":"City","rating":"Moderate","lat":44.202,"lon":-88.446,"color":"#FFC107","size":15},
+    {"name":"Omro","type":"Village","rating":"Moderate","lat":44.039,"lon":-88.744,"color":"#FFC107","size":14},
+    {"name":"Winneconne","type":"Village","rating":"Moderate","lat":44.111,"lon":-88.713,"color":"#FFC107","size":14},
+    {"name":"Town of Neenah","rating":"High","type":"Town","lat":44.170,"lon":-88.482,"color":"#4CAF50","size":16},
+    {"name":"Town of Menasha","rating":"High","type":"Town","lat":44.215,"lon":-88.428,"color":"#4CAF50","size":16},
+    {"name":"Town of Oshkosh","rating":"High","type":"Town","lat":44.015,"lon":-88.540,"color":"#4CAF50","size":16},
+    {"name":"Town of Algoma","rating":"High","type":"Town","lat":44.048,"lon":-88.596,"color":"#4CAF50","size":16},
+    {"name":"Town of Vinland","rating":"Moderate to High","type":"Town","lat":44.146,"lon":-88.530,"color":"#8BC34A","size":14},
+    {"name":"Town of Clayton","rating":"Moderate to High","type":"Town","lat":44.169,"lon":-88.419,"color":"#8BC34A","size":14},
+    {"name":"Fox Crossing","rating":"Moderate to High","type":"Village","lat":44.200,"lon":-88.490,"color":"#8BC34A","size":14},
+    {"name":"Town of Wolf River","rating":"Low to Moderate","type":"Town","lat":44.125,"lon":-88.820,"color":"#FF9800","size":12},
+    {"name":"Town of Rushford","rating":"Low to Moderate","type":"Town","lat":43.990,"lon":-88.780,"color":"#FF9800","size":12}
+];
+    var muniLayer = L.layerGroup();
+    muniData.forEach(function(m) {
+        L.circleMarker([m.lat, m.lon], {radius: 5, fillColor: m.color, color: '#333', weight: 1.5, fillOpacity: 0.8})
+            .bindPopup('<b>' + m.name + '</b><br>' + m.type + '<br>Growth: ' + m.rating).addTo(muniLayer);
+        L.marker([m.lat, m.lon], {icon: L.divIcon({className: 'muni-label',
+            html: '<div style="background:' + m.color + ';color:#fff;padding:2px 8px;border-radius:12px;font-size:' + m.size + 'px;font-weight:bold;text-shadow:0 1px 2px rgba(0,0,0,0.3);white-space:nowrap;border:1px solid #333;">' + m.name + '</div>',
+            iconSize: [0, 0], iconAnchor: [0, 0]})}).addTo(muniLayer);
+    });
+    muniLayer.addTo(map);
+    L.control.layers(null, {"Municipality Labels": muniLayer}, {position:'topright'}).addTo(map);
+    </script>
+</body>
+</html>
