@@ -59,3 +59,7 @@ Western towns (Holland, Fredonia Town, Belgium Town) — Agricultural and rural.
 - [Ozaukee County Planning & Zoning](https://www.co.ozaukee.wi.us/143/Planning-Parks-and-Zoning)
 - [Ozaukee County GIS](https://www.co.ozaukee.wi.us/147/GIS-Mapping)
 - [SEWRPC Regional Planning](https://www.sewrpc.org/)
+- [City of Mequon Comprehensive Plan](https://www.ci.mequon.wi.us/306/Comprehensive-Plan)
+- [Village of Grafton Comprehensive Plan](https://www.village.grafton.wi.us/132/Comprehensive-Plan)
+- [Village of Saukville Comprehensive Plan](https://www.village.saukville.wi.us/234/Comprehensive-Plan)
+- [City of Port Washington Comprehensive Plan](https://www.ci.port-washington.wi.us/602/Comprehensive-Plan)

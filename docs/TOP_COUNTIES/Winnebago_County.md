@@ -62,8 +62,19 @@ Vinland, Clayton, Fox Crossing — Edge-adjacent growth.
 **Low Growth:**
 Western towns (Utica, Poygan, Winchester, Larsen) — Agricultural and rural.
 
+## Interactive Map
+
+An interactive map showing **Land Use 2022** with color-coded municipality labels is available:
+
+[**Download the Winnebago County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Winnebago_County_Land_Use_Map.html)  
+*(Click → Save → Open in browser. Land Use 2022 data streaming from ArcGIS.)*
+
 ## Sources
 - [Winnebago County Planning & Zoning](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning)
 - [Winnebago County GIS](https://www.winnebagocountywi.gov/Departments/GIS)
 - [Winnebago County Comp Plan](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning/Comprehensive-Planning)
 - [Fox Cities Regional Partnership](https://www.foxcities.org/)
+- [City of Oshkosh Comprehensive Plan](https://www.oshkoshwi.gov/Planning/ComprehensivePlan)
+- [City of Neenah Comprehensive Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
+- [Town of Neenah Planning](https://www.townneenah.com/planning)
+- [Town of Menasha Zoning](https://www.town-menasha.com/departments/planning-zoning)

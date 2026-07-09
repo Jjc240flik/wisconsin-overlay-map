@@ -82,3 +82,7 @@ Western towns (Eagle, Ottawa, Summit, Delafield) — Lake country preservation a
 - [Waukesha County GIS](https://www.waukeshacounty.gov/GIS)
 - [Waukesha County Comprehensive Plan](https://www.waukeshacounty.gov/comprehensiveplanning)
 - [SEWRPC Regional Planning](https://www.sewrpc.org/)
+- [Village of Menomonee Falls Comprehensive Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
+- [Village of Sussex Comprehensive Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
+- [Village of Pewaukee Comprehensive Plan](https://www.pewaukeevillage.org/245/Comprehensive-Plan)
+- [City of Muskego Comprehensive Plan](https://www.cityofmuskego.org/137/Comprehensive-Plan)

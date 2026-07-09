@@ -69,3 +69,6 @@ Southwestern and agricultural towns (New Holstein, Charlestown, Rantoul, Woodvil
 - [Calumet County Planning & Zoning](https://www.calumetcounty.org/210/Planning-Zoning)
 - [Calumet County GIS](https://www.calumetcounty.org/213/GIS-Mapping)
 - [Calumet County Comprehensive Plan](https://www.calumetcounty.org/210/Planning-Zoning)
+- [Town of Harrison Planning](https://www.townofharrisonwi.gov/)
+- [Village of Hilbert Comprehensive Plan](https://www.hilbertwi.org/)
+- [City of Chilton Comprehensive Plan](https://www.chilton.govoffice.com/)

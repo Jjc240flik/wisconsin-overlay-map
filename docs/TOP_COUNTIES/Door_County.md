@@ -62,7 +62,17 @@ Sevastopol, Forestville (Village), Egg Harbor (Village) — Secondary growth are
 **Low Growth:**
 Most of the peninsula — Strict environmental protections and seasonal economy limit subdivision development compared to metro-edge counties.
 
+## Interactive Map
+
+An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labels is available:
+
+[**Download the Door County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Door_County_Zoning_Map.html)  
+*(Click → Save → Open in browser. Toggle between Zoning and Parcel views.)*
+
 ## Sources
 - [Door County Planning](https://www.co.door.wi.gov/226/Planning)
 - [Door County Zoning](https://www.co.door.wi.gov/177/Zoning)
 - [Door County GIS](https://www.co.door.wi.gov/193/GIS-Mapping)
+- [Village of Sister Bay Comprehensive Plan](https://www.sisterbay.com/338/Comprehensive-Plan)
+- [City of Sturgeon Bay Comprehensive Plan](https://www.sturgeonbaywi.org/planning/)
+- [Village of Egg Harbor Comprehensive Plan](https://www.eggharborwi.gov/comprehensive-plan/)

@@ -71,3 +71,8 @@ Western and northern towns (Avon, Bradford, Center, Johnstown, Lima, Magnolia, N
 - [Rock County Planning & Zoning](https://www.co.rock.wi.us/planning-development)
 - [Rock County GIS](https://rockgis.co.rock.wi.us/)
 - [Rock County Comp Plan](https://www.co.rock.wi.us/planning-development/comprehensive-planning)
+- [City of Janesville Comprehensive Plan](https://www.janesvillewi.gov/771/Comprehensive-Plan)
+- [City of Beloit Comprehensive Plan](https://www.beloitwi.gov/659/Comprehensive-Plan)
+- [Village of Evansville Comprehensive Plan](https://www.evansvillewi.gov/345/Comprehensive-Plan)
+- [Town of Beloit Future Land Use](https://www.townofbeloit.com/planning-zoning/)
+- [Town of Janesville Planning](https://www.townofjanesville.com/planning)
