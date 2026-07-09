@@ -28,28 +28,28 @@ Door County has **lower subdivision potential** than other TOP counties due to s
 
 **Methodology:** Cody Bjugan / North Star framework modified for Door County's unique tourism/retirement dynamics.
 
-||Municipality|Type|Expected Future Growth|Notes|Zip Code||
-||---|---|---|---|---||
-||City of Sturgeon Bay|City|54235|Moderate|County seat. Most growth potential. Year-round economy.||
-||**Town of Sturgeon Bay**|**Town**|54235|**Moderate**|Directly adjacent. Limited but some rural residential.||
-||**Town of Nasewaupee**|**Town**|54235|**Moderate**|South end near Sturgeon Bay. Entry corridor.||
-||**Town of Sevastopol**|**Town**|54235|**Moderate**|Central. Some residential growth.||
-||**Village of Sister Bay**|**Village**|54234|**Moderate to High**|Key tourism corridor. Seasonal growth.||
-||**Village of Egg Harbor**|**Village**|54209|**Moderate**|Tourism focus. Limited year-round.||
-||**Village of Ephraim**|**Village**|54211|**Low to Moderate**|Strict regulations. Seasonal.||
-||**Village of Fish Creek**|**Village**|54212|**Low to Moderate**|Tourism. Limited year-round.||
-||Village of Forestville|Village|54213|Low|Far south. Limited.||
-||Town of Baileys Harbor|Town|54202|Low to Moderate|Lake Michigan. Seasonal.||
-||Town of Brussels|Town|54204|Low|Rural. Agricultural.||
-||Town of Clay Banks|Town|54235|Low|South. Rural.||
-||Town of Egg Harbor|Town|54209|Low to Moderate|Some edge growth.||
-||Town of Forestville|Town|54213|Low|South. Rural.||
-||Town of Gardner|Town|54235|Low|South. Rural.||
-||Town of Gibraltar|Town|54212|Low to Moderate|Fish Creek area. Tourism.||
-||Town of Jacksonport|Town|54235|Low|Lakeshore. Seasonal.||
-||Town of Liberty Grove|Town|54234|Low to Moderate|Northern end. Seasonal.||
-||Town of Union|Town|54235|Low to Moderate|Central. Some growth.||
-||Town of Washington|Town|54210|Low|Washington Island. Remote.||
+| Municipality | Type | Expected Future Growth | Notes | Zip Code |
+|  | --- | --- | --- |  |
+| City of Sturgeon Bay | Town | Low to Moderate | Growth near the City of Sturgeon Bay. | 54235 |
+| **Town of Sturgeon Bay** | Town | Low to Moderate | Growth near the City of Sturgeon Bay. | 54235 |
+| **Town of Nasewaupee** | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54235 |
+| **Town of Sevastopol** | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54235 |
+| **Village of Sister Bay** | Village | Moderate | Tourism and residential growth expected. | 54234 |
+| **Village of Egg Harbor** | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54209 |
+| **Village of Ephraim** | Village | Low | Limited growth due to preservation focus. | 54211 |
+| **Village of Fish Creek** | **Village** | **Low to Moderate** | Tourism focus. Limited year-round. | 54212 |
+| Village of Forestville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54213 |
+| Town of Baileys Harbor | Town | Low | Agricultural preservation priority. | 54202 |
+| Town of Brussels | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54204 |
+| Town of Clay Banks | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54235 |
+| Town of Egg Harbor | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54209 |
+| Town of Forestville | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54213 |
+| Town of Gardner | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54235 |
+| Town of Gibraltar | Town | Low | Rural character to be preserved. | 54212 |
+| Town of Jacksonport | Town | Low | Limited development expected. | 54235 |
+| Town of Liberty Grove | Town | Low | Agricultural and rural focus. | 54234 |
+| Town of Union | Town | Low | Rural/agricultural/forest township; preservation likely dominant. | 54235 |
+| Town of Washington | Town | Low | Washington Island. Remote. | 54210 |
 
 ## Summary of Growth Patterns
 
@@ -66,7 +66,7 @@ Most of the peninsula — Strict environmental protections and seasonal economy 
 
 An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labels is available:
 
-[**Download the Door County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Door_County_Zoning_Map.html)  
+[**Download the Door County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Door_County_Zoning_Map.html)
 *(Click → Save → Open in browser. Toggle between Zoning and Parcel views.)*
 
 ## Sources
