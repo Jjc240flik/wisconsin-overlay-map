@@ -154,6 +154,13 @@ This is the model for how every village and town should be evaluated.
 - [Outagamie County Land Use, Zoning & Sanitary](https://www.outagamie.gov/County-Services/Development-Land-Services/Land-Use-Zoning-and-Sanitary)
 - [Outagamie County Open Data/GIS](https://data-ocgis.opendata.arcgis.com/)
 
+## Interactive Map
+
+An interactive toggle map showing **Current Zoning ↔ Future Land Use** with color-coded municipality labels is available:
+
+[**Download the Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Outagamie_Zoning_Toggle_Map.html)  
+*(Click → Save → Open in browser. Toggle between views at the top, satellite imagery in layer control.)*
+
 ### Village of Greenville (Model Case)
 - [Greenville Planning Page](https://www.townofgreenville.com/land_use___conservations/index.php)
 - [Greenville 2040 Land Use Map / Future Land Use Map](https://www.townofgreenville.com/Map%202-1%20Year%202040%20Land%20Use_2025.pdf?t=202601200822160)
