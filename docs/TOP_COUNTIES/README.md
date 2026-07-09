@@ -7,7 +7,7 @@ These counties have been identified as the highest-priority targets for the Cody
 | County | Primary Growth Nodes | Subdivision Potential | Interactive Map |
 |--------|---------------------|----------------------|-----------------|
 | **Outagamie** ⭐ | Greenville, Grand Chute, Harrison, Combined Locks, Little Chute | Very High | ✅ [Download Map](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Outagamie_Zoning_Toggle_Map.html) |
-| **Brown** | Ashwaubenon, Howard, Suamico, Bellevue, Ledgeview, Lawrence | Very High | 🔄 Coming soon |
+| **Brown** | Ashwaubenon, Howard, Suamico, Bellevue, Ledgeview, Lawrence | Very High | ✅ [Download Map](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Brown_County_Land_Use_Map.html) |
 | **Dane** | Fitchburg, Verona, Waunakee, DeForest, Burke, Westport | Very High | 🔄 Coming soon |
 | **Waukesha** | Menomonee Falls, Lisbon, Sussex, Pewaukee, Genesee | High | 🔄 Coming soon |
 | **Ozaukee** | Grafton, Saukville, Mequon, Cedarburg | High | 🔄 Coming soon |

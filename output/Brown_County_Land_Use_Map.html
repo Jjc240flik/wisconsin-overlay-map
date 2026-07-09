@@ -1,0 +1,215 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Brown County Land Use & Growth Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <script src="https://unpkg.com/esri-leaflet@3.0.12/dist/esri-leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; width: 100vw; }
+        .toggle-container {
+            position: absolute; top: 10px; left: 50%; transform: translateX(-50%);
+            z-index: 1000; background: white; padding: 6px 4px;
+            border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.2);
+            display: flex; align-items: center; gap: 4px;
+            font-family: Arial, sans-serif; font-size: 13px;
+        }
+        .toggle-btn {
+            padding: 6px 16px; border: none; cursor: pointer;
+            font-weight: bold; font-size: 13px;
+            transition: all 0.2s; border-radius: 6px;
+        }
+        .toggle-btn.active { background: #4CAF50; color: white; }
+        .toggle-btn.growth-active { background: #2196F3; color: white; }
+        .toggle-btn.inactive { background: transparent; color: #666; }
+        .toggle-btn:hover:not(.active):not(.growth-active) { background: #f0f0f0; }
+        .legend {
+            background: white; padding: 10px; border-radius: 8px;
+            box-shadow: 0 2px 8px rgba(0,0,0,0.15);
+            font-family: Arial, sans-serif; font-size: 11px; line-height: 1.5;
+            max-height: 50vh; overflow-y: auto; max-width: 220px;
+        }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
+        .note {
+            position: absolute; bottom: 10px; right: 10px; z-index: 1000;
+            background: rgba(255,255,255,0.85); padding: 4px 10px;
+            border-radius: 4px; font-size: 11px; color: #666;
+        }
+        .info-text {
+            position: absolute; bottom: 10px; left: 200px; z-index: 1000;
+            background: rgba(255,255,255,0.9); padding: 4px 10px;
+            border-radius: 4px; font-size: 11px; color: #555;
+        }
+        .muni-label { background: none !important; border: none !important; }
+        .muni-label div { box-shadow: 0 1px 4px rgba(0,0,0,0.3); }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="toggle-container">
+        <button class="toggle-btn active" id="btn-landuse" onclick="showLandUse()">Current Land Use</button>
+        <button class="toggle-btn inactive" id="btn-growth" onclick="showGrowth()">Growth Areas</button>
+    </div>
+    <div id="legend-container" class="legend" style="position:absolute;bottom:50px;left:10px;z-index:1000;"></div>
+    <div class="note">Brown County, WI</div>
+    <div class="info-text" id="view-info">Current Land Use (2023)</div>
+
+    <script>
+    var map = L.map('map').setView([44.45, -88.00], 10);
+    
+    var topo = L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {
+        attribution: '© OpenStreetMap'
+    }).addTo(map);
+    var satellite = L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {
+        attribution: '© Esri'
+    });
+    L.control.layers({"Map": topo, "Satellite": satellite}, null, {position:'topright'}).addTo(map);
+
+    var currentView = 'landuse';
+    var landUseLayer, growthLayer, muniLayer;
+    
+    // === Land Use Layer (streamed from ArcGIS) ===
+    var luUrl = 'https://services.arcgis.com/8df8p0NlLFEShl0r/arcgis/rest/services/Brown_County_Land_Use_2023_WFL1/FeatureServer/0';
+    
+    landUseLayer = L.esri.featureLayer({
+        url: luUrl,
+        simplifyFactor: 0.5,
+        style: function(f) {
+            var lu = (f.properties.LandUseCod || '').toUpperCase();
+            var color = '#E0E0E0';
+            if (lu.includes('SINGLE FAMILY') || lu.includes('MULTI-FAMILY') || lu.includes('RESIDENTIAL') || lu.includes('TWO FAMILY') || lu.includes('VACANT RESIDENCE')) color = '#90EE90';
+            else if (lu.includes('AGRICULTURE') || lu.includes('CROPLAND') || lu.includes('FARM') || lu.includes('SILVICULTURE')) color = '#FFD700';
+            else if (lu.includes('COMMERCIAL') || lu.includes('RETAIL') || lu.includes('SHOPPING')) color = '#FF6347';
+            else if (lu.includes('INDUSTRIAL') || lu.includes('MANUFACTURING')) color = '#9370DB';
+            else if (lu.includes('VACANT') || lu.includes('UNDER DEVELOPMENT') || lu.includes('OPEN')) color = '#D3D3D3';
+            else if (lu.includes('WATER') || lu.includes('LAKE') || lu.includes('RIVER') || lu.includes('WETLAND') || lu.includes('STREAM')) color = '#87CEEB';
+            else if (lu.includes('PARK') || lu.includes('FOREST') || lu.includes('WOODLAND') || lu.includes('RECREATION') || lu.includes('OPEN SPACE')) color = '#228B22';
+            else if (lu.includes('INSTITUTION') || lu.includes('GOVERNMENT') || lu.includes('SCHOOL') || lu.includes('CHURCH') || lu.includes('HOSPITAL')) color = '#808080';
+            else if (lu.includes('TRANSPORTATION') || lu.includes('PARKING') || lu.includes('ROAD')) color = '#A9A9A9';
+            return { fillColor: color, weight: 0.3, opacity: 0.5, color: '#666', fillOpacity: 0.5 };
+        },
+        onEachFeature: function(f, l) {
+            var p = f.properties;
+            l.bindPopup('<b>' + (p.LandUseCod || 'Unknown') + '</b><br>' + (p.Label || ''));
+        }
+    }).addTo(map);
+    
+    // === Growth Areas Layer (Sewer SSA + TIDs) ===
+    var sewerUrl = 'https://gis.browncountywi.gov/arcgis/rest/services/SewerServiceAreas/MapServer/1';
+    var tidUrl = 'https://gis.browncountywi.gov/arcgis/rest/services/TaxIncrementalDistricts/MapServer/4';
+    
+    growthLayer = L.layerGroup();
+    
+    // Sewer Service Areas
+    var sewerLayer = L.esri.featureLayer({
+        url: sewerUrl,
+        style: { fillColor: '#2196F3', weight: 1, opacity: 0.6, color: '#1565C0', fillOpacity: 0.25 },
+        onEachFeature: function(f, l) {
+            l.bindPopup('<b>Sewer Service Area</b><br>' + (f.properties.SSA_NAME || ''));
+        }
+    });
+    
+    // Tax Increment Districts
+    var tidLayer = L.esri.featureLayer({
+        url: tidUrl,
+        style: { fillColor: '#FF9800', weight: 1, opacity: 0.7, color: '#E65100', fillOpacity: 0.3 },
+        onEachFeature: function(f, l) {
+            var name = f.properties.TextString || 'TID';
+            l.bindPopup('<b>Tax Increment District</b><br>' + name);
+        }
+    });
+    
+    growthLayer.addLayer(sewerLayer);
+    growthLayer.addLayer(tidLayer);
+    
+    // === Municipality Labels ===
+    var muniData = [
+        {"name":"Green Bay","rating":"Moderate","type":"City","lat":44.513,"lon":-88.015,"color":"#FFC107","size":16},
+        {"name":"De Pere","rating":"Moderate","type":"City","lat":44.449,"lon":-88.060,"color":"#FFC107","size":15},
+        {"name":"Ashwaubenon","rating":"High","type":"Village","lat":44.482,"lon":-88.070,"color":"#4CAF50","size":17},
+        {"name":"Howard","rating":"High","type":"Village","lat":44.545,"lon":-88.088,"color":"#4CAF50","size":17},
+        {"name":"Suamico","rating":"High","type":"Village","lat":44.636,"lon":-88.039,"color":"#4CAF50","size":16},
+        {"name":"Bellevue","rating":"High","type":"Village","lat":44.444,"lon":-87.920,"color":"#4CAF50","size":16},
+        {"name":"Allouez","rating":"Moderate to High","type":"Village","lat":44.472,"lon":-88.016,"color":"#8BC34A","size":15},
+        {"name":"Hobart","rating":"Moderate","type":"Village","lat":44.508,"lon":-88.143,"color":"#FFC107","size":14},
+        {"name":"Ledgeview","rating":"High","type":"Town","lat":44.425,"lon":-87.897,"color":"#4CAF50","size":16},
+        {"name":"Lawrence","rating":"High","type":"Town","lat":44.386,"lon":-88.108,"color":"#4CAF50","size":16},
+        {"name":"Wrightstown","rating":"Moderate","type":"Town","lat":44.327,"lon":-88.163,"color":"#FFC107","size":13},
+        {"name":"Humboldt","rating":"Moderate to High","type":"Town","lat":44.486,"lon":-87.781,"color":"#8BC34A","size":14},
+        {"name":"Scott","rating":"Moderate to High","type":"Town","lat":44.574,"lon":-87.879,"color":"#8BC34A","size":14},
+        {"name":"Eaton","rating":"Low","type":"Town","lat":44.660,"lon":-87.810,"color":"#F44336","size":12},
+        {"name":"Glenmore","rating":"Low","type":"Town","lat":44.389,"lon":-87.941,"color":"#F44336","size":12},
+        {"name":"Morrison","rating":"Low","type":"Town","lat":44.300,"lon":-88.059,"color":"#F44336","size":12},
+        {"name":"Holland","rating":"Low","type":"Town","lat":44.527,"lon":-87.864,"color":"#F44336","size":12},
+        {"name":"New Denmark","rating":"Low","type":"Town","lat":44.607,"lon":-87.877,"color":"#F44336","size":12},
+        {"name":"Pittsfield","rating":"Low","type":"Town","lat":44.624,"lon":-88.264,"color":"#F44336","size":12},
+        {"name":"Rockland","rating":"Low","type":"Town","lat":44.355,"lon":-88.058,"color":"#F44336","size":12}
+    ];
+    
+    muniLayer = L.layerGroup();
+    muniData.forEach(function(m) {
+        L.circleMarker([m.lat, m.lon], {
+            radius: 5, fillColor: m.color, color: '#333', weight: 1.5, fillOpacity: 0.8
+        }).bindPopup('<b>' + m.name + '</b><br>' + m.type + '<br>Growth: ' + m.rating).addTo(muniLayer);
+        L.marker([m.lat, m.lon], {
+            icon: L.divIcon({
+                className: 'muni-label',
+                html: '<div style="background:' + m.color + ';color:#fff;padding:2px 8px;border-radius:12px;font-size:' + m.size + 'px;font-weight:bold;text-shadow:0 1px 2px rgba(0,0,0,0.3);white-space:nowrap;border:1px solid #333;">' + m.name + '</div>',
+                iconSize: [0, 0], iconAnchor: [0, 0]
+            })
+        }).addTo(muniLayer);
+    });
+    muniLayer.addTo(map);
+    var overlayMaps = {"Municipality Labels": muniLayer};
+    L.control.layers(null, overlayMaps, {position:'topright'}).addTo(map);
+    
+    updateLegend('landuse');
+    
+    function showLandUse() {
+        if (currentView === 'landuse') return;
+        map.removeLayer(growthLayer);
+        landUseLayer.addTo(map);
+        currentView = 'landuse';
+        document.getElementById('btn-landuse').className = 'toggle-btn active';
+        document.getElementById('btn-growth').className = 'toggle-btn inactive';
+        document.getElementById('view-info').textContent = 'Current Land Use (2023)';
+        updateLegend('landuse');
+    }
+    
+    function showGrowth() {
+        if (currentView === 'growth') return;
+        map.removeLayer(landUseLayer);
+        growthLayer.addTo(map);
+        currentView = 'growth';
+        document.getElementById('btn-growth').className = 'toggle-btn growth-active';
+        document.getElementById('btn-landuse').className = 'toggle-btn inactive';
+        document.getElementById('view-info').textContent = 'Growth Areas: Sewer Service + Tax Increment Districts';
+        updateLegend('growth');
+    }
+    
+    function updateLegend(view) {
+        var l = document.getElementById('legend-container');
+        if (view === 'landuse') {
+            l.innerHTML = '<b>Current Land Use (2023)</b><br><small>Brown County</small><br>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#90EE90"></div>Residential</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FFD700"></div>Agriculture</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF6347"></div>Commercial</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#9370DB"></div>Industrial</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#87CEEB"></div>Water/Wetlands</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#228B22"></div>Parks/Forest</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#D3D3D3"></div>Vacant/Open</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#808080"></div>Institutional</div>';
+        } else {
+            l.innerHTML = '<b>Growth Areas</b><br><small>Infrastructure + Development</small><br>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#2196F3"></div>Sewer Service Area</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF9800"></div>Tax Increment District</div>'
+                + '<br><i>Blue areas show where sewer infrastructure exists. Orange areas show active development districts.</i>';
+        }
+    }
+    </script>
+</body>
+</html>

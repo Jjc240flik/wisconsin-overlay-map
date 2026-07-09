@@ -95,6 +95,18 @@ Allouez is largely built out. Future growth will mostly be redevelopment/infill.
 
 ---
 
+## Interactive Map
+
+An interactive map showing **Current Land Use ↔ Growth Areas** with color-coded municipality labels is available:
+
+[**Download the Brown County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Brown_County_Land_Use_Map.html)  
+*(Click → Save → Open in browser. Toggle between Land Use and Growth Areas at the top.)*
+
+**Map Layers:**
+- **Current Land Use (2023):** Color-coded by type (Residential, Agriculture, Commercial, Industrial, etc.)
+- **Growth Areas:** Sewer Service Areas (blue) + Tax Increment Districts (orange) showing where infrastructure and development are planned
+- **Municipality Labels:** Color-coded by growth rating (Green=High, Yellow=Moderate, Red=Low)
+
 ## GIS Data Sources (for Interactive Map)
 
 Brown County has a public ArcGIS server with:
