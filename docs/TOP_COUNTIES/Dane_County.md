@@ -28,13 +28,13 @@ Future development is expected along key transportation routes:
 - US 14, US 151, Highway 19, Highway A
 
 ### 6. Key Priorities for Future Development
-| Priority | What Planners Want |
+ | Priority | What Planners Want |
 |---|---|
-| Infrastructure Efficiency | Focus growth in areas with existing sewer service |
-| Agricultural Preservation | Protect the agricultural economy and farmland |
-| Housing Variety | Allow diverse housing types to address demand |
-| Transit-Oriented | Support BRT and non-auto commuting |
-| Environmental Protection | Avoid wetlands, floodplains, and sensitive habitats |
+ | Infrastructure Efficiency | Focus growth in areas with existing sewer service |
+ | Agricultural Preservation | Protect the agricultural economy and farmland |
+ | Housing Variety | Allow diverse housing types to address demand |
+ | Transit-Oriented | Support BRT and non-auto commuting |
+ | Environmental Protection | Avoid wetlands, floodplains, and sensitive habitats |
 
 **Bottom Line**
 Dane County's massive and sustained growth is concentrated in the ring of villages directly around Madison. The highest subdivision potential is in villages and towns on the metro edge — Fitchburg, Verona, Middleton, Sun Prairie, Waunakee, DeForest, McFarland, Oregon, Stoughton, and Cottage Grove.
@@ -43,49 +43,49 @@ Dane County's massive and sustained growth is concentrated in the ring of villag
 
 ## Dane County Future Growth Expectations by Municipality
 
-**Methodology:** Ratings follow the Cody Bjugan / North Star framework. Madison-metro edge municipalities get the highest growth ratings. Lower ratings apply to towns and villages far from the urban core.
+| Municipality | Type | Zip Code | Expected Future Growth | Notes |
+|---|---|---|---|---|
+| City of Madison | City | 53703 | Moderate | Focus on redevelopment, infill, and transit-oriented. Growth spills outward. |
+| City of Middleton | City | 53562 | Moderate | Focus on redevelopment. Growth spills into Westport. |
+| City of Sun Prairie | City | 53590 | Moderate | Fast-growing city but mostly infill now. Edge growth spills into towns. |
+| Fitchburg | City | 53711 | High | **PRIMARY GROWTH.** Directly south of Madison. Major residential development underway. Sewer/water infrastructure expanding. |
+| Verona | City | 53593 | High | **PRIMARY GROWTH.** Southwest of Madison. Epic Systems corridor driving massive residential demand. |
+| Sun Prairie (Town) | Town | 53590 | High | **PRIMARY GROWTH TOWN.** Surrounds the City. FLU likely shows residential expansion. |
+| Westport | Town | 53562 | High | **PRIMARY GROWTH.** Between Middleton and Lake Mendota. High pressure for residential conversion. |
+| Springfield | Town | 53562 | High | **PRIMARY GROWTH.** North of Middleton near Waunakee corridor. Edge-of-metro growth. |
+| Burke | Town | 53590 | High | **PRIMARY GROWTH.** Between Madison and Sun Prairie. Directly in growth path. |
+| Blooming Grove | Town | 53716 | High | **PRIMARY GROWTH.** Directly east of Madison. Edge-of-city with strong development pressure. |
+| Pleasant Springs | Town | 53558 | Moderate to High | South of Madison near McFarland. Edge-growth potential. |
+| Dunn | Town | 53593 | Moderate to High | Southwest of Madison. Some edge growth near Fitchburg/Verona. |
+| Montrose | Town | 53575 | Moderate to High | Southeast of Oregon. Edge-growth potential near metro. |
+| Oregon | Village | 53575 | Moderate to High | Growing southwest metro community. FLU and sewer available. |
+| McFarland | Village | 53558 | Moderate to High | Southeast of Madison on Lake Waubesa. Growing bedroom community. |
+| Waunakee | Village | 53597 | Moderate to High | Northwest metro. Strong growth pressure. |
+| DeForest | Village | 53532 | Moderate to High | North metro along I-39/90/94. Expanding rapidly. |
+| Windsor | Village |  | Moderate to High | North metro. Growing with DeForest corridor. |
+| Cottage Grove | Village | 53527 | Moderate | East metro. Steady growth. |
+| Stoughton | City | 53589 | Moderate | South metro. Localized growth. |
+| Cross Plains | Village | 53528 | Moderate | West metro corridor. |
+| Dane | Village | 53529 | Low to Moderate | Far northwest. Limited metro proximity. |
+| Black Earth | Village | 53515 | Low to Moderate | Far west. Limited growth pressure. |
+| Mazomanie | Village | 53560 | Low to Moderate | Far west. Localized growth. |
+| Blue Mounds | Village | 53517 | Low | Far west. Rural. |
+| Cambridge | Village | 53523 | Low to Moderate | Southeast edge. |
+| Deerfield | Village | 53531 | Low to Moderate | Far east. Limited metro pressure. |
+| Marshall | Village | 53559 | Low to Moderate | Far northeast. Some growth near Columbus corridor. |
+| Brooklyn | Village | 53521 | Low | Far south. Rural. |
+| Bristol | Town | 53590 | Moderate to High | Directly north of Sun Prairie. Edge growth. |
+| Berry | Town | 53532 | Low | Far west. Agricultural. |
+| Christiana | Town | 53532 | Low | Far northwest. Rural. |
+| Dunkirk | Town | 53532 | Low | South. Agricultural. |
+| Albion | Town | 53531 | Low | Far southeast. Rural. |
+| Rutland | Town | 53575 | Low to Moderate | South of Oregon. Some edge pressure. |
+| Primrose | Town | 53575 | Low | Agricultural preservation priority. |
+| Perry | Town | 53575 | Low | Far south. Rural. |
+| Vermont | Town | 53575 | Low | Far south. Rural. |
+| York | Town | 53590 | Low to Moderate | Northeast. Some edge growth potential. |
 
-||Municipality|Type|Expected Future Growth|Notes|Zip Code||
-||---|---|---|---|---||
-||City of Madison|City|53703|Moderate|Focus on redevelopment, infill, and transit-oriented. Growth spills outward.||
-||City of Middleton|City|53562|Moderate|Focus on redevelopment. Growth spills into Westport.||
-||City of Sun Prairie|City|53590|Moderate|Fast-growing city but mostly infill now. Edge growth spills into towns.||
-||Fitchburg|City|53711|High|**PRIMARY GROWTH.** Directly south of Madison. Major residential development underway. Sewer/water infrastructure expanding.||
-||Verona|City|53593|High|**PRIMARY GROWTH.** Southwest of Madison. Epic Systems corridor driving massive residential demand.||
-||Sun Prairie (Town)|Town||High|**PRIMARY GROWTH TOWN.** Surrounds the City. FLU likely shows residential expansion.||
-||Westport|Town|53562|High|**PRIMARY GROWTH.** Between Middleton and Lake Mendota. High pressure for residential conversion.||
-||Springfield|Town|53562|High|**PRIMARY GROWTH.** North of Middleton near Waunakee corridor. Edge-of-metro growth.||
-||Burke|Town|53590|High|**PRIMARY GROWTH.** Between Madison and Sun Prairie. Directly in growth path.||
-||Blooming Grove|Town|53716|High|**PRIMARY GROWTH.** Directly east of Madison. Edge-of-city with strong development pressure.||
-||Pleasant Springs|Town|53558|Moderate to High|South of Madison near McFarland. Edge-growth potential.||
-||Dunn|Town|53593|Moderate to High|Southwest of Madison. Some edge growth near Fitchburg/Verona.||
-||Montrose|Town|53575|Moderate to High|Southeast of Oregon. Edge-growth potential near metro.||
-||Oregon|Village|53575|Moderate to High|Growing southwest metro community. FLU and sewer available.||
-||McFarland|Village|53558|Moderate to High|Southeast of Madison on Lake Waubesa. Growing bedroom community.||
-||Waunakee|Village|53597|Moderate to High|Northwest metro. Strong growth pressure.||
-||DeForest|Village|53532|Moderate to High|North metro along I-39/90/94. Expanding rapidly.||
-||Windsor|Village||Moderate to High|North metro. Growing with DeForest corridor.||
-||Cottage Grove|Village|53527|Moderate|East metro. Steady growth.||
-||Stoughton|City|53589|Moderate|South metro. Localized growth.||
-||Cross Plains|Village|53528|Moderate|West metro corridor.||
-||Dane|Village|53529|Low to Moderate|Far northwest. Limited metro proximity.||
-||Black Earth|Village|53515|Low to Moderate|Far west. Limited growth pressure.||
-||Mazomanie|Village|53560|Low to Moderate|Far west. Localized growth.||
-||Blue Mounds|Village|53517|Low|Far west. Rural.||
-||Cambridge|Village|53523|Low to Moderate|Southeast edge.||
-||Deerfield|Village|53531|Low to Moderate|Far east. Limited metro pressure.||
-||Marshall|Village|53559|Low to Moderate|Far northeast. Some growth near Columbus corridor.||
-||Brooklyn|Village|53521|Low|Far south. Rural.||
-||Bristol|Town|53590|Moderate to High|Directly north of Sun Prairie. Edge growth.||
-||Berry|Town|53532|Low|Far west. Agricultural.||
-||Christiana|Town|53532|Low|Far northwest. Rural.||
-||Dunkirk|Town|53532|Low|South. Agricultural.||
-||Albion|Town|53531|Low|Far southeast. Rural.||
-||Rutland|Town|53575|Low to Moderate|South of Oregon. Some edge pressure.||
-||Primrose|Town|53575|Low|Agricultural preservation priority.||
-||Perry|Town|53575|Low|Far south. Rural.||
-||Vermont|Town|53575|Low|Far south. Rural.||
-||York|Town|53590|Low to Moderate|Northeast. Some edge growth potential.||
+
 
 ### Unincorporated Communities
 - Token Creek, Hope, Humboldt (Dane), Klevenville, Marxville, Paoli, Sandhill, Stoughton, Utica
@@ -104,12 +104,11 @@ Stoughton, Dane, Black Earth, Mazomanie — Secondary growth rings or localized 
 **Low Growth / Agricultural Preservation Areas:**
 Towns far from the Madison metro (Primrose, Perry, Vermont, Albion, Berry, Christiana, Dunkirk, etc.) — agricultural preservation dominant.
 
-
 ## Interactive Map
 
 An interactive map showing **color-coded municipality labels by growth rating** is available:
 
-[**Download the Dane County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Dane_County_Municipality_Map.html)  
+[**Download the Dane County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Dane_County_Municipality_Map.html)
 *(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
 
 ## Sources
