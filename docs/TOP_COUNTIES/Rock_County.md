@@ -27,7 +27,7 @@ Highest subdivision potential is in towns directly adjacent to Janesville and Be
 
 **Methodology:** Cody Bjugan / North Star framework. Edge-of-Janesville and Edge-of-Beloit municipalities get highest ratings.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Janesville|City|53545|Moderate|Core city. Redevelopment and infill. Growth spills outward.||
 ||City of Beloit|City|53511|Moderate|Stateline growth. Redevelopment and infill.||

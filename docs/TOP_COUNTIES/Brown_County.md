@@ -49,7 +49,7 @@ Brown County's highest subdivision potential is in villages directly adjacent to
 
 **Methodology:** Ratings follow the Cody Bjugan / North Star framework. Highest growth potential is assigned to villages and towns directly adjacent to city limits (Green Bay and De Pere) — these are where future land use maps show farmland transitioning to residential/commercial. Lower ratings apply to municipalities far from urban centers or where agricultural preservation dominates.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Green Bay|City|54301|Moderate|Focus on redevelopment and infill. Core city — growth spills outward.||
 ||City of De Pere|City|54115|Moderate|Focus on redevelopment and infill. Growth spills into Lawrence/Ledgeview.||

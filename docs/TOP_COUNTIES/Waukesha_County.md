@@ -33,7 +33,7 @@ Highest subdivision potential is in the eastern edge of the county — villages 
 
 **Methodology:** Cody Bjugan / North Star framework. Milwaukee-proximity edge municipalities get the highest ratings.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Waukesha|City|53186|Moderate|Core city. Redevelopment and infill.||
 ||City of Brookfield|City|53005|Moderate|Built out. Infill and redevelopment.||

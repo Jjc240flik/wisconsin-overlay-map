@@ -49,7 +49,7 @@ Outagamie County's growth corridor follows US 41 and radiates outward from Apple
 
 **Methodology:** Ratings follow the Cody Bjugan / North Star framework. Highest growth potential is assigned to villages, towns, and unincorporated areas directly adjacent to city limits — these are where future land use maps show farmland transitioning to residential/commercial. Lower ratings apply to municipalities far from urban centers or where agricultural preservation dominates.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||Appleton|City|54911|Moderate|Focus on redevelopment and infill. Core city — growth spills outward.||
 ||Kaukauna|City|54130|Moderate|Focus on redevelopment and infill. Growth spills into Buchanan/Combined Locks.||

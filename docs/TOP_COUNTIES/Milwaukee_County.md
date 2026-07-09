@@ -30,7 +30,7 @@ Milwaukee County has limited greenfield subdivision potential. The opportunity i
 
 **Methodology:** Cody Bjugan / North Star framework. Edge-adjacent unincorporated areas and redevelopment zones get highest potential. Most of the county is built-out with infill/redevelopment focus.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Milwaukee|City|53202|Moderate|Focus on infill, redevelopment, brownfield sites. Limited greenfield expansion.||
 ||City of Wauwatosa|City|53226|Low to Moderate|Built out. Infill and redevelopment only.||

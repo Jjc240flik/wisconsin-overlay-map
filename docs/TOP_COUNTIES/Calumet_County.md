@@ -27,7 +27,7 @@ Highest subdivision potential is in towns adjacent to Lake Winnebago and the Bri
 
 **Methodology:** Cody Bjugan / North Star framework. Towns near Appleton and along Lake Winnebago get highest ratings.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Appleton (Calumet portion)|City||Moderate|Cross-county city. Focus on infill.||
 ||City of Kaukauna (Calumet portion)|City||Moderate|Cross-county city.||

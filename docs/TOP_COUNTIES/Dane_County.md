@@ -45,7 +45,7 @@ Dane County's massive and sustained growth is concentrated in the ring of villag
 
 **Methodology:** Ratings follow the Cody Bjugan / North Star framework. Madison-metro edge municipalities get the highest growth ratings. Lower ratings apply to towns and villages far from the urban core.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Madison|City|53703|Moderate|Focus on redevelopment, infill, and transit-oriented. Growth spills outward.||
 ||City of Middleton|City|53562|Moderate|Focus on redevelopment. Growth spills into Westport.||

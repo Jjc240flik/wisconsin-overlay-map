@@ -28,7 +28,7 @@ Door County has **lower subdivision potential** than other TOP counties due to s
 
 **Methodology:** Cody Bjugan / North Star framework modified for Door County's unique tourism/retirement dynamics.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Sturgeon Bay|City|54235|Moderate|County seat. Most growth potential. Year-round economy.||
 ||**Town of Sturgeon Bay**|**Town**|54235|**Moderate**|Directly adjacent. Limited but some rural residential.||

@@ -27,7 +27,7 @@ Highest subdivision potential is in the southern edge (I-43 corridor near Milwau
 
 **Methodology:** Cody Bjugan / North Star framework. Milwaukee-proximity on the south end and I-43 corridor growth.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Mequon|City|53092|High|**PRIMARY GROWTH.** Southern edge adjacent to Milwaukee County. High-value residential. Limited undeveloped land but steady infill.||
 ||City of Cedarburg|City|53012|Moderate to High|I-43 corridor. Growing bedroom community.||

@@ -28,7 +28,7 @@ Highest subdivision potential is in towns directly adjacent to Oshkosh, Neenah, 
 
 **Methodology:** Cody Bjugan / North Star framework. Edge-of-Fox Cities municipalities get highest ratings.
 
-||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||Municipality|Type|Expected Future Growth|Notes|Zip Code||
 ||---|---|---|---|---||
 ||City of Oshkosh|City|54901|Moderate|Core city. Redevelopment and infill. Growth spills outward.||
 ||City of Neenah|City|54956|Moderate|Fox River corridor. Redevelopment.||
