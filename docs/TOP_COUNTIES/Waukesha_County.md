@@ -33,38 +33,38 @@ Highest subdivision potential is in the eastern edge of the county — villages 
 
 **Methodology:** Cody Bjugan / North Star framework. Milwaukee-proximity edge municipalities get the highest ratings.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Waukesha | City | Moderate | Core city. Redevelopment and infill. |
-| City of Brookfield | City | Moderate | Built out. Infill and redevelopment. |
-| City of New Berlin | City | Moderate | Mix of infill and edge growth. |
-| City of Muskego | City | Moderate to High | Growing southeast edge near Milwaukee. |
-| City of Oconomowoc | City | Moderate | Lake country. Seasonal and retirement growth. |
-| City of Pewaukee | City | Moderate | I-94 corridor. Steady growth. |
-| City of Delafield | City | Low to Moderate | Western edge. Lake country character. |
-| **Village of Menomonee Falls** | **Village** | **High** | **PRIMARY GROWTH.** Northeast edge near Milwaukee. Strong residential/commercial expansion. |
-| **Town of Lisbon** | **Town** | **High** | **PRIMARY GROWTH.** Between Menomonee Falls and Pewaukee. FLU shows residential. |
-| **Town of Genesee** | **Town** | **High** | **PRIMARY GROWTH.** Near Waukesha/Milwaukee edge. |
-| **Village of Pewaukee** | **Village** | **High** | **PRIMARY GROWTH.** I-94 corridor. Growing rapidly. |
-| **Village of Sussex** | **Village** | **High** | **PRIMARY GROWTH.** Between Waukesha and Menomonee Falls. |
-| **Town of Waukesha** | **Town** | **High** | **PRIMARY GROWTH.** Directly adjacent to city. |
-| **Town of Brookfield** | **Town** | **High** | **PRIMARY GROWTH.** Adjacent to both cities. |
-| **Village of Lannon** | **Village** | **Moderate to High** | Near Menomonee Falls. Edge growth. |
-| **Village of Butler** | **Village** | **Moderate** | Mostly built out. Limited land. |
-| **Village of Elm Grove** | **Village** | **Low to Moderate** | Built out. Infill only. |
-| **Village of Dousman** | **Village** | **Low to Moderate** | Far west. Limited pressure. |
-| **Village of Wales** | **Village** | **Low to Moderate** | Lake country. Some growth. |
-| **Village of Big Bend** | **Village** | **Low to Moderate** | South edge. Limited. |
-| **Village of North Prairie** | **Village** | **Low to Moderate** | Far west. Some localized growth. |
-| **Town of Delafield** | **Town** | **Low to Moderate** | Lake country preservation. |
-| **Town of Eagle** | **Town** | **Low** | Far west. Rural. |
-| **Town of Merton** | **Town** | **Low to Moderate** | North. Some edge growth. |
-| **Town of Vernon** | **Town** | **Low to Moderate** | South. Some growth near Mukwonago. |
-| **Town of Muskego** | **Town** | **Moderate** | Edge growth near Milwaukee. |
-| **Town of Summit** | **Town** | **Low to Moderate** | Lake country. |
-| **Town of Oconomowoc** | **Town** | **Low to Moderate** | Lake country. |
-| **Town of Ottawa** | **Town** | **Low** | Far west. Rural. |
-| **Town of Mukwonago** | **Town** | **Low to Moderate** | South edge. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Waukesha|City|53186|Moderate|Core city. Redevelopment and infill.||
+||City of Brookfield|City|53005|Moderate|Built out. Infill and redevelopment.||
+||City of New Berlin|City|53151|Moderate|Mix of infill and edge growth.||
+||City of Muskego|City|53150|Moderate to High|Growing southeast edge near Milwaukee.||
+||City of Oconomowoc|City|53066|Moderate|Lake country. Seasonal and retirement growth.||
+||City of Pewaukee|City|53072|Moderate|I-94 corridor. Steady growth.||
+||City of Delafield|City|53018|Low to Moderate|Western edge. Lake country character.||
+||**Village of Menomonee Falls**|**Village**|53051|**High**|**PRIMARY GROWTH.** Northeast edge near Milwaukee. Strong residential/commercial expansion.||
+||**Town of Lisbon**|**Town**|53089|**High**|**PRIMARY GROWTH.** Between Menomonee Falls and Pewaukee. FLU shows residential.||
+||**Town of Genesee**|**Town**|53186|**High**|**PRIMARY GROWTH.** Near Waukesha/Milwaukee edge.||
+||**Village of Pewaukee**|**Village**|53072|**High**|**PRIMARY GROWTH.** I-94 corridor. Growing rapidly.||
+||**Village of Sussex**|**Village**|53089|**High**|**PRIMARY GROWTH.** Between Waukesha and Menomonee Falls.||
+||**Town of Waukesha**|**Town**|53186|**High**|**PRIMARY GROWTH.** Directly adjacent to city.||
+||**Town of Brookfield**|**Town**|53005|**High**|**PRIMARY GROWTH.** Adjacent to both cities.||
+||**Village of Lannon**|**Village**|53046|**Moderate to High**|Near Menomonee Falls. Edge growth.||
+||**Village of Butler**|**Village**|53007|**Moderate**|Mostly built out. Limited land.||
+||**Village of Elm Grove**|**Village**|53122|**Low to Moderate**|Built out. Infill only.||
+||**Village of Dousman**|**Village**|53118|**Low to Moderate**|Far west. Limited pressure.||
+||**Village of Wales**|**Village**|53183|**Low to Moderate**|Lake country. Some growth.||
+||**Village of Big Bend**|**Village**|53103|**Low to Moderate**|South edge. Limited.||
+||**Village of North Prairie**|**Village**|53153|**Low to Moderate**|Far west. Some localized growth.||
+||**Town of Delafield**|**Town**|53018|**Low to Moderate**|Lake country preservation.||
+||**Town of Eagle**|**Town**|53119|**Low**|Far west. Rural.||
+||**Town of Merton**|**Town**|53056|**Low to Moderate**|North. Some edge growth.||
+||**Town of Vernon**|**Town**|53186|**Low to Moderate**|South. Some growth near Mukwonago.||
+||**Town of Muskego**|**Town**|53150|**Moderate**|Edge growth near Milwaukee.||
+||**Town of Summit**|**Town**|53066|**Low to Moderate**|Lake country.||
+||**Town of Oconomowoc**|**Town**|53066|**Low to Moderate**|Lake country.||
+||**Town of Ottawa**|**Town**|53186|**Low**|Far west. Rural.||
+||**Town of Mukwonago**|**Town**|53149|**Low to Moderate**|South edge.||
 
 ## Summary of Growth Patterns
 

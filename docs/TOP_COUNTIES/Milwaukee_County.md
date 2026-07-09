@@ -30,26 +30,26 @@ Milwaukee County has limited greenfield subdivision potential. The opportunity i
 
 **Methodology:** Cody Bjugan / North Star framework. Edge-adjacent unincorporated areas and redevelopment zones get highest potential. Most of the county is built-out with infill/redevelopment focus.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Milwaukee | City | Moderate | Focus on infill, redevelopment, brownfield sites. Limited greenfield expansion. |
-| City of Wauwatosa | City | Low to Moderate | Built out. Infill and redevelopment only. |
-| City of West Allis | City | Low to Moderate | Built out. Infill only. |
-| City of Greenfield | City | Low to Moderate | Built out. Some redevelopment potential. |
-| City of Franklin | City | Moderate | **MOST GREENFIELD POTENTIAL in the county.** Southern edge, some undeveloped land. |
-| City of Oak Creek | City | Moderate | **SECOND MOST GREENFIELD.** Southeast edge near airport. Growth corridor. |
-| Village of Greendale | Village | Low to Moderate | Mostly built out. Some infill. |
-| Village of Hales Corners | Village | Low | Built out. |
-| Village of River Hills | Village | Low | Low density. Large lots. |
-| Village of Shorewood | Village | Low | Built out. Infill only. |
-| Village of Whitefish Bay | Village | Low | Built out. Infill only. |
-| Village of Fox Point | Village | Low | Built out. |
-| Village of Bayside | Village | Low | Built out. |
-| Village of Brown Deer | Village | Low to Moderate | North edge. Some redevelopment. |
-| Village of Glendale | Village | Low to Moderate | North. Some commercial redevelopment. |
-| Village of Cudahy | Village | Low | Built out. |
-| Village of St. Francis | Village | Low | Built out. |
-| Village of West Milwaukee | Village | Low | Industrial. Built out. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Milwaukee|City|53202|Moderate|Focus on infill, redevelopment, brownfield sites. Limited greenfield expansion.||
+||City of Wauwatosa|City|53226|Low to Moderate|Built out. Infill and redevelopment only.||
+||City of West Allis|City|53214|Low to Moderate|Built out. Infill only.||
+||City of Greenfield|City|53220|Low to Moderate|Built out. Some redevelopment potential.||
+||City of Franklin|City|53132|Moderate|**MOST GREENFIELD POTENTIAL in the county.** Southern edge, some undeveloped land.||
+||City of Oak Creek|City|53154|Moderate|**SECOND MOST GREENFIELD.** Southeast edge near airport. Growth corridor.||
+||Village of Greendale|Village|53129|Low to Moderate|Mostly built out. Some infill.||
+||Village of Hales Corners|Village|53130|Low|Built out.||
+||Village of River Hills|Village|53217|Low|Low density. Large lots.||
+||Village of Shorewood|Village|53211|Low|Built out. Infill only.||
+||Village of Whitefish Bay|Village|53217|Low|Built out. Infill only.||
+||Village of Fox Point|Village|53217|Low|Built out.||
+||Village of Bayside|Village|53217|Low|Built out.||
+||Village of Brown Deer|Village|53223|Low to Moderate|North edge. Some redevelopment.||
+||Village of Glendale|Village|53209|Low to Moderate|North. Some commercial redevelopment.||
+||Village of Cudahy|Village|53110|Low|Built out.||
+||Village of St. Francis|Village|53235|Low|Built out.||
+||Village of West Milwaukee|Village|53214|Low|Industrial. Built out.||
 
 ## Summary of Growth Patterns
 

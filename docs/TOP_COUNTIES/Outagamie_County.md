@@ -49,40 +49,40 @@ Outagamie County's growth corridor follows US 41 and radiates outward from Apple
 
 **Methodology:** Ratings follow the Cody Bjugan / North Star framework. Highest growth potential is assigned to villages, towns, and unincorporated areas directly adjacent to city limits — these are where future land use maps show farmland transitioning to residential/commercial. Lower ratings apply to municipalities far from urban centers or where agricultural preservation dominates.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| Appleton | City | Moderate | Focus on redevelopment and infill. Core city — growth spills outward. |
-| Kaukauna | City | Moderate | Focus on redevelopment and infill. Growth spills into Buchanan/Combined Locks. |
-| Seymour | City | Low to Moderate | Smaller city; localized growth, less spillover pressure. |
-| New London | City | Low to Moderate | Western edge of county; limited outward pressure. |
-| **Greenville** | **Village** | **High** | **PRIMARY GROWTH VILLAGE.** Directly adjacent to Appleton along US 41. Has 2040 FLU Map, Water System Master Plan, Wastewater System Master Plan, and 7 designated Sub-Area Plan growth zones (Areas A-G). Textbook Cody Bjugan target. |
-| **Grand Chute** | **Town** | **High** | **PRIMARY GROWTH TOWN.** Surrounds Appleton on the south and west. Home to Fox River Mall corridor and extensive commercial/residential development along US 41. |
-| **Harrison** | **Village** | **High** | Directly east of Appleton along US 10 corridor. Major growth area with planned residential expansion. |
-| **Combined Locks** | **Village** | **High** | Directly adjacent to Kaukauna along the Fox River. Part of Fox Cities metro core. Sewer/water infrastructure in place. |
-| **Little Chute** | **Village** | **High** | Fox Cities metro core. Adjacent to Combined Locks and Kaukauna. Strong growth pressure from metro expansion. |
-| **Buchanan** | **Town** | **Moderate to High** | Surrounds the City of Kaukauna. Directly in the path of Kaukauna's outward expansion. Future land use likely shows residential growth. |
-| **Freedom** | **Town** | **Moderate to High** | Directly southwest of Appleton. Adjacent to city limits, so future zoning expansion is likely. Check FLU maps and sewer district boundaries. |
-| **Kimberly** | **Village** | **Moderate to High** | Fox Cities metro core. Adjacent to Combined Locks and Little Chute. Limited undeveloped land but infill and redevelopment potential. |
-| **Vandenbroek** | **Town** | **Moderate** | Surrounds Little Chute and Kimberly. Edge-growth potential from Fox Cities metro. |
-| **Hortonville** | **Village** | **Moderate** | West of Appleton, some distance out. Growing as a bedroom community. Check FLU and sewer. |
-| **Wrightstown** | **Village** | **Moderate** | Southern edge of county (also in Brown County). Moderate growth potential near Brown County line. |
-| **Center** | **Town** | **Low to Moderate** | West of Appleton adjacent to Greenville. Mostly agricultural but edge-adjacent to growth. |
-| **Ellington** | **Town** | **Low to Moderate** | Adjacent to Greenville/Hortonville corridor. Some edge growth potential. |
-| **Bovina** | **Town** | **Low to Moderate** | Near combined metro edge. Limited growth but proximity helps. |
-| **Cicero** | **Town** | **Low to Moderate** | Rural township with some edge growth potential. |
-| **Dale** | **Town** | **Low to Moderate** | Rural township; some edge growth near corridor. |
-| **Deer Creek** | **Town** | **Low to Moderate** | Rural township; some edge growth near corridor. |
-| **Hortonia** | **Town** | **Low to Moderate** | Rural township with some edge growth potential. |
-| **Liberty** | **Town** | **Low to Moderate** | Rural township; limited growth potential. |
-| **Maine** | **Town** | **Low to Moderate** | Rural township; some edge growth near corridor. |
-| **Maple Creek** | **Town** | **Low to Moderate** | Rural township; limited growth potential. |
-| **Osborn** | **Town** | **Low to Moderate** | Near Seymour; localized growth only. |
-| **Seymour** | **Town** | **Low to Moderate** | Surrounding City of Seymour; localized growth only. |
-| **Black Creek** | **Town** | **Low** | Rural township; no significant growth pressure. |
-| **Oneida** | **Town** | **Low** | Agricultural preservation priority. |
-| **Bear Creek** | **Village** | **Low** | Far northeast Outagamie; rural village with no metro proximity. |
-| **Nichols** | **Village** | **Low** | Far west Outagamie; rural village with no metro proximity. |
-| **Shiocton** | **Village** | **Low** | Far west Outagamie; rural village with no metro proximity. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||Appleton|City|54911|Moderate|Focus on redevelopment and infill. Core city — growth spills outward.||
+||Kaukauna|City|54130|Moderate|Focus on redevelopment and infill. Growth spills into Buchanan/Combined Locks.||
+||Seymour|City|54165|Low to Moderate|Smaller city; localized growth, less spillover pressure.||
+||New London|City|54961|Low to Moderate|Western edge of county; limited outward pressure.||
+||**Greenville**|**Village**|54942|**High**|**PRIMARY GROWTH VILLAGE.** Directly adjacent to Appleton along US 41. Has 2040 FLU Map, Water System Master Plan, Wastewater System Master Plan, and 7 designated Sub-Area Plan growth zones (Areas A-G). Textbook Cody Bjugan target.||
+||**Grand Chute**|**Town**|54913|**High**|**PRIMARY GROWTH TOWN.** Surrounds Appleton on the south and west. Home to Fox River Mall corridor and extensive commercial/residential development along US 41.||
+||**Harrison**|**Village**|54956|**High**|Directly east of Appleton along US 10 corridor. Major growth area with planned residential expansion.||
+||**Combined Locks**|**Village**|54113|**High**|Directly adjacent to Kaukauna along the Fox River. Part of Fox Cities metro core. Sewer/water infrastructure in place.||
+||**Little Chute**|**Village**|54140|**High**|Fox Cities metro core. Adjacent to Combined Locks and Kaukauna. Strong growth pressure from metro expansion.||
+||**Buchanan**|**Town**|54130|**Moderate to High**|Surrounds the City of Kaukauna. Directly in the path of Kaukauna's outward expansion. Future land use likely shows residential growth.||
+||**Freedom**|**Town**|54966|**Moderate to High**|Directly southwest of Appleton. Adjacent to city limits, so future zoning expansion is likely. Check FLU maps and sewer district boundaries.||
+||**Kimberly**|**Village**|54136|**Moderate to High**|Fox Cities metro core. Adjacent to Combined Locks and Little Chute. Limited undeveloped land but infill and redevelopment potential.||
+||**Vandenbroek**|**Town**|54130|**Moderate**|Surrounds Little Chute and Kimberly. Edge-growth potential from Fox Cities metro.||
+||**Hortonville**|**Village**|54944|**Moderate**|West of Appleton, some distance out. Growing as a bedroom community. Check FLU and sewer.||
+||**Wrightstown**|**Village**|54180|**Moderate**|Southern edge of county (also in Brown County). Moderate growth potential near Brown County line.||
+||**Center**|**Town**|54913|**Low to Moderate**|West of Appleton adjacent to Greenville. Mostly agricultural but edge-adjacent to growth.||
+||**Ellington**|**Town**|54944|**Low to Moderate**|Adjacent to Greenville/Hortonville corridor. Some edge growth potential.||
+||**Bovina**|**Town**|54944|**Low to Moderate**|Near combined metro edge. Limited growth but proximity helps.||
+||**Cicero**|**Town**|54165|**Low to Moderate**|Rural township with some edge growth potential.||
+||**Dale**|**Town**|54944|**Low to Moderate**|Rural township; some edge growth near corridor.||
+||**Deer Creek**|**Town**|54165|**Low to Moderate**|Rural township; some edge growth near corridor.||
+||**Hortonia**|**Town**|54944|**Low to Moderate**|Rural township with some edge growth potential.||
+||**Liberty**|**Town**|54944|**Low to Moderate**|Rural township; limited growth potential.||
+||**Maine**|**Town**|54944|**Low to Moderate**|Rural township; some edge growth near corridor.||
+||**Maple Creek**|**Town**|54944|**Low to Moderate**|Rural township; limited growth potential.||
+||**Osborn**|**Town**|54165|**Low to Moderate**|Near Seymour; localized growth only.||
+||**Seymour**|**Town**|54165|**Low to Moderate**|Surrounding City of Seymour; localized growth only.||
+||**Black Creek**|**Town**|54106|**Low**|Rural township; no significant growth pressure.||
+||**Oneida**|**Town**||**Low**|Agricultural preservation priority.||
+||**Bear Creek**|**Village**|54922|**Low**|Far northeast Outagamie; rural village with no metro proximity.||
+||**Nichols**|**Village**|54152|**Low**|Far west Outagamie; rural village with no metro proximity.||
+||**Shiocton**|**Village**|54170|**Low**|Far west Outagamie; rural village with no metro proximity.||
 
 ### Unincorporated communities
 

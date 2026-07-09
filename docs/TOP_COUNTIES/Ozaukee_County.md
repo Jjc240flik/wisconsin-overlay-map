@@ -27,22 +27,22 @@ Highest subdivision potential is in the southern edge (I-43 corridor near Milwau
 
 **Methodology:** Cody Bjugan / North Star framework. Milwaukee-proximity on the south end and I-43 corridor growth.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Mequon | City | High | **PRIMARY GROWTH.** Southern edge adjacent to Milwaukee County. High-value residential. Limited undeveloped land but steady infill. |
-| City of Cedarburg | City | Moderate to High | I-43 corridor. Growing bedroom community. |
-| City of Port Washington | City | Moderate | Lake Michigan. Tourism + residential growth. |
-| **Village of Grafton** | **Village** | **High** | **PRIMARY GROWTH.** I-43 corridor. Growing commercial and residential. |
-| **Village of Saukville** | **Village** | **High** | **PRIMARY GROWTH.** I-43 north. Expansion potential. |
-| **Town of Cedarburg** | **Town** | **High** | **PRIMARY GROWTH.** Directly adjacent to cities. FLU likely shows residential. |
-| **Town of Grafton** | **Town** | **Moderate to High** | I-43 corridor edge. |
-| **Town of Port Washington** | **Town** | **Moderate** | Some edge growth. |
-| **Town of Belgium** | **Town** | **Low to Moderate** | North edge. Limited growth. |
-| **Village of Belgium** | **Village** | **Low to Moderate** | North. Some seasonal growth. |
-| **Town of Fredonia** | **Town** | **Low to Moderate** | Northwest. Rural. |
-| **Village of Fredonia** | **Village** | **Low to Moderate** | Northwest. Localized growth. |
-| **Town of Holland** | **Town** | **Low** | Rural/agricultural. |
-| **Town of Belgium (north)** | **Town** | **Low** | Rural. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Mequon|City|53092|High|**PRIMARY GROWTH.** Southern edge adjacent to Milwaukee County. High-value residential. Limited undeveloped land but steady infill.||
+||City of Cedarburg|City|53012|Moderate to High|I-43 corridor. Growing bedroom community.||
+||City of Port Washington|City|53074|Moderate|Lake Michigan. Tourism + residential growth.||
+||**Village of Grafton**|**Village**|53024|**High**|**PRIMARY GROWTH.** I-43 corridor. Growing commercial and residential.||
+||**Village of Saukville**|**Village**|53080|**High**|**PRIMARY GROWTH.** I-43 north. Expansion potential.||
+||**Town of Cedarburg**|**Town**|53012|**High**|**PRIMARY GROWTH.** Directly adjacent to cities. FLU likely shows residential.||
+||**Town of Grafton**|**Town**|53024|**Moderate to High**|I-43 corridor edge.||
+||**Town of Port Washington**|**Town**|53074|**Moderate**|Some edge growth.||
+||**Town of Belgium**|**Town**|53004|**Low to Moderate**|North edge. Limited growth.||
+||**Village of Belgium**|**Village**|53004|**Low to Moderate**|North. Some seasonal growth.||
+||**Town of Fredonia**|**Town**|53021|**Low to Moderate**|Northwest. Rural.||
+||**Village of Fredonia**|**Village**|53021|**Low to Moderate**|Northwest. Localized growth.||
+||**Town of Holland**|**Town**|53080|**Low**|Rural/agricultural.||
+||**Town of Belgium (north)**|**Town**||**Low**|Rural.||
 
 ## Summary of Growth Patterns
 

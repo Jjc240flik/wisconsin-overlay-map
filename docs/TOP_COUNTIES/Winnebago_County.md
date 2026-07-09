@@ -28,28 +28,28 @@ Highest subdivision potential is in towns directly adjacent to Oshkosh, Neenah, 
 
 **Methodology:** Cody Bjugan / North Star framework. Edge-of-Fox Cities municipalities get highest ratings.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Oshkosh | City | Moderate | Core city. Redevelopment and infill. Growth spills outward. |
-| City of Neenah | City | Moderate | Fox River corridor. Redevelopment. |
-| City of Menasha | City | Moderate | Built out. Infill. |
-| **Town of Neenah** | **Town** | **High** | **PRIMARY GROWTH.** Directly adjacent to Neenah/Menasha. FLU shows residential. |
-| **Town of Menasha** | **Town** | **High** | **PRIMARY GROWTH.** Surrounds Menasha. Edge growth. |
-| **Town of Oshkosh** | **Town** | **High** | **PRIMARY GROWTH.** Directly south of Oshkosh. US 41 corridor. |
-| **Town of Algoma** | **Town** | **High** | **PRIMARY GROWTH.** North of Oshkosh. US 41 corridor. |
-| **Town of Vinland** | **Town** | **Moderate to High** | North of Neenah. Edge growth potential. |
-| **Town of Clayton** | **Town** | **Moderate to High** | Southwest of Neenah. Some growth. |
-| **Village of Winneconne** | **Village** | **Moderate** | Lake Winnebago. Seasonal and bedroom. |
-| **Village of Omro** | **Village** | **Moderate** | West of Oshkosh. Localized growth. |
-| **Village of Fox Crossing** | **Village** | **Moderate to High** | Between Neenah and Menasha. Growing. |
-| Town of Wolf River | Town | Low to Moderate | North. Some edge growth. |
-| Town of Rushford | Town | Low to Moderate | West. Limited. |
-| Town of Utica | Town | Low | West. Agricultural. |
-| Town of Nekimi | Town | Low to Moderate | South of Oshkosh. Some potential. |
-| Town of Black Wolf | Town | Low to Moderate | South. Some edge growth. |
-| Town of Poygan | Town | Low | West. Rural. |
-| Town of Winchester | Town | Low | West. Agricultural. |
-| Town of Larsen | Town | Low | West. Rural. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Oshkosh|City|54901|Moderate|Core city. Redevelopment and infill. Growth spills outward.||
+||City of Neenah|City|54956|Moderate|Fox River corridor. Redevelopment.||
+||City of Menasha|City|54952|Moderate|Built out. Infill.||
+||**Town of Neenah**|**Town**|54956|**High**|**PRIMARY GROWTH.** Directly adjacent to Neenah/Menasha. FLU shows residential.||
+||**Town of Menasha**|**Town**|54952|**High**|**PRIMARY GROWTH.** Surrounds Menasha. Edge growth.||
+||**Town of Oshkosh**|**Town**|54901|**High**|**PRIMARY GROWTH.** Directly south of Oshkosh. US 41 corridor.||
+||**Town of Algoma**|**Town**|54901|**High**|**PRIMARY GROWTH.** North of Oshkosh. US 41 corridor.||
+||**Town of Vinland**|**Town**|54956|**Moderate to High**|North of Neenah. Edge growth potential.||
+||**Town of Clayton**|**Town**|54956|**Moderate to High**|Southwest of Neenah. Some growth.||
+||**Village of Winneconne**|**Village**|54986|**Moderate**|Lake Winnebago. Seasonal and bedroom.||
+||**Village of Omro**|**Village**|54963|**Moderate**|West of Oshkosh. Localized growth.||
+||**Village of Fox Crossing**|**Village**|54956|**Moderate to High**|Between Neenah and Menasha. Growing.||
+||Town of Wolf River|Town|54963|Low to Moderate|North. Some edge growth.||
+||Town of Rushford|Town|54963|Low to Moderate|West. Limited.||
+||Town of Utica|Town|54963|Low|West. Agricultural.||
+||Town of Nekimi|Town|54901|Low to Moderate|South of Oshkosh. Some potential.||
+||Town of Black Wolf|Town|54901|Low to Moderate|South. Some edge growth.||
+||Town of Poygan|Town|54963|Low|West. Rural.||
+||Town of Winchester|Town|54963|Low|West. Agricultural.||
+||Town of Larsen|Town|54963|Low|West. Rural.||
 
 ## Summary of Growth Patterns
 

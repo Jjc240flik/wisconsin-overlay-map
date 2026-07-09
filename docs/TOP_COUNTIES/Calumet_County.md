@@ -27,29 +27,29 @@ Highest subdivision potential is in towns adjacent to Lake Winnebago and the Bri
 
 **Methodology:** Cody Bjugan / North Star framework. Towns near Appleton and along Lake Winnebago get highest ratings.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Appleton (Calumet portion) | City | Moderate | Cross-county city. Focus on infill. |
-| City of Kaukauna (Calumet portion) | City | Moderate | Cross-county city. |
-| City of Menasha (Calumet portion) | City | Moderate | Cross-county. |
-| City of Chilton | City | Moderate | County seat. Localized growth. |
-| City of Brillion | City | Moderate | Industrial base. Steady growth. |
-| City of New Holstein | City | Low to Moderate | South edge. Limited growth. |
-| City of Kiel (Calumet portion) | City | Low to Moderate | South edge. |
-| **Town of Harrison** | **Town** | **High** | **PRIMARY GROWTH.** Directly south of Appleton metro. US 41/10 corridor. |
-| **Town of Menasha (Calumet)** | **Town** | **High** | **PRIMARY GROWTH.** Adjacent to Menasha/Appleton. Edge of Fox Cities. |
-| **Town of Stockbridge** | **Town** | **Moderate to High** | Lake Winnebago shoreline. Growing. |
-| **Town of Brothertown** | **Town** | **Moderate to High** | Lakeshore. Seasonal and year-round. |
-| **Village of Hilbert** | **Village** | **Moderate** | Central. Some growth. |
-| **Village of Sherwood** | **Village** | **Moderate** | Lakeshore corridor. |
-| **Village of Potter** | **Village** | **Low to Moderate** | Small. Rural. |
-| **Village of St. Anna** | **Village** | **Low** | Very small. Rural. |
-| Town of Chilton | Town | Low to Moderate | Surrounds City. Some edge growth. |
-| Town of Brillion | Town | Low to Moderate | Nearby. Some growth. |
-| Town of New Holstein | Town | Low | Rural. Agricultural. |
-| Town of Charlestown | Town | Low | Southwest. Rural. |
-| Town of Rantoul | Town | Low | Northwest. Rural. |
-| Town of Woodville | Town | Low | South. Rural. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Appleton (Calumet portion)|City||Moderate|Cross-county city. Focus on infill.||
+||City of Kaukauna (Calumet portion)|City||Moderate|Cross-county city.||
+||City of Menasha (Calumet portion)|City||Moderate|Cross-county.||
+||City of Chilton|City|53014|Moderate|County seat. Localized growth.||
+||City of Brillion|City|54110|Moderate|Industrial base. Steady growth.||
+||City of New Holstein|City|53061|Low to Moderate|South edge. Limited growth.||
+||City of Kiel (Calumet portion)|City||Low to Moderate|South edge.||
+||**Town of Harrison**|**Town**|54956|**High**|**PRIMARY GROWTH.** Directly south of Appleton metro. US 41/10 corridor.||
+||**Town of Menasha (Calumet)**|**Town**|54952|**High**|**PRIMARY GROWTH.** Adjacent to Menasha/Appleton. Edge of Fox Cities.||
+||**Town of Stockbridge**|**Town**|53088|**Moderate to High**|Lake Winnebago shoreline. Growing.||
+||**Town of Brothertown**|**Town**|53014|**Moderate to High**|Lakeshore. Seasonal and year-round.||
+||**Village of Hilbert**|**Village**|54129|**Moderate**|Central. Some growth.||
+||**Village of Sherwood**|**Village**|54169|**Moderate**|Lakeshore corridor.||
+||**Village of Potter**|**Village**|54129|**Low to Moderate**|Small. Rural.||
+||**Village of St. Anna**|**Village**|53014|**Low**|Very small. Rural.||
+||Town of Chilton|Town|53014|Low to Moderate|Surrounds City. Some edge growth.||
+||Town of Brillion|Town|54110|Low to Moderate|Nearby. Some growth.||
+||Town of New Holstein|Town|53061|Low|Rural. Agricultural.||
+||Town of Charlestown|Town|53014|Low|Southwest. Rural.||
+||Town of Rantoul|Town|53014|Low|Northwest. Rural.||
+||Town of Woodville|Town|53014|Low|South. Rural.||
 
 ## Summary of Growth Patterns
 

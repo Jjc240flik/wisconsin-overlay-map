@@ -49,32 +49,32 @@ Brown County's highest subdivision potential is in villages directly adjacent to
 
 **Methodology:** Ratings follow the Cody Bjugan / North Star framework. Highest growth potential is assigned to villages and towns directly adjacent to city limits (Green Bay and De Pere) — these are where future land use maps show farmland transitioning to residential/commercial. Lower ratings apply to municipalities far from urban centers or where agricultural preservation dominates.
 
-| Municipality | Type | Expected Future Growth | Notes |
-|---|---|---|---|
-| City of Green Bay | City | Moderate | Focus on redevelopment and infill. Core city — growth spills outward. |
-| City of De Pere | City | Moderate | Focus on redevelopment and infill. Growth spills into Lawrence/Ledgeview. |
-| **Ashwaubenon** | **Village** | **High** | **PRIMARY GROWTH VILLAGE.** Directly adjacent to Green Bay along I-41. Has future land use showing residential/commercial expansion. Sewer/water infrastructure in place. Major sports/entertainment corridor. |
-| **Howard** | **Village** | **High** | **PRIMARY GROWTH VILLAGE.** Directly north of Green Bay. Significant residential and commercial development ongoing and planned. |
-| **Suamico** | **Village** | **High** | **PRIMARY GROWTH VILLAGE.** North of Howard, continuing the growth corridor. New subdivisions actively being built. |
-| **Bellevue** | **Village** | **High** | **PRIMARY GROWTH VILLAGE.** Directly east of Green Bay. Steady residential growth, especially in southern areas. |
-| **Ledgeview** | **Town** | **High** | **PRIMARY GROWTH TOWN.** One of the fastest growing areas. Significant residential and some commercial growth expected, especially near Green Bay and De Pere. |
-| **Lawrence** | **Town** | **High** | **PRIMARY GROWTH TOWN.** Strong growth projected due to proximity to De Pere and good access to I-41/I-43. |
-| **Allouez** | **Village** | **Moderate to High** | Adjacent to Green Bay. Mostly built out but some infill/redevelopment potential. |
-| **Humboldt** | **Town** | **Moderate to High** | East of Green Bay. Edge-growth potential near metro. |
-| **Scott** | **Town** | **Moderate to High** | Near Howard. Growth expected along major roads. |
-| **Wrightstown** | **Town** | **Moderate** | Southern edge of county. Localized growth. |
-| **Town of Green Bay** | **Town** | **Moderate** | Growth mainly near the city limits. |
-| **Hobart** | **Village** | **Moderate** | Near Howard. Growing as a bedroom community. |
-| **Pulaski** | **Village** | **Low to Moderate** | Far northwest of Green Bay. Limited metro proximity. |
-| **Denmark** | **Village** | **Low to Moderate** | Far east of Green Bay. Localized growth only. |
-| **Greenleaf** | **Village** | **Low** | Small rural village. No significant growth pressure. |
-| **Eaton** | **Town** | **Low** | Remains largely agricultural. Limited growth expected. |
-| **Glenmore** | **Town** | **Low** | Strong agricultural focus. Very limited development anticipated. |
-| **Holland** | **Town** | **Low** | Rural character to be preserved. |
-| **Morrison** | **Town** | **Low** | Agricultural preservation is a priority. |
-| **New Denmark** | **Town** | **Low** | Mostly agricultural with limited growth. |
-| **Pittsfield** | **Town** | **Low** | Rural. Growth expected to stay minimal. |
-| **Rockland** | **Town** | **Low** | Agricultural focus. |
+||Municipality|Type|Zip Code|Expected Future Growth|Notes||
+||---|---|---|---|---||
+||City of Green Bay|City|54301|Moderate|Focus on redevelopment and infill. Core city — growth spills outward.||
+||City of De Pere|City|54115|Moderate|Focus on redevelopment and infill. Growth spills into Lawrence/Ledgeview.||
+||**Ashwaubenon**|**Village**|54313|**High**|**PRIMARY GROWTH VILLAGE.** Directly adjacent to Green Bay along I-41. Has future land use showing residential/commercial expansion. Sewer/water infrastructure in place. Major sports/entertainment corridor.||
+||**Howard**|**Village**|54313|**High**|**PRIMARY GROWTH VILLAGE.** Directly north of Green Bay. Significant residential and commercial development ongoing and planned.||
+||**Suamico**|**Village**|54313|**High**|**PRIMARY GROWTH VILLAGE.** North of Howard, continuing the growth corridor. New subdivisions actively being built.||
+||**Bellevue**|**Village**|54311|**High**|**PRIMARY GROWTH VILLAGE.** Directly east of Green Bay. Steady residential growth, especially in southern areas.||
+||**Ledgeview**|**Town**|54115|**High**|**PRIMARY GROWTH TOWN.** One of the fastest growing areas. Significant residential and some commercial growth expected, especially near Green Bay and De Pere.||
+||**Lawrence**|**Town**|54115|**High**|**PRIMARY GROWTH TOWN.** Strong growth projected due to proximity to De Pere and good access to I-41/I-43.||
+||**Allouez**|**Village**|54301|**Moderate to High**|Adjacent to Green Bay. Mostly built out but some infill/redevelopment potential.||
+||**Humboldt**|**Town**|54115|**Moderate to High**|East of Green Bay. Edge-growth potential near metro.||
+||**Scott**|**Town**|54313|**Moderate to High**|Near Howard. Growth expected along major roads.||
+||**Wrightstown**|**Town**|54180|**Moderate**|Southern edge of county. Localized growth.||
+||**Town of Green Bay**|**Town**|54301|**Moderate**|Growth mainly near the city limits.||
+||**Hobart**|**Village**|54313|**Moderate**|Near Howard. Growing as a bedroom community.||
+||**Pulaski**|**Village**|54162|**Low to Moderate**|Far northwest of Green Bay. Limited metro proximity.||
+||**Denmark**|**Village**|54208|**Low to Moderate**|Far east of Green Bay. Localized growth only.||
+||**Greenleaf**|**Village**|54126|**Low**|Small rural village. No significant growth pressure.||
+||**Eaton**|**Town**|54166|**Low**|Remains largely agricultural. Limited growth expected.||
+||**Glenmore**|**Town**|54115|**Low**|Strong agricultural focus. Very limited development anticipated.||
+||**Holland**|**Town**|53080|**Low**|Rural character to be preserved.||
+||**Morrison**|**Town**|54115|**Low**|Agricultural preservation is a priority.||
+||**New Denmark**|**Town**|54313|**Low**|Mostly agricultural with limited growth.||
+||**Pittsfield**|**Town**|54162|**Low**|Rural. Growth expected to stay minimal.||
+||**Rockland**|**Town**|54115|**Low**|Agricultural focus.||
 
 ## Summary of Growth Patterns
 
