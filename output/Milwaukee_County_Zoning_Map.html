@@ -1,0 +1,128 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Milwaukee County Zoning Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; width: 100vw; }
+        .toggle-container { position: absolute; top: 10px; left: 50%; transform: translateX(-50%); z-index: 1000; background: white; padding: 6px 4px; border-radius: 8px; box-shadow: 0 2px 10px rgba(0,0,0,0.2); display: flex; gap: 4px; font-size: 13px; }
+        .toggle-btn { padding: 6px 16px; border: none; cursor: pointer; font-weight: bold; font-size: 13px; transition: 0.2s; border-radius: 6px; }
+        .toggle-btn.active { background: #4CAF50; color: white; }
+        .toggle-btn.inactive { background: transparent; color: #666; }
+        .toggle-btn:hover:not(.active) { background: #f0f0f0; }
+        .legend { background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 11px; line-height: 1.5; max-height: 50vh; overflow-y: auto; }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
+        .note { position: absolute; bottom: 10px; right: 10px; z-index: 1000; background: rgba(255,255,255,0.85); padding: 4px 10px; border-radius: 4px; font-size: 11px; }
+        .muni-label { background: none !important; border: none !important; }
+        .muni-label div { box-shadow: 0 1px 4px rgba(0,0,0,0.3); }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div class="toggle-container">
+        <button class="toggle-btn active" id="btn-zoning" onclick="showZoning()">Zoning</button>
+        <button class="toggle-btn inactive" id="btn-overlays" onclick="showOverlays()">Overlay Zones</button>
+    </div>
+    <div id="legend-container" class="legend" style="position:absolute;bottom:50px;left:10px;z-index:1000;">
+        <b>Milwaukee County Zoning</b><br><small>City of Milwaukee + County</small><br>
+        <div class="legend-item"><div class="legend-color" style="background:#90EE90"></div>Residential</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FF6347"></div>Commercial</div>
+        <div class="legend-item"><div class="legend-color" style="background:#9370DB"></div>Industrial</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FFD700"></div>Mixed Use</div>
+        <div class="legend-item"><div class="legend-color" style="background:#228B22"></div>Park/Open Space</div>
+        <div class="legend-item"><div class="legend-color" style="background:#A9A9A9"></div>Other</div>
+        <br><i>Streaming from Milwaukee GIS</i>
+    </div>
+    <div class="note">Milwaukee County, WI</div>
+
+    <script>
+    var map = L.map('map').setView([43.03, -87.97], 11);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '©OSM'}).addTo(map);
+    L.control.layers({
+        "Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'),
+        "Satellite": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: '©Esri'})
+    }, null, {position:'topright'}).addTo(map);
+
+    var mkeUrl = 'https://milwaukeemaps.milwaukee.gov/arcgis/rest/services/planning/zoning/MapServer';
+    
+    // Zoning layer (Layer 11)
+    var zoningLayer = L.esri.featureLayer({
+        url: mkeUrl + '/11',
+        style: function(f) {
+            var cat = (f.properties.ZoningCategory || '').toUpperCase();
+            var color = '#A9A9A9';
+            if (cat.includes('RESIDENTIAL')) color = '#90EE90';
+            else if (cat.includes('COMMERCIAL')) color = '#FF6347';
+            else if (cat.includes('INDUSTRIAL')) color = '#9370DB';
+            else if (cat.includes('MIXED') || cat.includes('DOWNTOWN')) color = '#FFD700';
+            else if (cat.includes('PARK') || cat.includes('OPEN')) color = '#228B22';
+            else if (cat.includes('INSTITUTION')) color = '#808080';
+            return {fillColor: color, weight: 0.3, color: '#666', fillOpacity: 0.5};
+        },
+        onEachFeature: function(f, l) {
+            var p = f.properties;
+            l.bindPopup('<b>Zone: ' + p.Zoning + '</b><br>Category: ' + (p.ZoningCategory || '') + '<br>Type: ' + (p.ZoningType || ''));
+        }
+    });
+    
+    // Overlay zones (layers 0-10 combined)
+    var overlayLayer = L.layerGroup();
+    var olLayers = [0,1,2,4,7,8,9,10];
+    olLayers.forEach(function(id) {
+        var l = L.esri.featureLayer({
+            url: mkeUrl + '/' + id,
+            style: {fillColor: '#FF9800', weight: 1, color: '#E65100', fillOpacity: 0.3},
+            onEachFeature: function(f, l) {
+                l.bindPopup('<b>' + (f.properties.DPD_NAME || f.properties.GPD_NAME || f.properties.DIZ_NAME || f.properties.NAME || 'Overlay') + '</b>');
+            }
+        });
+        overlayLayer.addLayer(l);
+    });
+    
+    zoningLayer.addTo(map);
+    updateLegend('zoning');
+    
+    function showZoning() {
+        if (currentView === 'zoning') return;
+        map.removeLayer(overlayLayer); zoningLayer.addTo(map);
+        currentView = 'zoning';
+        document.getElementById('btn-zoning').className = 'toggle-btn active';
+        document.getElementById('btn-overlays').className = 'toggle-btn inactive';
+        updateLegend('zoning');
+    }
+    function showOverlays() {
+        if (currentView === 'overlays') return;
+        map.removeLayer(zoningLayer); overlayLayer.addTo(map);
+        currentView = 'overlays';
+        document.getElementById('btn-overlays').className = 'toggle-btn active';
+        document.getElementById('btn-zoning').className = 'toggle-btn inactive';
+        updateLegend('overlays');
+    }
+    
+    var currentView = 'zoning';
+    function updateLegend(view) {
+        var l = document.getElementById('legend-container');
+        if (view === 'zoning') {
+            l.innerHTML = '<b>Milwaukee County Zoning</b><br><small>City + County</small><br>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#90EE90"></div>Residential</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF6347"></div>Commercial</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#9370DB"></div>Industrial</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FFD700"></div>Mixed Use/Downtown</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#228B22"></div>Park/Open Space</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#808080"></div>Institutional</div>'
+                + '<br><i>Streaming from Milwaukee GIS</i>';
+        } else {
+            l.innerHTML = '<b>Overlay Zones</b><br><small>Special districts + planned development</small><br>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF9800;opacity:0.4"></div>Planned Development</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF9800;opacity:0.4"></div>Development Incentive Zone</div>'
+                + '<div class="legend-item"><div class="legend-color" style="background:#FF9800;opacity:0.4"></div>Overlay / Conservation</div>';
+        }
+    }
+    </script>
+</body>
+</html>

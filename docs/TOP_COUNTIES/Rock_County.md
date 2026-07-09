@@ -67,6 +67,13 @@ Harmony, Evansville, Milton (Town), Fulton — Edge-adjacent growth centers.
 **Low Growth:**
 Western and northern towns (Avon, Bradford, Center, Johnstown, Lima, Magnolia, Newark, Plymouth, Porter) — Agricultural and rural.
 
+## Interactive Map
+
+An interactive map showing **color-coded municipality labels by growth rating** is available:
+
+[**Download the Rock County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Rock_County_Municipality_Map.html)  
+*(Click → Save → Open in browser. Satellite/Map toggle available.)*
+
 ## Sources
 - [Rock County Planning & Zoning](https://www.co.rock.wi.us/planning-development)
 - [Rock County GIS](https://rockgis.co.rock.wi.us/)

@@ -65,6 +65,14 @@ Chilton, Brillion, Hilbert, Sherwood — Localized growth centers.
 **Low Growth:**
 Southwestern and agricultural towns (New Holstein, Charlestown, Rantoul, Woodville).
 
+
+## Interactive Map
+
+An interactive map showing **color-coded municipality labels by growth rating** is available:
+
+[**Download the Calumet County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Calumet_County_Municipality_Map.html)  
+*(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
+
 ## Sources
 - [Calumet County Planning & Zoning](https://www.calumetcounty.org/210/Planning-Zoning)
 - [Calumet County GIS](https://www.calumetcounty.org/213/GIS-Mapping)

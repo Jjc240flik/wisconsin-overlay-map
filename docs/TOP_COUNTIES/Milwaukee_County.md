@@ -62,9 +62,19 @@ City of Milwaukee (Harbor District, Menomonee Valley, 30th Street Corridor).
 **Low Growth:**
 Most suburbs are fully built out. Greenfield subdivision targets are best found in **Waukesha, Ozaukee, and Washington counties**, not Milwaukee County.
 
+## Interactive Map
+
+An interactive map showing **Zoning ↔ Overlay Zones** with municipality labels is available:
+
+[**Download the Milwaukee County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Milwaukee_County_Zoning_Map.html)  
+*(Click → Save → Open in browser. Toggle between Zoning and Overlay views.)*
+
 ## Sources
 - [Milwaukee County Planning](https://county.milwaukee.gov/EN/Infrastructure/Planning)
 - [Milwaukee County GIS](https://county.milwaukee.gov/EN/Infrastructure/Technology-GIS)
 - [City of Milwaukee Plan Commission](https://city.milwaukee.gov/PlanCommission)
 - [SEWRPC Regional Planning](https://www.sewrpc.org/)
 - [Milwaukee Department of City Development](https://city.milwaukee.gov/DCD)
+- [Milwaukee Open Data Portal](https://data.milwaukee.gov/)
+- [City of Franklin Comprehensive Plan](https://www.franklinwi.gov/746/Comprehensive-Plan)
+- [City of Oak Creek Comprehensive Plan](https://www.oakcreekwi.gov/658/Comprehensive-Plan)

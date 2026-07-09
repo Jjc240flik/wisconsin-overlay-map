@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Rock County Zoning & Municipalities Map</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.9.4/dist/leaflet.css" />
+    <script src="https://unpkg.com/leaflet@1.9.4/dist/leaflet.js"></script>
+    <style>
+        body { margin: 0; padding: 0; font-family: Arial, sans-serif; }
+        #map { height: 100vh; width: 100vw; }
+        .legend { background: white; padding: 10px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.15); font-size: 11px; line-height: 1.5; }
+        .legend-item { display: flex; align-items: center; gap: 6px; }
+        .legend-color { width: 12px; height: 12px; border-radius: 2px; flex-shrink: 0; }
+        .note { position: absolute; bottom: 10px; right: 10px; z-index: 1000; background: rgba(255,255,255,0.85); padding: 4px 10px; border-radius: 4px; font-size: 11px; }
+        .muni-label { background: none !important; border: none !important; }
+        .muni-label div { box-shadow: 0 1px 4px rgba(0,0,0,0.3); }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+    <div id="legend-container" class="legend" style="position:absolute;bottom:50px;left:10px;z-index:1000;">
+        <b>Rock County</b><br><small>Municipalities + Growth Ratings</small><br>
+        <div class="legend-item"><div class="legend-color" style="background:#4CAF50"></div>High</div>
+        <div class="legend-item"><div class="legend-color" style="background:#8BC34A"></div>Moderate to High</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FFC107"></div>Moderate</div>
+        <div class="legend-item"><div class="legend-color" style="background:#FF9800"></div>Low to Moderate</div>
+        <div class="legend-item"><div class="legend-color" style="background:#F44336"></div>Low</div>
+    </div>
+    <div class="note">Rock County, WI</div>
+
+    <script>
+    var map = L.map('map').setView([42.66, -89.05], 10);
+    L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png', {attribution: '©OSM'}).addTo(map);
+    L.control.layers({
+        "Map": L.tileLayer('https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png'),
+        "Satellite": L.tileLayer('https://server.arcgisonline.com/ArcGIS/rest/services/World_Imagery/MapServer/tile/{z}/{y}/{x}', {attribution: '©Esri'})
+    }, null, {position:'topright'}).addTo(map);
+
+    var muniData = [
+        {"name":"Janesville","rating":"Moderate","type":"City","lat":42.683,"lon":-89.016,"color":"#FFC107","size":16},
+        {"name":"Beloit","rating":"Moderate","type":"City","lat":42.508,"lon":-89.033,"color":"#FFC107","size":16},
+        {"name":"Town of Beloit","rating":"High","type":"Town","lat":42.523,"lon":-89.050,"color":"#4CAF50","size":17},
+        {"name":"Town of Janesville","rating":"High","type":"Town","lat":42.698,"lon":-89.033,"color":"#4CAF50","size":17},
+        {"name":"Town of Turtle","rating":"High","type":"Town","lat":42.543,"lon":-89.010,"color":"#4CAF50","size":17},
+        {"name":"Milton","rating":"Moderate","type":"City","lat":42.776,"lon":-88.944,"color":"#FFC107","size":14},
+        {"name":"Evansville","rating":"Moderate to High","type":"Village","lat":42.780,"lon":-89.299,"color":"#8BC34A","size":14},
+        {"name":"Edgerton","rating":"Moderate","type":"City","lat":42.835,"lon":-89.068,"color":"#FFC107","size":13},
+        {"name":"Orfordville","rating":"Low to Moderate","type":"Village","lat":42.627,"lon":-89.253,"color":"#FF9800","size":12},
+        {"name":"Clinton","rating":"Moderate","type":"Village","lat":42.557,"lon":-88.864,"color":"#FFC107","size":13},
+        {"name":"Footville","rating":"Low to Moderate","type":"Village","lat":42.670,"lon":-89.208,"color":"#FF9800","size":12}
+    ];
+    var muniLayer = L.layerGroup();
+    muniData.forEach(function(m) {
+        L.circleMarker([m.lat, m.lon], {radius: 5, fillColor: m.color, color: '#333', weight: 1.5, fillOpacity: 0.8}).bindPopup('<b>' + m.name + '</b><br>' + m.type + '<br>Growth: ' + m.rating).addTo(muniLayer);
+        L.marker([m.lat, m.lon], {icon: L.divIcon({className: 'muni-label',
+            html: '<div style="background:' + m.color + ';color:#fff;padding:2px 8px;border-radius:12px;font-size:' + m.size + 'px;font-weight:bold;text-shadow:0 1px 2px rgba(0,0,0,0.3);white-space:nowrap;border:1px solid #333;">' + m.name + '</div>',
+            iconSize: [0,0], iconAnchor: [0,0]})}).addTo(muniLayer);
+    });
+    muniLayer.addTo(map);
+    L.control.layers(null, {"Municipality Labels": muniLayer}, {position:'topright'}).addTo(map);
+    </script>
+</body>
+</html>

@@ -77,6 +77,14 @@ Lannon, Muskego, Merton, Vernon — Edge-adjacent growth.
 **Low Growth:**
 Western towns (Eagle, Ottawa, Summit, Delafield) — Lake country preservation and less development pressure.
 
+
+## Interactive Map
+
+An interactive map showing **color-coded municipality labels by growth rating** is available:
+
+[**Download the Waukesha County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Waukesha_County_Municipality_Map.html)  
+*(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
+
 ## Sources
 - [Waukesha County Planning & Zoning](https://www.waukeshacounty.gov/planning)
 - [Waukesha County GIS](https://www.waukeshacounty.gov/GIS)

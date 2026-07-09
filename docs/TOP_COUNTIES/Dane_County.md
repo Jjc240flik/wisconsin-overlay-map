@@ -104,6 +104,14 @@ Stoughton, Dane, Black Earth, Mazomanie — Secondary growth rings or localized 
 **Low Growth / Agricultural Preservation Areas:**
 Towns far from the Madison metro (Primrose, Perry, Vermont, Albion, Berry, Christiana, Dunkirk, etc.) — agricultural preservation dominant.
 
+
+## Interactive Map
+
+An interactive map showing **color-coded municipality labels by growth rating** is available:
+
+[**Download the Dane County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Dane_County_Municipality_Map.html)  
+*(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
+
 ## Sources
 - [Dane County Planning & Development](https://plandev.countyofdane.com/)
 - [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)

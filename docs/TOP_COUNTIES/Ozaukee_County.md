@@ -55,6 +55,14 @@ Cedarburg (City), Town of Grafton — Edge growth near cities.
 **Low Growth:**
 Western towns (Holland, Fredonia Town, Belgium Town) — Agricultural and rural. Lower development pressure.
 
+
+## Interactive Map
+
+An interactive map showing **color-coded municipality labels by growth rating** is available:
+
+[**Download the Ozaukee County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Ozaukee_County_Municipality_Map.html)  
+*(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
+
 ## Sources
 - [Ozaukee County Planning & Zoning](https://www.co.ozaukee.wi.us/143/Planning-Parks-and-Zoning)
 - [Ozaukee County GIS](https://www.co.ozaukee.wi.us/147/GIS-Mapping)
