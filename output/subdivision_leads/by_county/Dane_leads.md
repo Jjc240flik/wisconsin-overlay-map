@@ -1,6 +1,6 @@
 # Dane County — Subdivision Leads
 
-**Off-Market:** 42 | **For Sale:** 0 | **Total:** 42
+**Off-Market:** 39 | **For Sale:** 0 | **Total:** 39
 
 ## 📬 Off-Market
 
@@ -32,7 +32,6 @@
 - **0510-084-9000-1** | 35.1ac | AVAILABLE NOT 🔗MULTI | Montrose (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0909-353-9501-0** | 32.7ac | RAULS KYLE R | Waunakee (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0911-224-9560-0** | 31.7ac | DJTW FARMS LLC | Sun Prairie Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
-- **0607-144-9001-2** | 29.5ac | KELLY DAVIS REV TR CAROLYN S | Verona (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **0711-303-8211-6** | 29.3ac | C & L INVESTMENTS LLP | Pleasant Springs (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0510-071-9500-1** | 29.1ac | SPIEGEL BERNARD G | Montrose (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0808-114-9161-9** | 28.8ac | SHIMNIOK LE WILLIAM | Waunakee (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
@@ -41,8 +40,6 @@
 - **0708-343-0210-4** | 24.8ac | BOARD OF REGENTS UNIVERSITY OF WI SYSTEM | Verona (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **0809-163-8220-8** | 24.4ac | WAUNAKEE COMMUNITY SCHL DIST 🔗MULTI | Waunakee (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0510-181-9162-0** | 23.2ac | MARTINSON THOMAS A | Montrose (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **0610-273-9000-0** | 21.7ac | CARLEY REV TR ANN | Montrose (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 - **0810-361-9690-5** | 20.0ac | TIMBERS JAMES E 🔗MULTI | Sun Prairie Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
 - **0810-361-9690-5** | 20.0ac | TIMBERS JAMES E 🔗MULTI | Sun Prairie Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
-- **0808-323-9180-0** | 20.0ac | KUNZE REV TR DANIEL E & LAURA L | Westport (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **0808-172-9500-8** | 20.0ac | HD FARM PROPERTIES LLC | Waunakee (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.

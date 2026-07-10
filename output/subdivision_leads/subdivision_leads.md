@@ -1,33 +1,33 @@
 # North Star Subdivision Leads — TOP Counties
 
-**Generated:** 2026-07-10T22:47:05.786310
+**Generated:** 2026-07-10T23:07:07.663968
 **Methodology:** North Star / Cody Bjugan — Subdivision Only (20-300 acres, vacant, road frontage 400+ft, wetlands ≤30%, FEMA ≤50%). Excludes trusts, LLCs (non-Farm), INC, govt/tribal. Cross-referenced with county 2040 comprehensive plans.
 
 ## Summary
 
 | Metric | Count |
 |---|---|
-| Total Properties | 1444 |
-| Off-Market (Mail) | 1444 |
+| Total Properties | 1406 |
+| Off-Market (Mail) | 1406 |
 | For Sale (Call) | 0 |
-| Multi-Property Owners | 252 |
-| High Growth Areas | 716 |
-| Moderate-to-High Growth | 715 |
+| Multi-Property Owners | 245 |
+| High Growth Areas | 693 |
+| Moderate-to-High Growth | 700 |
 
 ## County Breakdown
 
 | County | Off-Market | For Sale | Total |
 |---|---|---|---|
-| Brown | 266 | 0 | 266 |
-| Calumet | 411 | 0 | 411 |
-| Dane | 42 | 0 | 42 |
-| Door | 30 | 0 | 30 |
+| Brown | 265 | 0 | 265 |
+| Calumet | 408 | 0 | 408 |
+| Dane | 39 | 0 | 39 |
+| Door | 27 | 0 | 27 |
 | Milwaukee | 13 | 0 | 13 |
-| Outagamie | 197 | 0 | 197 |
+| Outagamie | 181 | 0 | 181 |
 | Ozaukee | 62 | 0 | 62 |
-| Rock | 347 | 0 | 347 |
+| Rock | 342 | 0 | 342 |
 | Waukesha | 6 | 0 | 6 |
-| Winnebago | 70 | 0 | 70 |
+| Winnebago | 63 | 0 | 63 |
 
 ## Multi-Property Owners (High-Value Targets)
 
@@ -70,9 +70,12 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 
 # 📬 OFF-MARKET LEADS (Mail Campaign)
 
-**1444 properties** — These owners are not actively selling. Mail campaign recommended.
 
-## Brown County — Off-Market (266)
+> **† Note:** Exact acreage not available from Land Portal for Outagamie, Calumet, Milwaukee, Waukesha, and Winnebago counties. The filter guarantees all parcels are 20-300 acres. Pull full detail from LP for exact acreage.
+
+**1406 properties** — These owners are not actively selling. Mail campaign recommended.
+
+## Brown County — Off-Market (265)
 
 ### 1. R-300 — 90.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
@@ -132,7 +135,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 5. R-381 — 60.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 5. R-381 — 620-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -160,21 +163,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 7. B-210 — 55.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | B-210 |
-| **Address** | S HURON RD |
-| **Owner** | THE WILLIAM F AND CHERYL A NOEL REVOCABL |
-| **Acres** | 55.1 |
-| **Municipality** | Bellevue |
-| **Growth Rating** | High |
-| **Location** | Brown County, ZIP 54311 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | East of Green Bay. Steady residential growth. |
-
-### 8. B-314-1 — 54.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 7. B-314-1 — 54.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -189,7 +178,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 9. PI-612-1 — 53.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 8. PI-612-1 — 53.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -204,7 +193,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 10. ED-R42 — 51.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 9. ED-R42 — 51.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -219,7 +208,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 11. SU-128-1 — 49.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 10. SU-128-1 — 49.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -234,7 +223,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 12. W-95 — 47.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 11. W-95 — 47.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -248,7 +237,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 13. PI-413-2 — 47.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 12. PI-413-2 — 47.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -262,7 +251,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 14. VH-43 — 45.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 13. VH-43 — 45.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -276,7 +265,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 15. R-30-1 — 44.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 14. R-30-1 — 44.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -291,7 +280,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 16. E-138 — 42.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 15. E-138 — 42.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -306,7 +295,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 17. GL-120 — 42.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 16. GL-120 — 42.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -321,7 +310,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 18. GL-115 — 41.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 17. GL-115 — 41.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -336,7 +325,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 19. R-424 — 41.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 18. R-424 — 41.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -350,7 +339,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 20. GL-304 — 41.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 19. GL-304 — 41.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -365,7 +354,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 21. GL-121 — 41.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 20. GL-121 — 41.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -380,7 +369,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 22. L-380 — 41.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 21. L-380 — 41.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -395,7 +384,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 23. L-470 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 22. L-470 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -409,7 +398,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 24. HM-82 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 23. HM-82 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -423,7 +412,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 25. GL-117 — 40.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 24. GL-117 — 40.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -438,7 +427,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 26. HM-557 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 25. HM-557 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -452,7 +441,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 27. E-41 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 26. E-41 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -466,7 +455,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 28. GL-172 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 27. GL-172 — 40.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -480,7 +469,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 29. R-411 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 28. R-411 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -495,7 +484,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 30. VH-215 — 40.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 29. VH-215 — 420-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -509,7 +498,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 31. HB-424 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 30. HB-424 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -524,7 +513,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 32. L-413 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 31. L-413 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -539,7 +528,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 33. HB-409 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 32. HB-409 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -554,7 +543,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 34. R-419 — 39.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 33. R-419 — 39.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -569,7 +558,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 35. E-350 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 34. E-350 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -583,7 +572,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 36. L-388 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 35. L-388 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -598,7 +587,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 37. GL-89 — 39.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 36. GL-89 — 39.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -613,7 +602,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 38. GL-321 — 39.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 37. GL-321 — 39.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -628,7 +617,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 39. R-175 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 38. R-175 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -643,7 +632,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 40. L-410 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 39. L-410 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -657,7 +646,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 41. R-264 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 40. R-264 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -672,7 +661,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 42. D-171 — 39.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 41. D-171 — 39.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -686,7 +675,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 43. GL-319 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 42. GL-319 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -700,7 +689,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 44. HM-116 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 43. HM-116 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -715,7 +704,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 45. E-389 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 44. E-389 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -729,7 +718,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 46. GL-552 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 45. GL-552 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -743,7 +732,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 47. R-410 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 46. R-410 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -758,7 +747,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 48. GL-498 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 47. GL-498 — 39.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -773,7 +762,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 49. R-316 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 48. R-316 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -787,7 +776,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 50. R-378 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 49. R-378 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -801,7 +790,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 51. GL-33 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 50. GL-33 — 39.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -816,7 +805,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 52. GL-9 — 39.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 51. GL-9 — 39.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -831,7 +820,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 53. HB-299 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 52. HB-299 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -846,7 +835,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 54. GL-340 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 53. GL-340 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -861,7 +850,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 55. R-163 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 54. R-163 — 39.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -875,7 +864,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 56. R-160 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 55. R-160 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -889,7 +878,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 57. R-190 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 56. R-190 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -903,7 +892,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 58. GL-348 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 57. GL-348 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -918,7 +907,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 59. HB-32-1 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 58. HB-32-1 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -932,7 +921,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 60. HM-71 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 59. HM-71 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -947,7 +936,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 61. R-383 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 60. R-383 — 39.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -962,7 +951,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 62. GL-355 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 61. GL-355 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -977,7 +966,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 63. D-304 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 62. D-304 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -991,7 +980,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 64. R-374 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 63. R-374 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1006,7 +995,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 65. R-168 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 64. R-168 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1021,7 +1010,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 66. R-379 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 65. R-379 — 38.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1035,7 +1024,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 67. HB-420 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 66. HB-420 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1050,7 +1039,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 68. HB-312 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 67. HB-312 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1065,7 +1054,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 69. PI-446 — 38.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 68. PI-446 — 38.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1080,7 +1069,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 70. GL-387 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 69. GL-387 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1095,7 +1084,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 71. HM-122 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 70. HM-122 — 38.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1110,7 +1099,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 72. L-140 — 38.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 71. L-140 — 38.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1124,7 +1113,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 73. W-226 — 38.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 72. W-226 — 38.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1139,7 +1128,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 74. M-103-1 — 38.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 73. M-103-1 — 38.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1153,7 +1142,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 75. R-268 — 38.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 74. R-268 — 38.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1168,7 +1157,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 76. GL-542 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 75. GL-542 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1183,7 +1172,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 77. SU-689 — 38.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 76. SU-689 — 38.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1197,7 +1186,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 78. GL-113 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 77. GL-113 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1211,7 +1200,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 79. E-98 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 78. E-98 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1225,7 +1214,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 80. GL-361 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 79. GL-361 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1240,7 +1229,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 81. PI-496 — 38.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 80. PI-496 — 38.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1255,7 +1244,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 82. R-377 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 81. R-377 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1270,7 +1259,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 83. R-418 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 82. R-418 — 38.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1285,7 +1274,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 84. GL-35 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 83. GL-35 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1300,7 +1289,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 85. PI-590 — 38.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 84. PI-590 — 38.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1314,7 +1303,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 86. SU-735 — 38.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 85. SU-735 — 38.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1329,7 +1318,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 87. GL-7 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 86. GL-7 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1344,7 +1333,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 88. GL-345 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 87. GL-345 — 38.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1359,7 +1348,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 89. HM-220 — 37.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 88. HM-220 — 37.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1374,7 +1363,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 90. R-425-2 — 37.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 89. R-425-2 — 37.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1388,7 +1377,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 91. PI-443 — 37.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 90. PI-443 — 37.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1403,7 +1392,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 92. E-153 — 37.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 91. E-153 — 37.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1417,7 +1406,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 93. SU-686 — 37.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 92. SU-686 — 37.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1431,7 +1420,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 94. GL-176 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 93. GL-176 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1445,7 +1434,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 95. GL-380 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 94. GL-380 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1460,7 +1449,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 96. GL-84 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 95. GL-84 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1475,7 +1464,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 97. E-382 — 37.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 96. E-382 — 37.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1489,7 +1478,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 98. GL-353 — 37.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 97. GL-353 — 37.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1504,7 +1493,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 99. PI-588 — 37.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 98. PI-588 — 37.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1518,7 +1507,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 100. GL-369 — 37.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 99. GL-369 — 37.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1533,7 +1522,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 101. R-387 — 37.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 100. R-387 — 37.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1548,7 +1537,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 102. GL-336 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 101. GL-336 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1562,7 +1551,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 103. HB-277 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 102. HB-277 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1577,7 +1566,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 104. R-414 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 103. R-414 — 37.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1592,7 +1581,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 105. GL-68 — 37.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 104. GL-68 — 37.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1606,7 +1595,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 106. PI-450 — 37.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 105. PI-450 — 37.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1621,7 +1610,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 107. GL-499 — 37.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 106. GL-499 — 37.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1636,7 +1625,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 108. PI-456 — 37.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 107. PI-456 — 37.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1651,7 +1640,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 109. SU-280 — 36.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 108. SU-280 — 36.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1665,7 +1654,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 110. E-68 — 36.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 109. E-68 — 36.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1679,7 +1668,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 111. R-408 — 36.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 110. R-408 — 36.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1693,7 +1682,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 112. R-393-1 — 36.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 111. R-393-1 — 36.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1708,7 +1697,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 113. SU-379 — 36.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 112. SU-379 — 36.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1722,7 +1711,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 114. HM-15-1 — 36.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 113. HM-15-1 — 36.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1736,7 +1725,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 115. L-114 — 36.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 114. L-114 — 36.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1750,7 +1739,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 116. GL-381 — 36.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 115. GL-381 — 36.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1765,7 +1754,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 117. HM-24 — 36.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 116. HM-24 — 36.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1780,7 +1769,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 118. SU-716-1 — 36.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 117. SU-716-1 — 36.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1794,7 +1783,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 119. GL-81 — 36.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 118. GL-81 — 36.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1809,7 +1798,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 120. R-394 — 36.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 119. R-394 — 36.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1823,7 +1812,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 121. GL-503 — 36.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 120. GL-503 — 36.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1838,7 +1827,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 122. GL-352 — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 121. GL-352 — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1853,7 +1842,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 123. L-426 — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 122. L-426 — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1868,7 +1857,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 124. HM-137 — 35.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 123. HM-137 — 35.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1882,7 +1871,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 125. GL-303 — 35.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 124. GL-303 — 35.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1897,7 +1886,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 126. PI-616 — 35.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 125. PI-616 — 35.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -1911,7 +1900,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 127. R-416 — 35.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 126. R-416 — 35.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1925,7 +1914,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 128. R-120 — 35.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 127. R-120 — 35.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1939,7 +1928,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 129. GL-488 — 35.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 128. GL-488 — 35.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1954,7 +1943,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 130. SC-604 — 35.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 129. SC-604 — 35.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1968,7 +1957,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 131. GL-508 — 35.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 130. GL-508 — 35.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1982,7 +1971,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 132. HM-138 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 131. HM-138 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -1997,7 +1986,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 133. GL-92 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 132. GL-92 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2012,7 +2001,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 134. R-384 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 133. R-384 — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2027,7 +2016,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 135. D-128 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 134. D-128 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2041,7 +2030,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 136. R-165 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 135. R-165 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2055,7 +2044,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 137. SC-682 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 136. SC-682 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2069,7 +2058,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 138. GL-472-2 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 137. GL-472-2 — 34.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2084,7 +2073,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 139. GL-346 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 138. GL-346 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2099,7 +2088,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 140. R-386-1 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 139. R-386-1 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2114,7 +2103,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 141. HM-113 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 140. HM-113 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2129,7 +2118,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 142. GL-492-3 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 141. GL-492-3 — 34.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2143,7 +2132,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 143. PI-467 — 34.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 142. PI-467 — 34.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2158,7 +2147,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 144. L-427 — 34.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 143. L-427 — 34.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2173,7 +2162,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 145. HM-218 — 34.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 144. HM-218 — 34.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2187,7 +2176,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 146. L-411 — 34.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 145. L-411 — 34.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2202,7 +2191,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 147. GL-73 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 146. GL-73 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2216,7 +2205,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 148. R-59 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 147. R-59 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2231,7 +2220,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 149. E-163-1 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 148. E-163-1 — 34.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2246,7 +2235,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 150. D-172 — 34.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 149. D-172 — 34.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2260,7 +2249,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 151. HM-121 — 34.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 150. HM-121 — 34.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2275,7 +2264,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 152. PI-609-1 — 34.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 151. PI-609-1 — 34.1 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2290,7 +2279,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 153. VH-214 — 33.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 152. VH-214 — 33.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2305,7 +2294,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 154. SU-121 — 33.7 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 153. SU-121 — 33.7 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2319,7 +2308,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 155. SC-578 — 33.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 154. SC-578 — 33.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2333,7 +2322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 156. HM-128-2 — 33.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 155. HM-128-2 — 33.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2347,7 +2336,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 157. HM-474 — 33.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 156. HM-474 — 33.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2361,7 +2350,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 158. HM-221-2-1 — 33.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 157. HM-221-2-1 — 33.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2375,7 +2364,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 159. GL-391-2 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 158. GL-391-2 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2390,7 +2379,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 160. HM-125 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 159. HM-125 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2405,7 +2394,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 161. R-370 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 160. R-370 — 33.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2419,7 +2408,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 162. D-307 — 33.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 161. D-307 — 33.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2433,7 +2422,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 163. E-441-1 — 33.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 162. E-441-1 — 33.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2447,7 +2436,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 164. GL-53 — 32.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 163. GL-53 — 32.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2462,7 +2451,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 165. B-12-1 — 32.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 164. B-12-1 — 32.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2477,7 +2466,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 166. R-356-2 — 32.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 165. R-356-2 — 32.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2491,7 +2480,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 167. HM-41-1 — 32.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 166. HM-41-1 — 32.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2506,7 +2495,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 168. R-147 — 32.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 167. R-147 — 32.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2521,7 +2510,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 169. GL-31 — 32.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 168. GL-31 — 32.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2536,7 +2525,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 170. PI-465 — 32.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 169. PI-465 — 32.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2551,7 +2540,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 171. D-134 — 31.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 170. D-134 — 31.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2565,7 +2554,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 172. VG-577 — 31.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 171. VG-577 — 31.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2579,7 +2568,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 173. R-353 — 31.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 172. R-353 — 31.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2593,7 +2582,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 174. W-211-1 — 31.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 173. W-211-1 — 31.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2608,7 +2597,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 175. E-454 — 31.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 174. E-454 — 31.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2622,7 +2611,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 176. ED-R49 — 31.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 175. ED-R49 — 31.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2636,7 +2625,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 177. HM-473-1 — 30.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 176. HM-473-1 — 30.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2650,7 +2639,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 178. HB-152-2 — 30.4 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 177. HB-152-2 — 30.4 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2664,7 +2653,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 179. SC-670 — 30.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 178. SC-670 — 30.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2678,7 +2667,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 180. HB-371 — 30.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 179. HB-371 — 30.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2693,7 +2682,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 181. D-249 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 180. D-249 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2708,7 +2697,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 182. E-349 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 181. E-349 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2722,7 +2711,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 183. GL-112-2 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 182. GL-112-2 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2737,7 +2726,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 184. GL-118-1 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 183. GL-118-1 — 30.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2752,7 +2741,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 185. E-422 — 29.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 184. E-422 — 29.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2766,7 +2755,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 186. HB-398 — 29.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 185. HB-398 — 29.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2781,7 +2770,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 187. E-352 — 29.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 186. E-352 — 29.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2795,7 +2784,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 188. D-241 — 29.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 187. D-241 — 29.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2810,7 +2799,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 189. GL-36 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 188. GL-36 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2825,7 +2814,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 190. GL-12 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 189. GL-12 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2840,7 +2829,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 191. E-139 — 29.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 190. E-139 — 29.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2855,7 +2844,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 192. D-276 — 29.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 191. D-276 — 29.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2869,7 +2858,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 193. R-372-1 — 29.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 192. R-372-1 — 29.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2883,7 +2872,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 194. GL-152-1 — 28.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 193. GL-152-1 — 28.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2897,7 +2886,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 195. GL-159 — 28.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 194. GL-159 — 28.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2912,7 +2901,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 196. GL-504 — 28.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 195. GL-504 — 28.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2927,7 +2916,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 197. GL-292-1 — 28.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 196. GL-292-1 — 28.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2941,7 +2930,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 198. HB-149-1 — 28.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 197. HB-149-1 — 28.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2955,7 +2944,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 199. GL-134-1 — 28.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 198. GL-134-1 — 28.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2969,7 +2958,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 200. SU-675-4 — 28.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 199. SU-675-4 — 28.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -2983,7 +2972,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 201. E-162 — 27.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 200. E-162 — 27.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -2998,7 +2987,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 202. R-95 — 27.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 201. R-95 — 27.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3012,7 +3001,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 203. R-170-1 — 27.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 202. R-170-1 — 27.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3027,7 +3016,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 204. E-172 — 27.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 203. E-172 — 27.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3041,7 +3030,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 205. GL-329 — 27.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 204. GL-329 — 27.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3055,7 +3044,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 206. D-265 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 205. D-265 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3069,7 +3058,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 207. R-149 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 206. R-149 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3084,7 +3073,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 208. R-415-2 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 207. R-415-2 — 27.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3099,7 +3088,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 209. GL-162 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 208. GL-162 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3114,7 +3103,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 210. 22-SC464 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 209. 22-SC464 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3128,7 +3117,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 211. R-17 — 27.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 210. R-17 — 27.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3142,7 +3131,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 212. L-76-2 — 27.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 211. L-76-2 — 27.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3156,7 +3145,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 213. PI-466-1 — 27.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 212. PI-466-1 — 27.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3171,7 +3160,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 214. SU-107 — 26.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 213. SU-107 — 26.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3185,7 +3174,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 215. HB-383 — 26.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 214. HB-383 — 26.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3199,7 +3188,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 216. HB-288-2 — 26.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 215. HB-288-2 — 26.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3214,7 +3203,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 217. PI-630 — 26.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 216. PI-630 — 26.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3228,7 +3217,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 218. HM-203 — 25.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 217. HM-203 — 25.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3242,7 +3231,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 219. R-376-1 — 25.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 218. R-376-1 — 25.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3257,7 +3246,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 220. B-13 — 25.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 219. B-13 — 25.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3271,7 +3260,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 221. PI-478-1 — 25.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 220. PI-478-1 — 25.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3286,7 +3275,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 222. W-12-3 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 221. W-12-3 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3300,7 +3289,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 223. E-69 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 222. E-69 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3314,7 +3303,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 224. D-247 — 24.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 223. D-247 — 24.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3328,7 +3317,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 225. E-413 — 24.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 224. E-413 — 24.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3342,7 +3331,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 226. SC-319 — 24.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 225. SC-319 — 24.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3356,7 +3345,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 227. R-89 — 24.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 226. R-89 — 24.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3370,7 +3359,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 228. D-118 — 24.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 227. D-118 — 24.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3384,7 +3373,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 229. VA-216-2 — 24.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 228. VA-216-2 — 24.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3398,7 +3387,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 230. R-409-2 — 24.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 229. R-409-2 — 24.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3413,7 +3402,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 231. B-333 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 230. B-333 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3427,7 +3416,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 232. 21-188-6-1 — 23.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 231. 21-188-6-1 — 23.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3441,7 +3430,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 233. GL-77 — 23.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 232. GL-77 — 23.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3456,7 +3445,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 234. GL-65-2 — 23.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 233. GL-65-2 — 23.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3470,7 +3459,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 235. E-339 — 23.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 234. E-339 — 23.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3484,7 +3473,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 236. HM-147-1 — 23.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 235. HM-147-1 — 23.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3499,7 +3488,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 237. L-465 — 22.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 236. L-465 — 22.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3513,7 +3502,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 238. PI-384 — 22.4 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 237. PI-384 — 22.4 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3528,7 +3517,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 239. SC-717-1 — 22.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 238. SC-717-1 — 22.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3542,7 +3531,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 240. HB-307 — 22.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 239. HB-307 — 22.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3556,7 +3545,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 241. GL-4 — 22.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 240. GL-4 — 22.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3571,7 +3560,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 8 qualifying parcels across target counties |
 
-### 242. VA-L194 — 21.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 241. VA-L194 — 21.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3585,7 +3574,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 243. VW-W203 — 21.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 242. VW-W203 — 21.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3600,7 +3589,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 244. VA-L190 — 21.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 243. VA-L190 — 21.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3614,7 +3603,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 245. ED-R29 — 21.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 244. ED-R29 — 21.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3628,7 +3617,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 246. ED-R52-1 — 21.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 245. ED-R52-1 — 21.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3643,7 +3632,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 247. L-16 — 21.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 246. L-16 — 21.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3657,7 +3646,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 248. GL-315 — 21.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 247. GL-315 — 21.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3672,7 +3661,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 249. B-207 — 21.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 248. B-207 — 21.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3686,7 +3675,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 250. SU-645 — 20.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 249. SU-645 — 20.8 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -3700,7 +3689,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Green Bay. I-41 corridor. Sports/entertainment. Sewer/water. |
 
-### 251. GL-96 — 20.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 250. GL-96 — 20.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3714,7 +3703,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 252. 22-183-2 — 20.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 251. 22-183-2 — 20.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3729,7 +3718,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 253. GL-506 — 20.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 252. GL-506 — 20.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3744,7 +3733,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 254. L-102 — 20.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 253. L-102 — 20.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3758,7 +3747,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 255. HM-117-1 — 20.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 254. HM-117-1 — 20.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3773,7 +3762,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 256. GL-99 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 255. GL-99 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3787,7 +3776,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 257. R-140-2 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 256. R-140-2 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3801,7 +3790,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 
-### 258. R-427 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 257. R-427 — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3816,7 +3805,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 259. GL-95 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 258. GL-95 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3831,7 +3820,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 260. E-39 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 259. E-39 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3845,7 +3834,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 261. W-6 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 260. W-6 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3860,7 +3849,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 262. GL-505 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 261. GL-505 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3875,7 +3864,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 263. E-15 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 262. E-15 — 20.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3889,7 +3878,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 
-### 264. HM-75 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 263. HM-75 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3904,7 +3893,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 265. SC-216 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 264. SC-216 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3919,7 +3908,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | East of Green Bay. Steady residential growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 266. HB-285-1-1 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 265. HB-285-1-1 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3934,9 +3923,9 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Fastest growing area. Near Green Bay and De Pere. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-## Calumet County — Off-Market (411)
+## Calumet County — Off-Market (408)
 
-### 1. 12328 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 1. 12328 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3951,7 +3940,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 2. 12341 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 2. 12341 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3965,7 +3954,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 3. 12345 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 3. 12345 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3980,7 +3969,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 4. 12353 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 4. 12353 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -3995,7 +3984,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 5. 12361 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 5. 12361 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4010,7 +3999,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 6. 12362 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 6. 12362 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4025,7 +4014,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 7. 12369 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 7. 12369 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4040,7 +4029,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 8. 12375 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 8. 12375 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4055,7 +4044,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 9. 12377 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 9. 12377 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4070,7 +4059,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 10. 12380 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 10. 12380 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4085,7 +4074,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 11. 12182 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 11. 12182 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4099,7 +4088,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 12. 39252 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 12. 39252 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4114,7 +4103,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 13. 39262 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 13. 39262 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4128,7 +4117,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 14. 40618 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 14. 40618 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4143,7 +4132,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 15. 40800 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 15. 40800 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4157,7 +4146,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 16. 38866 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 16. 38866 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4172,7 +4161,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 17. 40820 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 17. 40820 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4186,7 +4175,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 18. 40830 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 18. 40830 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4201,7 +4190,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 19. 33094 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 19. 33094 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4216,7 +4205,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 20. 39366 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 20. 39366 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4231,7 +4220,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 21. 39378 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 21. 39378 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4246,7 +4235,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 22. 38376 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 22. 38376 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4260,7 +4249,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 23. 40628 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 23. 40628 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4275,7 +4264,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 24. 40630 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 24. 40630 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4289,7 +4278,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 25. 39308 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 25. 39308 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4303,7 +4292,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 26. 38820 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 26. 38820 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4318,7 +4307,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 27. 40652 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 27. 40652 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4333,7 +4322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 28. 38828 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 28. 38828 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4348,7 +4337,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 29. 40662 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 29. 40662 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4363,7 +4352,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 30. 38830 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 30. 38830 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4377,7 +4366,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 31. 38832 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 31. 38832 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4392,7 +4381,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 32. 40666 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 32. 40666 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4407,7 +4396,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 33. 39344 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 33. 39344 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4421,7 +4410,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 34. 40678 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 34. 40678 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4436,7 +4425,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 35. 38848 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 35. 38848 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4450,7 +4439,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 36. 38852 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 36. 38852 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4464,7 +4453,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 37. 39518 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 37. 39518 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4478,7 +4467,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 38. 39990 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 38. 39990 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4492,7 +4481,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 39. 40008 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 39. 40008 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4506,7 +4495,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 40. 40480 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 40. 40480 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4520,7 +4509,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 41. 40486 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 41. 40486 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4535,7 +4524,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 42. 40488 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 42. 40488 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4549,7 +4538,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 43. 40538 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 43. 40538 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4564,7 +4553,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 44. 38790 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 44. 38790 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4578,7 +4567,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 45. 40686 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 45. 40686 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4593,7 +4582,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 46. 40696 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 46. 40696 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4608,7 +4597,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 47. 40706 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 47. 40706 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4623,7 +4612,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 48. 40544 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 48. 40544 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4638,7 +4627,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 49. 40840 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 49. 40840 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4653,7 +4642,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 50. 40548 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 50. 40548 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4668,7 +4657,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 51. 40550 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 51. 40550 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4682,7 +4671,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 52. 40558 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 52. 40558 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4697,7 +4686,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 53. 40896 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 53. 40896 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4712,7 +4701,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 54. 39282 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 54. 39282 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4726,7 +4715,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 55. 39292 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 55. 39292 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4740,7 +4729,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 56. 39296 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 56. 39296 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4754,7 +4743,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 57. 40570 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 57. 40570 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4768,7 +4757,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 58. 40586 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 58. 40586 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4782,21 +4771,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 59. 40594 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 40594 |
-| **Address** | S HARWOOD RD |
-| **Owner** | NETTEKOVEN MARILYN J SURV TRST |
-| **Acres** | 0.0 |
-| **Municipality** | Menasha Calumet |
-| **Growth Rating** | High |
-| **Location** | Calumet County, ZIP 54952 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
-
-### 60. 40466 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 59. 40466 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4811,7 +4786,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 61. 42950 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 60. 42950 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4825,7 +4800,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 62. 46174 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 61. 46174 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -4839,7 +4814,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to Menasha/Appleton. Fox Cities edge. |
 
-### 63. 10407 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 62. 10407 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4854,7 +4829,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 64. 10408 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 63. 10408 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4869,7 +4844,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 65. 10417 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 64. 10417 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4884,7 +4859,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 66. 32496 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 65. 32496 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4899,7 +4874,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 67. 10433 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 66. 10433 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4914,7 +4889,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 68. 10434 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 67. 10434 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4929,7 +4904,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 69. 10449 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 68. 10449 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4944,7 +4919,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 70. 10451 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 69. 10451 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4959,7 +4934,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 71. 10458 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 70. 10458 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4974,7 +4949,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 72. 10466 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 71. 10466 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -4989,7 +4964,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 73. 10469 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 72. 10469 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5004,7 +4979,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 74. 10485 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 73. 10485 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5019,7 +4994,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 75. 10487 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 74. 10487 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5034,7 +5009,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 76. 10492 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 75. 10492 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5049,7 +5024,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 77. 10493 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 76. 10493 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5064,7 +5039,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 78. 10494 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 77. 10494 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5079,7 +5054,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 79. 10496 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 78. 10496 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5094,7 +5069,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 80. 3260 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 79. 3260 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5108,7 +5083,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 81. 20745 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 80. 20745 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5122,7 +5097,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 82. 10515 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 81. 10515 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5137,7 +5112,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 83. 10517 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 82. 10517 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5151,7 +5126,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 84. 10519 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 83. 10519 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5165,7 +5140,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 85. 10520 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 84. 10520 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5180,7 +5155,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 86. 10523 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 85. 10523 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5194,7 +5169,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 87. 10531 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 86. 10531 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5208,7 +5183,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 88. 3277 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 87. 3277 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5223,7 +5198,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 89. 3296 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 88. 3296 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5238,7 +5213,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 90. 3307 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 89. 3307 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5253,7 +5228,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 91. 3311 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 90. 3311 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5268,7 +5243,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 92. 3314 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 91. 3314 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5282,7 +5257,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 93. 3319 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 92. 3319 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5297,7 +5272,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 94. 10664 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 93. 10664 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5311,7 +5286,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 95. 10669 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 94. 10669 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5326,7 +5301,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 96. 10689 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 95. 10689 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5340,7 +5315,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 97. 3330 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 96. 3330 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5355,7 +5330,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 98. 3333 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 97. 3333 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5369,7 +5344,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 99. 3335 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 98. 3335 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5384,7 +5359,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 100. 3341 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 99. 3341 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5399,7 +5374,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 101. 10730 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 100. 10730 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5413,7 +5388,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 102. 10758 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 101. 10758 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5428,7 +5403,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 103. 22294 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 102. 22294 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5443,7 +5418,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 104. 3542 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 103. 3542 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5458,7 +5433,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 105. 3557 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 104. 3557 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5473,7 +5448,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 106. 3577 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 105. 3577 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5487,7 +5462,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 107. 3587 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 106. 3587 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5501,7 +5476,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 108. 3589 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 107. 3589 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5515,7 +5490,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 109. 3593 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 108. 3593 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5529,7 +5504,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 110. 3596 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 109. 3596 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5544,7 +5519,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 111. 3598 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 110. 3598 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5559,7 +5534,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 112. 3610 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 111. 3610 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5574,7 +5549,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 113. 3614 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 112. 3614 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5589,7 +5564,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 114. 3617 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 113. 3617 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5604,7 +5579,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 115. 3626 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 114. 3626 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5619,7 +5594,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 116. 3659 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 115. 3659 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5634,7 +5609,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 117. 10331 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 116. 10331 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5649,7 +5624,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 118. 10398 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 117. 10398 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5663,7 +5638,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 119. 4498 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 118. 4498 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5678,7 +5653,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 120. 4499 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 119. 4499 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5693,7 +5668,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 121. 4501 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 120. 4501 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5708,7 +5683,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 122. 4503 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 121. 4503 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5722,7 +5697,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 123. 4505 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 122. 4505 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5736,7 +5711,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 124. 4516 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 123. 4516 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5750,7 +5725,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 125. 4523 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 124. 4523 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5765,7 +5740,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 126. 5278 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 125. 5278 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5780,7 +5755,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 127. 5267 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 126. 5267 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5794,7 +5769,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 128. 5288 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 127. 5288 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5809,7 +5784,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 129. 5289 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 128. 5289 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5824,7 +5799,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 130. 5294 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 129. 5294 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5839,7 +5814,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 131. 5296 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 130. 5296 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5854,7 +5829,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 132. 5303 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 131. 5303 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5869,7 +5844,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 133. 5317 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 132. 5317 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5884,7 +5859,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 134. 5318 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 133. 5318 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5899,7 +5874,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 135. 5321 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 134. 5321 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5914,7 +5889,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 136. 5324 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 135. 5324 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5929,7 +5904,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 137. 5331 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 136. 5331 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5944,37 +5919,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 138. 5333 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 5333 |
-| **Address** | HIGHWAY 57 |
-| **Owner** | KOPF FAMILY REV TRST ART & JOYCE 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Brothertown |
-| **Growth Rating** | Moderate to High |
-| **Location** | Calumet County, ZIP 53014 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Lakeshore. Seasonal and year-round. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 139. 5337 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 5337 |
-| **Address** | COUNTY E |
-| **Owner** | KOPF FAMILY REV TRST ART & JOYCE 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Brothertown |
-| **Growth Rating** | Moderate to High |
-| **Location** | Calumet County, ZIP 53014 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Lakeshore. Seasonal and year-round. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 140. 5353 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 137. 5353 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -5989,7 +5934,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 141. 5362 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 138. 5362 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6003,7 +5948,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 142. 5425 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 139. 5425 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6018,7 +5963,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 143. 5420 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 140. 5420 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6032,7 +5977,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 144. 31240 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 141. 31240 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6046,7 +5991,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 145. 2251 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 142. 2251 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6060,7 +6005,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 146. 32530 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 143. 32530 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6074,7 +6019,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 147. 2286 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 144. 2286 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6088,7 +6033,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 148. 25448 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 145. 25448 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6102,7 +6047,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 149. 2523 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 146. 2523 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6116,7 +6061,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 150. 2524 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 147. 2524 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6131,7 +6076,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 151. 2531 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 148. 2531 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6145,7 +6090,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 152. 2532 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 149. 2532 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6160,7 +6105,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 153. 2602 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 150. 2602 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6174,7 +6119,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 154. 2605 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 151. 2605 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6188,7 +6133,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 155. 2614 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 152. 2614 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6202,7 +6147,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 156. 2616 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 153. 2616 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6217,7 +6162,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 157. 2619 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 154. 2619 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6232,7 +6177,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 158. 2621 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 155. 2621 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6246,7 +6191,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 159. 2622 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 156. 2622 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6261,7 +6206,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 160. 2626 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 157. 2626 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6276,7 +6221,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 161. 2627 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 158. 2627 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6291,7 +6236,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 162. 29650 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 159. 29650 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6306,7 +6251,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 163. 2640 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 160. 2640 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6320,7 +6265,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 164. 2641 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 161. 2641 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6334,7 +6279,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 165. 31464 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 162. 31464 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6349,7 +6294,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 166. 2650 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 163. 2650 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6363,7 +6308,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 167. 30034 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 164. 30034 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6377,7 +6322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 168. 28110 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 165. 28110 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6392,7 +6337,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 169. 2686 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 166. 2686 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6407,7 +6352,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 170. 2687 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 167. 2687 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6421,7 +6366,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 171. 2688 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 168. 2688 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6436,7 +6381,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 172. 2714 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 169. 2714 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6451,7 +6396,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 173. 2717 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 170. 2717 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6466,7 +6411,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 174. 2720 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 171. 2720 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6481,7 +6426,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 175. 25464 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 172. 25464 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6496,7 +6441,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 176. 2758 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 173. 2758 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6511,7 +6456,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 177. 2764 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 174. 2764 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6526,7 +6471,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 178. 2768 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 175. 2768 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6541,7 +6486,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 179. 2769 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 176. 2769 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6556,7 +6501,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 180. 23593 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 177. 23593 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6571,7 +6516,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 181. 2778 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 178. 2778 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6586,7 +6531,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 182. 2780 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 179. 2780 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6601,7 +6546,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 183. 2786 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 180. 2786 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6616,7 +6561,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 184. 2787 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 181. 2787 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6631,7 +6576,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 185. 31286 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 182. 31286 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6646,7 +6591,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 186. 2789 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 183. 2789 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6661,7 +6606,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 187. 2791 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 184. 2791 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6676,7 +6621,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 188. 2807 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 185. 2807 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6691,7 +6636,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 189. 2808 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 186. 2808 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6706,7 +6651,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 190. 2809 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 187. 2809 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6721,7 +6666,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 191. 2832 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 188. 2832 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6736,7 +6681,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 192. 2834 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 189. 2834 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6751,7 +6696,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 193. 2838 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 190. 2838 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6766,7 +6711,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 194. 2843 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 191. 2843 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6781,7 +6726,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 195. 2844 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 192. 2844 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6796,7 +6741,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 196. 25770 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 193. 25770 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6811,7 +6756,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 197. 2850 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 194. 2850 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6826,7 +6771,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 198. 2856 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 195. 2856 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6841,7 +6786,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 199. 2858 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 196. 2858 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6856,7 +6801,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 200. 2859 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 197. 2859 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6871,7 +6816,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 201. 2869 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 198. 2869 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6886,7 +6831,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 202. 2874 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 199. 2874 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6901,7 +6846,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 203. 2876 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 200. 2876 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6915,7 +6860,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 204. 2960 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 201. 2960 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6930,7 +6875,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 205. 32534 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 202. 32534 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6945,7 +6890,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 206. 2966 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 203. 2966 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6959,7 +6904,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 207. 2968 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 204. 2968 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6974,7 +6919,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 208. 3015 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 205. 3015 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -6988,7 +6933,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 209. 3020 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 206. 3020 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7003,7 +6948,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 210. 3035 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 207. 3035 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7018,7 +6963,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 211. 3041 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 208. 3041 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7032,7 +6977,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 212. 20746 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 209. 20746 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7047,7 +6992,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 213. 3063 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 210. 3063 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7062,7 +7007,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 214. 31714 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 211. 31714 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7076,7 +7021,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 215. 3098 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 212. 3098 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7091,7 +7036,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 216. 3099 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 213. 3099 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7105,7 +7050,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 217. 3129 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 214. 3129 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7119,7 +7064,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 218. 3138 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 215. 3138 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7133,7 +7078,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 219. 3139 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 216. 3139 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7147,7 +7092,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 220. 3140 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 217. 3140 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7162,7 +7107,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 221. 20229 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 218. 20229 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7176,7 +7121,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 222. 3145 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 219. 3145 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7191,7 +7136,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 223. 3147 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 220. 3147 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7205,7 +7150,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 224. 3168 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 221. 3168 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7220,7 +7165,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 225. 3172 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 222. 3172 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7234,7 +7179,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 226. 3177 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 223. 3177 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7248,7 +7193,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 227. 3205 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 224. 3205 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7262,7 +7207,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 228. 3229 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 225. 3229 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7276,7 +7221,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 229. 32244 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 226. 32244 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7290,7 +7235,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 230. 27782 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 227. 27782 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7305,7 +7250,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 231. 9088 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 228. 9088 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7319,7 +7264,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 232. 3234 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 229. 3234 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7333,7 +7278,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 233. 32048 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 230. 32048 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7348,7 +7293,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 234. 3238 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 231. 3238 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7362,7 +7307,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 235. 29646 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 232. 29646 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7377,7 +7322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 236. 9101 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 233. 9101 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7391,7 +7336,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 237. 14442 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 234. 14442 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7405,7 +7350,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 238. 3817 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 235. 3817 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7420,7 +7365,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 239. 3853 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 236. 3853 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7435,7 +7380,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 240. 28750 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 237. 28750 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7450,7 +7395,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 241. 3884 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 238. 3884 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7464,7 +7409,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 242. 3910 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 239. 3910 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7479,7 +7424,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 243. 3928 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 240. 3928 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7494,7 +7439,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 244. 3985 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 241. 3985 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7509,7 +7454,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 245. 3994 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 242. 3994 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7524,7 +7469,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 246. 31258 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 243. 31258 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7539,7 +7484,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 247. 3997 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 244. 3997 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7554,7 +7499,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 248. 4001 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 245. 4001 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7568,7 +7513,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 249. 10821 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 246. 10821 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7582,7 +7527,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 250. 10845 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 247. 10845 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7596,7 +7541,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 251. 31994 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 248. 31994 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7611,7 +7556,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 252. 10850 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 249. 10850 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7625,7 +7570,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 253. 10861 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 250. 10861 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7640,7 +7585,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 254. 4559 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 251. 4559 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7655,7 +7600,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 255. 4560 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 252. 4560 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7670,7 +7615,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 256. 26550 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 253. 26550 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7685,7 +7630,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 257. 4563 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 254. 4563 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7700,7 +7645,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 258. 4565 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 255. 4565 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7715,7 +7660,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 259. 4570 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 256. 4570 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7730,7 +7675,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 260. 24106 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 257. 24106 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7744,7 +7689,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 261. 4580 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 258. 4580 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7759,7 +7704,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 262. 4597 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 259. 4597 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7774,7 +7719,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 263. 4617 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 260. 4617 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7788,7 +7733,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 264. 4630 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 261. 4630 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7803,7 +7748,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 265. 4631 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 262. 4631 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7818,7 +7763,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 266. 4641 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 263. 4641 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7832,7 +7777,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 267. 16891 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 264. 16891 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7847,7 +7792,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 268. 4644 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 265. 4644 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7861,7 +7806,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 269. 24110 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 266. 24110 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7876,7 +7821,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 270. 4677 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 267. 4677 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7891,7 +7836,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 271. 4681 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 268. 4681 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7906,7 +7851,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 272. 4690 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 269. 4690 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7920,7 +7865,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 273. 4714 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 270. 4714 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7935,7 +7880,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 274. 4720 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 271. 4720 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7950,7 +7895,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 275. 4724 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 272. 4724 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7964,7 +7909,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 276. 31572 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 273. 31572 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7978,7 +7923,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 277. 4731 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 274. 4731 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -7993,7 +7938,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 278. 4736 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 275. 4736 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8008,7 +7953,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 279. 24120 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 276. 24120 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8023,7 +7968,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 280. 4743 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 277. 4743 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8038,7 +7983,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 281. 4745 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 278. 4745 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8052,7 +7997,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 282. 4765 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 279. 4765 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8067,7 +8012,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 283. 4768 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 280. 4768 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8082,7 +8027,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 284. 4772 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 281. 4772 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8096,7 +8041,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 285. 4775 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 282. 4775 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8111,7 +8056,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 286. 4780 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 283. 4780 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8125,7 +8070,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 287. 4782 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 284. 4782 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8140,7 +8085,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 288. 4795 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 285. 4795 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8155,7 +8100,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 289. 4812 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 286. 4812 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8170,7 +8115,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 290. 4799 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 287. 4799 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8185,7 +8130,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 291. 4801 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 288. 4801 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8199,7 +8144,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 292. 4804 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 289. 4804 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8214,7 +8159,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 293. 4821 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 290. 4821 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8229,7 +8174,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 294. 4828 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 291. 4828 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8244,7 +8189,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 295. 4831 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 292. 4831 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8259,7 +8204,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 296. 4832 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 293. 4832 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8274,7 +8219,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 297. 4841 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 294. 4841 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8288,7 +8233,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 298. 4842 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 295. 4842 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8303,7 +8248,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 299. 28136 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 296. 28136 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8318,7 +8263,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 300. 4851 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 297. 4851 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8333,7 +8278,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 301. 11008 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 298. 11008 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8348,7 +8293,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 302. 11011 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 299. 11011 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8363,7 +8308,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 303. 11015 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 300. 11015 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8377,7 +8322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 304. 11022 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 301. 11022 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8391,7 +8336,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 305. 11029 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 302. 11029 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8405,7 +8350,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 306. 11033 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 303. 11033 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8419,7 +8364,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 307. 11036 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 304. 11036 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8433,7 +8378,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 308. 11045 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 305. 11045 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8447,7 +8392,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 309. 11050 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 306. 11050 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8462,7 +8407,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 310. 11060 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 307. 11060 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8476,7 +8421,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 311. 4898 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 308. 4898 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8490,7 +8435,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 312. 11064 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 309. 11064 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8504,7 +8449,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 313. 11065 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 310. 11065 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8518,7 +8463,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 314. 11067 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 311. 11067 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8532,7 +8477,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 315. 4927 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 312. 4927 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8547,7 +8492,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 316. 4928 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 313. 4928 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8562,7 +8507,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 317. 11096 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 314. 11096 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8576,7 +8521,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 318. 4932 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 315. 4932 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8591,7 +8536,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 319. 4934 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 316. 4934 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8606,7 +8551,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 320. 4936 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 317. 4936 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8621,7 +8566,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 321. 4942 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 318. 4942 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8635,7 +8580,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 322. 4953 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 319. 4953 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8649,7 +8594,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 323. 11112 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 320. 11112 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8663,7 +8608,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 324. 11117 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 321. 11117 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8677,7 +8622,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 325. 11118 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 322. 11118 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8691,7 +8636,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 326. 11120 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 323. 11120 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8706,7 +8651,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 327. 11121 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 324. 11121 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8721,7 +8666,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 328. 26630 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 325. 26630 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8736,7 +8681,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 329. 11496 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 326. 11496 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8751,7 +8696,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 330. 11498 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 327. 11498 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8765,7 +8710,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 331. 11499 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 328. 11499 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8780,7 +8725,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 332. 11501 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 329. 11501 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8795,7 +8740,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 333. 5185 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 330. 5185 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8809,7 +8754,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 334. 5202 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 331. 5202 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8824,7 +8769,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 335. 5206 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 332. 5206 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8838,7 +8783,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 336. 5211 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 333. 5211 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8853,7 +8798,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 337. 5218 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 334. 5218 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8867,7 +8812,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 338. 5249 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 335. 5249 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8882,7 +8827,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 339. 5251 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 336. 5251 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8897,7 +8842,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 340. 5256 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 337. 5256 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8912,7 +8857,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 341. 5252 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 338. 5252 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8926,7 +8871,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 342. 5253 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 339. 5253 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8940,7 +8885,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 343. 16789 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 340. 16789 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8955,7 +8900,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 344. 8797 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 341. 8797 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8969,7 +8914,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 345. 8813 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 342. 8813 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8984,7 +8929,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 346. 25340 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 343. 25340 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -8999,7 +8944,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 347. 8816 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 344. 8816 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9014,7 +8959,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 348. 14519 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 345. 14519 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9028,7 +8973,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 349. 11143 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 346. 11143 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9043,7 +8988,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 350. 11144 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 347. 11144 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9058,7 +9003,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 351. 11146 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 348. 11146 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9073,7 +9018,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 352. 14523 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 349. 14523 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9087,7 +9032,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 353. 14526 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 350. 14526 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9102,7 +9047,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 354. 11151 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 351. 11151 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9116,7 +9061,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 355. 11152 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 352. 11152 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9131,7 +9076,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 356. 11154 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 353. 11154 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9145,7 +9090,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 357. 11156 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 354. 11156 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9160,7 +9105,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 358. 14557 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 355. 14557 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9174,7 +9119,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 359. 11209 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 356. 11209 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9188,7 +9133,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 360. 11225 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 357. 11225 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9202,7 +9147,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 361. 11227 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 358. 11227 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9217,7 +9162,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 362. 11235 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 359. 11235 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9232,7 +9177,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 363. 11237 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 360. 11237 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9247,7 +9192,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 364. 32382 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 361. 32382 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9261,7 +9206,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 365. 11245 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 362. 11245 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9276,7 +9221,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 366. 14681 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 363. 14681 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9291,7 +9236,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 367. 11260 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 364. 11260 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9305,7 +9250,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 368. 28434 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 365. 28434 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9319,7 +9264,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 369. 11290 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 366. 11290 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9333,7 +9278,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 370. 11293 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 367. 11293 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9347,7 +9292,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 371. 11308 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 368. 11308 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9361,7 +9306,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 372. 11311 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 369. 11311 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9376,7 +9321,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 373. 11320 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 370. 11320 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9391,7 +9336,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 374. 32312 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 371. 32312 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9406,7 +9351,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 375. 11338 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 372. 11338 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9420,7 +9365,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 376. 11339 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 373. 11339 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9434,7 +9379,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 377. 11351 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 374. 11351 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9448,7 +9393,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 378. 11387 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 375. 11387 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9463,7 +9408,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 379. 11404 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 376. 11404 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9478,7 +9423,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 380. 11408 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 377. 11408 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9493,7 +9438,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 381. 11409 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 378. 11409 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9507,7 +9452,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 382. 11412 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 379. 11412 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9522,7 +9467,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 383. 11424 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 380. 11424 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9537,7 +9482,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 384. 11436 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 381. 11436 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9552,7 +9497,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 385. 32010 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 382. 32010 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9567,7 +9512,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 386. 11443 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 383. 11443 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9581,7 +9526,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 387. 38204 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 384. 38204 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9596,7 +9541,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 388. 32604 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 385. 32604 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9610,7 +9555,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 389. 32554 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 386. 32554 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9624,7 +9569,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 390. 42470 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 387. 42470 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9639,7 +9584,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 391. 43066 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 388. 43066 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9654,7 +9599,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 18 qualifying parcels across target counties |
 
-### 392. 43384 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 389. 43384 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9669,7 +9614,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 393. 10524 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 390. 10524 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9683,7 +9628,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 394. 42814 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 391. 42814 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9697,7 +9642,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 395. 43060 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 392. 43060 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9711,7 +9656,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 396. 42356 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 393. 42356 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9726,7 +9671,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 397. 42374 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 394. 42374 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9741,7 +9686,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 398. 43096 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 395. 43096 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9756,7 +9701,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 399. 42956 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 396. 42956 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9770,7 +9715,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 400. 42812 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 397. 42812 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9785,7 +9730,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 401. 43746 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 398. 43746 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9800,7 +9745,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 402. 44476 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 399. 44476 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9815,7 +9760,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 403. 44478 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 400. 44478 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9830,7 +9775,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 404. 44496 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 401. 44496 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9844,7 +9789,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 405. 44506 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 402. 44506 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9859,7 +9804,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 406. 43940 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 403. 43940 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9874,7 +9819,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 407. 44714 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 404. 44714 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9889,7 +9834,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 408. 44866 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 405. 44866 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9903,7 +9848,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 409. 45548 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 406. 45548 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9917,7 +9862,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 
-### 410. 45840 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 407. 45840 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9932,7 +9877,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 411. 45842 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 408. 45842 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -9947,7 +9892,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Lakeshore. Seasonal and year-round. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-## Dane County — Off-Market (42)
+## Dane County — Off-Market (39)
 
 ### 1. 0709-342-0101-6 — 141.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
@@ -10080,7 +10025,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NW metro. Strong growth pressure. |
 
-### 10. 0608-314-9500-0 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 10. 0608-314-9500-0 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -10095,7 +10040,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Epic Systems corridor. Massive residential demand. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 11. 0911-351-8000-9 — 40.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 11. 0911-351-8000-9 — 420-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -10109,7 +10054,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds City of Sun Prairie. FLU shows residential expansion. |
 
-### 12. 0809-182-8001-1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 12. 0809-182-8001-1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10350,21 +10295,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds City of Sun Prairie. FLU shows residential expansion. |
 
-### 29. 0607-144-9001-2 — 29.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 0607-144-9001-2 |
-| **Address** | 8292 DAIRY RIDGE RD |
-| **Owner** | KELLY DAVIS REV TR CAROLYN S |
-| **Acres** | 29.5 |
-| **Municipality** | Verona |
-| **Growth Rating** | High |
-| **Location** | Dane County, ZIP 53593 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Epic Systems corridor. Massive residential demand. |
-
-### 30. 0711-303-8211-6 — 29.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 29. 0711-303-8211-6 — 29.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10378,7 +10309,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | South of Madison near McFarland. |
 
-### 31. 0510-071-9500-1 — 29.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 30. 0510-071-9500-1 — 29.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10392,7 +10323,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | SE of Oregon. Edge-growth potential. |
 
-### 32. 0808-114-9161-9 — 28.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 31. 0808-114-9161-9 — 28.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10406,7 +10337,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NW metro. Strong growth pressure. |
 
-### 33. 0609-202-9100-2 — 25.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 32. 0609-202-9100-2 — 25.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -10420,7 +10351,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | South of Madison. Major residential development. Sewer/water expanding. |
 
-### 34. 0909-212-9820-0 — 25.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 33. 0909-212-9820-0 — 25.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10434,7 +10365,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NW metro. Strong growth pressure. |
 
-### 35. 0708-343-0210-4 — 24.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 34. 0708-343-0210-4 — 24.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -10448,7 +10379,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Epic Systems corridor. Massive residential demand. |
 
-### 36. 0809-163-8220-8 — 24.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 35. 0809-163-8220-8 — 24.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10463,7 +10394,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NW metro. Strong growth pressure. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 37. 0510-181-9162-0 — 23.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 36. 0510-181-9162-0 — 23.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10477,21 +10408,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | SE of Oregon. Edge-growth potential. |
 
-### 38. 0610-273-9000-0 — 21.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 0610-273-9000-0 |
-| **Address** | 1906 HAWKINSON RD |
-| **Owner** | CARLEY REV TR ANN |
-| **Acres** | 21.7 |
-| **Municipality** | Montrose |
-| **Growth Rating** | Moderate to High |
-| **Location** | Dane County, ZIP 53575 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | SE of Oregon. Edge-growth potential. |
-
-### 39. 0810-361-9690-5 — 20.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 37. 0810-361-9690-5 — 220-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -10506,7 +10423,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds City of Sun Prairie. FLU shows residential expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 40. 0810-361-9690-5 — 20.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 38. 0810-361-9690-5 — 220-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -10521,21 +10438,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds City of Sun Prairie. FLU shows residential expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 41. 0808-323-9180-0 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 0808-323-9180-0 |
-| **Address** | 4852 VOSEN RD |
-| **Owner** | KUNZE REV TR DANIEL E & LAURA L |
-| **Acres** | 20.0 |
-| **Municipality** | Westport |
-| **Growth Rating** | High |
-| **Location** | Dane County, ZIP 53562 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Between Middleton and Lake Mendota. High pressure for residential. |
-
-### 42. 0808-172-9500-8 — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 39. 0808-172-9500-8 — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10549,23 +10452,9 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NW metro. Strong growth pressure. |
 
-## Door County — Off-Market (30)
+## Door County — Off-Market (27)
 
-### 1. 018 0236322821 — 50.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 018 0236322821 |
-| **Address** |  |
-| **Owner** | RANDALL F & BONNIE LOU STEPHENSON TRST |
-| **Acres** | 50.7 |
-| **Municipality** | Sister Bay |
-| **Growth Rating** | Moderate to High |
-| **Location** | Door County, ZIP 54234 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
-
-### 2. 018 0116312823 — 40.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 1. 018 0116312823 — 40.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10579,7 +10468,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 3. 018 0103312812 — 40.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 2. 018 0103312812 — 40.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10593,7 +10482,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 4. 018 0117312844 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 3. 018 0117312844 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10607,7 +10496,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 5. 018 0233322831A — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 4. 018 0233322831A — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10622,7 +10511,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 6. 018 0235322821 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 5. 018 0235322821 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10636,21 +10525,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 7. 018 0117312831 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 018 0117312831 |
-| **Address** |  |
-| **Owner** | DOLORES SMITH TRST |
-| **Acres** | 40.0 |
-| **Municipality** | Sister Bay |
-| **Growth Rating** | Moderate to High |
-| **Location** | Door County, ZIP 54234 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
-
-### 8. 018 0130312823A — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 6. 018 0130312823A — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10664,7 +10539,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 9. 018 0116312814 — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 7. 018 0116312814 — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10678,7 +10553,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 10. 018 0116312832A — 31.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 8. 018 0116312832A — 31.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10692,7 +10567,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 11. 018 0228322821C — 31.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 9. 018 0228322821C — 31.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10707,7 +10582,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 12. 018 0109312834B — 30.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 10. 018 0109312834B — 30.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10721,7 +10596,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 13. 018 0109312844A — 30.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 11. 018 0109312844A — 30.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10735,7 +10610,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 14. 018 0109312831B — 30.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 12. 018 0109312831B — 30.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10749,7 +10624,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 15. 018 0130312831A — 30.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 13. 018 0130312831A — 30.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10763,7 +10638,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 16. 018 0110312832A — 29.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 14. 018 0110312832A — 29.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10777,7 +10652,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 17. 018 0233322823B — 27.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 15. 018 0233322823B — 27.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10792,7 +10667,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 18. 018 0233322812A1 — 24.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 16. 018 0233322812A1 — 24.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10806,7 +10681,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 19. 018 0111312821B — 24.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 17. 018 0111312821B — 24.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10820,7 +10695,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 20. 018 0111312822C — 22.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 18. 018 0111312822C — 22.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10834,7 +10709,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 21. 018 0107312833A — 21.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 19. 018 0107312833A — 21.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10849,7 +10724,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 22. 018 0104312821A — 20.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 20. 018 0104312821A — 20.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10863,7 +10738,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 23. 181 0008312841A — 20.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 21. 181 0008312841A — 20.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10877,7 +10752,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 24. 018 0116312813B — 20.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 22. 018 0116312813B — 20.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10891,21 +10766,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 25. 018 0102312833 — 20.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 018 0102312833 |
-| **Address** |  |
-| **Owner** | JAMES E & KRISTINE JOHNSON TRST |
-| **Acres** | 20.3 |
-| **Municipality** | Sister Bay |
-| **Growth Rating** | Moderate to High |
-| **Location** | Door County, ZIP 54234 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
-
-### 26. 018 0233322834A — 20.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 23. 018 0233322834A — 20.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10919,7 +10780,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 27. 018 0103312811 — 20.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 24. 018 0103312811 — 20.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10933,7 +10794,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 
-### 28. 018 0233322821A — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 25. 018 0233322821A — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10948,7 +10809,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 29. 018 0233322824A — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 26. 018 0233322824A — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10963,7 +10824,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Key tourism corridor. Seasonal growth. Limited subdivision potential vs metro counties. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 30. 018 0116312813A — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 27. 018 0116312813A — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -10979,7 +10840,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 
 ## Milwaukee County — Off-Market (13)
 
-### 1. 713-9999-001 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 1. 713-9999-001 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -10993,7 +10854,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 2. 979-9998-000 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 2. 979-9998-000 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11007,7 +10868,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 3. 983-9998-000 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 3. 983-9998-000 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11021,7 +10882,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 4. 985-9996-000 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 4. 985-9996-000 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11036,7 +10897,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 5. 985-9997-003 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 5. 985-9997-003 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11051,7 +10912,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 6. 886-9986-000 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 6. 886-9986-000 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11065,7 +10926,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 7. 939-9996-008 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 7. 939-9996-008 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11079,7 +10940,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 8. 751-9998-003 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 8. 751-9998-003 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11093,7 +10954,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | MOST GREENFIELD POTENTIAL in county. Southern edge with undeveloped land. |
 
-### 9. 966-9998-001 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 9. 966-9998-001 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11108,7 +10969,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | SECOND MOST GREENFIELD. SE edge near airport. Growth corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 10. 967-9992-001 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 10. 967-9992-001 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11123,7 +10984,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | SECOND MOST GREENFIELD. SE edge near airport. Growth corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 11. 967-9999-003 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 11. 967-9999-003 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11138,7 +10999,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | SECOND MOST GREENFIELD. SE edge near airport. Growth corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 12. 967-9989-002 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 12. 967-9989-002 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11153,7 +11014,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | SECOND MOST GREENFIELD. SE edge near airport. Growth corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 13. 919-9051-000 — 0.0 acres — B — Secondary growth ring. Feasible but requires more due diligence.
+### 13. 919-9051-000 — 20-300† acres — B — Secondary growth ring. Feasible but requires more due diligence.
 
 | Field | Value |
 |---|---|
@@ -11167,9 +11028,9 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B — Secondary growth ring. Feasible but requires more due diligence. |
 | **Growth Context** | SECOND MOST GREENFIELD. SE edge near airport. Growth corridor. |
 
-## Outagamie County — Off-Market (197)
+## Outagamie County — Off-Market (181)
 
-### 1. 02-0-0133-00 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 1. 02-0-0133-00 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -11183,7 +11044,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | PRIMARY GROWTH. Textbooks Cody Bjugan target. FLU map, water/wastewater master plans, 7 sub-area plans. |
 
-### 2. 08-0-0865-00 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 2. 08-0-0865-00 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -11197,7 +11058,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | PRIMARY GROWTH. Textbooks Cody Bjugan target. FLU map, water/wastewater master plans, 7 sub-area plans. |
 
-### 3. 08-0-0885-00 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 3. 08-0-0885-00 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -11211,7 +11072,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | PRIMARY GROWTH. Textbooks Cody Bjugan target. FLU map, water/wastewater master plans, 7 sub-area plans. |
 
-### 4. 04-0-0271-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 4. 04-0-0271-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11226,7 +11087,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 5. 04-0-0281-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 5. 04-0-0281-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11241,7 +11102,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 6. 04-0-0294-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 6. 04-0-0294-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11255,7 +11116,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 7. 04-0-0296-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 7. 04-0-0296-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11269,7 +11130,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 8. 04-0-0306-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 8. 04-0-0306-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11284,21 +11145,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 9. 04-0-0332-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0332-00 |
-| **Address** | N4041 COUNTY ROAD EE |
-| **Owner** | RANDY J SCHMIDT LIV TRST |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-
-### 10. 04-0-0342-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 9. 04-0-0342-02 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11312,7 +11159,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 11. 04-0-0362-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 10. 04-0-0362-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11326,7 +11173,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 12. 04-0-0366-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 11. 04-0-0366-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11340,7 +11187,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 13. 04-0-0393-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 12. 04-0-0393-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11354,7 +11201,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 14. 04-0-0397-01 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 13. 04-0-0397-01 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11369,7 +11216,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 15. 04-0-0402-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 14. 04-0-0402-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11384,7 +11231,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 16. 04-0-0403-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 15. 04-0-0403-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11399,7 +11246,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 17. 04-0-0412-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 16. 04-0-0412-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11414,7 +11261,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 18. 04-0-0433-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 17. 04-0-0433-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11429,7 +11276,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 19. 04-0-0540-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 18. 04-0-0540-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11444,7 +11291,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 20. 04-0-0554-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 19. 04-0-0554-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11459,7 +11306,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 21. 04-0-0557-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 20. 04-0-0557-02 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11474,7 +11321,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 22. 04-0-0559-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 21. 04-0-0559-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11489,7 +11336,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 23. 04-0-0616-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 22. 04-0-0616-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11504,7 +11351,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 24. 04-0-0617-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 23. 04-0-0617-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11519,7 +11366,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 25. 04-0-0619-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 24. 04-0-0619-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11534,7 +11381,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 26. 04-0-0621-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 25. 04-0-0621-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11549,7 +11396,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 27. 04-0-0622-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 26. 04-0-0622-02 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11564,7 +11411,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 28. 04-0-0635-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 27. 04-0-0635-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11578,7 +11425,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 29. 04-0-0259-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 28. 04-0-0259-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11593,7 +11440,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 7 qualifying parcels across target counties |
 
-### 30. 06-0-0063-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 29. 06-0-0063-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11607,7 +11454,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 31. 09-0-0182-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 30. 09-0-0182-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11622,7 +11469,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 32. 09-0-0518-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 31. 09-0-0518-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11636,7 +11483,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 33. 09-0-0527-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 32. 09-0-0527-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11650,37 +11497,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 34. 09-0-0528-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 09-0-0528-00 |
-| **Address** | COUNTY ROAD EE EE |
-| **Owner** | DAVID J LENZ REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 35. 09-0-0531-03 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 09-0-0531-03 |
-| **Address** | COUNTY ROAD EE EE |
-| **Owner** | DAVID J LENZ REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 36. 09-0-0539-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 33. 09-0-0539-02 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11694,7 +11511,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 37. 09-0-0540-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 34. 09-0-0540-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11709,7 +11526,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 38. 09-0-0607-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 35. 09-0-0607-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11724,7 +11541,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 39. 09-0-0288-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 36. 09-0-0288-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11738,7 +11555,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 40. 09-0-0612-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 37. 09-0-0612-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11753,36 +11570,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 41. 10-1-0069-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 10-1-0069-00 |
-| **Address** | E BROADWAY DR |
-| **Owner** | KENNETH G BAUM REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 42. 10-1-0227-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 10-1-0227-00 |
-| **Address** | W EDGEWOOD DR |
-| **Owner** | ROBERT A EBBEN REV TRST |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-
-### 43. 01-0-0796-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 38. 01-0-0796-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11796,7 +11584,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 44. 08-0-0628-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 39. 08-0-0628-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11811,7 +11599,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 45. 08-0-0631-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 40. 08-0-0631-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11826,21 +11614,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 46. 01-0-0624-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 01-0-0624-00 |
-| **Address** | 47 STATE ROAD 47 |
-| **Owner** | JOSEPH F THEISEN JR AND SANDRA L THEISEN REVO |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-
-### 47. 09-0-0449-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 41. 09-0-0449-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11855,7 +11629,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 48. 09-0-0458-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 42. 09-0-0458-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11870,7 +11644,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 49. 09-0-0481-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 43. 09-0-0481-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11885,7 +11659,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 50. 09-0-0489-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 44. 09-0-0489-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11899,7 +11673,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 51. 13-0-0211-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 45. 13-0-0211-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11913,7 +11687,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 52. 10-1-0421-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 46. 10-1-0421-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11927,7 +11701,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 53. 20-0-0127-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 47. 20-0-0127-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11941,7 +11715,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 54. 20-0-0188-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 48. 20-0-0188-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11955,7 +11729,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 55. 04-0-0003-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 49. 04-0-0003-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11969,7 +11743,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 56. 04-0-0015-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 50. 04-0-0015-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11984,7 +11758,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 57. 04-0-0016-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 51. 04-0-0016-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -11999,37 +11773,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 58. 04-0-0045-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0045-00 |
-| **Address** |  |
-| **Owner** | CAROL J JENS IRREV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 59. 04-0-0046-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0046-02 |
-| **Address** |  |
-| **Owner** | CAROL J JENS IRREV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 60. 04-0-0848-01 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 52. 04-0-0848-01 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12043,7 +11787,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 61. 04-0-0858-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 53. 04-0-0858-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12058,7 +11802,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 62. 04-0-0859-03 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 54. 04-0-0859-03 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12073,7 +11817,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 63. 04-0-0862-03 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 55. 04-0-0862-03 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12088,7 +11832,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 64. 04-0-0689-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 56. 04-0-0689-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12102,7 +11846,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 65. 04-0-0909-04 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 57. 04-0-0909-04 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12116,7 +11860,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 66. 31-1-9202-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 58. 31-1-9202-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12130,37 +11874,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 67. 04-0-0759-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0759-00 |
-| **Address** |  |
-| **Owner** | GRIESBACH FAM IRREV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 68. 04-0-0760-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0760-00 |
-| **Address** |  |
-| **Owner** | GRIESBACH FAM IRREV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 69. 31-1-9220-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 59. 31-1-9220-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12174,22 +11888,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 70. 04-0-0941-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
-
-| Field | Value |
-|---|---|
-| **APN** | 04-0-0941-00 |
-| **Address** |  |
-| **Owner** | KENNETH G BAUM REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Grand Chute |
-| **Growth Rating** | High |
-| **Location** | Outagamie County, ZIP 54913 |
-| **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
-| **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 71. 04-0-0955-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 60. 04-0-0955-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12203,7 +11902,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 72. 31-1-9310-04 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 61. 31-1-9310-04 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12217,7 +11916,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 73. 04-0-0830-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 62. 04-0-0830-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12232,7 +11931,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 74. 04-0-0831-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 63. 04-0-0831-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12247,7 +11946,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 75. 08-0-0915-01 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 64. 08-0-0915-01 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12261,7 +11960,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 76. 09-0-0757-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 65. 09-0-0757-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12275,7 +11974,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 77. 09-0-0766-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 66. 09-0-0766-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12290,7 +11989,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 78. 09-0-0770-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 67. 09-0-0770-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12305,7 +12004,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 79. 09-0-0771-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 68. 09-0-0771-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12320,7 +12019,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 80. 09-0-0792-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 69. 09-0-0792-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12334,7 +12033,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 81. 09-0-0793-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 70. 09-0-0793-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12349,7 +12048,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 82. 09-0-0796-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 71. 09-0-0796-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12364,7 +12063,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 83. 09-0-0873-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 72. 09-0-0873-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12379,7 +12078,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 84. 09-0-0913-02 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 73. 09-0-0913-02 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12394,7 +12093,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 85. 09-0-0924-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 74. 09-0-0924-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12408,7 +12107,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 86. 09-0-0943-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 75. 09-0-0943-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12422,7 +12121,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 87. 19-0-0136-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 76. 19-0-0136-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12436,7 +12135,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 88. 09-0-0145-06 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 77. 09-0-0145-06 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12450,7 +12149,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 89. 09-0-0151-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 78. 09-0-0151-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12465,7 +12164,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 90. 09-0-0152-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 79. 09-0-0152-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12480,7 +12179,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 91. 10-1-0847-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 80. 10-1-0847-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12494,7 +12193,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 92. 17-0-2008-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 81. 17-0-2008-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12508,7 +12207,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 93. 17-0-1259-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 82. 17-0-1259-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12522,7 +12221,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 
-### 94. 20-0-0096-01 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 83. 20-0-0096-01 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12537,7 +12236,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Appleton. Fox River Mall corridor. US 41 growth spine. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 95. 03-0-0288-00 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 84. 03-0-0288-00 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -12551,7 +12250,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | East of Appleton along US 10. Major planned residential expansion. |
 
-### 96. 21-0-0241-00 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 85. 21-0-0241-00 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -12565,7 +12264,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Kaukauna. Fox Cities metro core. Sewer/water infrastructure. |
 
-### 97. 09-0-0186-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 86. 09-0-0186-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12580,7 +12279,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 98. 09-0-0187-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 87. 09-0-0187-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12594,7 +12293,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 99. 09-0-0226-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 88. 09-0-0226-01 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12608,7 +12307,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 100. 09-0-0663-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 89. 09-0-0663-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12623,7 +12322,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 101. 09-0-0682-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 90. 09-0-0682-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12638,7 +12337,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 102. 09-0-0686-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 91. 09-0-0686-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12653,7 +12352,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 103. 09-0-0688-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 92. 09-0-0688-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12668,7 +12367,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 104. 09-0-0699-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 93. 09-0-0699-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12683,7 +12382,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 105. 09-0-0700-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 94. 09-0-0700-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12698,7 +12397,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 106. 09-0-0707-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 95. 09-0-0707-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12712,7 +12411,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 107. 09-0-0710-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 96. 09-0-0710-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12726,7 +12425,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 108. 09-0-0339-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 97. 09-0-0339-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12740,7 +12439,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 109. 09-0-0353-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 98. 09-0-0353-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12754,7 +12453,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 110. 09-0-0384-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 99. 09-0-0384-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12769,7 +12468,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 111. 09-0-0387-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 100. 09-0-0387-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12783,7 +12482,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 112. 01-0-0690-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 101. 01-0-0690-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12798,7 +12497,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 113. 01-0-0691-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 102. 01-0-0691-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12813,7 +12512,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 114. 13-0-0082-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 103. 13-0-0082-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12828,7 +12527,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 115. 13-0-0093-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 104. 13-0-0093-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12843,7 +12542,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 116. 13-0-0100-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 105. 13-0-0100-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12858,7 +12557,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 117. 13-0-0101-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 106. 13-0-0101-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12873,7 +12572,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 118. 13-0-0104-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 107. 13-0-0104-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12888,7 +12587,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 119. 13-0-0109-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 108. 13-0-0109-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12903,7 +12602,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 120. 13-0-0111-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 109. 13-0-0111-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12918,7 +12617,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 121. 13-0-0118-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 110. 13-0-0118-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12933,7 +12632,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 122. 13-0-0122-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 111. 13-0-0122-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12948,7 +12647,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 123. 13-0-0125-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 112. 13-0-0125-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12963,7 +12662,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 124. 03-0-0133-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 113. 03-0-0133-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12977,7 +12676,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 125. 13-0-0154-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 114. 13-0-0154-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -12992,21 +12691,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 126. 13-0-0170-02 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 13-0-0170-02 |
-| **Address** |  |
-| **Owner** | ALLEN K BOWERS AND JODIE L BOWERS JOINT REVOC |
-| **Acres** | 0.0 |
-| **Municipality** | Buchanan |
-| **Growth Rating** | Moderate to High |
-| **Location** | Outagamie County, ZIP 54130 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
-
-### 127. 13-0-0190-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 115. 13-0-0190-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13021,7 +12706,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 128. 13-0-0193-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 116. 13-0-0193-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13036,7 +12721,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 129. 13-0-0212-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 117. 13-0-0212-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13050,7 +12735,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 130. 03-0-0150-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 118. 03-0-0150-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13065,7 +12750,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 131. 13-0-0229-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 119. 13-0-0229-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13080,7 +12765,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 132. 13-0-0230-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 120. 13-0-0230-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13095,7 +12780,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 133. 13-0-0231-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 121. 13-0-0231-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13110,7 +12795,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 134. 13-0-0235-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 122. 13-0-0235-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13124,7 +12809,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 135. 13-0-0237-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 123. 13-0-0237-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13139,7 +12824,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 136. 03-0-0158-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 124. 03-0-0158-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13153,7 +12838,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 137. 13-0-0261-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 125. 13-0-0261-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13167,7 +12852,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 138. 13-0-0263-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 126. 13-0-0263-01 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13181,7 +12866,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 139. 13-0-0266-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 127. 13-0-0266-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13196,7 +12881,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 140. 03-0-0168-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 128. 03-0-0168-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13211,7 +12896,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 141. 03-0-0265-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 129. 03-0-0265-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13225,7 +12910,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 142. 03-0-0271-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 130. 03-0-0271-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13240,7 +12925,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 143. 03-0-0276-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 131. 03-0-0276-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13255,7 +12940,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 144. 03-0-0287-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 132. 03-0-0287-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13269,7 +12954,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 145. 32-2-1133-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 133. 32-2-1133-01 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13283,7 +12968,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 146. 03-0-0018-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 134. 03-0-0018-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13297,7 +12982,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 147. 03-0-0030-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 135. 03-0-0030-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13312,7 +12997,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 148. 03-0-0031-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 136. 03-0-0031-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13327,7 +13012,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 149. 03-0-0034-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 137. 03-0-0034-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13342,7 +13027,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 150. 03-0-0036-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 138. 03-0-0036-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13357,7 +13042,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 151. 03-0-0040-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 139. 03-0-0040-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13372,7 +13057,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 152. 03-0-0043-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 140. 03-0-0043-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13387,7 +13072,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 153. 03-0-0049-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 141. 03-0-0049-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13401,7 +13086,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 154. 03-0-0051-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 142. 03-0-0051-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13416,7 +13101,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 155. 03-0-0054-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 143. 03-0-0054-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13431,7 +13116,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 156. 03-0-0059-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 144. 03-0-0059-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13446,7 +13131,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 157. 17-0-1803-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 145. 17-0-1803-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13460,7 +13145,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 158. 17-0-1805-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 146. 17-0-1805-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13475,7 +13160,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 159. 17-0-1810-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 147. 17-0-1810-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13490,52 +13175,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 160. 17-0-1817-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 17-0-1817-01 |
-| **Address** | VANS RD |
-| **Owner** | TIMOTHY J VANGHEEM JT REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Buchanan |
-| **Growth Rating** | Moderate to High |
-| **Location** | Outagamie County, ZIP 54130 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
-| **Owner Portfolio** | 3 qualifying parcels across target counties |
-
-### 161. 17-0-1826-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 17-0-1826-00 |
-| **Address** | VANS RD |
-| **Owner** | TIMOTHY J VANGHEEM JT REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Buchanan |
-| **Growth Rating** | Moderate to High |
-| **Location** | Outagamie County, ZIP 54130 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
-| **Owner Portfolio** | 3 qualifying parcels across target counties |
-
-### 162. 17-0-1837-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 17-0-1837-00 |
-| **Address** | VANS RD |
-| **Owner** | TIMOTHY J VANGHEEM JT REV TRST 🔗 **MULTI-PROPERTY** |
-| **Acres** | 0.0 |
-| **Municipality** | Buchanan |
-| **Growth Rating** | Moderate to High |
-| **Location** | Outagamie County, ZIP 54130 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
-| **Owner Portfolio** | 3 qualifying parcels across target counties |
-
-### 163. 17-0-1864-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 148. 17-0-1864-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13550,7 +13190,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 164. 20-0-0106-03 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 149. 20-0-0106-03 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13564,7 +13204,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 165. 20-0-0209-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 150. 20-0-0209-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13578,7 +13218,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 166. 20-0-0245-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 151. 20-0-0245-01 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13592,7 +13232,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 167. 09-0-0732-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 152. 09-0-0732-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13606,7 +13246,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 168. 09-0-0734-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 153. 09-0-0734-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13621,7 +13261,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 169. 09-0-0738-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 154. 09-0-0738-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13636,7 +13276,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 170. 32-5-0594-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 155. 32-5-0594-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13650,7 +13290,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 171. 09-0-0007-03 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 156. 09-0-0007-03 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13664,7 +13304,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 172. 09-0-0008-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 157. 09-0-0008-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13678,7 +13318,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 173. 09-0-0951-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 158. 09-0-0951-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13692,7 +13332,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 174. 09-0-0954-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 159. 09-0-0954-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13706,7 +13346,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 175. 09-0-0048-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 160. 09-0-0048-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13720,7 +13360,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 176. 09-0-0974-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 161. 09-0-0974-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13734,7 +13374,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 177. 09-0-0985-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 162. 09-0-0985-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13748,7 +13388,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 178. 09-0-0989-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 163. 09-0-0989-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13763,7 +13403,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 179. 09-0-0993-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 164. 09-0-0993-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13778,7 +13418,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 180. 09-0-0994-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 165. 09-0-0994-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13793,7 +13433,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 181. 09-0-0996-03 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 166. 09-0-0996-03 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13807,7 +13447,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 182. 13-0-0335-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 167. 13-0-0335-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13822,7 +13462,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 183. 13-0-0359-01 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 168. 13-0-0359-01 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13837,7 +13477,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 184. 13-0-0363-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 169. 13-0-0363-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13852,7 +13492,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 185. 13-0-0392-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 170. 13-0-0392-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13866,7 +13506,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 186. 13-0-0009-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 171. 13-0-0009-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13881,7 +13521,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 187. 13-0-0012-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 172. 13-0-0012-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13896,7 +13536,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 188. 13-0-0013-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 173. 13-0-0013-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13911,7 +13551,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 189. 13-0-0016-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 174. 13-0-0016-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13926,7 +13566,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 190. 13-0-0017-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 175. 13-0-0017-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13941,7 +13581,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 191. 13-0-0018-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 176. 13-0-0018-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13956,21 +13596,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 192. 13-0-0022-02 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 13-0-0022-02 |
-| **Address** |  |
-| **Owner** | DONALD/BARBARA MICKE LV TRST |
-| **Acres** | 0.0 |
-| **Municipality** | Buchanan |
-| **Growth Rating** | Moderate to High |
-| **Location** | Outagamie County, ZIP 54130 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
-
-### 193. 13-0-0055-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 177. 13-0-0055-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -13985,7 +13611,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 194. 13-0-0066-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 178. 13-0-0066-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -14000,7 +13626,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 195. 18-0-0258-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 179. 18-0-0258-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -14014,7 +13640,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 196. 20-0-0552-00 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 180. 20-0-0552-00 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -14028,7 +13654,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Surrounds Kaukauna. In path of outward expansion. |
 
-### 197. 03-0-0134-03 — 0.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 181. 03-0-0134-03 — 20-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -14274,7 +13900,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | I-43 north. Expansion potential. |
 
-### 17. 06-016-06-000.00 — 60.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 17. 06-016-06-000.00 — 620-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -14662,7 +14288,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | I-43 corridor. Growing commercial and residential. |
 
-### 44. 08-005-03-001.00 — 30.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 44. 08-005-03-001.00 — 320-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -14891,7 +14517,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | I-43 north. Expansion potential. |
 
-### 60. 08-014-12-003.00 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 60. 08-014-12-003.00 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -14906,7 +14532,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | I-43 north. Expansion potential. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 61. 08-023-05-002.00 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 61. 08-023-05-002.00 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -14921,7 +14547,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | I-43 north. Expansion potential. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 62. 03-029-14-001.00 — 20.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 62. 03-029-14-001.00 — 220-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -14936,7 +14562,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Directly adjacent to cities. FLU likely shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-## Rock County — Off-Market (347)
+## Rock County — Off-Market (342)
 
 ### 1. 6-6-350 — 198.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
@@ -15142,7 +14768,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 15. 6-11-133 — 140.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 15. 6-11-133 — 1420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15245,7 +14871,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 22. 6-16-125 — 120.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 22. 6-16-125 — 1220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15435,7 +15061,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 35. 6-7-124 — 110.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 35. 6-7-124 — 1120-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15595,7 +15221,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 46. 6-12-167 — 100.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 46. 6-12-167 — 1020-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15654,22 +15280,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 50. 0204200001 — 94.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 0204200001 |
-| **Address** | 5199 MILTON AVE |
-| **Owner** | BRADLEY J HULBERT LIVING 🔗 **MULTI-PROPERTY** |
-| **Acres** | 94.1 |
-| **Municipality** | Milton Town |
-| **Growth Rating** | Moderate to High |
-| **Location** | Rock County, ZIP 53563 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Near City of Milton. Edge growth. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 51. 6-13-232 — 94.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 50. 6-13-232 — 94.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15684,7 +15295,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 52. 6-15-275 — 91.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 51. 6-15-275 — 91.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -15698,7 +15309,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 53. 6-11-294 — 89.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 52. 6-11-294 — 89.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15713,7 +15324,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 54. 6-20-104A — 89.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 53. 6-20-104A — 89.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15728,7 +15339,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 55. 6-6-367 — 89.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 54. 6-6-367 — 89.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15743,7 +15354,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 56. 6-19-67B — 87.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 55. 6-19-67B — 87.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -15758,7 +15369,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 57. 6-11-124.2 — 86.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 56. 6-11-124.2 — 86.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15772,7 +15383,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 58. 6-9-31 — 86.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 57. 6-9-31 — 86.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15786,7 +15397,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 59. 6-15-321.4A — 86.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 58. 6-15-321.4A — 86.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -15800,7 +15411,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 60. 6-13-244 — 84.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 59. 6-13-244 — 84.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15815,7 +15426,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 61. 6-20-307 — 83.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 60. 6-20-307 — 83.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15830,7 +15441,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 62. 6-16-259 — 82.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 61. 6-16-259 — 82.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15845,7 +15456,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 63. 6-16-165 — 82.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 62. 6-16-165 — 82.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15860,7 +15471,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 64. 6-4-183 — 82.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 63. 6-4-183 — 82.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15874,7 +15485,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 65. 6-13-222 — 81.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 64. 6-13-222 — 81.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15888,7 +15499,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 66. 6-16-229.1 — 81.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 65. 6-16-229.1 — 81.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15902,7 +15513,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 67. 6-16-190 — 80.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 66. 6-16-190 — 80.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15916,7 +15527,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 68. 6-4-192 — 80.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 67. 6-4-192 — 80.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15931,7 +15542,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 69. 6-7-6.1 — 80.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 68. 6-7-6.1 — 80.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15946,7 +15557,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 70. 6-6-440 — 80.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 69. 6-6-440 — 80.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -15960,7 +15571,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 71. 6-2-360 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 70. 6-2-360 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -15975,7 +15586,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 72. 6-2-75 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 71. 6-2-75 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -15990,7 +15601,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 73. 6-2-382.7 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 72. 6-2-382.7 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16004,7 +15615,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 74. 6-14-93 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 73. 6-14-93 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16018,7 +15629,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 75. 6-14-154 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 74. 6-14-154 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16033,7 +15644,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 76. 6-17-312 — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 75. 6-17-312 — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16047,7 +15658,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 77. 6-19-251A — 80.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 76. 6-19-251A — 820-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16062,7 +15673,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 78. 6-4-173 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 77. 6-4-173 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16076,7 +15687,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 79. 6-4-185 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 78. 6-4-185 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16090,7 +15701,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 80. 6-16-147 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 79. 6-16-147 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16105,7 +15716,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 81. 6-16-242 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 80. 6-16-242 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16120,7 +15731,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 82. 6-12-42.1 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 81. 6-12-42.1 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16135,7 +15746,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 83. 6-4-54 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 82. 6-4-54 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16149,7 +15760,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 84. 6-13-26 — 80.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 83. 6-13-26 — 820-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16164,7 +15775,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 85. 6-14-273 — 79.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 84. 6-14-273 — 79.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16178,7 +15789,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 86. 6-9-65 — 79.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 85. 6-9-65 — 79.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16193,7 +15804,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 87. 6-14-12A — 79.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 86. 6-14-12A — 79.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16207,7 +15818,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 88. 6-14-112A — 79.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 87. 6-14-112A — 79.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16221,7 +15832,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 89. 6-4-150 — 79.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 88. 6-4-150 — 79.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -16235,7 +15846,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 90. 6-16-97 — 79.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 89. 6-16-97 — 79.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16249,7 +15860,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 91. 6-12-76.01 — 78.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 90. 6-12-76.01 — 78.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16263,7 +15874,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 92. 6-12-208.1 — 78.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 91. 6-12-208.1 — 78.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16278,7 +15889,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 93. 6-2-72 — 78.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 92. 6-2-72 — 78.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16293,7 +15904,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 94. 6-2-200.2 — 78.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 93. 6-2-200.2 — 78.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16307,7 +15918,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 95. 6-16-80.1 — 78.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 94. 6-16-80.1 — 78.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16321,7 +15932,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 96. 6-16-145 — 77.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 95. 6-16-145 — 77.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16336,7 +15947,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 97. 6-7-248 — 77.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 96. 6-7-248 — 77.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16350,7 +15961,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 98. 0204400001 — 76.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 97. 0204400001 — 76.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16364,7 +15975,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 99. 6-7-109 — 76.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 98. 6-7-109 — 76.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16379,7 +15990,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 100. 6-2-351.3 — 76.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 99. 6-2-351.3 — 76.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16394,7 +16005,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 101. 6-2-49.1 — 76.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 100. 6-2-49.1 — 76.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16408,7 +16019,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 102. 6-7-10 — 75.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 101. 6-7-10 — 75.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16422,7 +16033,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 103. 6-14-67 — 75.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 102. 6-14-67 — 75.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16437,7 +16048,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 104. 6-20-49 — 75.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 103. 6-20-49 — 75.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16451,7 +16062,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 105. 6-9-42 — 75.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 104. 6-9-42 — 75.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16465,7 +16076,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 106. 6-7-4 — 75.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 105. 6-7-4 — 75.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16480,7 +16091,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 107. 6-6-338 — 75.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 106. 6-6-338 — 75.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16494,7 +16105,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 108. 6-12-94.1 — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 107. 6-12-94.1 — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16509,7 +16120,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 109. 6-12-194A — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 108. 6-12-194A — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16524,7 +16135,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 110. 6-16-139 — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 109. 6-16-139 — 75.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16539,7 +16150,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 111. 6-19-87 — 74.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 110. 6-19-87 — 74.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16554,7 +16165,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 112. 6-12-207 — 74.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 111. 6-12-207 — 74.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16568,7 +16179,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 113. 6-12-192A — 74.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 112. 6-12-192A — 74.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16583,7 +16194,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 114. 6-17-291A — 74.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 113. 6-17-291A — 74.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16598,7 +16209,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 115. 6-12-204.1 — 74.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 114. 6-12-204.1 — 74.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16613,7 +16224,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 116. 6-12-184A — 74.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 115. 6-12-184A — 74.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16627,7 +16238,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 117. 6-2-239.2 — 73.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 116. 6-2-239.2 — 73.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16641,7 +16252,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 118. 6-16-151.2 — 73.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 117. 6-16-151.2 — 73.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16655,7 +16266,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 119. 6-11-126.1 — 73.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 118. 6-11-126.1 — 73.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16669,7 +16280,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 120. 6-14-313 — 73.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 119. 6-14-313 — 73.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16683,7 +16294,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 121. 6-14-32 — 73.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 120. 6-14-32 — 73.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16698,7 +16309,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 122. 6-14-286 — 72.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 121. 6-14-286 — 72.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16713,7 +16324,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 123. 6-2-382.1 — 72.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 122. 6-2-382.1 — 72.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16728,7 +16339,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 124. 6-19-251B — 72.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 123. 6-19-251B — 72.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16743,7 +16354,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 125. 6-16-236.2 — 71.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 124. 6-16-236.2 — 71.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16757,7 +16368,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 126. 6-11-264 — 71.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 125. 6-11-264 — 71.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16771,7 +16382,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 127. 6-6-426 — 71.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 126. 6-6-426 — 71.3 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -16786,7 +16397,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 128. 6-16-229 — 70.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 127. 6-16-229 — 70.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16801,7 +16412,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 129. 6-14-206 — 70.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 128. 6-14-206 — 70.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16816,7 +16427,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 130. 6-12-185 — 69.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 129. 6-12-185 — 69.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16830,7 +16441,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 131. 6-13-234 — 69.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 130. 6-13-234 — 69.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16845,7 +16456,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 132. 6-7-2 — 68.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 131. 6-7-2 — 68.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16860,7 +16471,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 133. 6-19-365 — 68.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 132. 6-19-365 — 68.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16874,7 +16485,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 134. 6-16-131 — 68.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 133. 6-16-131 — 68.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16889,7 +16500,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 135. 6-14-194 — 68.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 134. 6-14-194 — 68.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16904,7 +16515,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 136. 6-7-53 — 67.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 135. 6-7-53 — 67.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16919,7 +16530,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 137. 6-19-363A — 67.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 136. 6-19-363A — 67.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16934,7 +16545,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 138. 6-12-21.2 — 66.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 137. 6-12-21.2 — 66.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16948,7 +16559,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 139. 6-15-312 — 66.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 138. 6-15-312 — 66.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16962,7 +16573,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 140. 6-20-294 — 66.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 139. 6-20-294 — 66.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -16977,7 +16588,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 141. 6-19-139A.1 — 66.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 140. 6-19-139A.1 — 66.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -16992,7 +16603,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 142. 6-2-25.02 — 65.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 141. 6-2-25.02 — 65.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17007,7 +16618,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 143. 6-14-113 — 65.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 142. 6-14-113 — 65.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17022,7 +16633,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 144. 6-13-66 — 65.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 143. 6-13-66 — 65.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17036,7 +16647,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 145. 6-16-237.1A — 65.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 144. 6-16-237.1A — 65.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17051,7 +16662,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 146. 6-10-231.01 — 64.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 145. 6-10-231.01 — 64.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17065,7 +16676,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 147. 6-17-297 — 62.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 146. 6-17-297 — 62.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17080,7 +16691,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 148. 6-8-101G — 61.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 147. 6-8-101G — 61.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -17095,7 +16706,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 149. 6-15-319 — 61.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 148. 6-15-319 — 61.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17109,7 +16720,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 150. 6-11-283 — 60.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 149. 6-11-283 — 60.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17124,7 +16735,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 151. 6-19-88 — 60.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 150. 6-19-88 — 60.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17139,7 +16750,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 152. 6-2-364 — 59.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 151. 6-2-364 — 59.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17154,7 +16765,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 153. 6-16-179B — 59.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 152. 6-16-179B — 59.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17169,7 +16780,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 154. 6-14-278 — 59.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 153. 6-14-278 — 59.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17183,7 +16794,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 155. 6-19-302 — 59.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 154. 6-19-302 — 59.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17197,7 +16808,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 156. 6-7-98 — 58.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 155. 6-7-98 — 58.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17212,7 +16823,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 157. 6-8-104A — 57.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 156. 6-8-104A — 57.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -17226,7 +16837,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 158. 6-16-130 — 55.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 157. 6-16-130 — 55.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17241,7 +16852,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 159. 6-19-256 — 55.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 158. 6-19-256 — 55.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17255,7 +16866,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 160. 6-11-260.1 — 55.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 159. 6-11-260.1 — 55.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17269,7 +16880,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 161. 6-2-224A — 55.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 160. 6-2-224A — 55.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17284,7 +16895,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 162. 6-8-4 — 55.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 161. 6-8-4 — 55.2 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -17298,7 +16909,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 163. 6-2-359 — 55.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 162. 6-2-359 — 55.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17313,7 +16924,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 164. 6-20-162.1 — 55.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 163. 6-20-162.1 — 55.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17328,7 +16939,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 165. 6-16-195 — 55.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 164. 6-16-195 — 55.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17342,7 +16953,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 166. 6-20-197 — 53.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 165. 6-20-197 — 53.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17356,7 +16967,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 167. 6-20-293 — 53.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 166. 6-20-293 — 53.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17371,7 +16982,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 168. 6-12-71 — 53.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 167. 6-12-71 — 53.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17386,7 +16997,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 169. 6-9-57 — 52.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 168. 6-9-57 — 52.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17400,7 +17011,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 170. 6-7-19 — 52.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 169. 6-7-19 — 52.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17414,7 +17025,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 171. 6-19-109 — 52.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 170. 6-19-109 — 52.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17428,7 +17039,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 172. 6-11-266.2 — 52.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 171. 6-11-266.2 — 52.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17442,7 +17053,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 173. 6-13-73.01 — 52.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 172. 6-13-73.01 — 52.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17456,7 +17067,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 174. 6-20-256 — 51.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 173. 6-20-256 — 51.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17470,7 +17081,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 175. 6-16-272C — 50.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 174. 6-16-272C — 50.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17485,7 +17096,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 176. 6-8-22A — 50.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 175. 6-8-22A — 50.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -17499,7 +17110,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 177. 6-14-223 — 50.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 176. 6-14-223 — 50.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17514,7 +17125,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 178. 6-2-375.2 — 50.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 177. 6-2-375.2 — 520-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17528,7 +17139,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 179. 6-16-248 — 49.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 178. 6-16-248 — 49.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17543,7 +17154,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 180. 6-4-37 — 49.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 179. 6-4-37 — 49.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17558,7 +17169,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 181. 6-14-212.01 — 49.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 180. 6-14-212.01 — 49.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17573,7 +17184,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 182. 6-16-129.1 — 49.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 181. 6-16-129.1 — 49.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17588,7 +17199,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 183. 6-2-91.10 — 49.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 182. 6-2-91.10 — 49.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17602,7 +17213,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 184. 6-2-15.3A — 48.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 183. 6-2-15.3A — 48.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17616,7 +17227,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 185. 6-19-67 — 48.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 184. 6-19-67 — 48.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17631,7 +17242,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 186. 6-20-86 — 47.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 185. 6-20-86 — 47.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17646,7 +17257,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 187. 6-4-198 — 47.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 186. 6-4-198 — 47.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17660,7 +17271,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 188. 6-16-159 — 47.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 187. 6-16-159 — 47.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17674,7 +17285,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 189. 6-11-118B — 47.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 188. 6-11-118B — 47.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17689,22 +17300,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 190. 0204100001 — 46.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 0204100001 |
-| **Address** | 4099 E M H TOWNLINE RD |
-| **Owner** | BRADLEY J HULBERT LIVING 🔗 **MULTI-PROPERTY** |
-| **Acres** | 46.4 |
-| **Municipality** | Milton Town |
-| **Growth Rating** | Moderate to High |
-| **Location** | Rock County, ZIP 53563 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | Near City of Milton. Edge growth. |
-| **Owner Portfolio** | 2 qualifying parcels across target counties |
-
-### 191. 6-19-369E — 45.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 189. 6-19-369E — 45.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17719,7 +17315,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 192. 6-16-10 — 45.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 190. 6-16-10 — 45.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17734,7 +17330,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 193. 6-16-263 — 45.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 191. 6-16-263 — 45.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17749,7 +17345,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 194. 6-15-315.4 — 44.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 192. 6-15-315.4 — 44.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17763,7 +17359,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 195. 6-16-126 — 44.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 193. 6-16-126 — 44.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17778,7 +17374,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 196. 6-19-190.6A — 44.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 194. 6-19-190.6A — 44.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17793,7 +17389,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 197. 6-2-210A — 43.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 195. 6-2-210A — 43.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17808,7 +17404,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 198. 6-14-181B — 43.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 196. 6-14-181B — 43.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17822,7 +17418,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 199. 6-13-15.02 — 43.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 197. 6-13-15.02 — 43.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17836,7 +17432,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 200. 6-20-197.1 — 43.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 198. 6-20-197.1 — 43.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17851,7 +17447,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 201. 6-16-9.3 — 41.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 199. 6-16-9.3 — 41.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17866,7 +17462,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 202. 6-13-215 — 41.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 200. 6-13-215 — 41.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17881,7 +17477,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 203. 6-6-90 — 41.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 201. 6-6-90 — 41.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17895,7 +17491,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 204. 6-6-44 — 41.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 202. 6-6-44 — 41.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17910,21 +17506,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 205. 6-16-162 — 41.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 6-16-162 |
-| **Address** | 11002 W COUNTY ROAD M |
-| **Owner** | GERALD A & MARILYN M VANTHOURNOUT REV LIV TRU |
-| **Acres** | 41.0 |
-| **Municipality** | Evansville |
-| **Growth Rating** | Moderate to High |
-| **Location** | Rock County, ZIP 53536 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | North metro. Growing bedroom community. |
-
-### 206. 6-16-151 — 40.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 203. 6-16-151 — 40.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17938,7 +17520,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 207. 6-9-147.4 — 40.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 204. 6-9-147.4 — 40.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17952,7 +17534,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 208. 6-19-194 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 205. 6-19-194 — 40.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17966,7 +17548,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 209. 6-16-230A — 40.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 206. 6-16-230A — 40.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -17980,7 +17562,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 210. 6-14-66 — 40.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 207. 6-14-66 — 40.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -17995,7 +17577,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 211. 6-6-379 — 40.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 208. 6-6-379 — 40.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18009,7 +17591,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 212. 6-2-71 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 209. 6-2-71 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18023,7 +17605,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 213. 6-14-178 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 210. 6-14-178 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18038,7 +17620,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 214. 6-14-216.1 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 211. 6-14-216.1 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18052,7 +17634,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 215. 6-14-256.2 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 212. 6-14-256.2 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18066,7 +17648,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 216. 6-4-106.1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 213. 6-4-106.1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18080,7 +17662,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 217. 6-12-161 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 214. 6-12-161 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18095,7 +17677,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 218. 6-12-180 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 215. 6-12-180 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18109,7 +17691,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 219. 6-16-144 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 216. 6-16-144 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18124,7 +17706,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 220. 6-16-150.1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 217. 6-16-150.1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18139,7 +17721,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 221. 6-16-283.1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 218. 6-16-283.1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18153,7 +17735,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 222. 6-20-12 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 219. 6-20-12 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18168,7 +17750,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 223. 6-12-132.1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 220. 6-12-132.1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18183,7 +17765,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 224. 6-20-96 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 221. 6-20-96 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18198,7 +17780,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 225. 6-20-164 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 222. 6-20-164 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18213,7 +17795,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 226. 6-11-132 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 223. 6-11-132 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18228,7 +17810,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 227. 6-16-235.1 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 224. 6-16-235.1 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18243,7 +17825,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 228. 6-16-235.2 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 225. 6-16-235.2 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18258,7 +17840,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 12 qualifying parcels across target counties |
 
-### 229. 6-6-301 — 40.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 226. 6-6-301 — 420-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18272,7 +17854,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 230. 6-14-179 — 40.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 227. 6-14-179 — 420-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18287,7 +17869,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 231. 6-16-122 — 39.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 228. 6-16-122 — 39.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18302,7 +17884,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 232. 6-6-292A — 39.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 229. 6-6-292A — 39.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18316,7 +17898,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 233. 6-14-58.1 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 230. 6-14-58.1 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18330,7 +17912,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 234. 6-14-307 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 231. 6-14-307 — 39.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18345,7 +17927,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 235. 6-16-37 — 39.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 232. 6-16-37 — 39.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18359,7 +17941,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 236. 6-14-135 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 233. 6-14-135 — 39.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18374,7 +17956,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 237. 6-17-292 — 39.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 234. 6-17-292 — 39.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18389,7 +17971,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 238. 6-12-208 — 39.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 235. 6-12-208 — 39.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18404,7 +17986,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 239. 6-20-107.2 — 39.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 236. 6-20-107.2 — 39.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18419,7 +18001,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 240. 6-16-193 — 39.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 237. 6-16-193 — 39.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18434,7 +18016,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 241. 6-13-167 — 38.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 238. 6-13-167 — 38.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18449,7 +18031,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 242. 6-20-47.1 — 38.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 239. 6-20-47.1 — 38.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18463,7 +18045,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 243. 6-4-128 — 38.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 240. 6-4-128 — 38.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18477,7 +18059,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 244. 6-14-34 — 38.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 241. 6-14-34 — 38.6 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18492,7 +18074,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 245. 6-13-225.01 — 38.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 242. 6-13-225.01 — 38.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18507,7 +18089,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 246. 6-11-265 — 38.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 243. 6-11-265 — 38.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18521,7 +18103,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 247. 6-7-113 — 38.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 244. 6-7-113 — 38.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18535,7 +18117,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 248. 6-14-251 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 245. 6-14-251 — 38.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18549,7 +18131,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 249. 6-13-90 — 38.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 246. 6-13-90 — 38.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18563,7 +18145,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 250. 6-20-109 — 38.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 247. 6-20-109 — 38.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18578,7 +18160,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 251. 6-19-105A — 37.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 248. 6-19-105A — 37.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18592,7 +18174,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 252. 6-11-258 — 37.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 249. 6-11-258 — 37.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18606,7 +18188,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 253. 6-13-199 — 37.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 250. 6-13-199 — 37.7 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18621,7 +18203,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 254. 6-16-279.1 — 37.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 251. 6-16-279.1 — 37.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18635,7 +18217,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 255. 6-19-66 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 252. 6-19-66 — 37.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18649,7 +18231,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 256. 6-16-260.1 — 37.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 253. 6-16-260.1 — 37.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18664,7 +18246,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 257. 6-6-344.1 — 37.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 254. 6-6-344.1 — 37.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18678,7 +18260,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 258. 6-13-147.3 — 37.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 255. 6-13-147.3 — 37.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18692,7 +18274,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 259. 6-6-112.11 — 36.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 256. 6-6-112.11 — 36.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18707,7 +18289,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 260. 6-14-176 — 36.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 257. 6-14-176 — 36.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18721,7 +18303,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 261. 6-6-28 — 36.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 258. 6-6-28 — 36.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18735,7 +18317,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 262. 6-16-118.8 — 36.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 259. 6-16-118.8 — 36.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18750,7 +18332,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 263. 6-19-67A — 36.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 260. 6-19-67A — 36.7 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18765,7 +18347,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 264. 6-16-122.1 — 36.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 261. 6-16-122.1 — 36.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18779,7 +18361,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 265. 6-8-23A — 36.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 262. 6-8-23A — 36.5 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -18794,7 +18376,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 266. 6-14-177 — 36.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 263. 6-14-177 — 36.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18809,7 +18391,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 267. 6-17-299.2 — 36.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 264. 6-17-299.2 — 36.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18823,7 +18405,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 268. 6-20-266A — 36.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 265. 6-20-266A — 36.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18837,7 +18419,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 269. 6-7-47 — 36.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 266. 6-7-47 — 36.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18851,7 +18433,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 270. 6-16-268 — 36.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 267. 6-16-268 — 36.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18865,7 +18447,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 271. 6-20-61 — 35.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 268. 6-20-61 — 35.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18879,7 +18461,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 272. 6-16-153 — 35.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 269. 6-16-153 — 35.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18894,7 +18476,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 273. 6-15-324A — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 270. 6-15-324A — 35.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18908,7 +18490,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 274. 6-14-115 — 35.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 271. 6-14-115 — 35.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18923,7 +18505,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 275. 6-13-74 — 35.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 272. 6-13-74 — 35.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18937,7 +18519,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 276. 6-9-47 — 35.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 273. 6-9-47 — 35.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18951,7 +18533,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 277. 6-16-150A — 35.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 274. 6-16-150A — 35.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18966,7 +18548,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 278. 6-9-53 — 35.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 275. 6-9-53 — 35.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -18981,7 +18563,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 279. 6-14-64.2 — 35.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 276. 6-14-64.2 — 35.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -18995,7 +18577,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 280. 6-17-300.2 — 35.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 277. 6-17-300.2 — 35.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19009,7 +18591,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 281. 6-19-175A.1 — 35.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 278. 6-19-175A.1 — 35.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19024,7 +18606,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 282. 6-20-171.01 — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 279. 6-20-171.01 — 35.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19039,7 +18621,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 9 qualifying parcels across target counties |
 
-### 283. 6-2-200B — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 280. 6-2-200B — 35.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19054,7 +18636,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 284. 6-12-6 — 34.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 281. 6-12-6 — 34.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19068,7 +18650,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 285. 6-13-133 — 34.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 282. 6-13-133 — 34.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19082,7 +18664,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 286. 6-4-105 — 33.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 283. 6-4-105 — 33.8 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19096,7 +18678,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 287. 6-20-293.002 — 33.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 284. 6-20-293.002 — 33.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19111,7 +18693,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 6 qualifying parcels across target counties |
 
-### 288. 6-7-52 — 33.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 285. 6-7-52 — 33.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19126,7 +18708,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 289. V-23-1462.13 — 32.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 286. V-23-1462.13 — 32.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19141,7 +18723,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 290. 6-6-373 — 32.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 287. 6-6-373 — 32.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19155,7 +18737,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 291. 6-12-147 — 31.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 288. 6-12-147 — 31.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19170,7 +18752,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 292. 6-14-252 — 30.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 289. 6-14-252 — 30.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19184,7 +18766,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 293. 6-15-354A — 30.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 290. 6-15-354A — 30.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19198,7 +18780,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 294. 6-19-370A — 30.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 291. 6-19-370A — 320-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19212,21 +18794,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 295. 6-11-86.1 — 30.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 6-11-86.1 |
-| **Address** | 100 S MAIN ST |
-| **Owner** | LUKE RD GOESSLING AND BRANDI L GOESSLING REVO |
-| **Acres** | 30.0 |
-| **Municipality** | Janesville Town |
-| **Growth Rating** | High |
-| **Location** | Rock County, ZIP 53545 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Surrounds Janesville. FLU shows residential. |
-
-### 296. 6-12-128 — 30.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 292. 6-12-128 — 320-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19240,7 +18808,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 297. 6-6-31 — 30.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 293. 6-6-31 — 320-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19254,7 +18822,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 298. 6-4-118.2 — 29.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 294. 6-4-118.2 — 29.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19268,7 +18836,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 299. 6-13-245.1 — 29.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 295. 6-13-245.1 — 29.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19283,7 +18851,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 300. 6-19-119 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 296. 6-19-119 — 29.4 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19298,7 +18866,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 301. 6-13-22 — 29.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 297. 6-13-22 — 29.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19312,7 +18880,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 302. 6-17-313.2 — 28.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 298. 6-17-313.2 — 28.8 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19327,7 +18895,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 303. 6-16-237.01 — 28.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 299. 6-16-237.01 — 28.3 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19342,7 +18910,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 304. 12110010 — 28.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 300. 12110010 — 28.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19356,7 +18924,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 305. 6-6-409.1 — 27.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 301. 6-6-409.1 — 27.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -19370,7 +18938,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 306. 6-2-24 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 302. 6-2-24 — 27.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19384,7 +18952,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 307. 6-13-24A — 27.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 303. 6-13-24A — 27.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19399,7 +18967,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 308. 6-6-357A — 26.7 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 304. 6-6-357A — 26.7 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -19414,7 +18982,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 309. 6-8-26.2 — 26.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 305. 6-8-26.2 — 26.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -19429,7 +18997,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 310. 6-8-102.1 — 26.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 306. 6-8-102.1 — 26.6 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -19443,7 +19011,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 
-### 311. 6-4-146 — 26.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 307. 6-4-146 — 26.6 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19457,7 +19025,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 312. 6-19-173.1 — 26.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 308. 6-19-173.1 — 26.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19471,7 +19039,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 313. 6-16-222.1A — 26.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 309. 6-16-222.1A — 26.5 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19485,7 +19053,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 314. 6-16-174B — 26.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 310. 6-16-174B — 26.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19500,7 +19068,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 315. 6-6-440.01 — 25.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 311. 6-6-440.01 — 25.9 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19515,7 +19083,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 5 qualifying parcels across target counties |
 
-### 316. 6-14-205 — 25.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 312. 6-14-205 — 25.5 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19530,7 +19098,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 317. 6-12-129 — 25.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 313. 6-12-129 — 25.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19545,7 +19113,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 318. 6-14-96.1 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 314. 6-14-96.1 — 25.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19559,7 +19127,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 319. 6-12-71.1 — 24.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 315. 6-12-71.1 — 24.4 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19574,7 +19142,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 320. 6-27-865 — 24.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 316. 6-27-865 — 24.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19588,7 +19156,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 321. 6-6-328.2 — 24.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 317. 6-6-328.2 — 24.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19603,7 +19171,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 322. 6-14-89.2 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 318. 6-14-89.2 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19617,7 +19185,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 323. 0208200100 — 24.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 319. 0208200100 — 24.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19631,7 +19199,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | Near City of Milton. Edge growth. |
 
-### 324. 12230010 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 320. 12230010 — 24.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19645,21 +19213,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 325. 6-12-51A — 24.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-
-| Field | Value |
-|---|---|
-| **APN** | 6-12-51A |
-| **Address** | 17432 W STATE ROAD 59 |
-| **Owner** | HOWARD FAMILY IRREVOCABL |
-| **Acres** | 24.0 |
-| **Municipality** | Evansville |
-| **Growth Rating** | Moderate to High |
-| **Location** | Rock County, ZIP 53536 |
-| **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
-| **Growth Context** | North metro. Growing bedroom community. |
-
-### 326. 22760005 — 23.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 321. 22760005 — 23.1 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19673,7 +19227,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 327. 6-7-50 — 23.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 322. 6-7-50 — 23.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19688,7 +19242,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Near City of Milton. Edge growth. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 328. 22280020 — 22.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 323. 22280020 — 22.9 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19702,7 +19256,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 329. 6-14-237.5 — 22.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 324. 6-14-237.5 — 22.3 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19716,7 +19270,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 330. 6-15-333.1 — 21.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 325. 6-15-333.1 — 21.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19730,7 +19284,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 331. 6-6-93.3 — 21.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 326. 6-6-93.3 — 21.1 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19744,7 +19298,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 332. 6-14-258.1A — 21.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 327. 6-14-258.1A — 21.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19758,7 +19312,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 333. 6-6-305 — 21.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 328. 6-6-305 — 21.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19772,7 +19326,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | NE of Janesville. Edge growth potential. |
 
-### 334. 6-8-26.4 — 20.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 329. 6-8-26.4 — 20.9 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -19787,7 +19341,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Surrounds Janesville. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 335. 6-19-171.2A — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 330. 6-19-171.2A — 20.2 acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19802,7 +19356,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 4 qualifying parcels across target counties |
 
-### 336. 6-12-88 — 20.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 331. 6-12-88 — 20.2 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19816,7 +19370,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 337. 6-19-132D — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 332. 6-19-132D — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19830,7 +19384,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 338. 6-2-207 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 333. 6-2-207 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19845,7 +19399,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 339. 6-14-77A.1 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 334. 6-14-77A.1 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19859,7 +19413,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 340. 6-14-239.2 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 335. 6-14-239.2 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19873,7 +19427,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 341. 6-19-89 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 336. 6-19-89 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19888,7 +19442,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 342. 6-19-173 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 337. 6-19-173 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19902,7 +19456,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 343. 22760100 — 20.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 338. 22760100 — 220-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19916,7 +19470,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | Adjacent to City of Beloit and Illinois line. Stateline corridor. |
 
-### 344. 6-4-107.1 — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 339. 6-4-107.1 — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19931,7 +19485,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | North metro. Growing bedroom community. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 345. 6-12-167.1 — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 340. 6-12-167.1 — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19945,7 +19499,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 346. 6-16-279 — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 341. 6-16-279 — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19959,7 +19513,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries. |
 | **Growth Context** | North metro. Growing bedroom community. |
 
-### 347. 6-26-1310 — 20.0 acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+### 342. 6-26-1310 — 220-300† acres — B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
 
 | Field | Value |
 |---|---|
@@ -19975,7 +19529,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 
 ## Waukesha County — Off-Market (6)
 
-### 1. MNFV-0015-997-004 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 1. MNFV-0015-997-004 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -19989,7 +19543,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | NE edge near Milwaukee. Strong residential/commercial expansion. |
 
-### 2. LSBT-0220-995-003 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 2. LSBT-0220-995-003 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20004,7 +19558,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Between Menomonee Falls and Pewaukee. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 3. LSBT-0188-007 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 3. LSBT-0188-007 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20018,7 +19572,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Between Menomonee Falls and Pewaukee. FLU shows residential. |
 
-### 4. LSBT-0223-997 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 4. LSBT-0223-997 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20033,7 +19587,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Between Menomonee Falls and Pewaukee. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 5. LSBT-0205-048 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 5. LSBT-0205-048 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20047,7 +19601,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Between Menomonee Falls and Pewaukee. FLU shows residential. |
 
-### 6. PWC -0954-991 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 6. PWC -0954-991 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20061,9 +19615,9 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | I-94 corridor. Growing rapidly. |
 
-## Winnebago County — Off-Market (70)
+## Winnebago County — Off-Market (63)
 
-### 1. 121-0091-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 1. 121-0091-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20077,7 +19631,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 2. 121-0180 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 2. 121-0180 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20091,7 +19645,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 3. 121-0183 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 3. 121-0183 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20105,7 +19659,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 4. 121-0187-01 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 4. 121-0187-01 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20119,21 +19673,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 5. 121-0193 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 121-0193 |
-| **Address** | 2309 E SHADY LN |
-| **Owner** | HAASE REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 6. 006-0008 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 5. 006-0008 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20147,7 +19687,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 7. 006-0012 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 6. 006-0012 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20161,7 +19701,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 8. 006-0024 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 7. 006-0024 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20175,7 +19715,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 9. 006-0298 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 8. 006-0298 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20189,7 +19729,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 10. 006-0310 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 9. 006-0310 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20203,7 +19743,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 11. 006-0331 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 10. 006-0331 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20217,21 +19757,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 12. 006-0372-01 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 006-0372-01 |
-| **Address** | STATE ROAD 76 |
-| **Owner** | BORCHERT REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 13. 006-0373 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 11. 006-0373 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20245,7 +19771,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 14. 006-0386 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 12. 006-0386 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20259,7 +19785,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 15. 006-0398-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 13. 006-0398-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20273,7 +19799,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 16. 006-0578-01 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 14. 006-0578-01 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20287,7 +19813,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 17. 006-0619 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 15. 006-0619 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20301,7 +19827,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 18. 006-0623 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 16. 006-0623 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20315,7 +19841,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 19. 006-0675 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 17. 006-0675 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20330,7 +19856,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 20. 006-0679 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 18. 006-0679 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20344,7 +19870,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 21. 006-0900 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 19. 006-0900 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20358,7 +19884,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 22. 010-0146 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 20. 010-0146 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20372,7 +19898,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 23. 010-0159 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 21. 010-0159 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20386,21 +19912,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 24. 010-0036-06 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 010-0036-06 |
-| **Address** | COUNTY ROAD G |
-| **Owner** | VORLAND REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 25. 006-0057 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 22. 006-0057 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20415,7 +19927,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 26. 006-0058 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 23. 006-0058 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20430,7 +19942,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 27. 006-0118 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 24. 006-0118 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20444,7 +19956,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 28. 006-0121 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 25. 006-0121 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20458,7 +19970,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 29. 006-0237 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 26. 006-0237 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20472,7 +19984,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 30. 006-0501 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 27. 006-0501 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20486,7 +19998,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 31. 006-0842 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 28. 006-0842 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20500,7 +20012,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 32. 006-0844 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 29. 006-0844 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20514,7 +20026,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 33. 026-0022 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 30. 026-0022 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20528,7 +20040,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 34. 026-0046 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 31. 026-0046 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20543,7 +20055,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 35. 026-0047-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 32. 026-0047-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20558,7 +20070,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 36. 026-0052 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 33. 026-0052 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20573,7 +20085,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 37. 026-0052-01 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 34. 026-0052-01 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20588,7 +20100,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 38. 026-0216 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 35. 026-0216 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20602,21 +20114,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 39. 026-0251 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 026-0251 |
-| **Address** | VINLAND CENTER RD |
-| **Owner** | DOBBERKE REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 40. 026-0280 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 36. 026-0280 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20631,7 +20129,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 41. 026-0286 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 37. 026-0286 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20646,21 +20144,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 42. 026-0293 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 026-0293 |
-| **Address** | STATE ROAD 76 |
-| **Owner** | WEBER REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 43. 026-0303 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 38. 026-0303 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20674,7 +20158,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 44. 026-0304-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 39. 026-0304-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20689,7 +20173,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 45. 026-0305 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 40. 026-0305 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20704,7 +20188,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 46. 026-0320 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 41. 026-0320 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20719,7 +20203,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 47. 026-0508 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 42. 026-0508 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20733,7 +20217,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 48. 026-0529 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 43. 026-0529 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20747,7 +20231,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 49. 026-0563 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 44. 026-0563 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20761,7 +20245,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 50. 026-0578 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 45. 026-0578 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20776,7 +20260,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 51. 026-0594 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 46. 026-0594 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20790,7 +20274,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 52. 026-0596-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 47. 026-0596-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20805,7 +20289,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 53. 026-0624-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 48. 026-0624-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20820,7 +20304,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 54. 026-0631 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 49. 026-0631 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20835,7 +20319,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 3 qualifying parcels across target counties |
 
-### 55. 026-0285-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 50. 026-0285-02 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20849,21 +20333,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 56. 026-0321-02 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 026-0321-02 |
-| **Address** | 3425 VINLAND CENTER RD |
-| **Owner** | WIESNER REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 57. 006-0899-01 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 51. 006-0899-01 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20877,21 +20347,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 58. 121-0210-09 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
-
-| Field | Value |
-|---|---|
-| **APN** | 121-0210-09 |
-| **Address** | E SHADY LN |
-| **Owner** | PRINCE REV |
-| **Acres** | 0.0 |
-| **Municipality** | Neenah Town |
-| **Growth Rating** | High |
-| **Location** | Winnebago County, ZIP 54956 |
-| **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
-| **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
-
-### 59. 121-0164-0102 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 52. 121-0164-0102 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20905,7 +20361,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A — Prime subdivision target. In growth path with confirmed infrastructure. |
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 
-### 60. 006-0677-03 — 0.0 acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
+### 53. 006-0677-03 — 20-300† acres — A — Prime subdivision target. In growth path with confirmed infrastructure.
 
 | Field | Value |
 |---|---|
@@ -20920,7 +20376,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | Adjacent to Neenah/Menasha. FLU shows residential. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 61. 018-0045 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 54. 018-0045 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20935,7 +20391,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 62. 018-0046 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 55. 018-0046 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20950,7 +20406,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 | **Owner Portfolio** | 2 qualifying parcels across target counties |
 
-### 63. 028-0955 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 56. 028-0955 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20964,7 +20420,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 64. 018-0261 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 57. 018-0261 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20978,7 +20434,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 65. 018-0286 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 58. 018-0286 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -20992,7 +20448,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 66. 026-0537 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 59. 026-0537 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -21006,7 +20462,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 67. 026-0570 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 60. 026-0570 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -21020,7 +20476,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 68. 026-0625 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 61. 026-0625 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -21034,7 +20490,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 69. 024-0006-03 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 62. 024-0006-03 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|
@@ -21048,7 +20504,7 @@ These owners have 2+ qualifying parcels. One conversation can unlock multiple de
 | **Grade** | A- — Strong growth area. High development pressure. Verify FLU details. |
 | **Growth Context** | South of Oshkosh. US 41 corridor. |
 
-### 70. 12-65000100 — 0.0 acres — A- — Strong growth area. High development pressure. Verify FLU details.
+### 63. 12-65000100 — 20-300† acres — A- — Strong growth area. High development pressure. Verify FLU details.
 
 | Field | Value |
 |---|---|

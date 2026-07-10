@@ -1,6 +1,6 @@
 # Brown County — Subdivision Leads
 
-**Off-Market:** 266 | **For Sale:** 0 | **Total:** 266
+**Off-Market:** 265 | **For Sale:** 0 | **Total:** 265
 
 ## 📬 Off-Market
 
@@ -10,7 +10,6 @@
 - **GL-299** | 62.0ac | SCHMIDT KEVIN L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **R-381** | 60.0ac | TRIPLE Z FARM LLC | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **HB-425-7** | 59.6ac | ROTTIER BONNIE L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **B-210** | 55.1ac | THE WILLIAM F AND CHERYL A NOEL REVOCABL | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **B-314-1** | 54.4ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
 - **PI-612-1** | 53.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
 - **ED-R42** | 51.6ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.

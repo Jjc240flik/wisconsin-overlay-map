@@ -1,417 +1,418 @@
 # Calumet County — Subdivision Leads
 
-**Off-Market:** 411 | **For Sale:** 0 | **Total:** 411
+**Off-Market:** 408 | **For Sale:** 0 | **Total:** 408
 
 ## 📬 Off-Market
 
-- **12328** | 0.0ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12341** | 0.0ac | STUMPF ROBERT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12345** | 0.0ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12353** | 0.0ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12361** | 0.0ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12362** | 0.0ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12369** | 0.0ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12375** | 0.0ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12377** | 0.0ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12380** | 0.0ac | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **12182** | 0.0ac | VANHANDEL DAVID | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39252** | 0.0ac | HOPFENSPERGER RALPH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39262** | 0.0ac | KAUER CAROL | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40618** | 0.0ac | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40800** | 0.0ac | NETTEKOVEN KASEY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38866** | 0.0ac | JIM ECKER FARMS LLC 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40820** | 0.0ac | NETTEKOVEN JEFFREY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40830** | 0.0ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **33094** | 0.0ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39366** | 0.0ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39378** | 0.0ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38376** | 0.0ac | GEBHART THOMAS | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40628** | 0.0ac | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40630** | 0.0ac | NETTEKOVEN DANIEL | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39308** | 0.0ac | GILLIS BARBARA | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38820** | 0.0ac | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40652** | 0.0ac | BUECHEL BARBARA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38828** | 0.0ac | BRANTMEIER CHRISTINE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40662** | 0.0ac | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38830** | 0.0ac | CARNEY FAMILY FARMS LLC | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38832** | 0.0ac | BRANTMEIER CHRISTINE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40666** | 0.0ac | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39344** | 0.0ac | SEIDL CATHERINE | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40678** | 0.0ac | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38848** | 0.0ac | GEBHART ALLEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38852** | 0.0ac | PROPSON JONATHAN R | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39518** | 0.0ac | SCHWOERER CARMEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39990** | 0.0ac | LAMINE JASON | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40008** | 0.0ac | BESSER PATRICIA | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40480** | 0.0ac | RUYS ALBERT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40486** | 0.0ac | MEYERHOFER DAIRY LLP 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40488** | 0.0ac | LEHRER BEVERLY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40538** | 0.0ac | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **38790** | 0.0ac | BRANTMEIER JOSEPH A | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40686** | 0.0ac | BUECHEL BARBARA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40696** | 0.0ac | PETERS PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40706** | 0.0ac | PETERS PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40544** | 0.0ac | DENO JOHN D 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40840** | 0.0ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40548** | 0.0ac | DENO JOHN D 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40550** | 0.0ac | MAHN KRIS | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40558** | 0.0ac | MEYERHOFER DAIRY LLP 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40896** | 0.0ac | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39282** | 0.0ac | SPRANGERS JOSEPH J | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39292** | 0.0ac | KAUER LAWRENCE | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **39296** | 0.0ac | SEIDL STEVEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40570** | 0.0ac | DAVIS RICHARD | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40586** | 0.0ac | NETTEKOVEN KEIT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40594** | 0.0ac | NETTEKOVEN MARILYN J SURV TRST | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **40466** | 0.0ac | HOPFENSPERGER RALPH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **42950** | 0.0ac | BROOKS LEIGH | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **46174** | 0.0ac | ZAHRINGER DAWN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
-- **10407** | 0.0ac | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10408** | 0.0ac | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10417** | 0.0ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32496** | 0.0ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10433** | 0.0ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10434** | 0.0ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10449** | 0.0ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10451** | 0.0ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10458** | 0.0ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10466** | 0.0ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10469** | 0.0ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10485** | 0.0ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10487** | 0.0ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10492** | 0.0ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10493** | 0.0ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10494** | 0.0ac | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10496** | 0.0ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3260** | 0.0ac | MEYER JAMES H | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **20745** | 0.0ac | MEYER RONALD | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10515** | 0.0ac | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10517** | 0.0ac | WENZEL JESSICA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10519** | 0.0ac | PINGEL BEATRICE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10520** | 0.0ac | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10523** | 0.0ac | KOLBE COLLEEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10531** | 0.0ac | STECKER FAMILY PARTNERSHIP | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3277** | 0.0ac | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3296** | 0.0ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3307** | 0.0ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3311** | 0.0ac | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3314** | 0.0ac | ANDAY JAIME | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3319** | 0.0ac | MUELLENBACH DALE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10664** | 0.0ac | DENSLOW STEVEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10669** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10689** | 0.0ac | SCHUMACHER ANDREW | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3330** | 0.0ac | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3333** | 0.0ac | MEYERS ANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3335** | 0.0ac | STEINER JOHN D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3341** | 0.0ac | MEYER BROTHERS CROP FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10730** | 0.0ac | SCHAEFER JEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10758** | 0.0ac | ECKER MATTHEW D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **22294** | 0.0ac | ECKER MATTHEW D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3542** | 0.0ac | KOLBE JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3557** | 0.0ac | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3577** | 0.0ac | KEULER DEBBIE L | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3587** | 0.0ac | KOLBE ROGER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3589** | 0.0ac | PEIK JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3593** | 0.0ac | ALLEN DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3596** | 0.0ac | JANDREY LARRY A 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3598** | 0.0ac | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3610** | 0.0ac | JANDREY LARRY A 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3614** | 0.0ac | KOLBE CHERYL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3617** | 0.0ac | KOLBE CHERYL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3626** | 0.0ac | KOEHLER RANDOLPH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3659** | 0.0ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10331** | 0.0ac | DALLMANN DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10398** | 0.0ac | JANNETTE TRUCKING & EXCAVATING | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4498** | 0.0ac | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4499** | 0.0ac | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4501** | 0.0ac | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4503** | 0.0ac | JUCKEM JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4505** | 0.0ac | HOLST PETER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4516** | 0.0ac | HEIMERMANN DEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4523** | 0.0ac | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5278** | 0.0ac | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5267** | 0.0ac | SCHROEDER BARBARA J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5288** | 0.0ac | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5289** | 0.0ac | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5294** | 0.0ac | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5296** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5303** | 0.0ac | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5317** | 0.0ac | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5318** | 0.0ac | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5321** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5324** | 0.0ac | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5331** | 0.0ac | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5333** | 0.0ac | KOPF FAMILY REV TRST ART & JOYCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5337** | 0.0ac | KOPF FAMILY REV TRST ART & JOYCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5353** | 0.0ac | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5362** | 0.0ac | CAMPBELL FAMILY PARTNERSHIP | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5425** | 0.0ac | COUNTRY AIRE HARVESTING 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5420** | 0.0ac | JUCKEM JAY P | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31240** | 0.0ac | NEUHAUS DONELLA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2251** | 0.0ac | BROCKMAN JORY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32530** | 0.0ac | ECKER MARVIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2286** | 0.0ac | BUB NEIL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **25448** | 0.0ac | LISOWE BRIAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2523** | 0.0ac | SANDERFOOT SHAWN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2524** | 0.0ac | BUB BRIAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2531** | 0.0ac | HANSEN KRISTINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2532** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2602** | 0.0ac | LAVEY MATTHEW | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2605** | 0.0ac | TASCH DIANE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2614** | 0.0ac | ECKER ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2616** | 0.0ac | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2619** | 0.0ac | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2621** | 0.0ac | GERNER MARGARET | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2622** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2626** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2627** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **29650** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2640** | 0.0ac | LEITNER MICHAEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2641** | 0.0ac | LEITNER NICHOLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31464** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2650** | 0.0ac | SCHWOBE CRAIG | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **30034** | 0.0ac | KUEHNL JASON | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **28110** | 0.0ac | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2686** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2687** | 0.0ac | MEYERS EUGENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2688** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2714** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2717** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2720** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **25464** | 0.0ac | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2758** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2764** | 0.0ac | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2768** | 0.0ac | KARLS JASON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2769** | 0.0ac | POPP ANITA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **23593** | 0.0ac | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2778** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2780** | 0.0ac | POPP ANITA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2786** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2787** | 0.0ac | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31286** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2789** | 0.0ac | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2791** | 0.0ac | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2807** | 0.0ac | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2808** | 0.0ac | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2809** | 0.0ac | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2832** | 0.0ac | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2834** | 0.0ac | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2838** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2843** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2844** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **25770** | 0.0ac | SEE CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2850** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2856** | 0.0ac | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2858** | 0.0ac | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2859** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2869** | 0.0ac | FHLUG GORDON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2874** | 0.0ac | FHLUG GORDON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2876** | 0.0ac | PULS KENNETH J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2960** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32534** | 0.0ac | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2966** | 0.0ac | MEIER BRUCE J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **2968** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3015** | 0.0ac | HALBACH ROBERT R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3020** | 0.0ac | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3035** | 0.0ac | DAUN JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3041** | 0.0ac | BRENNER JEFFREY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **20746** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3063** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31714** | 0.0ac | DAUN MARK O | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3098** | 0.0ac | DAUN JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3099** | 0.0ac | PETRIE ELIZABETH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3129** | 0.0ac | HANKE RITA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3138** | 0.0ac | HANKE KATHLEEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3139** | 0.0ac | PETHAN MARK | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3140** | 0.0ac | LEDGEROCK FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **20229** | 0.0ac | MERTENS LUANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3145** | 0.0ac | LEDGEROCK FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3147** | 0.0ac | HOERL STEVEN J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3168** | 0.0ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3172** | 0.0ac | THIEL CINDY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3177** | 0.0ac | GEISER JOSEPH R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3205** | 0.0ac | KARLS ALLEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3229** | 0.0ac | CASPER ALLEN A | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32244** | 0.0ac | CASPER ALLEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **27782** | 0.0ac | PETRIE LAWRENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **9088** | 0.0ac | SNYDER JODY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3234** | 0.0ac | MEYERS PAUL E | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32048** | 0.0ac | PETRIE LAWRENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3238** | 0.0ac | MEYERS PAUL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **29646** | 0.0ac | STEINER JOHN D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **9101** | 0.0ac | WOELFEL JULIE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14442** | 0.0ac | MERBACH MATTHEW W | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3817** | 0.0ac | KOLBE JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3853** | 0.0ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **28750** | 0.0ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3884** | 0.0ac | KOLBE ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3910** | 0.0ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3928** | 0.0ac | KOLBE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3985** | 0.0ac | KOLBE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3994** | 0.0ac | ZARNOTH ALAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31258** | 0.0ac | ZARNOTH ALAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **3997** | 0.0ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4001** | 0.0ac | BRENNER HERMAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10821** | 0.0ac | PFISTER MICHAEL D | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10845** | 0.0ac | FRANZEN JERRY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31994** | 0.0ac | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10850** | 0.0ac | ORTLIEB DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10861** | 0.0ac | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4559** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4560** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **26550** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4563** | 0.0ac | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4565** | 0.0ac | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4570** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **24106** | 0.0ac | SCHWARZ JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4580** | 0.0ac | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4597** | 0.0ac | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4617** | 0.0ac | MEYERS MARY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4630** | 0.0ac | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4631** | 0.0ac | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4641** | 0.0ac | FAUST ADAM | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **16891** | 0.0ac | MEYER BROTHERS CROP FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4644** | 0.0ac | GEBHART DEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **24110** | 0.0ac | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4677** | 0.0ac | GRANDE CHEESE COMPANY 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4681** | 0.0ac | GRANDE CHEESE COMPANY 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4690** | 0.0ac | WOELFEL STEPHEN E | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4714** | 0.0ac | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4720** | 0.0ac | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4724** | 0.0ac | SATTLER DEXTER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **31572** | 0.0ac | SCHAEFER MITCHELL R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4731** | 0.0ac | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4736** | 0.0ac | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **24120** | 0.0ac | SCHAEFER AMANDA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4743** | 0.0ac | SCHAEFER AMANDA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4745** | 0.0ac | WENINGER CRAIG | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4765** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4768** | 0.0ac | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4772** | 0.0ac | GERNER JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4775** | 0.0ac | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4780** | 0.0ac | MEYERS CHARLES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4782** | 0.0ac | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4795** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4812** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4799** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4801** | 0.0ac | STROOBANTS KEITH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4804** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4821** | 0.0ac | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4828** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4831** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4832** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4841** | 0.0ac | BOLZ DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4842** | 0.0ac | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **28136** | 0.0ac | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4851** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11008** | 0.0ac | SCHWOBE PATRICK T 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11011** | 0.0ac | SCHWOBE PATRICK T 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11015** | 0.0ac | M & M FARM PROPERTIES LLC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11022** | 0.0ac | WERBECKES LORAINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11029** | 0.0ac | SCHWARZ CONNOR J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11033** | 0.0ac | SCHWOBE CRAIG G | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11036** | 0.0ac | WENIG ERIC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11045** | 0.0ac | PORTMANN JOEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11050** | 0.0ac | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11060** | 0.0ac | BARRY BARBARA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4898** | 0.0ac | GRUBER KAREN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11064** | 0.0ac | WINN EAST SHORE CONSERV CLUB | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11065** | 0.0ac | POPPY DWIGHT C | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11067** | 0.0ac | REIF ARTHUR | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4927** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4928** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11096** | 0.0ac | GEBHART ARLENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4932** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4934** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4936** | 0.0ac | SEE CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4942** | 0.0ac | NEUHAUS ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **4953** | 0.0ac | SCHMITZ RUTH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11112** | 0.0ac | TREMBLE LYLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11117** | 0.0ac | VANHOORN JANENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11118** | 0.0ac | SCHNEIDER SCOTT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11120** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11121** | 0.0ac | LUDWIG MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **26630** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11496** | 0.0ac | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11498** | 0.0ac | BIESE RONALD J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11499** | 0.0ac | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11501** | 0.0ac | STROOBANTS JARED 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5185** | 0.0ac | LINTNER ANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5202** | 0.0ac | BERGELIN DEAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5206** | 0.0ac | MADER JAMES A | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5211** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5218** | 0.0ac | HARDER ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5249** | 0.0ac | BERGELIN DEAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5251** | 0.0ac | VANDAALWYK ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5256** | 0.0ac | VANDAALWYK ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5252** | 0.0ac | VOOGT DONALD | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **5253** | 0.0ac | HACKBARTH BEVERLY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **16789** | 0.0ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **8797** | 0.0ac | BENNIN DORIS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **8813** | 0.0ac | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **25340** | 0.0ac | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **8816** | 0.0ac | MUELLENBACH DALE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14519** | 0.0ac | KESSLER ZACHARY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11143** | 0.0ac | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11144** | 0.0ac | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11146** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14523** | 0.0ac | KURSCHEIDT JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14526** | 0.0ac | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11151** | 0.0ac | ECKER CHRISTOPHER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11152** | 0.0ac | LUDWIG MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11154** | 0.0ac | DEGENEFFE LYNN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11156** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14557** | 0.0ac | BUSHMAN ELAINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11209** | 0.0ac | HELLER ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11225** | 0.0ac | HOERTH CLARENCE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11227** | 0.0ac | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11235** | 0.0ac | KARLS JASON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11237** | 0.0ac | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32382** | 0.0ac | POPP AMANDA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11245** | 0.0ac | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **14681** | 0.0ac | POPPY CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11260** | 0.0ac | THIEL GAIL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **28434** | 0.0ac | KOPECKY WENDY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11290** | 0.0ac | KLEINHANS MICHELLE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11293** | 0.0ac | KOEHLER CHERYL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11308** | 0.0ac | NOLAN KRISTIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11311** | 0.0ac | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11320** | 0.0ac | PROPSON DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32312** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11338** | 0.0ac | BIESE KEVIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11339** | 0.0ac | KONEN DANIEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11351** | 0.0ac | PROPSON JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11387** | 0.0ac | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11404** | 0.0ac | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11408** | 0.0ac | PROPSON DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11409** | 0.0ac | VANHOORN LEO | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11412** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11424** | 0.0ac | STROOBANTS JARED 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11436** | 0.0ac | TASCH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32010** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **11443** | 0.0ac | SCHOMMER DONNA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **38204** | 0.0ac | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32604** | 0.0ac | MEYER DEANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **32554** | 0.0ac | WOELFEL FARMS REAL ESTATE LLC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42470** | 0.0ac | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43066** | 0.0ac | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43384** | 0.0ac | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **10524** | 0.0ac | OTTE GEORGE W | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42814** | 0.0ac | BUECHEL BRADLEY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43060** | 0.0ac | MEYER JOSEPH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42356** | 0.0ac | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42374** | 0.0ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43096** | 0.0ac | POPPY CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42956** | 0.0ac | BYRNES MEGAN M | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **42812** | 0.0ac | KOEHLER RANDOLPH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43746** | 0.0ac | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44476** | 0.0ac | BUB BRIAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44478** | 0.0ac | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44496** | 0.0ac | BITTNER THOMAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44506** | 0.0ac | TASCH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **43940** | 0.0ac | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44714** | 0.0ac | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **44866** | 0.0ac | SCHNEIDER ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **45548** | 0.0ac | LISOWE NICHOLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **45840** | 0.0ac | DALLMANN DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
-- **45842** | 0.0ac | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **12328** | 20-300ac† | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12341** | 20-300ac† | STUMPF ROBERT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12345** | 20-300ac† | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12353** | 20-300ac† | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12361** | 20-300ac† | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12362** | 20-300ac† | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12369** | 20-300ac† | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12375** | 20-300ac† | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12377** | 20-300ac† | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12380** | 20-300ac† | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12182** | 20-300ac† | VANHANDEL DAVID | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39252** | 20-300ac† | HOPFENSPERGER RALPH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39262** | 20-300ac† | KAUER CAROL | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40618** | 20-300ac† | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40800** | 20-300ac† | NETTEKOVEN KASEY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38866** | 20-300ac† | JIM ECKER FARMS LLC 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40820** | 20-300ac† | NETTEKOVEN JEFFREY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40830** | 20-300ac† | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **33094** | 20-300ac† | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39366** | 20-300ac† | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39378** | 20-300ac† | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38376** | 20-300ac† | GEBHART THOMAS | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40628** | 20-300ac† | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40630** | 20-300ac† | NETTEKOVEN DANIEL | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39308** | 20-300ac† | GILLIS BARBARA | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38820** | 20-300ac† | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40652** | 20-300ac† | BUECHEL BARBARA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38828** | 20-300ac† | BRANTMEIER CHRISTINE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40662** | 20-300ac† | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38830** | 20-300ac† | CARNEY FAMILY FARMS LLC | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38832** | 20-300ac† | BRANTMEIER CHRISTINE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40666** | 20-300ac† | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39344** | 20-300ac† | SEIDL CATHERINE | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40678** | 20-300ac† | MEYERHOFER BRUCE 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38848** | 20-300ac† | GEBHART ALLEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38852** | 20-300ac† | PROPSON JONATHAN R | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39518** | 20-300ac† | SCHWOERER CARMEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39990** | 20-300ac† | LAMINE JASON | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40008** | 20-300ac† | BESSER PATRICIA | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40480** | 20-300ac† | RUYS ALBERT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40486** | 20-300ac† | MEYERHOFER DAIRY LLP 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40488** | 20-300ac† | LEHRER BEVERLY | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40538** | 20-300ac† | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **38790** | 20-300ac† | BRANTMEIER JOSEPH A | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40686** | 20-300ac† | BUECHEL BARBARA 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40696** | 20-300ac† | PETERS PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40706** | 20-300ac† | PETERS PAUL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40544** | 20-300ac† | DENO JOHN D 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40840** | 20-300ac† | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40548** | 20-300ac† | DENO JOHN D 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40550** | 20-300ac† | MAHN KRIS | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40558** | 20-300ac† | MEYERHOFER DAIRY LLP 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40896** | 20-300ac† | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39282** | 20-300ac† | SPRANGERS JOSEPH J | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39292** | 20-300ac† | KAUER LAWRENCE | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **39296** | 20-300ac† | SEIDL STEVEN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40570** | 20-300ac† | DAVIS RICHARD | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40586** | 20-300ac† | NETTEKOVEN KEIT | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **40466** | 20-300ac† | HOPFENSPERGER RALPH 🔗MULTI | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **42950** | 20-300ac† | BROOKS LEIGH | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **46174** | 20-300ac† | ZAHRINGER DAWN | Menasha Calumet (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **10407** | 20-300ac† | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10408** | 20-300ac† | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10417** | 20-300ac† | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32496** | 20-300ac† | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10433** | 20-300ac† | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10434** | 20-300ac† | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10449** | 20-300ac† | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10451** | 20-300ac† | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10458** | 20-300ac† | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10466** | 20-300ac† | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10469** | 20-300ac† | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10485** | 20-300ac† | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10487** | 20-300ac† | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10492** | 20-300ac† | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10493** | 20-300ac† | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10494** | 20-300ac† | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10496** | 20-300ac† | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3260** | 20-300ac† | MEYER JAMES H | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20745** | 20-300ac† | MEYER RONALD | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10515** | 20-300ac† | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10517** | 20-300ac† | WENZEL JESSICA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10519** | 20-300ac† | PINGEL BEATRICE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10520** | 20-300ac† | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10523** | 20-300ac† | KOLBE COLLEEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10531** | 20-300ac† | STECKER FAMILY PARTNERSHIP | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3277** | 20-300ac† | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3296** | 20-300ac† | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3307** | 20-300ac† | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3311** | 20-300ac† | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3314** | 20-300ac† | ANDAY JAIME | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3319** | 20-300ac† | MUELLENBACH DALE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10664** | 20-300ac† | DENSLOW STEVEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10669** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10689** | 20-300ac† | SCHUMACHER ANDREW | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3330** | 20-300ac† | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3333** | 20-300ac† | MEYERS ANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3335** | 20-300ac† | STEINER JOHN D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3341** | 20-300ac† | MEYER BROTHERS CROP FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10730** | 20-300ac† | SCHAEFER JEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10758** | 20-300ac† | ECKER MATTHEW D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **22294** | 20-300ac† | ECKER MATTHEW D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3542** | 20-300ac† | KOLBE JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3557** | 20-300ac† | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3577** | 20-300ac† | KEULER DEBBIE L | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3587** | 20-300ac† | KOLBE ROGER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3589** | 20-300ac† | PEIK JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3593** | 20-300ac† | ALLEN DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3596** | 20-300ac† | JANDREY LARRY A 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3598** | 20-300ac† | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3610** | 20-300ac† | JANDREY LARRY A 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3614** | 20-300ac† | KOLBE CHERYL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3617** | 20-300ac† | KOLBE CHERYL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3626** | 20-300ac† | KOEHLER RANDOLPH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3659** | 20-300ac† | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10331** | 20-300ac† | DALLMANN DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10398** | 20-300ac† | JANNETTE TRUCKING & EXCAVATING | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4498** | 20-300ac† | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4499** | 20-300ac† | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4501** | 20-300ac† | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4503** | 20-300ac† | JUCKEM JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4505** | 20-300ac† | HOLST PETER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4516** | 20-300ac† | HEIMERMANN DEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4523** | 20-300ac† | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5278** | 20-300ac† | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5267** | 20-300ac† | SCHROEDER BARBARA J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5288** | 20-300ac† | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5289** | 20-300ac† | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5294** | 20-300ac† | LISOWE MERLIN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5296** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5303** | 20-300ac† | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5317** | 20-300ac† | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5318** | 20-300ac† | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5321** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5324** | 20-300ac† | BUELOW CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5331** | 20-300ac† | NENNIG RICHARD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5353** | 20-300ac† | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5362** | 20-300ac† | CAMPBELL FAMILY PARTNERSHIP | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5425** | 20-300ac† | COUNTRY AIRE HARVESTING 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5420** | 20-300ac† | JUCKEM JAY P | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31240** | 20-300ac† | NEUHAUS DONELLA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2251** | 20-300ac† | BROCKMAN JORY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32530** | 20-300ac† | ECKER MARVIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2286** | 20-300ac† | BUB NEIL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **25448** | 20-300ac† | LISOWE BRIAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2523** | 20-300ac† | SANDERFOOT SHAWN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2524** | 20-300ac† | BUB BRIAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2531** | 20-300ac† | HANSEN KRISTINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2532** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2602** | 20-300ac† | LAVEY MATTHEW | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2605** | 20-300ac† | TASCH DIANE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2614** | 20-300ac† | ECKER ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2616** | 20-300ac† | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2619** | 20-300ac† | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2621** | 20-300ac† | GERNER MARGARET | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2622** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2626** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2627** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **29650** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2640** | 20-300ac† | LEITNER MICHAEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2641** | 20-300ac† | LEITNER NICHOLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31464** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2650** | 20-300ac† | SCHWOBE CRAIG | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **30034** | 20-300ac† | KUEHNL JASON | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **28110** | 20-300ac† | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2686** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2687** | 20-300ac† | MEYERS EUGENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2688** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2714** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2717** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2720** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **25464** | 20-300ac† | CRITER JERRAINE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2758** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2764** | 20-300ac† | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2768** | 20-300ac† | KARLS JASON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2769** | 20-300ac† | POPP ANITA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **23593** | 20-300ac† | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2778** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2780** | 20-300ac† | POPP ANITA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2786** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2787** | 20-300ac† | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31286** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2789** | 20-300ac† | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2791** | 20-300ac† | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2807** | 20-300ac† | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2808** | 20-300ac† | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2809** | 20-300ac† | MAURER CHARLES 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2832** | 20-300ac† | LISOWE DUANE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2834** | 20-300ac† | DITTER JODI 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2838** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2843** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2844** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **25770** | 20-300ac† | SEE CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2850** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2856** | 20-300ac† | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2858** | 20-300ac† | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2859** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2869** | 20-300ac† | FHLUG GORDON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2874** | 20-300ac† | FHLUG GORDON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2876** | 20-300ac† | PULS KENNETH J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2960** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32534** | 20-300ac† | KONEN ANN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2966** | 20-300ac† | MEIER BRUCE J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **2968** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3015** | 20-300ac† | HALBACH ROBERT R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3020** | 20-300ac† | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3035** | 20-300ac† | DAUN JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3041** | 20-300ac† | BRENNER JEFFREY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20746** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3063** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31714** | 20-300ac† | DAUN MARK O | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3098** | 20-300ac† | DAUN JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3099** | 20-300ac† | PETRIE ELIZABETH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3129** | 20-300ac† | HANKE RITA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3138** | 20-300ac† | HANKE KATHLEEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3139** | 20-300ac† | PETHAN MARK | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3140** | 20-300ac† | LEDGEROCK FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20229** | 20-300ac† | MERTENS LUANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3145** | 20-300ac† | LEDGEROCK FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3147** | 20-300ac† | HOERL STEVEN J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3168** | 20-300ac† | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3172** | 20-300ac† | THIEL CINDY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3177** | 20-300ac† | GEISER JOSEPH R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3205** | 20-300ac† | KARLS ALLEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3229** | 20-300ac† | CASPER ALLEN A | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32244** | 20-300ac† | CASPER ALLEN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **27782** | 20-300ac† | PETRIE LAWRENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **9088** | 20-300ac† | SNYDER JODY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3234** | 20-300ac† | MEYERS PAUL E | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32048** | 20-300ac† | PETRIE LAWRENCE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3238** | 20-300ac† | MEYERS PAUL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **29646** | 20-300ac† | STEINER JOHN D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **9101** | 20-300ac† | WOELFEL JULIE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14442** | 20-300ac† | MERBACH MATTHEW W | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3817** | 20-300ac† | KOLBE JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3853** | 20-300ac† | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **28750** | 20-300ac† | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3884** | 20-300ac† | KOLBE ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3910** | 20-300ac† | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3928** | 20-300ac† | KOLBE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3985** | 20-300ac† | KOLBE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3994** | 20-300ac† | ZARNOTH ALAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31258** | 20-300ac† | ZARNOTH ALAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **3997** | 20-300ac† | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4001** | 20-300ac† | BRENNER HERMAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10821** | 20-300ac† | PFISTER MICHAEL D | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10845** | 20-300ac† | FRANZEN JERRY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31994** | 20-300ac† | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10850** | 20-300ac† | ORTLIEB DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10861** | 20-300ac† | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4559** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4560** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **26550** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4563** | 20-300ac† | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4565** | 20-300ac† | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4570** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **24106** | 20-300ac† | SCHWARZ JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4580** | 20-300ac† | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4597** | 20-300ac† | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4617** | 20-300ac† | MEYERS MARY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4630** | 20-300ac† | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4631** | 20-300ac† | PETHAN ANDREW R 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4641** | 20-300ac† | FAUST ADAM | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **16891** | 20-300ac† | MEYER BROTHERS CROP FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4644** | 20-300ac† | GEBHART DEAN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **24110** | 20-300ac† | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4677** | 20-300ac† | GRANDE CHEESE COMPANY 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4681** | 20-300ac† | GRANDE CHEESE COMPANY 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4690** | 20-300ac† | WOELFEL STEPHEN E | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4714** | 20-300ac† | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4720** | 20-300ac† | SCHWARZ JAMES I 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4724** | 20-300ac† | SATTLER DEXTER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **31572** | 20-300ac† | SCHAEFER MITCHELL R | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4731** | 20-300ac† | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4736** | 20-300ac† | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **24120** | 20-300ac† | SCHAEFER AMANDA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4743** | 20-300ac† | SCHAEFER AMANDA 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4745** | 20-300ac† | WENINGER CRAIG | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4765** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4768** | 20-300ac† | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4772** | 20-300ac† | GERNER JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4775** | 20-300ac† | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4780** | 20-300ac† | MEYERS CHARLES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4782** | 20-300ac† | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4795** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4812** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4799** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4801** | 20-300ac† | STROOBANTS KEITH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4804** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4821** | 20-300ac† | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4828** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4831** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4832** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4841** | 20-300ac† | BOLZ DAVID | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4842** | 20-300ac† | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **28136** | 20-300ac† | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4851** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11008** | 20-300ac† | SCHWOBE PATRICK T 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11011** | 20-300ac† | SCHWOBE PATRICK T 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11015** | 20-300ac† | M & M FARM PROPERTIES LLC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11022** | 20-300ac† | WERBECKES LORAINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11029** | 20-300ac† | SCHWARZ CONNOR J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11033** | 20-300ac† | SCHWOBE CRAIG G | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11036** | 20-300ac† | WENIG ERIC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11045** | 20-300ac† | PORTMANN JOEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11050** | 20-300ac† | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11060** | 20-300ac† | BARRY BARBARA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4898** | 20-300ac† | GRUBER KAREN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11064** | 20-300ac† | WINN EAST SHORE CONSERV CLUB | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11065** | 20-300ac† | POPPY DWIGHT C | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11067** | 20-300ac† | REIF ARTHUR | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4927** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4928** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11096** | 20-300ac† | GEBHART ARLENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4932** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4934** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4936** | 20-300ac† | SEE CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4942** | 20-300ac† | NEUHAUS ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **4953** | 20-300ac† | SCHMITZ RUTH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11112** | 20-300ac† | TREMBLE LYLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11117** | 20-300ac† | VANHOORN JANENE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11118** | 20-300ac† | SCHNEIDER SCOTT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11120** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11121** | 20-300ac† | LUDWIG MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **26630** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11496** | 20-300ac† | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11498** | 20-300ac† | BIESE RONALD J | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11499** | 20-300ac† | DAUN LEE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11501** | 20-300ac† | STROOBANTS JARED 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5185** | 20-300ac† | LINTNER ANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5202** | 20-300ac† | BERGELIN DEAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5206** | 20-300ac† | MADER JAMES A | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5211** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5218** | 20-300ac† | HARDER ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5249** | 20-300ac† | BERGELIN DEAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5251** | 20-300ac† | VANDAALWYK ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5256** | 20-300ac† | VANDAALWYK ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5252** | 20-300ac† | VOOGT DONALD | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **5253** | 20-300ac† | HACKBARTH BEVERLY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **16789** | 20-300ac† | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **8797** | 20-300ac† | BENNIN DORIS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **8813** | 20-300ac† | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **25340** | 20-300ac† | JUCKEM DENISE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **8816** | 20-300ac† | MUELLENBACH DALE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14519** | 20-300ac† | KESSLER ZACHARY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11143** | 20-300ac† | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11144** | 20-300ac† | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11146** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14523** | 20-300ac† | KURSCHEIDT JOHN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14526** | 20-300ac† | JIM ECKER FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11151** | 20-300ac† | ECKER CHRISTOPHER | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11152** | 20-300ac† | LUDWIG MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11154** | 20-300ac† | DEGENEFFE LYNN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11156** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14557** | 20-300ac† | BUSHMAN ELAINE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11209** | 20-300ac† | HELLER ROBERT | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11225** | 20-300ac† | HOERTH CLARENCE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11227** | 20-300ac† | MEYER ANTOINETTE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11235** | 20-300ac† | KARLS JASON 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11237** | 20-300ac† | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32382** | 20-300ac† | POPP AMANDA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11245** | 20-300ac† | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **14681** | 20-300ac† | POPPY CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11260** | 20-300ac† | THIEL GAIL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **28434** | 20-300ac† | KOPECKY WENDY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11290** | 20-300ac† | KLEINHANS MICHELLE | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11293** | 20-300ac† | KOEHLER CHERYL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11308** | 20-300ac† | NOLAN KRISTIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11311** | 20-300ac† | SCHMITZ DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11320** | 20-300ac† | PROPSON DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32312** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11338** | 20-300ac† | BIESE KEVIN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11339** | 20-300ac† | KONEN DANIEL | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11351** | 20-300ac† | PROPSON JAMES | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11387** | 20-300ac† | RACH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11404** | 20-300ac† | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11408** | 20-300ac† | PROPSON DONALD 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11409** | 20-300ac† | VANHOORN LEO | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11412** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11424** | 20-300ac† | STROOBANTS JARED 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11436** | 20-300ac† | TASCH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32010** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **11443** | 20-300ac† | SCHOMMER DONNA | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **38204** | 20-300ac† | CASPER BONNIE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32604** | 20-300ac† | MEYER DEANN | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32554** | 20-300ac† | WOELFEL FARMS REAL ESTATE LLC | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42470** | 20-300ac† | MEYER DENNIS 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43066** | 20-300ac† | DAUN LIMITED PARTNERSHIP 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43384** | 20-300ac† | MUELLER JOHN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **10524** | 20-300ac† | OTTE GEORGE W | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42814** | 20-300ac† | BUECHEL BRADLEY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43060** | 20-300ac† | MEYER JOSEPH | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42356** | 20-300ac† | BIESE DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42374** | 20-300ac† | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43096** | 20-300ac† | POPPY CAROL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42956** | 20-300ac† | BYRNES MEGAN M | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **42812** | 20-300ac† | KOEHLER RANDOLPH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43746** | 20-300ac† | HOERTH GEORGENE 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44476** | 20-300ac† | BUB BRIAN 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44478** | 20-300ac† | RUHLAND DANIEL D 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44496** | 20-300ac† | BITTNER THOMAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44506** | 20-300ac† | TASCH KENNETH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **43940** | 20-300ac† | KARLS JUDITH 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44714** | 20-300ac† | SEE FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **44866** | 20-300ac† | SCHNEIDER ELROY | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **45548** | 20-300ac† | LISOWE NICHOLAS | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **45840** | 20-300ac† | DALLMANN DANIEL 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **45842** | 20-300ac† | GERANT FARMS LLC 🔗MULTI | Brothertown (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+
+
+---
+† Exact acreage not available from Land Portal for this county. Filter guarantees 20-300 acres. Pull full detail from LP for exact acreage.
