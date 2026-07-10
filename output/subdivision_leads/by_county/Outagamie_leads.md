@@ -1,0 +1,203 @@
+# Outagamie County — Subdivision Leads
+
+**Off-Market:** 197 | **For Sale:** 0 | **Total:** 197
+
+## 📬 Off-Market
+
+- **02-0-0133-00** | 0.0ac | OBERMEIER BARRY | Greenville (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-0-0865-00** | 0.0ac | MARION SCHROEDER | Greenville (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-0-0885-00** | 0.0ac | LATZEWITZ BONNIE B | Greenville (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **04-0-0271-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0281-00** | 0.0ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0294-00** | 0.0ac | KAMIEN SUZANNE | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0296-00** | 0.0ac | RAHMLOW FARMS | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0306-00** | 0.0ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0332-00** | 0.0ac | RANDY J SCHMIDT LIV TRST | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0342-02** | 0.0ac | SCHMIDT JO ANN | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0362-00** | 0.0ac | PALTZER ROBERT | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0366-00** | 0.0ac | KRUEGER DAVID | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0393-00** | 0.0ac | JOYCE WICHMAN | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0397-01** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0402-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0403-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0412-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0433-00** | 0.0ac | ASHAUER JAMES 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0540-00** | 0.0ac | ASHAUER JAMES 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0554-00** | 0.0ac | SCHROEDER GERHARDT 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0557-02** | 0.0ac | SCHROEDER GERHARDT 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0559-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0616-00** | 0.0ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0617-00** | 0.0ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0619-00** | 0.0ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0621-00** | 0.0ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0622-02** | 0.0ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0635-00** | 0.0ac | SPRINGSTROH GLENN L | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0259-00** | 0.0ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-0-0063-00** | 0.0ac | WINTERS JODY | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0182-00** | 0.0ac | RICKERT DARLENE 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0518-00** | 0.0ac | SCHUH BRENT | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0527-00** | 0.0ac | SCHWALBACH NED | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0528-00** | 0.0ac | DAVID J LENZ REV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0531-03** | 0.0ac | DAVID J LENZ REV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0539-02** | 0.0ac | MURPHY DONNA | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0540-00** | 0.0ac | BLACK CREEK LIMESTONE COMPANY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0607-00** | 0.0ac | G & G FARM LAND LLC 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0288-00** | 0.0ac | VANDEWETTERING JAYNE | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0612-00** | 0.0ac | G & G FARM LAND LLC 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **10-1-0069-00** | 0.0ac | KENNETH G BAUM REV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **10-1-0227-00** | 0.0ac | ROBERT A EBBEN REV TRST | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **01-0-0796-00** | 0.0ac | BAST JOHN | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-0-0628-00** | 0.0ac | WELLS DEBRA 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-0-0631-00** | 0.0ac | WELLS DEBRA 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **01-0-0624-00** | 0.0ac | JOSEPH F THEISEN JR AND SANDRA L THEISEN REVO | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0449-00** | 0.0ac | BLACK CREEK LIMESTONE COMPANY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0458-00** | 0.0ac | RICKERT DARLENE 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0481-00** | 0.0ac | BLACK CREEK LIMESTONE COMPANY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0489-00** | 0.0ac | ROMENESKO BRIAN | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **13-0-0211-00** | 0.0ac | SCHAMPERS MARK | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **10-1-0421-00** | 0.0ac | VANHANDEL JULE | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **20-0-0127-00** | 0.0ac | EVERS FAMILY LTD PARTNERSHIP | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **20-0-0188-00** | 0.0ac | VANHANDEL GREGORY | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0003-00** | 0.0ac | WICHMAN BRUCE | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0015-00** | 0.0ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0016-00** | 0.0ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0045-00** | 0.0ac | CAROL J JENS IRREV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0046-02** | 0.0ac | CAROL J JENS IRREV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0848-01** | 0.0ac | ENGLAND FAMILY LTD PARTNERS | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0858-00** | 0.0ac | MCCARTHY DAVID 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0859-03** | 0.0ac | MCCARTHY DAVID 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0862-03** | 0.0ac | MCCARTHY DAVID 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0689-00** | 0.0ac | BERG THOMAS | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0909-04** | 0.0ac | SUE WOLTER | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **31-1-9202-00** | 0.0ac | APPLE HILL FARMS LLC | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0759-00** | 0.0ac | GRIESBACH FAM IRREV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0760-00** | 0.0ac | GRIESBACH FAM IRREV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **31-1-9220-00** | 0.0ac | DEEP FARMS LLC | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0941-00** | 0.0ac | KENNETH G BAUM REV TRST 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0955-00** | 0.0ac | SCHABO JAY | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **31-1-9310-04** | 0.0ac | WESTRA CHRISTOPHER S | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0830-00** | 0.0ac | MCCARTHY DAVID 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-0-0831-00** | 0.0ac | MCCARTHY DAVID 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-0-0915-01** | 0.0ac | JENTZ PAMELA A | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0757-00** | 0.0ac | VERHASSELT BROS L | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0766-00** | 0.0ac | BEHLE FARM LLC 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0770-00** | 0.0ac | BEHLE FARM LLC 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0771-00** | 0.0ac | BEHLE FARM LLC 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0792-00** | 0.0ac | WENDT DONNA | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0793-00** | 0.0ac | GEHRING NANCY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0796-00** | 0.0ac | GEHRING NANCY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0873-00** | 0.0ac | GEHRING NANCY 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0913-02** | 0.0ac | VANDERLOOP LEE 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0924-00** | 0.0ac | VANHANDEL JOSEPH | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0943-00** | 0.0ac | VOSTERS JAMES | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **19-0-0136-00** | 0.0ac | STELLMACHER JON | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0145-06** | 0.0ac | TANK HARVEY | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0151-00** | 0.0ac | SPRINGSTROH JUDITH 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **09-0-0152-00** | 0.0ac | SPRINGSTROH JUDITH 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **10-1-0847-00** | 0.0ac | SCHROTH DAVID | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **17-0-2008-00** | 0.0ac | VANHANDEL MOONSHADOW FARMS LLC | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **17-0-1259-00** | 0.0ac | WHITE ANNA | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **20-0-0096-01** | 0.0ac | VANDERLOOP LEE 🔗MULTI | Grand Chute (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-0-0288-00** | 0.0ac | WIESE BROTHERS FARMS | Harrison_Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **21-0-0241-00** | 0.0ac | SMITH JOHN | Combined Locks (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **09-0-0186-00** | 0.0ac | BLACK CREEK LIMESTONE COMPANY 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0187-00** | 0.0ac | PATRICK ROBERT | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0226-01** | 0.0ac | GARVEY BETTY | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0663-00** | 0.0ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0682-00** | 0.0ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0686-00** | 0.0ac | KORTZ GARY 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0688-00** | 0.0ac | KORTZ GARY 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0699-00** | 0.0ac | FOX VALLEY GOLF CLUB 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0700-00** | 0.0ac | FOX VALLEY GOLF CLUB 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0707-00** | 0.0ac | HILLEGAS SANDRA L | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0710-00** | 0.0ac | VANROSSUM RONALD | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0339-00** | 0.0ac | VANASTEN MICHAEL | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0353-00** | 0.0ac | CONRAD LINDA | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0384-00** | 0.0ac | ROMENESKO KATHLEEN H 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0387-00** | 0.0ac | VANROSSUM EUGENE | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **01-0-0690-00** | 0.0ac | VANDELOO FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **01-0-0691-00** | 0.0ac | VANDELOO FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0082-00** | 0.0ac | VERHASSELT FARMLAND LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0093-00** | 0.0ac | VERHASSELT FARMS LTD 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0100-00** | 0.0ac | VERHASSELT FARMS LTD 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0101-00** | 0.0ac | ROMENESKO THOMAS 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0104-00** | 0.0ac | ROMENESKO THOMAS 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0109-00** | 0.0ac | ROMENESKO KATHLEEN H 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0111-00** | 0.0ac | ROMENESKO KATHLEEN H 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0118-00** | 0.0ac | ROMENESKO KATHLEEN H 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0122-00** | 0.0ac | VANWYCHEN FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0125-00** | 0.0ac | VANWYCHEN FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0133-00** | 0.0ac | HEART OF VALLEY METRO & SEWAGE | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0154-00** | 0.0ac | VERHASSELT FARMLAND LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0170-02** | 0.0ac | ALLEN K BOWERS AND JODIE L BOWERS JOINT REVOC | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0190-00** | 0.0ac | AL KAY DAIRY FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0193-00** | 0.0ac | AL KAY DAIRY FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0212-00** | 0.0ac | LIEBERGEN DALE | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0150-00** | 0.0ac | HOELZEL PAUL 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0229-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0230-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0231-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0235-00** | 0.0ac | FOX GARY | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0237-00** | 0.0ac | VANDELOO ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0158-00** | 0.0ac | PENTERMAN WILLIAM | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0261-00** | 0.0ac | EARL | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0263-01** | 0.0ac | VENROOY ELAINE | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0266-00** | 0.0ac | VANDELOO ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0168-00** | 0.0ac | COUNTRY AIRE HARVESTING 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0265-00** | 0.0ac | VANDEYACHT TED | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0271-00** | 0.0ac | HOELZEL PAUL 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0276-00** | 0.0ac | HOELZEL PAUL 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0287-00** | 0.0ac | HOELZEL DANIEL | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32-2-1133-01** | 0.0ac | KAUKAUNA UTILITIES | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0018-00** | 0.0ac | FELDKAMP HOWARD | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0030-00** | 0.0ac | VANDE HEY BRUCE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0031-00** | 0.0ac | VANDE HEY BRUCE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0034-00** | 0.0ac | FELDKAMP ROGER L 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0036-00** | 0.0ac | FELDKAMP ROGER L 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0040-00** | 0.0ac | UITENBROEK MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0043-00** | 0.0ac | UITENBROEK MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0049-00** | 0.0ac | SCHUESSLER LOUISE | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0051-00** | 0.0ac | LIEBERGEN MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0054-00** | 0.0ac | LIEBERGEN MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0059-00** | 0.0ac | UITENBROEK MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1803-00** | 0.0ac | ONEIDA NATION | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1805-00** | 0.0ac | VERHASSELT DALE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1810-00** | 0.0ac | VERHASSELT DALE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1817-01** | 0.0ac | TIMOTHY J VANGHEEM JT REV TRST 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1826-00** | 0.0ac | TIMOTHY J VANGHEEM JT REV TRST 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1837-00** | 0.0ac | TIMOTHY J VANGHEEM JT REV TRST 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **17-0-1864-00** | 0.0ac | VERHASSELT DALE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20-0-0106-03** | 0.0ac | LAMERS MICHAEL | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20-0-0209-00** | 0.0ac | VANASTEN DENNIS | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20-0-0245-01** | 0.0ac | VOSTERS GORDON | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0732-00** | 0.0ac | HUSS JAMES | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0734-00** | 0.0ac | KORTZ GARY W 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0738-00** | 0.0ac | KORTZ GARY W 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **32-5-0594-00** | 0.0ac | WALTON KENNETH M | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0007-03** | 0.0ac | WILLER TODD | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0008-00** | 0.0ac | MURPHY JOSEPH | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0951-00** | 0.0ac | VANDENHEUVEL DAVID | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0954-00** | 0.0ac | VANDERLOOP GARY | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0048-00** | 0.0ac | HOVEN ROSS | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0974-00** | 0.0ac | VANHANDEL FLORIAN | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0985-00** | 0.0ac | VANVREEDE DOUGLAS J | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0989-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0993-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0994-00** | 0.0ac | KORTZ MARK 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **09-0-0996-03** | 0.0ac | VANDEHEY JAMES | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0335-00** | 0.0ac | VANDELOO ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0359-01** | 0.0ac | VANDELOO ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0363-00** | 0.0ac | VANDELOO ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0392-00** | 0.0ac | VANZEELAND MARION F | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0009-00** | 0.0ac | KILSDONK ELIZABETH 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0012-00** | 0.0ac | KILSDONK ELIZABETH 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0013-00** | 0.0ac | KILSDONK ELIZABETH 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0016-00** | 0.0ac | VERHASSELT DALE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0017-00** | 0.0ac | KILSDONK ELIZABETH 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0018-00** | 0.0ac | VERHASSELT DALE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0022-02** | 0.0ac | DONALD/BARBARA MICKE LV TRST | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0055-00** | 0.0ac | VANWYCHEN FARMS LLC 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **13-0-0066-00** | 0.0ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **18-0-0258-00** | 0.0ac | VER BUST THOMAS J | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **20-0-0552-00** | 0.0ac | HIETPAS MARV | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **03-0-0134-03** | 0.0ac | SCHUESSLER ELIZABETH | Buchanan (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.

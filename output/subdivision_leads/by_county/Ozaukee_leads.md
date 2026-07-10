@@ -1,0 +1,68 @@
+# Ozaukee County — Subdivision Leads
+
+**Off-Market:** 62 | **For Sale:** 0 | **Total:** 62
+
+## 📬 Off-Market
+
+- **03-003-09-002.00** | 144.0ac | STROEBEL S DUANE | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-019-09-000.00** | 101.1ac | TEALCO GROUP 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **03-004-06-000.00** | 93.6ac | RODEN PAUL F | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-005-14-001.00** | 90.8ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-027-02-008.00** | 82.6ac | AJA FARM LLC | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-010-10-000.00** | 75.0ac | OPITZ JEFFREY C 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-016-01-000.00** | 75.0ac | OPITZ JEFFREY C 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-034-13-003.00** | 74.4ac | MALICKI MICHAEL | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-028-13-003.00** | 74.2ac | BELL MARY | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-018-09-000.00** | 74.0ac | TEALCO GROUP 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **04-031-15-000.00** | 73.0ac | STADLER RUDOLPH | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-029-13-001.00** | 72.6ac | MACIEJEWSKI NEAL C | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-019-02-002.00** | 66.3ac | TEALCO GROUP 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **03-005-01-001.00** | 63.1ac | GALL JEFFREY C | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **14-034-15-007.00** | 62.9ac | HILGENDORF MARK | Mequon (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-005-06-002.00** | 62.7ac | BERRES MICHAEL R | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-016-06-000.00** | 60.0ac | GILLIS PATRICK | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-005-10-000.00** | 55.6ac | DOMMER KENNETH W | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-007-05-006.00** | 54.6ac | FREITAG DEAN S | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **05-001-06-002.00** | 53.9ac | DENOW LOLA RAE | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-032-01-003.00** | 52.9ac | SIEVERS GLENN H | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-033-09-003.00** | 51.5ac | GLENN H. WEICHMAN | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **04-034-10-000.00** | 51.3ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-031-02-001.00** | 46.0ac | LEBEN FAMILY LIMITED PARTNERSHIP 🔗MULTI | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-005-01-005.00** | 44.8ac | GALL MATTHEW W | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-033-06-006.00** | 42.5ac | RATHKE SANDRA | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-016-01-002.00** | 41.0ac | MOERSCHEL GREGORY | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-029-10-000.00** | 41.0ac | KASTEN FARM LLC 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **06-006-14-000.00** | 40.5ac | HOLBROOK CAROLE R | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-034-07-000.00** | 40.1ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-022-11-002.00** | 39.6ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-004-14-000.00** | 38.7ac | BEIMBORN EDWARD A | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-027-11-001.00** | 38.1ac | VANDE BOOM VIOLET M | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **03-029-03-003.00** | 36.5ac | WITTE ROBERT S 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-008-02-004.00** | 35.9ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-030-07-001.00** | 35.0ac | PIPKORN JAMES | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-005-12-002.00** | 34.6ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-032-04-000.00** | 34.6ac | HOLTON JO ANNE | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **06-020-13-008.00** | 34.0ac | SCHEFFKI PATRICIA S | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-031-02-002.00** | 34.0ac | LEBEN FAMILY LIMITED PARTNERSHIP 🔗MULTI | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-002-10-002.00** | 34.0ac | WINTER CLYDE A | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-029-08-002.00** | 31.9ac | WITTE ROBERT S 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **10-018-11-007.00** | 30.5ac | PROEFROCK HEIDI L | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-005-03-001.00** | 30.0ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-030-08-000.00** | 29.2ac | MERRIFIELD DAVID | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **16-004-15-006.00** | 28.7ac | MADDEN JOSEPH A | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-028-16-011.00** | 27.7ac | PROST MARY LYNN | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-021-05-002.00** | 27.1ac | DICKMANN MATTHEW A | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-030-14-000.00** | 27.0ac | CEDARBURG CREEK FARMS LLC | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-016-05-000.00** | 25.0ac | CIRIACKS BETSY LEE | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-028-02-004.00** | 24.5ac | GROSSMAN WILLIAM WHITNEY | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-014-13-009.00** | 23.6ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **06-020-03-004.00** | 23.0ac | GAUTHIER MICHAEL T | Grafton Village (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-008-03-011.00** | 22.6ac | KISON DARWIN | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **08-020-06-002.00** | 21.7ac | BUCK NICHOLAS | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-032-16-004.00** | 21.1ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-032-16-004.00** | 21.1ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **04-032-16-004.00** | 21.1ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-021-02-002.00** | 20.1ac | KOHLWEY DAVID | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-014-12-003.00** | 20.0ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **08-023-05-002.00** | 20.0ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **03-029-14-001.00** | 20.0ac | KASTEN FARM LLC 🔗MULTI | Cedarburg Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.

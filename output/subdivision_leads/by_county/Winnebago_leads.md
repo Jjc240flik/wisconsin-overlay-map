@@ -1,0 +1,76 @@
+# Winnebago County — Subdivision Leads
+
+**Off-Market:** 70 | **For Sale:** 0 | **Total:** 70
+
+## 📬 Off-Market
+
+- **121-0091-02** | 0.0ac | HIGHWAY COMMISSION | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0180** | 0.0ac | CARR PATRICIA | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0183** | 0.0ac | MUELLER PAMELA | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0187-01** | 0.0ac | HOULIHAN JANE | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0193** | 0.0ac | HAASE REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0008** | 0.0ac | UJAZDOWSKI ANDREW | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0012** | 0.0ac | UJAZDOWSKI ANDY | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0024** | 0.0ac | N & T FARMS LLC | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0298** | 0.0ac | KUECK STEVEN | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0310** | 0.0ac | STAHL FARM LLC | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0331** | 0.0ac | KUTCHENRITER MARY | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0372-01** | 0.0ac | BORCHERT REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0373** | 0.0ac | STACKER LYNN | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0386** | 0.0ac | MARKHAM DENNIS | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0398-02** | 0.0ac | OLSON & SONS REV TST JAMES L | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0578-01** | 0.0ac | HAFEMEISTER ROBERT L | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0619** | 0.0ac | ECKSTEIN SANDRA | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0623** | 0.0ac | IHDE AMOS M | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0675** | 0.0ac | HART FRANCES 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0679** | 0.0ac | TYRIVER JACKSON | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0900** | 0.0ac | JJK PROPERTIES LTD | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **010-0146** | 0.0ac | KUEHNL FAM | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **010-0159** | 0.0ac | WILMS FAMILY LIMITED PARTNERSHIP | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **010-0036-06** | 0.0ac | VORLAND REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0057** | 0.0ac | SEELOW DANIEL 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0058** | 0.0ac | SEELOW DANIEL 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0118** | 0.0ac | BREI MARCUS | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0121** | 0.0ac | ERICKSON EDWARD | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0237** | 0.0ac | SWANSON MATTHEW T | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0501** | 0.0ac | BLACK CREEK LIME STONE | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0842** | 0.0ac | KOLOSSO JUDITH | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0844** | 0.0ac | OAKHEART FARM LLC | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0022** | 0.0ac | HARNESS ZACHARY M | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0046** | 0.0ac | REESE DOUGLAS F 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0047-02** | 0.0ac | REESE DOUGLAS F 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0052** | 0.0ac | WOLFF JOYCE 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0052-01** | 0.0ac | WOLFF JOYCE 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0216** | 0.0ac | TOMAHAWK LAND COMPANY | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0251** | 0.0ac | DOBBERKE REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0280** | 0.0ac | COWLING KAY 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0286** | 0.0ac | COWLING KAY 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0293** | 0.0ac | WEBER REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0303** | 0.0ac | GRUNSKA DAVID | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0304-02** | 0.0ac | ZWICKY FARMS LLC 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0305** | 0.0ac | ZWICKY FARMS LLC 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0320** | 0.0ac | COWLING JOSEPH 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0508** | 0.0ac | JENSEN BROTHERS FARM LLC | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0529** | 0.0ac | ROCH PATRICIA | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0563** | 0.0ac | COWLING JANE | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0578** | 0.0ac | COWLING JOSEPH 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0594** | 0.0ac | VANDE VEN MICHAEL J | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0596-02** | 0.0ac | VANDE VEN 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0624-02** | 0.0ac | VANDE VEN 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0631** | 0.0ac | VANDE VEN 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0285-02** | 0.0ac | EISCH ANNE | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **026-0321-02** | 0.0ac | WIESNER REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0899-01** | 0.0ac | REDDIN LIV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0210-09** | 0.0ac | PRINCE REV | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **121-0164-0102** | 0.0ac | SECURA INSURANCE | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **006-0677-03** | 0.0ac | HART FRANCES 🔗MULTI | Neenah Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **018-0045** | 0.0ac | GALLINGER CHARLES 🔗MULTI | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **018-0046** | 0.0ac | GALLINGER CHARLES 🔗MULTI | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **028-0955** | 0.0ac | LOEWENHAGEN JANICE | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **018-0261** | 0.0ac | WALTER KENNETH | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **018-0286** | 0.0ac | KOSSEL FAMILY LTD PARTNERSHIP | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **026-0537** | 0.0ac | GILBERTSON GARY | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **026-0570** | 0.0ac | COWLING DUANE | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **026-0625** | 0.0ac | AYLWARD RICHARD J | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **024-0006-03** | 0.0ac | RADLOFF KEVIN | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **12-65000100** | 0.0ac | CASTLE ROCK LAND/SHARON INVEST & HOLDING | Oshkosh Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.

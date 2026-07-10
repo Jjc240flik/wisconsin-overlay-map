@@ -1,0 +1,353 @@
+# Rock County — Subdivision Leads
+
+**Off-Market:** 347 | **For Sale:** 0 | **Total:** 347
+
+## 📬 Off-Market
+
+- **6-6-350** | 198.8ac | ZILKE FARMS LLC | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-102** | 187.4ac | STEVEN J VODA FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-252A.3** | 185.9ac | R & K & SONS FARMS LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-333.001** | 179.2ac | SYLVIA M SCHMITT DECLARATION OF T 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-123** | 173.9ac | RIESTERER FARMS 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-436.6** | 168.5ac | QUADE JAMES W | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-4-131** | 165.2ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-94** | 163.9ac | DAMM BRIAN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-95** | 161.0ac | TWIN CITY FARMS PARTNERS | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-137** | 157.5ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-124** | 152.7ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-355** | 143.5ac | JOHNSON RICHARD | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-309** | 143.1ac | JOHNSON TODD | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-324** | 141.4ac | DEVELOPME HENDRICKS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-133** | 140.0ac | BOSTON FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-17-317** | 139.3ac | DEVELOPME HENDRICKS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-116** | 133.5ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-17-325A** | 129.3ac | WISCONSIN POWER AND LIGHT COMPANY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-8-101** | 127.1ac | SAYRE JOINT FARMS LLC 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-4-45** | 124.7ac | TENNYSON FARMS LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-154** | 121.0ac | REMLEY JOHN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-125** | 120.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-14** | 117.7ac | WICKINGSON STEVEN | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-368** | 117.0ac | MERLET FARMS #1 LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-144** | 117.0ac | BOSTON FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-149** | 116.7ac | DECKERT JOEL | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-146** | 116.0ac | AVAILABLE NAME NOT 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-304** | 115.9ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-122.1** | 115.8ac | ANDERSON & ANDERSON PROP | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-236** | 115.1ac | CLIFT ADAM | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-358** | 112.6ac | BECKER WILLIAM | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-11-122** | 112.1ac | BOSTON FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-128** | 112.0ac | NELSON RYAN 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-225** | 110.6ac | WIXOM PAUL 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-124** | 110.0ac | REED THOMAS | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-159.01** | 109.9ac | ARNOLD FARMS LAND HOLDIN | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-90** | 107.9ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-65.1** | 106.3ac | STEVEN J VODA FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-56** | 105.3ac | ALSETH PHILIP 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-431.001** | 104.8ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-260** | 104.7ac | HETH FARM PROPERTIES LLC | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-18** | 103.0ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-321.4** | 102.5ac | MACO ANN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-93.2A** | 101.4ac | HETH DAVID 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-319.001** | 100.2ac | NATURAL LAND INSTITUTE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-167** | 100.0ac | BUMP ROBERT 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-126** | 99.5ac | SAROW FAMILY FARM LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-105.2** | 98.1ac | BOSTON FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-101.1** | 95.0ac | AVAILABLE NAME NOT 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **0204200001** | 94.1ac | BRADLEY J HULBERT LIVING 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-232** | 94.1ac | RIESTERER FARMS LLP 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-275** | 91.7ac | DONALD LISA | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-294** | 89.9ac | PAUL STEPHEN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-104A** | 89.9ac | AVAILABLE NAME NOT 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-367** | 89.6ac | MARTIN FARM HOLDINGS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-67B** | 87.7ac | KUTZ TWIN OAKS FARM LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-124.2** | 86.4ac | THREE R FARMS LLC | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-31** | 86.1ac | CULLEN DANIEL | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-321.4A** | 86.0ac | MACO ANN M | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-244** | 84.0ac | RIESTERER FARMS 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-307** | 83.5ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-259** | 82.2ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-165** | 82.0ac | REMLEY FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-183** | 82.0ac | BOQUIST JODY | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-222** | 81.8ac | BROWN RONALD | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-229.1** | 81.3ac | ARNDT RONALD | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-190** | 80.7ac | REED DANNY | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-192** | 80.6ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-6.1** | 80.3ac | BROWN STEVEN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-440** | 80.1ac | TEUBERT MATTHEW | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-360** | 80.0ac | KATTERHENRY DENNIS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-75** | 80.0ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-382.7** | 80.0ac | LENTELL YVONNE M | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-93** | 80.0ac | SOCIE GREEN-ROCK | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-154** | 80.0ac | GRENAWALT FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-312** | 80.0ac | IN MACFARLANE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-251A** | 80.0ac | HENSCHLER JASON 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-4-173** | 80.0ac | BALLMER JANET | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-185** | 80.0ac | L & L SWENSON FARMS LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-147** | 80.0ac | VANTHOURNOUT GREGORY 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-242** | 80.0ac | SENDELBACH CHRISTINE A 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-42.1** | 80.0ac | HAMILTON FRANCETTE 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-54** | 80.0ac | LAKELAND FARMS OF EVANSV | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-26** | 80.0ac | VOGEL REAL ESTATE REMAIN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-273** | 79.8ac | ROE KENT | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-9-65** | 79.7ac | STEVEN J VODA FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-12A** | 79.2ac | T G STREICH FARMS LLC | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-112A** | 79.2ac | KIND CHARLES | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-4-150** | 79.0ac | MILLER DANIEL | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-16-97** | 79.0ac | RAYMOND JAMES | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-76.01** | 78.8ac | NEUENSCHWANDER CORVAN R | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-208.1** | 78.6ac | STRICKLAND DONNA 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-72** | 78.4ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-200.2** | 78.0ac | MULLIKIN MICHAEL | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-80.1** | 78.0ac | REILLY TERRANCE | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-145** | 77.9ac | REMLEY FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-248** | 77.2ac | BARLASS WILLIAM | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **0204400001** | 76.8ac | BELARDI FAMILY INVESTMEN | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-109** | 76.8ac | HETH DAVID 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-351.3** | 76.8ac | MERLET FARMS #1 LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-49.1** | 76.0ac | HERRING JEANNE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-7-10** | 75.9ac | ROYAL FAMILY ENTERPRISES | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-67** | 75.6ac | STREICH FAMILY FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-49** | 75.4ac | WHISPERING PINE ACRES LL | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-42** | 75.2ac | ADAMSON MARY | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-4** | 75.2ac | RIESTERER PETER 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-338** | 75.1ac | FARRINGTON MICHAEL | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-94.1** | 75.0ac | STRICKLAND DONNA 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-194A** | 75.0ac | KEISLER ROY 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-139** | 75.0ac | KUENG MARILYN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-87** | 74.8ac | WISCONSIN AGGREGATE CO L 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-207** | 74.6ac | BEQUETTE DELBERT | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-192A** | 74.6ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-17-291A** | 74.5ac | CASE JOHN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-204.1** | 74.5ac | KEISLER ROY 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-184A** | 74.3ac | SCHULTHESS DAVID | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-239.2** | 73.9ac | MERLET FARMS #2 LLC | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-151.2** | 73.7ac | SORENSON BRYAN | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-11-126.1** | 73.3ac | RIESTERER MICHAEL | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-313** | 73.2ac | BROWN DONALD | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-32** | 73.0ac | MELMS GRANT 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-286** | 72.8ac | NATHAN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-382.1** | 72.7ac | BRYDEN ROGER 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-251B** | 72.0ac | HENSCHLER JASON 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-236.2** | 71.6ac | DONNELLY BRIAN J | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-11-264** | 71.6ac | KOWALSKI SCOTT | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-426** | 71.3ac | MARTIN FARM HOLDINGS LLC 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-16-229** | 70.8ac | SHOTLIFF MELVIN 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-206** | 70.7ac | NASS PHILLIP 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-185** | 69.1ac | ROWLEY JAMES | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-234** | 69.0ac | RIESTERER FARMS LLP 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-2** | 68.5ac | RIESTERER FARMS 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-365** | 68.4ac | HICKORY GROVE FARM OF BE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-131** | 68.4ac | KUENG MARILYN 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-194** | 68.3ac | GRENAWALT FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-7-53** | 67.3ac | RIESTERER FARMS LLP 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-363A** | 67.0ac | BREWER ROBERT 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-21.2** | 66.7ac | ABEY HAROLD | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-312** | 66.7ac | HEGGE JON | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-294** | 66.5ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-139A.1** | 66.5ac | BREWER ROBERT 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-25.02** | 65.8ac | DEVELOPME HENDRICKS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-113** | 65.1ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-66** | 65.1ac | BOX KEVIN | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-237.1A** | 65.0ac | SENDELBACH CHRISTINE A 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-10-231.01** | 64.2ac | HODGE JAMES | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-297** | 62.3ac | ALSETH PHILIP 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-8-101G** | 61.9ac | SAYRE JOINT FARMS LLC 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-15-319** | 61.2ac | LAWRENCE S BRIAN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-283** | 60.3ac | PAUL STEPHEN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-88** | 60.3ac | WISCONSIN AGGREGATE CO L 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-364** | 59.9ac | KATTERHENRY DENNIS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-179B** | 59.8ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-278** | 59.6ac | FIESTA FARMS LLC | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-302** | 59.0ac | MID AMERICA HOLDINGS LLP | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-7-98** | 58.0ac | BROWN STEVEN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-8-104A** | 57.2ac | AL & ED FARRINGTON FARMS LLC | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-16-130** | 55.9ac | WTG FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-256** | 55.6ac | R & R VENTURES LIMITED P | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-260.1** | 55.6ac | MC BRIDE FARMS LLC | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-224A** | 55.5ac | BRYDEN ROGER 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-8-4** | 55.2ac | HOLMAN THOMAS | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-2-359** | 55.1ac | MERLET FARMS #1 LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-162.1** | 55.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-195** | 55.0ac | FARRINGTON EDWARD | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-197** | 53.7ac | JANES ROBERT | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-293** | 53.3ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-71** | 53.1ac | KNUTSON KIRK 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-57** | 52.9ac | FLEMING WILLIAM | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-19** | 52.6ac | SARTELL DONALD | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-109** | 52.6ac | HASSELER ANITA | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-266.2** | 52.5ac | PAUL CHARLES | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-73.01** | 52.5ac | ALTENA FORBES P | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-256** | 51.6ac | MARY JANE AEBLY DUNPHY ROAD FARM R | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-272C** | 50.8ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-8-22A** | 50.6ac | PENNYCOOK FARM LLC | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-14-223** | 50.5ac | VENEMAN RODGER 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-375.2** | 50.0ac | KOWALSKI THOMAS | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-248** | 49.9ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-37** | 49.6ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-212.01** | 49.2ac | VENEMAN RODGER 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-129.1** | 49.2ac | WTG FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-91.10** | 49.1ac | GERLACH JOHN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-15.3A** | 48.9ac | WI ELECTRIC POWER COMPANY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-67** | 48.2ac | KUTZ TWIN OAKS FARM LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-86** | 47.4ac | AVAILABLE NAME NOT 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-198** | 47.1ac | TOM & DONNA SAYRE FARMS SAYRE FARMS | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-159** | 47.1ac | DEMROW KENNETH | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-11-118B** | 47.0ac | HETH DAVID 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **0204100001** | 46.4ac | BRADLEY J HULBERT LIVING 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-369E** | 45.9ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-10** | 45.3ac | GAREY DENNIS 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-263** | 45.0ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-315.4** | 44.8ac | OLSON KENNETH | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-126** | 44.7ac | LIVIN DAVID 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-190.6A** | 44.0ac | BUSS FARM HOLDINGS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-210A** | 43.7ac | BEELER DOUGLAS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-181B** | 43.5ac | CARROLL FAMILY IRREVOCAB | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-15.02** | 43.3ac | ALTENA KATHRYN | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-197.1** | 43.2ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-9.3** | 41.8ac | GAREY DENNIS 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-215** | 41.5ac | RIESTERER FARMS 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-90** | 41.5ac | HAJAS PETER | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-44** | 41.1ac | NELSON RYAN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-162** | 41.0ac | GERALD A & MARILYN M VANTHOURNOUT REV LIV TRU | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-151** | 40.9ac | ZWEIFEL RONALD | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-147.4** | 40.8ac | HECKEL FREDERICK W | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-194** | 40.6ac | KNUEPPEL HENRY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-230A** | 40.5ac | ARNDT CONNIE | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-66** | 40.3ac | STREICH FAMILY FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-379** | 40.1ac | FARRINGTON SCOTT | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-71** | 40.0ac | SCHULTZ MARK | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-178** | 40.0ac | POPP THOMAS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-216.1** | 40.0ac | RVB PARTNERSHIP | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-256.2** | 40.0ac | OPEN GROUP PROPERTIES LL | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-4-106.1** | 40.0ac | FENRICH DANIEL | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-161** | 40.0ac | BUMP ROBERT 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-180** | 40.0ac | COY RICHARD | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-144** | 40.0ac | REMLEY JOHN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-150.1** | 40.0ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-283.1** | 40.0ac | UDDER END FARMS LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-12** | 40.0ac | FRANKLIN RICHARD A 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-132.1** | 40.0ac | TROW KEITH 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-96** | 40.0ac | FRANKLIN RICHARD A 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-164** | 40.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-11-132** | 40.0ac | BOSTON FARMS LLC 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-235.1** | 40.0ac | VANTHOURNOUT GREGORY 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-235.2** | 40.0ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-301** | 40.0ac | SAYRE DAVID | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-179** | 40.0ac | NASS PHILLIP 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-122** | 39.9ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-292A** | 39.9ac | WITT PHILLIP | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-58.1** | 39.8ac | POPP ADAM | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-307** | 39.8ac | NATHAN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-37** | 39.6ac | HOPPE MARK | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-135** | 39.6ac | SYLVIA M SCHMITT DECLARATION OF T 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-292** | 39.5ac | CASE JOHN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-208** | 39.5ac | STRICKLAND DONNA 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-107.2** | 39.5ac | VANTHOURNOUT GREGORY 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-193** | 39.2ac | LIVIN DAVID 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-167** | 38.9ac | RIESTERER FARMS LLP 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-47.1** | 38.7ac | K & D BERGER FARM LLC | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-128** | 38.6ac | ZEE DOUGLAS | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-34** | 38.6ac | MELMS GRANT 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-225.01** | 38.5ac | WIXOM PAUL 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-11-265** | 38.4ac | FLURY FARMS LLC | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-113** | 38.3ac | MCNUTT ARTHUR | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-251** | 38.2ac | WRIGHT DENNY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-90** | 38.0ac | MILTON 7TH DAY BAPTIST C | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-109** | 38.0ac | VANTHOURNOUT GREGORY 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-105A** | 37.9ac | GRADY JOHN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-258** | 37.7ac | HOOKSTEAD JOY | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-199** | 37.7ac | WIS DEPT TRANSPORTATION REAL ESTATE UNIT 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-279.1** | 37.5ac | BUTTCHEN GERALD | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-66** | 37.5ac | BURKMAN BRIAN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-260.1** | 37.5ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-344.1** | 37.2ac | ROCK RIVER THRESHEREE IN | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-147.3** | 37.2ac | TRESCHER MARIAN | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-112.11** | 36.9ac | BACKYARD PROPERTIES OF R 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-176** | 36.8ac | STREICH BENJAMIN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-28** | 36.8ac | SWEENEY LAND HOLDINGS LL | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-118.8** | 36.8ac | WTG FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-67A** | 36.7ac | KUTZ TWIN OAKS FARM LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-122.1** | 36.6ac | TD SAYRE FARMS LLC | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-8-23A** | 36.5ac | ROLLINGWOOD DEVELOPMENT 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-14-177** | 36.4ac | POPP THOMAS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-299.2** | 36.4ac | DOWNING JACOB | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-266A** | 36.4ac | BISHOP JENNIFER | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-47** | 36.2ac | JACKSON DAVID | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-268** | 36.2ac | CEDARS LORENDA K | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-61** | 35.9ac | GENIN MARK | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-153** | 35.9ac | REMLEY JOHN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-15-324A** | 35.9ac | ENDRIZZI JOSEPH | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-115** | 35.8ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-74** | 35.8ac | WEGNER MONTE | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-47** | 35.8ac | COOPER ROBERT | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-150A** | 35.5ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-9-53** | 35.3ac | HETH DAVID 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-64.2** | 35.3ac | TRICKEL TIMOTHY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-17-300.2** | 35.1ac | FREI JORDAN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-175A.1** | 35.1ac | HENSCHLER JASON 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-20-171.01** | 35.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-2-200B** | 35.0ac | WI HAYNES FARMS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-6** | 34.6ac | BIRK FARM PARTNERSHIP LL | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-133** | 34.0ac | KAISER BRIAN J | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-105** | 33.8ac | BLUE GARY | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-20-293.002** | 33.5ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-7-52** | 33.0ac | RIESTERER PETER 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **V-23-1462.13** | 32.9ac | BACKYARD PROPERTIES OF R 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-373** | 32.6ac | AMUNDSON ROGER | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-147** | 31.0ac | HAMILTON FRANCETTE 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-252** | 30.5ac | MADRU-ETAL JEFFREY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-15-354A** | 30.5ac | CUDNEY MICHAEL | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-370A** | 30.0ac | HILDEBRANDT DONALD | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-11-86.1** | 30.0ac | LUKE RD GOESSLING AND BRANDI L GOESSLING REVO | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-12-128** | 30.0ac | BORNTRAGER RAYMOND D | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-31** | 30.0ac | K & L FARM LLC | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-4-118.2** | 29.6ac | KNUDSON SUSAN | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-13-245.1** | 29.5ac | WIS DEPT TRANSPORTATION REAL ESTATE UNIT 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-119** | 29.4ac | BUSS FARM HOLDINGS LLC 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-22** | 29.0ac | WATROUS MATTHEW | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-17-313.2** | 28.8ac | DEVELOPME HENDRICKS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-237.01** | 28.3ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **12110010** | 28.2ac | BRYDEN VICKI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-409.1** | 27.9ac | KUFFER JOHN | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-2-24** | 27.5ac | MCSHANE THOMAS J | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-13-24A** | 27.0ac | VOGEL REAL ESTATE REMAIN 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-357A** | 26.7ac | LANGER MARK 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-8-26.2** | 26.6ac | ROLLINGWOOD DEVELOPMENT 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-8-102.1** | 26.6ac | SPIKE DOROTHY | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-4-146** | 26.6ac | LANGE DAVID | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-173.1** | 26.5ac | NEWHOUSE MARTIN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-16-222.1A** | 26.5ac | ANDERSON PEGGY | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-174B** | 26.4ac | LIVIN DAVID 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-440.01** | 25.9ac | RIESTERER FARMS LLP 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-205** | 25.5ac | DAMM BRIAN 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-129** | 25.0ac | TROW KEITH 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-96.1** | 25.0ac | HEBB DAVID | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-71.1** | 24.4ac | KNUTSON KIRK 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-27-865** | 24.2ac | PINE KNOLL FARMS OF EVAN | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-6-328.2** | 24.1ac | LANGER MARK 🔗MULTI | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-89.2** | 24.0ac | KENTER MATTHEW | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **0208200100** | 24.0ac | DK PARTNERSHIP LLP | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **12230010** | 24.0ac | LOUISE S AHN S LOUISE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-51A** | 24.0ac | HOWARD FAMILY IRREVOCABL | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **22760005** | 23.1ac | DANIELSON JOSHUA | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-7-50** | 23.0ac | RIESTERER PETER 🔗MULTI | Milton Town (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **22280020** | 22.9ac | CORPORATE CONTRACTORS I | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-237.5** | 22.3ac | LIVI KEVIN | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-15-333.1** | 21.2ac | SCHMITT DAVID | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-93.3** | 21.1ac | CONSOLIDATED KOSHKONONG | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-14-258.1A** | 21.0ac | NORMAN MARY | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-6-305** | 21.0ac | PRATT WILLIAM | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-8-26.4** | 20.9ac | ROLLINGWOOD DEVELOPMENT 🔗MULTI | Janesville Town (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **6-19-171.2A** | 20.2ac | HENSCHLER JASON 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-12-88** | 20.2ac | SCHULTZ GARRETT | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-19-132D** | 20.0ac | MITOK DAVE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-2-207** | 20.0ac | BEELER DOUGLAS 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-77A.1** | 20.0ac | TREPELAS MICHAEL | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-14-239.2** | 20.0ac | CLUSKEY BRUCE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-89** | 20.0ac | WISCONSIN AGGREGATE CO L 🔗MULTI | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-19-173** | 20.0ac | APPLE CROSS FARMS LLC | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **22760100** | 20.0ac | CHARLES PIERRE | Beloit Town (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **6-4-107.1** | 20.0ac | KUENG MARILYN 🔗MULTI | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-12-167.1** | 20.0ac | BUMP DWIGHT | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-16-279** | 20.0ac | WILEMAN MARIANNE EA | Evansville (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.
+- **6-26-1310** | 20.0ac | HILLSIDE PROPERTIES EDGE | Fulton (Moderate to High) | B+ — Good subdivision potential. Edge-adjacent growth. Check sewer boundaries.

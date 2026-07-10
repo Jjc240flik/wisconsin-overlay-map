@@ -1,0 +1,272 @@
+# Brown County — Subdivision Leads
+
+**Off-Market:** 266 | **For Sale:** 0 | **Total:** 266
+
+## 📬 Off-Market
+
+- **R-300** | 90.4ac | HIBBARD STEVEN C | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-28** | 77.1ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-423-2** | 64.5ac | GARSOW EUNICE M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-299** | 62.0ac | SCHMIDT KEVIN L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-381** | 60.0ac | TRIPLE Z FARM LLC | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-425-7** | 59.6ac | ROTTIER BONNIE L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-210** | 55.1ac | THE WILLIAM F AND CHERYL A NOEL REVOCABL | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-314-1** | 54.4ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-612-1** | 53.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **ED-R42** | 51.6ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-128-1** | 49.0ac | KACZMAREK JEAN 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **W-95** | 47.8ac | GRIEPENTROG GORDON | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-413-2** | 47.3ac | WOUTERS SHARON J | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **VH-43** | 45.9ac | LANGER ERIC E | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **R-30-1** | 44.5ac | DEBEUKELAR JAMES 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-138** | 42.8ac | KROLL JAMES 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-120** | 42.3ac | KERKHOFF RICHARD J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-115** | 41.6ac | KERKHOFF RICHARD J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-424** | 41.5ac | ZIRBEL DENNIS | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-304** | 41.3ac | CAPPELLE JOSEPH G 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-121** | 41.2ac | KERKHOFF RICHARD J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-380** | 41.0ac | LAMERS FARM LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-470** | 40.6ac | RODNEY GRACE HUTH | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-82** | 40.6ac | SCHUH WEBSTER A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-117** | 40.4ac | VANDERKINTER LOREN R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-557** | 40.1ac | RANDALL M M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-41** | 40.1ac | GORAL LAWRENCE P | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-172** | 40.1ac | OTTO FRANK A | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-411** | 40.0ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VH-215** | 40.0ac | HILLSIDE BROOK FARM LLC A WISCONSIN LIMITED LIABILITY | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **HB-424** | 40.0ac | ELZEN SHIRLEY A VANDEN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-413** | 40.0ac | LAMERS FARM LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-409** | 40.0ac | ELZEN SHIRLEY A VANDEN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-419** | 39.9ac | ZEAMER DAVID R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-350** | 39.8ac | TARKOWSKI DENA | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-388** | 39.8ac | VANGHEEM NICHOLAS 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-89** | 39.7ac | EDINGER RANDALL L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-321** | 39.7ac | KILEY GARY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-175** | 39.6ac | ZEAMER JODI K 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-410** | 39.6ac | LAMERS KEVIN G | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-264** | 39.6ac | TETZLAFF JOHN L FAMILY LTD PARTNERSHIP 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-171** | 39.5ac | COATES DAVID J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-319** | 39.4ac | SITZMAN ALAN B | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-116** | 39.4ac | DETRIE FARMS LLC 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-389** | 39.4ac | KROLL JAMES M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-552** | 39.4ac | LOPPNOW BARBARA J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-410** | 39.4ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-498** | 39.4ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-316** | 39.3ac | VANNOIE WILLIAM J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-378** | 39.3ac | ZEAMER JODI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-33** | 39.3ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-9** | 39.2ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-299** | 39.1ac | DIEDERICH RAYMOND L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-340** | 39.1ac | DOBBERPUHL CONNIE J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-163** | 39.1ac | LASEE BRIAN B | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-160** | 39.0ac | DUCAT CLARENCE J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-190** | 39.0ac | RISSE MICHAEL L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-348** | 39.0ac | CAPPELLE JOSEPH G 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-32-1** | 39.0ac | EVERS ALICE M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-71** | 39.0ac | ALLEN MARK A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-383** | 39.0ac | DOBBERPUHL CONNIE J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-355** | 38.9ac | PAUL OSSMANN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-304** | 38.9ac | LOTTO JOSEPH P | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-374** | 38.9ac | ZEAMER JODI K 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-168** | 38.9ac | MUELLER MARK 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-379** | 38.9ac | ZEAMER CARL E | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-420** | 38.8ac | ELZEN SHIRLEY A VANDEN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-312** | 38.8ac | DIEDERICH RAYMOND L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-446** | 38.8ac | KACZMAREK JEAN 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-387** | 38.8ac | VANDEHEI GARY N 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-122** | 38.8ac | ETIENNE JODI L 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-140** | 38.6ac | KRAUTKRAMER JANET L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **W-226** | 38.5ac | TINEDALE FARMS PARTNERSHIP LLP 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **M-103-1** | 38.4ac | ZIRBEL MICHAEL | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-268** | 38.3ac | TETZLAFF JOHN L FAMILY LTD PARTNERSHIP 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-542** | 38.2ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-689** | 38.2ac | PETERS GERALD | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-113** | 38.2ac | HENDRICKS CHERYL A | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-98** | 38.2ac | NORMAN ROMUALD | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-361** | 38.1ac | PAUL OSSMANN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-496** | 38.1ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **R-377** | 38.1ac | ZEAMER JODI K 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-418** | 38.1ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-35** | 38.0ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-590** | 38.0ac | BODART PAUL A | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SU-735** | 38.0ac | HILLSIDE BROOK FARM LLC 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-7** | 38.0ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-345** | 38.0ac | VANDERKINTER LOREN R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-220** | 37.9ac | PAY TIM 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-425-2** | 37.8ac | ZIRBEL DENNIS R | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-443** | 37.8ac | KACZMAREK JEAN 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **E-153** | 37.8ac | BUYARSKI RICHARD A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-686** | 37.6ac | BIG SKY REAL ESTATE LLP | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-176** | 37.5ac | HETTMANN ALICE | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-380** | 37.5ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-84** | 37.5ac | PETERS LOIS J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-382** | 37.4ac | SABO BONNIE | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-353** | 37.4ac | VANDEHEI GARY N 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-588** | 37.3ac | STENDER KARL M | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-369** | 37.2ac | VANDEHEI GARY N 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-387** | 37.2ac | KERKHOFF RICHARD J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-336** | 37.1ac | FELS JEROME | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-277** | 37.1ac | AMBROSIUS ROBERT J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-414** | 37.1ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-68** | 37.0ac | ANTHONY J J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-450** | 37.0ac | VANDERVEREN CRAIG C 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-499** | 37.0ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-456** | 37.0ac | VANDERVEREN CRAIG C 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SU-280** | 36.9ac | VICKERY GEORGE L | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **E-68** | 36.6ac | PHILLIPS ARLENE M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-408** | 36.6ac | KEMPEN JACQUELYN A | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-393-1** | 36.5ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-379** | 36.3ac | NELSON SHANE M | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **HM-15-1** | 36.3ac | JOSSART DONALD G | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-114** | 36.2ac | VANASTEN PHYLLIS M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-381** | 36.2ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-24** | 36.1ac | PAY TIM 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-716-1** | 36.1ac | JEFFREY C DESJARDINS | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-81** | 36.1ac | PETERS LOIS J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-394** | 36.0ac | DAUL ADAM | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-503** | 36.0ac | CAPPELLE DARREL 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-352** | 35.9ac | CAPPELLE JOSEPH G 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-426** | 35.9ac | VANGHEEM NICHOLAS 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-137** | 35.8ac | RENTMEESTER JULIE A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-303** | 35.7ac | SCHMIDT KEVIN L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-616** | 35.5ac | CHATEAU BERNARD F DU | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **R-416** | 35.5ac | BLAUERT CODY J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-120** | 35.4ac | DIEDRICK DAVID G | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-488** | 35.4ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SC-604** | 35.3ac | DAVID MARK | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-508** | 35.2ac | MILAN ANGELA M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-138** | 35.0ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-92** | 35.0ac | EDINGER RANDALL L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-384** | 35.0ac | DOBBERPUHL CONNIE J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-128** | 34.9ac | LOTTO BERNARD P | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-165** | 34.9ac | MARX PATRICIA R | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SC-682** | 34.9ac | CHAPPELL FARMS LLC | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-472-2** | 34.9ac | OSSMANN JOYCE A 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-346** | 34.8ac | PAUL OSSMANN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-386-1** | 34.8ac | THE DANIEL C HENDRICKS AND MARTA S HENDR 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-113** | 34.8ac | DETRIE FARMS LLC 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-492-3** | 34.8ac | OSSMANN CINDY L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-467** | 34.6ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **L-427** | 34.5ac | VANGHEEM NICHOLAS 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-218** | 34.4ac | ALLEN WARREN | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-411** | 34.4ac | LAMERS FARM LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-73** | 34.3ac | HEALY KENNETH G | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-59** | 34.3ac | DEBEUKELAR JAMES 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-163-1** | 34.3ac | GUO DANZHU 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-172** | 34.2ac | ARENDT SANDRA M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-121** | 34.2ac | ETIENNE JODI L 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-609-1** | 34.1ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **VH-214** | 33.9ac | HILLSIDE BROOK FARM LLC 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SU-121** | 33.7ac | WHITE KEVIN J | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SC-578** | 33.6ac | ROBERT ROSS | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-128-2** | 33.5ac | KROLL DEBRA | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-474** | 33.5ac | VANESS THOMAS A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-221-2-1** | 33.4ac | ALLEN RANDALL L | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-391-2** | 33.3ac | VANDEHEI GARY N 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-125** | 33.3ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-370** | 33.3ac | ZEAMER JAMIE | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-307** | 33.1ac | MENCHESKI ANTHONY A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-441-1** | 33.0ac | WATERMOLEN EVAN | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-53** | 32.9ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-12-1** | 32.8ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-356-2** | 32.8ac | OTS SUNRISE FARM LLC | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-41-1** | 32.7ac | PAY TIM 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-147** | 32.4ac | GRUNWALD BARRY D 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-31** | 32.3ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-465** | 32.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **D-134** | 31.9ac | GORZLANCYK JAMES | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VG-577** | 31.9ac | KLOSTERMAN GLORIA A | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-353** | 31.6ac | OTS MAX E | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **W-211-1** | 31.5ac | TINEDALE FARMS PARTNERSHIP LLP 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-454** | 31.4ac | JENSEN THERESA L | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **ED-R49** | 31.3ac | PEETERS IRVIN L | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-473-1** | 30.9ac | BLACKMAN SAMANTHA J | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-152-2** | 30.4ac | BEAVERS JONATHAN | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SC-670** | 30.4ac | SCHMITT JAMES J | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-371** | 30.4ac | ELZEN SHIRLEY A VANDEN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-249** | 30.2ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-349** | 30.2ac | SKALETSKI DONNA M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-112-2** | 30.2ac | THE DANIEL C HENDRICKS AND MARTA S HENDR 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-118-1** | 30.2ac | KERKHOFF RICHARD J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-422** | 29.8ac | GAUTHIER THOMAS L | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-398** | 29.7ac | ELZEN SHIRLEY A VANDEN 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-352** | 29.6ac | WACHAL CAROL A | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-241** | 29.5ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-36** | 29.4ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-12** | 29.4ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-139** | 29.3ac | KROLL JAMES 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-276** | 29.2ac | GERALD BRICE | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-372-1** | 29.2ac | BOERS DAVID R | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-152-1** | 28.9ac | DANIEL PETERS & RONALD H WILLEMS REALTY LLP | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-159** | 28.8ac | ALLEN KAREN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-504** | 28.7ac | CAPPELLE DARREL 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-292-1** | 28.7ac | LORITZ EUNICE MAY | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-149-1** | 28.6ac | HOCK ROBBI J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-134-1** | 28.4ac | PAY KEVIN J VAN | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-675-4** | 28.3ac | POSEY SHIRLEY | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **E-162** | 27.9ac | GUO DANZHU 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-95** | 27.9ac | BECKER JAMES | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-170-1** | 27.8ac | MUELLER MARK 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-172** | 27.8ac | BERGH DANIEL VANDEN | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-329** | 27.7ac | DOBBERPUHL DALE R | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-265** | 27.6ac | CORRIGAN CHAD S | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-149** | 27.6ac | GRUNWALD BARRY D 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-415-2** | 27.6ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-162** | 27.5ac | ALLEN KAREN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **22-SC464** | 27.5ac | 7180 LTD PARTNERSHIP | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-17** | 27.4ac | CRAIG F HUTJENS | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-76-2** | 27.3ac | VANROSSUM MICHAEL H | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-466-1** | 27.2ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SU-107** | 26.9ac | ANDREWS GERALD L | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **HB-383** | 26.8ac | AMBROSIUS FAMILY LP | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-288-2** | 26.0ac | AMBROSIUS ROBERT J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-630** | 26.0ac | JAWORSKI DONALD | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **HM-203** | 25.7ac | ROBERTS IVAN G | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-376-1** | 25.2ac | ZEAMER JODI K 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-13** | 25.2ac | FROELICH LORI L | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-478-1** | 25.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **W-12-3** | 25.0ac | BIESE MARVIN B | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-69** | 25.0ac | PIESCHEK ERIC G | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-247** | 24.9ac | SIMPSON JOHN | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-413** | 24.9ac | JLM ENTERPRISES LLP | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SC-319** | 24.8ac | LAANEN STEVE | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-89** | 24.6ac | HOSKENS JAMES P | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **D-118** | 24.5ac | GERALD H GORZELANCZYK | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VA-216-2** | 24.5ac | GEORGIA PACIFIC CONSUMER PRODUCTS LP | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **R-409-2** | 24.3ac | ZIRBEL DAIRY FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-333** | 24.0ac | FRANKENTHAL HOWARD M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **21-188-6-1** | 23.9ac | HARMON HAYLEY M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-77** | 23.6ac | PANSIER GLEN J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-65-2** | 23.5ac | KOENIG MICHAEL J | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-339** | 23.4ac | LEFEVRE STEVEN R | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-147-1** | 23.1ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-465** | 22.9ac | LARSON DONALD S | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **PI-384** | 22.4ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **SC-717-1** | 22.2ac | GIBSON DAVID J | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-307** | 22.0ac | THE MATTHEW M VANDENHEUVEL AND ELIZABETH | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-4** | 22.0ac | STENCIL SHELLEY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VA-L194** | 21.9ac | KOCKEN KATHLEEN | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VW-W203** | 21.8ac | TINEDALE FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **VA-L190** | 21.7ac | LIN DER HUA | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **ED-R29** | 21.6ac | PEETERS IRVIN | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **ED-R52-1** | 21.6ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-16** | 21.4ac | MICKE EUGENE | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-315** | 21.2ac | KILEY GARY J 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **B-207** | 21.1ac | VANDENAVOND CARL | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SU-645** | 20.8ac | MCGREW REBECCA A | Ashwaubenon (High) | A — Prime subdivision target. In growth path with confirmed infrastructure.
+- **GL-96** | 20.8ac | MATZKE FAMILY LP | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **22-183-2** | 20.7ac | UNIVERSITY OF WISCONSIN BOARD OF REGENTS 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-506** | 20.6ac | VANDERKINTER LOREN R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **L-102** | 20.3ac | MID VALLEE GOLF COURSE | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-117-1** | 20.3ac | DETRIE FARMS LLC 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-99** | 20.2ac | SCHMIDT DAWN M | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-140-2** | 20.2ac | MARX REX D | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **R-427** | 20.2ac | ZEAMER DAVID R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-95** | 20.1ac | EDINGER RANDALL L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-39** | 20.1ac | SEIDL DIANE M | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **W-6** | 20.1ac | TINEDALE FARMS LLC 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **GL-505** | 20.1ac | VANDERKINTER LOREN R 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **E-15** | 20.1ac | LGL FARMS LLC | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HM-75** | 20.0ac | ALLEN MARK A 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **SC-216** | 20.0ac | UNIVERSITY OF WISCONSIN BOARD OF REGENTS 🔗MULTI | Bellevue (High) | A- — Strong growth area. High development pressure. Verify FLU details.
+- **HB-285-1-1** | 20.0ac | DIEDERICH RAYMOND L 🔗MULTI | Ledgeview (High) | A- — Strong growth area. High development pressure. Verify FLU details.
