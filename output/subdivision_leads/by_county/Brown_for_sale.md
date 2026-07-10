@@ -1,0 +1,397 @@
+# Brown County — FOR-SALE Land Listings
+
+**391 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **VH-503** | 61.0ac | MEACHAM DEBORAH L | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-612-1** | 53.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **ED-R42** | 51.6ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **PI-626** | 43.5ac | MALLOY JOHN T 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-145** | 40.6ac | UMENTUM JAMES G 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **B-212** | 40.4ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A-
+- **SU-217** | 40.2ac | HEISEL MARK P | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-90** | 40.1ac | BROSIG GARY | Ledgeview/Lawrence (High) | A-
+- **HM-557** | 40.1ac | RANDALL M M | Ledgeview/Lawrence (High) | A-
+- **HB-105** | 40.0ac | RUEDEN ANTHONY B | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-216** | 39.3ac | GAURA NANCY A | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-495** | 39.3ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-589** | 39.0ac | BODART MICHAEL T 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-92-1** | 39.0ac | VANROSSUM PETER | Ledgeview/Lawrence (High) | A-
+- **D-304** | 38.9ac | LOTTO JOSEPH P 🔗MULTI | Bellevue (High) | A-
+- **B-213-1** | 38.7ac | VANDEN AVOND CARL | Bellevue (High) | A-
+- **PI-67** | 38.4ac | SLEZEWSKI MICHAEL T | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-134** | 38.3ac | PACZKOWSKI WILLIAM F | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-689** | 38.2ac | PETERS GERALD 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-496** | 38.1ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-513** | 38.0ac | STENDER JOSEPH | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-590** | 38.0ac | BODART PAUL A | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-470** | 37.8ac | SOBIECK DAVID F | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-592** | 37.8ac | BODART MICHAEL T 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-686** | 37.6ac | BIG SKY REAL ESTATE LLP | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-687** | 37.4ac | GLOWINSKI GREGG | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-588** | 37.3ac | STENDER KARL M 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **21-414** | 36.8ac | MEYER HEATHER V | Bellevue (High) | A-
+- **SU-17** | 36.7ac | SPARKS KARI K | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-510** | 36.4ac | VERHEYDEN JEFFREY M | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-306** | 35.9ac | LOTTO JOSEPH P 🔗MULTI | Bellevue (High) | A-
+- **PI-616** | 35.5ac | CHATEAU BERNARD F DU | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-665-1** | 35.2ac | WILSON JACQUELYN M | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-128** | 34.9ac | LOTTO BERNARD P | Ledgeview/Lawrence (High) | A-
+- **VH-99** | 34.9ac | RENN GORDON | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-484** | 34.7ac | STENDER KARL M 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-467** | 34.6ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-175** | 34.3ac | LENARDUZZI JULIE A | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-609-1** | 34.1ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-578** | 33.6ac | ROBERT ROSS 🔗MULTI | Bellevue (High) | A-
+- **D-307** | 33.1ac | MENCHESKI ANTHONY A 🔗MULTI | Bellevue (High) | A-
+- **PI-465** | 32.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-134** | 31.9ac | GORZLANCYK JAMES | Ledgeview/Lawrence (High) | A-
+- **ED-R60** | 31.4ac | THE BENNY M WOZNIAK AND LORI M WOZNIAK L | Ledgeview/Lawrence (High) | A-
+- **ED-R49** | 31.3ac | PEETERS IRVIN L 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-326** | 31.1ac | STENCIL SHELLEY J | Bellevue (High) | A-
+- **SU-622** | 30.8ac | STYCZYNSKI RANDALL S | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-237** | 30.6ac | PANSIER GLEN J 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **HB-152-2** | 30.4ac | BEAVERS JONATHAN | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-249** | 30.2ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A-
+- **PI-628** | 29.8ac | JAWORSKI DONALD 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **21-184** | 29.8ac | ZUIDMULDER DOROTHY M 🔗MULTI | Bellevue (High) | A-
+- **D-241** | 29.5ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A-
+- **D-276** | 29.2ac | GERALD BRICE | Bellevue (High) | A-
+- **PI-587** | 28.8ac | STENDER KARL M 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-493** | 28.7ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-325** | 28.7ac | KINTER CLYDE H VANDER | Bellevue (High) | A-
+- **PI-485** | 28.0ac | LE ALLAN B | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-265** | 27.6ac | CORRIGAN CHAD S | Bellevue (High) | A-
+- **22-SC464** | 27.5ac | 7180 LTD PARTNERSHIP | Bellevue (High) | A-
+- **21-204-2** | 27.4ac | BOUCHER GERALD J | Bellevue (High) | A-
+- **L-76-2** | 27.3ac | VANROSSUM MICHAEL H | Ledgeview/Lawrence (High) | A-
+- **PI-466-1** | 27.2ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-20** | 26.9ac | KIELPIKOWSKI JAMES A | Bellevue (High) | A-
+- **PI-630** | 26.0ac | JAWORSKI DONALD 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-135** | 25.8ac | ROLAND DEBORAH 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-478-1** | 25.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-273** | 24.9ac | MARTIN JOANNE B 🔗MULTI | Bellevue (High) | A-
+- **D-247** | 24.9ac | SIMPSON JOHN | Bellevue (High) | A-
+- **SU-661** | 24.6ac | BERGHUIS JILL A | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-118** | 24.5ac | GERALD H GORZELANCZYK 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **21-188-6-1** | 23.9ac | HARMON HAYLEY M | Bellevue (High) | A-
+- **SU-773** | 23.9ac | SCHROEDER ELLA M | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-269** | 23.8ac | NOWAK RUSSELL L 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **PI-487** | 23.8ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-615-6** | 23.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-10** | 22.9ac | MICKE EUGENE | Ledgeview/Lawrence (High) | A-
+- **D-275-1** | 22.9ac | MARTIN JOANNE B 🔗MULTI | Bellevue (High) | A-
+- **ED-R50** | 22.4ac | PEETERS IRVIN L 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-427** | 22.4ac | DANIEL J PEETERS & RONALD H WILLEMS REALTY LLP | Ledgeview/Lawrence (High) | A-
+- **HB-8** | 22.1ac | EVERS ALICE M | Ledgeview/Lawrence (High) | A-
+- **ED-R29** | 21.6ac | PEETERS IRVIN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **22-91** | 21.1ac | SISTERS OF SAINT FRANCIS | Bellevue (High) | A-
+- **B-207** | 21.1ac | VANDENAVOND CARL | Bellevue (High) | A-
+- **D-303** | 21.1ac | LOTTO JOSEPH P 🔗MULTI | Bellevue (High) | A-
+- **SU-645** | 20.8ac | MCGREW REBECCA A | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-308** | 20.8ac | MENCHESKI ANTHONY A 🔗MULTI | Bellevue (High) | A-
+- **PI-669-2** | 20.7ac | STRASSBURG KEVIN L | Ashwaubenon/Howard/Suamico (High) | A-
+- **22-98** | 20.5ac | TATARIAN ROGER | Bellevue (High) | A-
+- **ED-R53-2** | 20.4ac | JANSSEN ROBERT J | Ledgeview/Lawrence (High) | A-
+- **D-147** | 20.2ac | UMENTUM JAMES G 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-146** | 20.1ac | KAPHINGST SUSAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **ED-R48** | 20.1ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-105** | 20.1ac | KINTER CLYDE 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **VH-131** | 20.0ac | ROLAND DEBORAH 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-283** | 20.0ac | MATZKE KENNETH J | Bellevue (High) | A-
+- **L-75** | 20.0ac | VERHASSELT FARMLAND LLC | Ledgeview/Lawrence (High) | A-
+- **PI-613** | 20.0ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-614** | 19.9ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-233** | 19.9ac | MARKS CAROLYN C | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-131** | 19.9ac | LOTTO JOSPEH P | Ledgeview/Lawrence (High) | A-
+- **E-80** | 19.9ac | TOONEN FAMILY FARMS LLC 🔗MULTI | Bellevue (High) | A-
+- **E-81** | 19.9ac | TOONEN FAMILY FARMS LLC 🔗MULTI | Bellevue (High) | A-
+- **M-218** | 19.7ac | KITTELL MATTHEW J | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-462** | 19.6ac | BROTT DIANE S | Ashwaubenon/Howard/Suamico (High) | A-
+- **ED-R46** | 19.6ac | MARTIN JOY A 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **B-225** | 19.6ac | KROLL DEBRA A 🔗MULTI | Bellevue (High) | A-
+- **PI-494-1** | 19.6ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-102** | 19.5ac | SHUSTA TERRY L | Ledgeview/Lawrence (High) | A-
+- **D-103** | 19.5ac | KINTER CLYDE 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-264** | 19.5ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A-
+- **PI-494** | 19.5ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-683** | 19.4ac | NELSON HEATHER L | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-262** | 19.4ac | PANSIER GLEN J 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **PI-624** | 19.3ac | JAWORSKI DONALD 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-622** | 19.2ac | JACOBS AMANDA | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-446-1** | 19.2ac | WOUTERS DAVID | Ledgeview/Lawrence (High) | A-
+- **D-266** | 19.1ac | NOWAK RUSSELL L 🔗MULTI | Bellevue (High) | A-
+- **D-263** | 19.0ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A-
+- **PI-634** | 19.0ac | WILSON JAMES E | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-2202** | 18.9ac | BOSAR BRIAN E | Bellevue (High) | A-
+- **PI-479** | 18.8ac | WHITE GREGORY F | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-2203** | 18.8ac | MILLHISER DANIEL J | Ledgeview/Lawrence (High) | A-
+- **D-2208** | 18.8ac | DANAHAR BENJAMIN J | Ledgeview/Lawrence (High) | A-
+- **D-2220** | 18.8ac | GREENLUND MARK | Ledgeview/Lawrence (High) | A-
+- **D-2226** | 18.8ac | FUCHS MATTHIAS A | Ledgeview/Lawrence (High) | A-
+- **D-2236** | 18.8ac | SIPES JENNIFER A | Ledgeview/Lawrence (High) | A-
+- **L-93** | 18.4ac | DEMERATH ARLIN N | Ledgeview/Lawrence (High) | A-
+- **D-301** | 18.2ac | LOTTO JOSEPH P 🔗MULTI | Bellevue (High) | A-
+- **D-303-1** | 18.0ac | LOTTO BERNARD | Bellevue (High) | A-
+- **D-119** | 18.0ac | GERALD H GORZELANCZYK 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **21-208** | 17.5ac | RUST JENNA M | Bellevue (High) | A-
+- **23-260** | 17.4ac | WATERMOLEN DENNIS F | Bellevue (High) | A-
+- **PI-668-2** | 17.4ac | OTTO DARREN H | Ashwaubenon/Howard/Suamico (High) | A-
+- **VA-214-1** | 17.4ac | GEORGIA PACIFIC CONSUMER PRODUCTS LP | Ashwaubenon/Howard/Suamico (High) | A-
+- **21-211-1** | 17.3ac | BLAN CAROL A | Bellevue (High) | A-
+- **D-302** | 17.3ac | LOTTO JOSEPH P 🔗MULTI | Bellevue (High) | A-
+- **SU-659** | 17.0ac | MATUSZAK DARLENE M | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-633** | 16.9ac | VANDERVEREN MARK R | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-70** | 16.8ac | PENNENBERG NOAH | Ledgeview/Lawrence (High) | A-
+- **D-139** | 16.6ac | KAPHINGST SUSAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-18-1** | 16.4ac | DIXON MASON L | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-305** | 16.3ac | MAX S TREE FARM LLC | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-120** | 15.9ac | GERALD H GORZELANCZYK 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-235-4** | 15.8ac | WARPINSKI TED J | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-112** | 15.7ac | CLOVER VENTURE LTD PARTNERSHIP | Ledgeview/Lawrence (High) | A-
+- **D-287** | 15.6ac | NOWAK RUSSELL L 🔗MULTI | Bellevue (High) | A-
+- **D-468-4-1** | 15.6ac | BIGELOW GERALD C | Ledgeview/Lawrence (High) | A-
+- **D-261** | 15.5ac | PANSIER GLEN J 🔗MULTI | Bellevue (High) | A-
+- **D-143** | 15.4ac | UMENTUM JOSEPH E | Ledgeview/Lawrence (High) | A-
+- **HM-188** | 15.0ac | DEGRAND MARK S | Bellevue (High) | A-
+- **SC-576** | 15.0ac | ROBERT ROSS 🔗MULTI | Bellevue (High) | A-
+- **ED-R52-2** | 14.7ac | PEETERS IRVIN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **L-70-5** | 14.6ac | SCHAMPERS MICHAEL P | Ledgeview/Lawrence (High) | A-
+- **ED-R44** | 14.6ac | MARTIN JOY A 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-660** | 14.5ac | MATUSZAK CHARLES | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-285** | 14.3ac | HEYRMAN JOSEPH L | Bellevue (High) | A-
+- **D-255** | 14.3ac | JOSSART JOHN | Bellevue (High) | A-
+- **ED-R52-3** | 14.2ac | PEETERS IRVIN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **PI-490** | 14.1ac | BRUNNER MICHAEL L | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-54-2** | 14.0ac | FROELICH MANDY J | Bellevue (High) | A-
+- **D-317-1** | 13.8ac | VANDERKINTER WAYNE E | Bellevue (High) | A-
+- **SU-767** | 13.8ac | ATKINSON WILLIAM M | Ashwaubenon/Howard/Suamico (High) | A-
+- **ED-R26** | 13.8ac | KELEN ROBERT J VANDER 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **E-88-1** | 13.4ac | TOONEN FAMILY FARMS LLC 🔗MULTI | Bellevue (High) | A-
+- **D-242** | 13.2ac | MITTELSTAEDT NANCY J | Ledgeview/Lawrence (High) | A-
+- **D-106** | 12.9ac | SKALETSKI LEO M | Ledgeview/Lawrence (High) | A-
+- **PI-487-1** | 12.2ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-317** | 12.0ac | FETTERLY STANLEY F | Bellevue (High) | A-
+- **D-101-1** | 12.0ac | SCHNEIDER JACOB G | Ledgeview/Lawrence (High) | A-
+- **D-73** | 12.0ac | DECLEENE ANN M 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-684** | 11.9ac | PETERS GERALD 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-669** | 11.8ac | OTTO DARREN 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-2** | 11.8ac | JAMES J ALLEN AND WENDY A ALLEN JOINT RE | Bellevue (High) | A-
+- **PI-668-1** | 11.7ac | OTTO DARREN 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-78** | 11.7ac | DONARSKI KENNETH A | Ledgeview/Lawrence (High) | A-
+- **SU-662-2** | 11.4ac | CHAMBERS DANIEL GEORGE | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-669-1** | 11.2ac | OTTO DARREN 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-777** | 11.0ac | WILLIQUETTE TERESA A | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-625** | 10.9ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-478-2** | 10.3ac | MEACHAM BARBARA A | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-743** | 10.0ac | MERCIER DANIEL J | Bellevue (High) | A-
+- **SC-741** | 10.0ac | VANDENPLAS RANDY L | Bellevue (High) | A-
+- **SC-742** | 10.0ac | MERCIER DANIEL 🔗MULTI | Bellevue (High) | A-
+- **SC-742-1** | 10.0ac | MERCIER DANIEL 🔗MULTI | Bellevue (High) | A-
+- **D-150-2** | 10.0ac | KASTER CRAIG | Ledgeview/Lawrence (High) | A-
+- **21-7** | 9.8ac | STAHL DAVE J | Bellevue (High) | A-
+- **21-204-1** | 9.8ac | BOUCHER KELLY L | Bellevue (High) | A-
+- **21-205-1** | 9.8ac | ZUIDMULDER DOROTHY M 🔗MULTI | Bellevue (High) | A-
+- **PI-627** | 9.7ac | MALLOY JOHN T 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-1367** | 9.6ac | MESSER MICHAEL 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **L-1368** | 9.6ac | MESSER MICHAEL 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **PI-466** | 9.6ac | RGB FARMS LLC | Ashwaubenon/Howard/Suamico (High) | A-
+- **HM-91** | 9.4ac | TRUTTMANN KAREN | Bellevue (High) | A-
+- **PI-599** | 9.2ac | MCALLISTER KATHLEEN M | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-1374** | 9.0ac | STUDDERS EILEEN | Ledgeview/Lawrence (High) | A-
+- **L-1379** | 9.0ac | CUMMINGS KYLE | Ledgeview/Lawrence (High) | A-
+- **D-427-86-A** | 8.9ac | ANDERSON AMY K | Ledgeview/Lawrence (High) | A-
+- **PI-612-2** | 8.8ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-23-1** | 8.5ac | FROELICH GERALD L | Bellevue (High) | A-
+- **21-200** | 8.5ac | FRANKOW CYNTHIA G | Bellevue (High) | A-
+- **L-76** | 8.4ac | VANROSSUM JONI R | Ledgeview/Lawrence (High) | A-
+- **21-197** | 7.9ac | BUNTIN JENNIFER L | Bellevue (High) | A-
+- **D-74** | 7.8ac | DECLEENE ANN M 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-459** | 7.8ac | NOE HEATHER L | Ashwaubenon/Howard/Suamico (High) | A-
+- **PI-615** | 7.7ac | STENDER KARL M 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-14** | 7.4ac | KROLL DEBRA | Bellevue (High) | A-
+- **PI-486** | 7.3ac | JACOBS BROTHERS 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-132-A** | 7.0ac | TORDEUR RONALD D | Bellevue (High) | A-
+- **HB-16** | 7.0ac | STAEVEN ENOLA JANE | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-75** | 6.6ac | DECLEENE ANN M 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-80** | 6.4ac | LINDGREN DONALD S 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SC-214** | 6.1ac | GERLIKOVSKI DALE J | Bellevue (High) | A-
+- **E-372-1** | 6.0ac | GULLICKSON DENA M | Bellevue (High) | A-
+- **D-485-7** | 6.0ac | BECKER JAMES | Ledgeview/Lawrence (High) | A-
+- **D-209-3-1** | 6.0ac | GROHUSKY DALE | Ledgeview/Lawrence (High) | A-
+- **D-1407** | 5.8ac | DROBEK NATHAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-1408** | 5.8ac | DROBEK NATHAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **21-5-1** | 5.4ac | WESTHOVEN CRAIG | Bellevue (High) | A-
+- **D-120-2** | 5.3ac | UMENTUM DAWN M | Ledgeview/Lawrence (High) | A-
+- **HM-89-3** | 5.1ac | KUROWSKI GINA L 🔗MULTI | Bellevue (High) | A-
+- **SU-662-1** | 5.0ac | CHAMBERS LAND & INVESTMENT ENTERPRISES I | Ashwaubenon/Howard/Suamico (High) | A-
+- **GL-292-2** | 5.0ac | QUIGLEY ELIZABETH ANN | Ledgeview/Lawrence (High) | A-
+- **21-208-1** | 4.8ac | RENTMEESTER DANIEL A | Bellevue (High) | A-
+- **SC-2245** | 4.8ac | GEIGER BRIAN R | Bellevue (High) | A-
+- **SC-2251** | 4.8ac | BARR GREGORY V | Bellevue (High) | A-
+- **SC-2252** | 4.8ac | YANDA SANDRA M | Bellevue (High) | A-
+- **SC-2262** | 4.8ac | MILLETT RODNEY | Bellevue (High) | A-
+- **SC-2264** | 4.8ac | HOES MICHAEL | Bellevue (High) | A-
+- **L-782** | 4.7ac | JOHNSON ALEX R | Ledgeview/Lawrence (High) | A-
+- **L-2127** | 4.4ac | ALLEN GARY | Ledgeview/Lawrence (High) | A-
+- **HM-481** | 4.3ac | ESTEL SHERRIE 🔗MULTI | Bellevue (High) | A-
+- **ED-F0124** | 4.3ac | RICK D GROESCHL AND WENDIE S GROESCHL RE 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-248** | 4.2ac | FROELICH CHRISTOPHER T | Bellevue (High) | A-
+- **D-488-5** | 4.2ac | KIEFER PATRICK J | Ledgeview/Lawrence (High) | A-
+- **SC-458** | 4.0ac | TORDEUR EDWARD G | Bellevue (High) | A-
+- **SC-2246** | 4.0ac | GENSCH KEITH R | Bellevue (High) | A-
+- **22-44-19** | 3.9ac | PERRET DAVID G | Bellevue (High) | A-
+- **SC-226-6** | 3.9ac | BASTEN MICHAEL J 🔗MULTI | Bellevue (High) | A-
+- **HB-82** | 3.9ac | DANFORTH BRUCE A | Ledgeview/Lawrence (High) | A-
+- **HM-481-A** | 3.8ac | ESTEL SHERRIE 🔗MULTI | Bellevue (High) | A-
+- **W-22-1** | 3.7ac | VANDE HEY BRUCE | Ledgeview/Lawrence (High) | A-
+- **D-77-1** | 3.7ac | JOHNSON CODY A | Ledgeview/Lawrence (High) | A-
+- **L-251** | 3.7ac | KOCKEN DANIEL J | Ledgeview/Lawrence (High) | A-
+- **L-525** | 3.6ac | VANDENACK JAMES E | Ledgeview/Lawrence (High) | A-
+- **L-1486** | 3.5ac | SCHUMACHER CHAD M | Ledgeview/Lawrence (High) | A-
+- **HB-150-6** | 3.4ac | DREW ADAM 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-393-2** | 3.3ac | GILBERTSON RACHAEL M | Ledgeview/Lawrence (High) | A-
+- **PI-440-5-1** | 3.2ac | ZOCHERT PAUL | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-343** | 3.0ac | SIKORA KENNETH 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-340** | 3.0ac | SIKORA KENNETH 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-467** | 2.9ac | MACKIN SUSAN E | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-1937** | 2.9ac | VANDERVEST ERIK J | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-458-1** | 2.8ac | STRATEN DONALD N VAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **HB-150-7-1** | 2.8ac | DREW ADAM 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **VA-1164** | 2.6ac | LAVIOLETTE CATHERINE | Ledgeview/Lawrence (High) | A-
+- **HB-150-5** | 2.6ac | DREW ADAM 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **VH-1430-1** | 2.5ac | PETERSON MARGARET E | Ashwaubenon/Howard/Suamico (High) | A-
+- **HB-315-1** | 2.5ac | FRELICH-GILLETTE KARRIE | Ledgeview/Lawrence (High) | A-
+- **E-139-1-1** | 2.4ac | AULT ADAM W | Bellevue (High) | A-
+- **SU-772-10** | 2.2ac | SCOTT S HUNSBERGER S | Ashwaubenon/Howard/Suamico (High) | A-
+- **GL-143-1** | 2.2ac | ALLEN CHAD | Ledgeview/Lawrence (High) | A-
+- **SC-1315** | 2.1ac | MANGER BARBARA E | Bellevue (High) | A-
+- **VH-224-4** | 2.0ac | REINHARD DAVID | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-439-1** | 1.9ac | HANDELAND JOAN M | Ledgeview/Lawrence (High) | A-
+- **SU-772-15** | 1.9ac | CHRISTENSEN DONALD A | Ashwaubenon/Howard/Suamico (High) | A-
+- **B-154-1** | 1.7ac | LIEBERGEN BEN | Bellevue (High) | A-
+- **SC-579-1** | 1.7ac | BASTEN MICHAEL J 🔗MULTI | Bellevue (High) | A-
+- **D-253** | 1.6ac | PANSIER GLEN J 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-365-17** | 1.6ac | AMY T LANG | Ledgeview/Lawrence (High) | A-
+- **SU-747** | 1.5ac | MICHAEL J WILLIQUETTE | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-1213-2** | 1.5ac | K & B THOMAS ENTERPRISES LLP 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **VH-51-2** | 1.5ac | STANKEVITZ ERIC | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-76-1** | 1.5ac | SWILLE ANNE E | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-1938** | 1.5ac | HOFFMAN BARBARA L | Ashwaubenon/Howard/Suamico (High) | A-
+- **E-365-3** | 1.4ac | KINJERSKI JUDITH A | Bellevue (High) | A-
+- **L-350-10** | 1.4ac | ROHDE KATHY | Ledgeview/Lawrence (High) | A-
+- **L-350-2** | 1.4ac | WEBER RUTH P | Ledgeview/Lawrence (High) | A-
+- **L-350-6** | 1.4ac | MICHAEL A DIESEL | Ledgeview/Lawrence (High) | A-
+- **HM-87-1** | 1.3ac | KUROWSKI GINA L 🔗MULTI | Bellevue (High) | A-
+- **ED-F0123** | 1.3ac | RICK D GROESCHL AND WENDIE S GROESCHL RE 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-457** | 1.2ac | STRATEN DONALD N VAN 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-1213-1** | 1.1ac | K & B THOMAS ENTERPRISES LLP 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SC-2059** | 1.1ac | LIIMATTA DANIEL K | Bellevue (High) | A-
+- **D-193-1-1** | 1.1ac | KOSCH JED A | Ledgeview/Lawrence (High) | A-
+- **D-1453** | 1.1ac | PANSIER DENNIS D 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **D-1452** | 1.1ac | PANSIER DENNIS D 🔗MULTI | Ledgeview/Lawrence (High) | A-
+- **SU-164-1-1** | 1.0ac | KAMPS JEFFREY L | Ashwaubenon/Howard/Suamico (High) | A-
+- **L-350-12** | 1.0ac | LOCHNER JOHN G | Ledgeview/Lawrence (High) | A-
+- **L-350-5** | 1.0ac | SYTSMA JUSY A | Ledgeview/Lawrence (High) | A-
+- **L-350-7** | 1.0ac | SHEA JANE H | Ledgeview/Lawrence (High) | A-
+- **L-350-9** | 1.0ac | JOHNSON ANNE M | Ledgeview/Lawrence (High) | A-
+- **SC-347-2** | 0.9ac | DEBAKER FAMILY PARTNERSHIP | Bellevue (High) | A-
+- **21-193** | 0.9ac | RENTMEESTER JOSEPH C | Bellevue (High) | A-
+- **E-334-3** | 0.8ac | DEBAKER CAROLYN M | Bellevue (High) | A-
+- **VA-228-Y-27** | 0.8ac | DOVER DEV 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-654-5** | 0.8ac | SCHMITT JAMES J 🔗MULTI | Bellevue (High) | A-
+- **SC-1601-48** | 0.8ac | LIVI JOHN H 🔗MULTI | Bellevue (High) | A-
+- **L-463-8** | 0.8ac | BENO NICHOLAS J | Ledgeview/Lawrence (High) | A-
+- **SC-1391-103** | 0.7ac | VANITEN RENEE L | Bellevue (High) | A-
+- **SC-654-4** | 0.7ac | SCHMITT JAMES J 🔗MULTI | Bellevue (High) | A-
+- **VA-228-Y-28** | 0.7ac | DOVER DEV 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-654-6** | 0.7ac | SCHMITT JAMES J 🔗MULTI | Bellevue (High) | A-
+- **L-1484** | 0.7ac | GORDON GARY J | Ledgeview/Lawrence (High) | A-
+- **SC-718** | 0.7ac | GIBSON DAVID | Bellevue (High) | A-
+- **SC-22-123** | 0.6ac | SCHANOCK DAN R | Bellevue (High) | A-
+- **SU-182-1-1** | 0.6ac | WILLETTE CYNTHIA L 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-654-7** | 0.6ac | SCHMITT JAMES J 🔗MULTI | Bellevue (High) | A-
+- **VA-228-W-7** | 0.6ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-718-2** | 0.6ac | LINDGREN DONALD S 🔗MULTI | Bellevue (High) | A-
+- **VA-228-W-15** | 0.5ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-1066** | 0.5ac | SCHNEIDER DONNA M | Ashwaubenon/Howard/Suamico (High) | A-
+- **VA-228-W-16** | 0.5ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-1604-55** | 0.5ac | KEULER LAURA J | Bellevue (High) | A-
+- **D-1020** | 0.5ac | VANDREESE ROBERT | Ledgeview/Lawrence (High) | A-
+- **SC-2118** | 0.4ac | MISKE JULIE S | Bellevue (High) | A-
+- **VH-1690** | 0.4ac | GERNDT MARY M | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-1294-37** | 0.4ac | VERHAAG MICHAEL P | Bellevue (High) | A-
+- **SC-1603-44** | 0.4ac | FARRELL THOMAS | Bellevue (High) | A-
+- **SC-2005** | 0.4ac | URBAN CHRISTINE | Bellevue (High) | A-
+- **SC-22-116-3** | 0.4ac | CAMILLI KAREN M | Bellevue (High) | A-
+- **VH-747-D-5** | 0.3ac | JILOT RONALD J | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-797-8** | 0.3ac | JUHNKE | Bellevue (High) | A-
+- **SC-2008** | 0.3ac | ZEISE FRANK J | Bellevue (High) | A-
+- **SC-2009** | 0.3ac | RABE TREVOR T | Bellevue (High) | A-
+- **SC-2010** | 0.3ac | HENDON IRA M | Bellevue (High) | A-
+- **VA-228-W-13** | 0.3ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VA-228-W-14** | 0.3ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VA-228-W-8** | 0.3ac | LAMERS A & K PROPERTIES LLP 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-1294-32** | 0.3ac | BERGER REBECCA N 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-33** | 0.3ac | WEGNER SCOTT R | Bellevue (High) | A-
+- **L-1370** | 0.3ac | MESSER MICHAEL J | Ledgeview/Lawrence (High) | A-
+- **VH-747-H-133** | 0.3ac | MENNEN ANGELA L | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-846-34** | 0.3ac | ESSEN PATRICIA A VAN 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VA-228-D-122** | 0.3ac | THOMSON NATHAN J | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-846-32** | 0.3ac | ESSEN PATRICIA A VAN 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-683-3** | 0.3ac | NICOLET LUMBER CO | Bellevue (High) | A-
+- **SC-1604-16** | 0.3ac | RANDALL BETH | Bellevue (High) | A-
+- **SC-1294-21** | 0.3ac | DIXON JOHN A | Bellevue (High) | A-
+- **E-107** | 0.2ac | GRAVE DANIEL | Bellevue (High) | A-
+- **SC-1185** | 0.2ac | VANDEUSEN LORI ANN | Bellevue (High) | A-
+- **SC-1294-1** | 0.2ac | CALHOON DAVID J 🔗MULTI | Bellevue (High) | A-
+- **SC-1602-9** | 0.2ac | LARSEN JAMES A | Bellevue (High) | A-
+- **SC-1188** | 0.2ac | KIND JOEL | Bellevue (High) | A-
+- **SC-1189** | 0.2ac | OVERLY METTJA R | Bellevue (High) | A-
+- **SC-1294-11** | 0.2ac | THOMSON DIANE R | Bellevue (High) | A-
+- **SC-1294-12** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-13** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-14** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-15** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-16** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-17** | 0.2ac | KASBOHM KRISTINA ALICE | Bellevue (High) | A-
+- **SC-1294-18** | 0.2ac | HELKE KATHLEEN IRENE | Bellevue (High) | A-
+- **SC-1294-19** | 0.2ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-3** | 0.2ac | CALHOON DAVID J 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-4** | 0.2ac | CALHOON DAVID J 🔗MULTI | Bellevue (High) | A-
+- **SC-1294-5** | 0.2ac | CALHOON DAVID J 🔗MULTI | Bellevue (High) | A-
+- **SC-1167** | 0.2ac | DEVEREAUX BRIAN S | Bellevue (High) | A-
+- **SC-1294-31** | 0.2ac | BERGER REBECCA N 🔗MULTI | Bellevue (High) | A-
+- **SC-718-1-1** | 0.2ac | VISSERS JASON P | Bellevue (High) | A-
+- **SC-1123** | 0.2ac | EPPING JARROD V | Bellevue (High) | A-
+- **SU-666-1** | 0.1ac | STENERSON ZACHARY S | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-853** | 0.1ac | MAYVILLE HAROLD J 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-854** | 0.1ac | MAYVILLE HAROLD J 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-871** | 0.1ac | KOWALSKI JACQUELYN F 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-872** | 0.1ac | KOWALSKI JACQUELYN F 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-873** | 0.1ac | KOWALSKI JACQUELYN F 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-880** | 0.1ac | BELTER JOHN | Ashwaubenon/Howard/Suamico (High) | A-
+- **VH-885** | 0.1ac | MEYER ERIC | Ashwaubenon/Howard/Suamico (High) | A-
+- **SU-182-1** | 0.1ac | WILLETTE CYNTHIA L 🔗MULTI | Ashwaubenon/Howard/Suamico (High) | A-
+- **SC-1601-52** | 0.1ac | SAUNDERS ROBERT | Bellevue (High) | A-
+- **SC-1601-55** | 0.1ac | MCMONAGLE DEBRA | Bellevue (High) | A-
+- **SC-1601-47** | 0.1ac | LIVI JOHN H 🔗MULTI | Bellevue (High) | A-
+- **SC-1601-50** | 0.1ac | PLANTE ROLAND W LA | Bellevue (High) | A-
+- **SC-1603-65-A** | 0.1ac | BISKNER CHRIS | Bellevue (High) | A-
+- **HB-360-5** | 0.1ac | AERTS ALEXANDER M | Ledgeview/Lawrence (High) | A-
+- **SC-1293-1** | 0.1ac | DAVID MARK 🔗MULTI | Bellevue (High) | A-
+- **SC-1602-24** | 0.0ac | MAHONEY MOSHE | Bellevue (High) | A-
+- **VH-3599-1** | ?ac | KUEHL TODD | Ashwaubenon/Howard/Suamico (High) | A-
+- **D-2202** | ?ac | THOMPSON MATT | Ledgeview/Lawrence (High) | A-
+- **D-2206** | ?ac | BOEKE ROB | Ledgeview/Lawrence (High) | A-
+- **D-2213** | ?ac | ALBRECHT TERRY J | Ledgeview/Lawrence (High) | A-
+- **D-2216** | ?ac | COISMAN GERALD | Ledgeview/Lawrence (High) | A-
+- **D-2218** | ?ac | BARAN DEANN | Ledgeview/Lawrence (High) | A-
+- **D-2224** | ?ac | LOFQUIST GARY | Ledgeview/Lawrence (High) | A-
+- **D-2228** | ?ac | THE DEREK F ROBINSON AND ALISON A ROBINS | Ledgeview/Lawrence (High) | A-
+- **D-2235** | ?ac | SIPES DONALD R | Ledgeview/Lawrence (High) | A-
+- **D-2237** | ?ac | TRIMBERGER MICHAEL | Ledgeview/Lawrence (High) | A-
+- **AL-135-2** | 28.4ac | PREMONSTRATENSIAN FATHERS | Allouez (Moderate to High) | B+
+- **SU-454-6** | 2.1ac | BLOHOWIAK BRUCE A | Allouez (Moderate to High) | B+
+- **AL-357** | 0.7ac | MILLER DEBRA | Allouez (Moderate to High) | B+

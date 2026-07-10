@@ -1,0 +1,424 @@
+# Dane County — FOR-SALE Land Listings
+
+**418 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **0609-172-1000-2** | 136.1ac | CITY/FITCHBURG MA COMMONWEALTH | Fitchburg (High) | A-
+- **0610-052-8001-8** | 134.6ac | UPHOFF ROBERT 🔗MULTI | Fitchburg (High) | A-
+- **0607-133-8010-0** | 115.1ac | HELLENBRAND RAYMOND | Verona (High) | A-
+- **0808-342-8510-0** | 54.6ac | MEIER DONALD L | Westport (High) | A-
+- **0911-031-8000-6** | 45.0ac | BAERWOLF ROBERT D | Sun Prairie/Burke (High) | A-
+- **0609-204-2011-2** | 44.0ac | LACY THOMAS | Fitchburg (High) | A-
+- **0807-364-9000-3** | 40.9ac | MALMQUIST GRANT | Westport (High) | A-
+- **0507-151-9000-6** | 40.7ac | HANNA JUDITH A | Verona (High) | A-
+- **0508-043-8000-7** | 40.6ac | DUERST MICHAEL G | Verona (High) | A-
+- **0609-123-8000-6** | 40.5ac | BERKAN LISA M | Fitchburg (High) | A-
+- **0508-051-9150-4** | 40.4ac | REILLY MICHAEL J | Verona (High) | A-
+- **0808-331-9000-0** | 40.4ac | WAGNER DAIRY FARMS LLC 🔗MULTI | Westport (High) | A-
+- **0808-332-9500-4** | 40.4ac | WAGNER LE JEROME J | Westport (High) | A-
+- **0808-334-8500-4** | 40.4ac | WAGNER DAIRY FARMS LLC 🔗MULTI | Westport (High) | A-
+- **0607-214-8000-0** | 40.3ac | STENSETH FARM LLC | Verona (High) | A-
+- **0911-053-8000-0** | 40.3ac | BAERWOLF JAMES J | Sun Prairie/Burke (High) | A-
+- **0911-154-9500-1** | 40.3ac | SCHMITT PRAIRIE FARM LLC | Sun Prairie/Burke (High) | A-
+- **0808-293-8500-4** | 40.3ac | MEINHOLZ MARTIN CJR | Westport (High) | A-
+- **0808-322-9500-6** | 40.3ac | ESSER FAMILY FARM | Westport (High) | A-
+- **0911-043-8000-2** | 40.2ac | JAMES RINGEISTETTER 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0911-043-9000-0** | 40.2ac | JAMES RINGEISTETTER 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0808-283-8500-6** | 40.2ac | MEINHOLZ LIVING TR VINCENT J & VIRGINIA T | Westport (High) | A-
+- **0607-151-8500-1** | 40.1ac | SCHMUCKER MICHAEL J | Verona (High) | A-
+- **0911-194-8500-5** | 40.1ac | ANDERSON DARWIN M | Sun Prairie/Burke (High) | A-
+- **0609-271-8000-7** | 40.0ac | CAINE PATRICK MARTIN | Fitchburg (High) | A-
+- **0508-044-8500-1** | 40.0ac | SCHALLER REV LIVING TR DONALD & KATHRYN | Verona (High) | A-
+- **0508-054-8500-9** | 40.0ac | SALISBURY BRIAN K | Verona (High) | A-
+- **0508-054-9500-7** | 40.0ac | RAY CHARLENE L | Verona (High) | A-
+- **0508-083-8500-4** | 40.0ac | OSPREY FARMS LLC 🔗MULTI | Verona (High) | A-
+- **0508-092-9000-6** | 40.0ac | MESSNER KURT M 🔗MULTI | Verona (High) | A-
+- **0811-093-9000-2** | 40.0ac | JENSON JAMES H | Sun Prairie/Burke (High) | A-
+- **0911-201-9500-3** | 40.0ac | RAULS STANLEY W 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0911-151-8500-6** | 40.0ac | WELLS KENNY J | Sun Prairie/Burke (High) | A-
+- **0911-152-8500-5** | 40.0ac | SELTZNER EDWARD | Sun Prairie/Burke (High) | A-
+- **0708-182-8000-5** | 40.0ac | TWIN VALLEY FARMS I LLC | Westport (High) | A-
+- **0807-364-8000-5** | 40.0ac | ESSER RICHARD J | Westport (High) | A-
+- **0808-341-9500-3** | 40.0ac | WAGNER DAIRY FARMS LLC 🔗MULTI | Westport (High) | A-
+- **0607-231-9501-0** | 39.8ac | MIDTHUN DENNIS C | Verona (High) | A-
+- **0808-281-9001-0** | 39.8ac | KALSCHEUR ARMELLA F 🔗MULTI | Westport (High) | A-
+- **0507-144-9000-5** | 39.6ac | KAHL DALE | Verona (High) | A-
+- **0507-123-8000-2** | 39.5ac | OCONNOR HILLSIDE FARMS LLC | Verona (High) | A-
+- **0507-144-8000-7** | 39.5ac | HANNA RANDALL S 🔗MULTI | Verona (High) | A-
+- **0911-184-9001-0** | 39.4ac | PORTER PATRICK D | Sun Prairie/Burke (High) | A-
+- **0607-113-8510-0** | 39.1ac | SLANEY JONATHON J | Verona (High) | A-
+- **0609-143-8000-2** | 39.0ac | STONEMAN FAMILY FARM LLC | Fitchburg (High) | A-
+- **0607-111-9010-0** | 39.0ac | SCHWENN STEVE O | Verona (High) | A-
+- **0607-114-8500-6** | 39.0ac | KALSCHEUR RENTALS | Verona (High) | A-
+- **0508-034-8503-0** | 39.0ac | SARBACKER THOMAS A | Verona (High) | A-
+- **0911-134-8501-0** | 39.0ac | WEISENSEL DANIEL J | Sun Prairie/Burke (High) | A-
+- **0808-283-8001-0** | 39.0ac | SPAHN FAMILY LAND LTD PARTNERSHIP | Westport (High) | A-
+- **0507-143-9500-1** | 38.6ac | KAHL DEAN V | Verona (High) | A-
+- **0607-123-9681-5** | 38.5ac | LINGARD STEVEN S | Verona (High) | A-
+- **0808-294-8520-0** | 38.3ac | MEINHOLZ MATTHEW | Westport (High) | A-
+- **0507-024-8510-0** | 38.0ac | ESSER THOMAS D | Verona (High) | A-
+- **0508-054-9130-5** | 38.0ac | HEILMAN CRAIG A | Verona (High) | A-
+- **0610-061-8501-2** | 37.8ac | UPHOFF ROBERT 🔗MULTI | Fitchburg (High) | A-
+- **0607-123-2001-0** | 37.8ac | SCHWENN RICHARD K | Verona (High) | A-
+- **0911-211-9511-8** | 37.7ac | GULLICKSON THOMAS | Sun Prairie/Burke (High) | A-
+- **0811-282-9502-0** | 37.2ac | ERNEST FARMS LLC | Sun Prairie/Burke (High) | A-
+- **0609-204-8021-3** | 37.1ac | GERATHS DAVID J | Fitchburg (High) | A-
+- **0808-292-8000-0** | 36.7ac | HELLENBRAND LIVING TR ALVIN C & ELAINE K | Westport (High) | A-
+- **0610-062-9001-4** | 36.5ac | LANE MICHAEL T | Fitchburg (High) | A-
+- **0808-284-8501-0** | 36.0ac | KALSCHEUR ARMELLA F 🔗MULTI | Westport (High) | A-
+- **0508-051-8701-9** | 36.0ac | CONNERY MICHAEL D | Verona (High) | A-
+- **0811-214-8500-2** | 35.8ac | MEIER STUART J | Sun Prairie/Burke (High) | A-
+- **0609-233-8502-6** | 35.7ac | ODORICO JON S | Fitchburg (High) | A-
+- **0607-134-9580-0** | 35.1ac | NEMMERS TYLER | Verona (High) | A-
+- **0508-182-9000-7** | 35.0ac | REAR VAN E | Verona (High) | A-
+- **0507-231-9550-4** | 34.9ac | HANNA RANDALL S 🔗MULTI | Verona (High) | A-
+- **0811-222-8001-0** | 34.2ac | KVALHEIM KRISTEN D | Sun Prairie/Burke (High) | A-
+- **0507-031-8500-8** | 34.2ac | MILLER ADRIAN K 🔗MULTI | Verona (High) | A-
+- **0507-012-8500-1** | 33.9ac | STAMN GREGORY L | Verona (High) | A-
+- **0507-111-9511-6** | 33.7ac | ESSER MARGARET K | Verona (High) | A-
+- **0607-211-9620-0** | 33.6ac | FRAZIER BRYCE EMMETT | Verona (High) | A-
+- **0808-333-8500-5** | 33.5ac | OCHOA ELAINE PODELL 🔗MULTI | Westport (High) | A-
+- **0607-223-9502-0** | 32.9ac | ELMER STUART D | Verona (High) | A-
+- **0607-241-8641-0** | 31.5ac | LINDA & GENE FARLEY CENTER FOR PEACE JUSTICE & SUSTAINAB | Verona (High) | A-
+- **0508-073-2001-0** | 31.5ac | SCHMITT TERRENCE J | Verona (High) | A-
+- **0810-233-8002-0** | 31.5ac | FIELD HARRY M | Sun Prairie/Burke (High) | A-
+- **0609-132-9000-3** | 31.4ac | STAFFORD BEAU J 🔗MULTI | Fitchburg (High) | A-
+- **0609-144-9000-9** | 30.9ac | HAAS REV LIVING TR FRANCES C MEICHER | Fitchburg (High) | A-
+- **0609-133-9000-2** | 30.8ac | MANDT FAMILY FARMS LLC | Fitchburg (High) | A-
+- **0911-251-9180-1** | 30.2ac | WEISENSEL LARRY R | Sun Prairie/Burke (High) | A-
+- **0607-142-8680-5** | 30.1ac | WILSMAN MARGARET J | Verona (High) | A-
+- **0708-084-8000-4** | 30.0ac | TWIN VALLEY FARMS III LLC | Westport (High) | A-
+- **0911-201-8000-0** | 29.8ac | DERR MARJORIE A | Sun Prairie/Burke (High) | A-
+- **0607-223-9000-7** | 27.9ac | GENRICH RYAN | Verona (High) | A-
+- **0607-233-8001-0** | 26.9ac | RINGGENBERG FARMS LLC | Verona (High) | A-
+- **0508-082-8501-0** | 26.7ac | OSPREY FARMS LLC 🔗MULTI | Verona (High) | A-
+- **0911-243-9150-7** | 26.1ac | HEIMAN ROBIN R | Sun Prairie/Burke (High) | A-
+- **0609-202-9100-2** | 25.6ac | VROMAN FAMILY FARM LLC | Fitchburg (High) | A-
+- **0911-193-9002-0** | 25.6ac | PORTER LIVING TR FREDERICK E & LOIS ANN | Sun Prairie/Burke (High) | A-
+- **0607-221-8700-0** | 25.5ac | MEYER STANLEY J | Verona (High) | A-
+- **0808-352-9000-5** | 25.0ac | ZIEGLER REGINALD | Westport (High) | A-
+- **0609-132-8500-0** | 24.8ac | STAFFORD BEAU J 🔗MULTI | Fitchburg (High) | A-
+- **0610-082-8710-4** | 23.9ac | KOKINOS DOLORES | Fitchburg (High) | A-
+- **0607-134-8780-4** | 23.3ac | STEPHENS JENNIFER J | Verona (High) | A-
+- **0911-213-9080-0** | 22.9ac | BAEHR DAVID A | Sun Prairie/Burke (High) | A-
+- **0810-251-9610-4** | 22.1ac | TAYLOR DAVID O 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0708-171-8730-5** | 22.0ac | BLACKHAWK SKI CLUB | Westport (High) | A-
+- **0911-191-9501-5** | 21.6ac | STRAND MARVELLE C | Sun Prairie/Burke (High) | A-
+- **0508-062-9625-0** | 21.6ac | TECKU MICHAEL R | Verona (High) | A-
+- **0607-104-8542-0** | 21.5ac | TALLARD FARMS & LAND LLC | Verona (High) | A-
+- **0911-171-8790-2** | 21.4ac | SELTZNER ALLEN R | Sun Prairie/Burke (High) | A-
+- **0808-323-9220-0** | 20.5ac | KUNZE DANIEL E | Westport (High) | A-
+- **0508-063-9680-9** | 20.5ac | MILLER KATHARINE M | Verona (High) | A-
+- **0607-104-8290-3** | 20.1ac | BANIK MARK T | Verona (High) | A-
+- **0911-023-8190-7** | 20.1ac | RINGELSTETTER DANIEL | Sun Prairie/Burke (High) | A-
+- **0609-133-9501-2** | 20.0ac | SNYDER DANIEL | Fitchburg (High) | A-
+- **0608-181-8500-3** | 20.0ac | GUST HOWARD C | Verona (High) | A-
+- **0608-244-9001-9** | 20.0ac | CAIN CAROLYN L | Verona (High) | A-
+- **0608-244-9250-8** | 20.0ac | MARTY RYAN LEE | Verona (High) | A-
+- **0911-234-9070-5** | 20.0ac | STORCH CARL | Sun Prairie/Burke (High) | A-
+- **0708-092-2556-0** | 19.9ac | ENDRES DALE A | Westport (High) | A-
+- **0811-221-9500-1** | 19.9ac | HAHN SONJA | Sun Prairie/Burke (High) | A-
+- **0911-191-8000-3** | 19.1ac | DULIN LIVING TR SANDRA R | Sun Prairie/Burke (High) | A-
+- **0508-081-8000-1** | 19.0ac | MESSNER KURT M 🔗MULTI | Verona (High) | A-
+- **0507-122-8500-8** | 18.9ac | SHACKELFORD JOLE RICHARD | Verona (High) | A-
+- **0507-122-8690-9** | 18.9ac | SHACKELFORD JOLE R | Verona (High) | A-
+- **0811-292-8550-8** | 18.5ac | ELLNER WILLIAM F | Sun Prairie/Burke (High) | A-
+- **0911-232-8130-6** | 18.5ac | SELTZNER MICHAEL | Sun Prairie/Burke (High) | A-
+- **0808-274-8580-1** | 18.5ac | BRABENDER CENTURY FARM LLC | Westport (High) | A-
+- **0911-074-2011-0** | 18.4ac | GUNDERSON LARRY T | Sun Prairie/Burke (High) | A-
+- **0808-354-9750-2** | 18.2ac | ZIEGLER LIVING TR LEONARD A & RUTH E 🔗MULTI | Westport (High) | A-
+- **0610-071-8500-1** | 17.8ac | SPEICHER JORDAN | Fitchburg (High) | A-
+- **0911-161-9000-7** | 17.7ac | TAYLOR RANDY J | Sun Prairie/Burke (High) | A-
+- **0810-251-9500-7** | 17.5ac | TAYLOR DAVID O 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0508-052-8000-6** | 17.0ac | MCDONNELL LEROY J | Verona (High) | A-
+- **0808-263-8730-2** | 16.0ac | ACKER FAMILY TR WILLIAM A & SALLY A | Westport (High) | A-
+- **0808-274-8520-3** | 16.0ac | ENDRES RUSSELL H | Westport (High) | A-
+- **0607-121-8570-0** | 15.8ac | BIGGERS BRYAN D K | Verona (High) | A-
+- **0607-121-8590-0** | 15.8ac | KNOX BRYAN L | Verona (High) | A-
+- **0912-192-8570-1** | 15.1ac | WEISENSEL GREGORY D | Sun Prairie/Burke (High) | A-
+- **0911-161-8554-0** | 14.2ac | JOHNSON BRAD DAVID | Sun Prairie/Burke (High) | A-
+- **0607-121-9735-0** | 14.0ac | DORN MASON T | Verona (High) | A-
+- **0811-074-9700-8** | 14.0ac | JAMES YELK FARM LLC | Sun Prairie/Burke (High) | A-
+- **0607-113-9375-0** | 13.5ac | POTTER DAVID J | Verona (High) | A-
+- **0607-113-9345-0** | 13.0ac | HELING JOSHUA R | Verona (High) | A-
+- **0808-333-8070-6** | 11.6ac | OCHOA ELAINE PODELL 🔗MULTI | Westport (High) | A-
+- **0911-224-8010-0** | 11.4ac | WEISENSEL JASON D | Sun Prairie/Burke (High) | A-
+- **0911-241-9510-3** | 11.2ac | SCHROEDER RICHARD L | Sun Prairie/Burke (High) | A-
+- **0509-011-0202-5** | 11.0ac | EUGSTER TRE WERNER R | Sun Prairie/Burke (High) | A-
+- **0507-022-9351-0** | 11.0ac | CEITHAMER STEVEN T | Verona (High) | A-
+- **0911-204-9110-0** | 10.9ac | BRIGGS GERALD M | Sun Prairie/Burke (High) | A-
+- **0508-182-9605-6** | 10.6ac | RHINER CRAIG JULIAN | Verona (High) | A-
+- **0609-151-8565-0** | 10.1ac | MOTIFF MICHAEL R | Fitchburg (High) | A-
+- **0507-154-8200-0** | 10.1ac | BROWN MELISSA G | Verona (High) | A-
+- **0911-133-9750-4** | 10.0ac | STATZ WESLEY A | Sun Prairie/Burke (High) | A-
+- **0911-161-9220-1** | 10.0ac | KVALO COREY A | Sun Prairie/Burke (High) | A-
+- **0708-021-8050-9** | 9.8ac | ZIEGLER LIVING TR LEONARD A & RUTH E 🔗MULTI | Westport (High) | A-
+- **0507-031-8070-9** | 9.7ac | MILLER ADRIAN K 🔗MULTI | Verona (High) | A-
+- **0911-192-8200-0** | 7.9ac | TROZ GARY A | Sun Prairie/Burke (High) | A-
+- **0609-173-9120-0** | 7.0ac | DUNN-HERFEL JANET F | Fitchburg (High) | A-
+- **0708-044-0100-7** | 7.0ac | HELD JUDITH L | Westport (High) | A-
+- **0507-101-9720-0** | 6.0ac | CAYGILL MATTHEW M | Verona (High) | A-
+- **0508-074-9175-0** | 6.0ac | NICKELATTI KAYLA | Verona (High) | A-
+- **0808-292-9270-0** | 5.9ac | MEINHOLZ VICTOR M | Westport (High) | A-
+- **0609-202-8945-2** | 5.8ac | VROMAN LLOYD L | Fitchburg (High) | A-
+- **0708-092-9320-5** | 5.2ac | HINRICHS WILLIAM J | Westport (High) | A-
+- **0607-344-9320-4** | 4.5ac | MILLER ADRIAN K 🔗MULTI | Verona (High) | A-
+- **0609-152-8110-8** | 4.5ac | VANRENSSELAER GUION R | Fitchburg (High) | A-
+- **0507-022-8750-0** | 4.2ac | COONS JAMES T | Verona (High) | A-
+- **0609-312-8820-2** | 4.0ac | RETRUM JASON | Verona (High) | A-
+- **0710-314-9585-0** | 2.8ac | VANDAALWYK ROBERT J | Fitchburg (High) | A-
+- **0810-122-2046-2** | 2.7ac | PRAIRIE DEVELOPMENT LTD 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0910-134-2022-1** | 2.2ac | KOCH MICHAEL | Sun Prairie/Burke (High) | A-
+- **0810-122-0312-2** | 2.2ac | PRAIRIE DEVELOPMENT LTD 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0911-251-8840-4** | 2.0ac | SELTZNER WILLIAM J | Sun Prairie/Burke (High) | A-
+- **0508-053-9500-8** | 1.9ac | THORPE LIVING TR ROBERT C & CYNTHIA A | Verona (High) | A-
+- **0607-013-8220-7** | 1.8ac | HELT RODNEY W | Verona (High) | A-
+- **0811-292-8835-4** | 1.0ac | HARRISON RANDOLPH E | Sun Prairie/Burke (High) | A-
+- **0911-223-8840-8** | 0.9ac | RENK SEED COMPANY | Sun Prairie/Burke (High) | A-
+- **0609-232-2314-7** | 0.9ac | JENKS CARLETON H | Fitchburg (High) | A-
+- **0910-254-6199-0** | 0.8ac | BORGARDT GARY | Sun Prairie/Burke (High) | A-
+- **0708-123-4734-7** | 0.8ac | ROGERS KEVIN | Westport (High) | A-
+- **0910-254-6221-0** | 0.8ac | PLASTER ALEX M | Sun Prairie/Burke (High) | A-
+- **0810-122-2035-2** | 0.8ac | PRAIRIE DEVELOPMENT LTD 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0910-254-2776-0** | 0.7ac | CURE CARL G | Sun Prairie/Burke (High) | A-
+- **0910-254-6144-0** | 0.6ac | JOZEFIAK TYLON | Sun Prairie/Burke (High) | A-
+- **0910-254-4265-0** | 0.6ac | EDDY WILLIAM | Sun Prairie/Burke (High) | A-
+- **0708-124-6598-8** | 0.6ac | SINCABAN/CHALMERS TR VIRGINIA A | Westport (High) | A-
+- **0708-123-5303-6** | 0.5ac | STETTNER DAVID R | Westport (High) | A-
+- **0609-091-7089-2** | 0.4ac | LEANNA LUCAS E | Fitchburg (High) | A-
+- **0708-123-7860-8** | 0.3ac | ENGLAND-ZELENSKI TAMARA A | Westport (High) | A-
+- **0708-123-3678-8** | 0.2ac | VOSS HOUSING COMPANY LLP | Westport (High) | A-
+- **0609-161-1111-2** | 0.2ac | OBRIEN SEAN | Fitchburg (High) | A-
+- **0810-013-4368-2** | 0.1ac | PRAIRIE DEVELOPMENT LTD 🔗MULTI | Sun Prairie/Burke (High) | A-
+- **0609-094-5032-0** | 0.1ac | GRUEBEL MARK | Fitchburg (High) | A-
+- **0808-151-9000-8** | 80.9ac | MEINHOLZ MARTIN C | Waunakee (Moderate to High) | B+
+- **0610-143-8502-2** | 63.0ac | WOOD JOHN M | McFarland (Moderate to High) | B+
+- **0610-123-9580-0** | 61.2ac | KAMNETZ RICHARD | McFarland (Moderate to High) | B+
+- **0509-152-8501-7** | 44.5ac | WARNER LEE L | Oregon (Moderate to High) | B+
+- **0808-031-8000-5** | 42.7ac | ENDRES GORDON | Waunakee (Moderate to High) | B+
+- **0808-024-8000-4** | 41.2ac | HOFFMAN LEO R | Waunakee (Moderate to High) | B+
+- **0809-173-9000-0** | 40.6ac | RIPP LEON J | Waunakee (Moderate to High) | B+
+- **0510-043-8000-2** | 40.5ac | MONSEN NORMAN | Oregon (Moderate to High) | B+
+- **0808-134-9000-9** | 40.4ac | STATZ LIVING TR CYRIL J & BARBARA J 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0909-201-9000-3** | 40.3ac | JM RIPP FARMS LLC | Waunakee (Moderate to High) | B+
+- **0808-264-8000-4** | 40.2ac | CR FARMS LLC 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0808-264-9500-7** | 40.2ac | CR FARMS LLC 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0909-174-8500-4** | 40.2ac | KOCH JAMES 🔗MULTI | DeForest (Moderate to High) | B+
+- **0911-181-8500-0** | 40.2ac | WILLIAMSON RYAN J | DeForest (Moderate to High) | B+
+- **0909-094-8000-6** | 40.2ac | HAHN DAVID D 🔗MULTI | DeForest (Moderate to High) | B+
+- **0910-112-9000-8** | 40.1ac | LOVICK ANDREW R | DeForest (Moderate to High) | B+
+- **0610-162-9500-9** | 40.0ac | HALVORSON ARLYN R | McFarland (Moderate to High) | B+
+- **0610-184-9500-3** | 40.0ac | ICKE TARA G | McFarland (Moderate to High) | B+
+- **0610-201-9500-1** | 40.0ac | BREKKEN CORY | McFarland (Moderate to High) | B+
+- **0610-122-9000-2** | 40.0ac | GANNON THOMAS B | McFarland (Moderate to High) | B+
+- **0509-151-8501-0** | 40.0ac | HAAK TIMOTHY J | Oregon (Moderate to High) | B+
+- **0510-163-8500-2** | 40.0ac | JOHNSON ARIK R | Oregon (Moderate to High) | B+
+- **0609-262-8500-3** | 40.0ac | MCGIBBON FREDERICK M | Oregon (Moderate to High) | B+
+- **0808-151-8000-0** | 40.0ac | ZIEGLER CRAIG A 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0809-122-9010-9** | 40.0ac | TIPPERARY FARMS LLC | Waunakee (Moderate to High) | B+
+- **0809-142-8000-9** | 40.0ac | VOSEN LE DELORES E | Waunakee (Moderate to High) | B+
+- **0610-123-8121-7** | 39.8ac | RENVICK MARVIN LLOYD | McFarland (Moderate to High) | B+
+- **0808-161-9500-1** | 39.7ac | HD FARM PROPERTIES LLC | Waunakee (Moderate to High) | B+
+- **0909-114-8000-1** | 39.7ac | KOMPLIN GREGG A | DeForest (Moderate to High) | B+
+- **0909-231-8500-4** | 39.6ac | HARRIS STEWART L 🔗MULTI | DeForest (Moderate to High) | B+
+- **0909-123-9500-3** | 39.6ac | HARRIS STEWART L 🔗MULTI | DeForest (Moderate to High) | B+
+- **0808-153-8121-2** | 39.5ac | HELLENBRAND SCOTT J | Waunakee (Moderate to High) | B+
+- **0509-161-9500-5** | 39.5ac | HEFTY EDWARD R | Oregon (Moderate to High) | B+
+- **0808-032-8503-0** | 39.5ac | ENDRES BERRYRIDGE FARMS LLC | Waunakee (Moderate to High) | B+
+- **0809-281-8010-9** | 39.4ac | SCHLECHT STEPHEN L 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0809-044-9500-1** | 39.4ac | KALTENBERG FARM PARTNERSHIP LLP | Waunakee (Moderate to High) | B+
+- **0510-082-9501-0** | 39.4ac | ROGOWSKI BRAD R | Oregon (Moderate to High) | B+
+- **0910-143-9500-6** | 39.4ac | RAULS STANLEY W 🔗MULTI | DeForest (Moderate to High) | B+
+- **0909-103-9000-2** | 39.3ac | BLUE STAR DAIRY FARMS 🔗MULTI | DeForest (Moderate to High) | B+
+- **0509-091-9000-5** | 39.2ac | WEBER JAMES R 🔗MULTI | Oregon (Moderate to High) | B+
+- **0910-142-8500-9** | 39.2ac | BAERWOLF FARMS LLC | DeForest (Moderate to High) | B+
+- **0909-173-8130-3** | 39.2ac | KOCH JAMES 🔗MULTI | DeForest (Moderate to High) | B+
+- **0910-104-9500-3** | 39.2ac | RIPP MARY M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0509-163-8500-5** | 39.2ac | CLARK MARY J | Oregon (Moderate to High) | B+
+- **0910-113-9000-7** | 39.1ac | RIPP MARY M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0808-152-8500-4** | 39.0ac | HELLENBRAND KENNETH J | Waunakee (Moderate to High) | B+
+- **0910-262-9500-2** | 39.0ac | RAULS REV LIVING TR MARK J & COLLEEN M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0809-011-9500-0** | 38.9ac | BALLWEG FAMILY LTD PARTNERSHIP | DeForest (Moderate to High) | B+
+- **0509-044-9000-2** | 38.9ac | OWENS JANEY C | Oregon (Moderate to High) | B+
+- **0808-143-9000-8** | 38.9ac | STATZ NEIL L | Waunakee (Moderate to High) | B+
+- **0509-174-8000-7** | 38.4ac | CLARK REV LIVING TR MARY J | Oregon (Moderate to High) | B+
+- **0910-142-8000-4** | 38.2ac | TREINEN RONALD J | DeForest (Moderate to High) | B+
+- **0910-013-8000-0** | 38.1ac | ALSMO JEFFREY A | DeForest (Moderate to High) | B+
+- **0510-054-9000-7** | 37.7ac | KLAHN KEVIN | Oregon (Moderate to High) | B+
+- **0910-153-9000-9** | 37.6ac | HARVEY ALAN J | DeForest (Moderate to High) | B+
+- **0510-053-9500-3** | 37.6ac | FOSTER KENNETH J | Oregon (Moderate to High) | B+
+- **0909-132-9100-0** | 37.5ac | ENGESETH DALE | DeForest (Moderate to High) | B+
+- **0909-154-9500-6** | 37.5ac | MIDTHUN DOUGLAS K | DeForest (Moderate to High) | B+
+- **0808-113-9001-0** | 37.5ac | SHIMNIOK JOHN W | Waunakee (Moderate to High) | B+
+- **0808-141-8001-0** | 37.5ac | ZIEGLER CRAIG A 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0808-012-9300-3** | 37.4ac | ELLICKSON TIMOTHY G | Waunakee (Moderate to High) | B+
+- **0808-094-9040-0** | 37.4ac | ACKER JOHN L | Waunakee (Moderate to High) | B+
+- **0809-032-8001-0** | 37.3ac | KALTENBERG DANIEL J | Waunakee (Moderate to High) | B+
+- **0909-142-8700-0** | 37.0ac | HAHN DAVID D 🔗MULTI | DeForest (Moderate to High) | B+
+- **0910-152-9001-9** | 37.0ac | RAULS JAY A 🔗MULTI | DeForest (Moderate to High) | B+
+- **0610-094-9001-0** | 37.0ac | URSO KOLTON J | McFarland (Moderate to High) | B+
+- **0910-012-9160-0** | 37.0ac | IHLAND STELLA E | DeForest (Moderate to High) | B+
+- **0509-141-9520-0** | 36.8ac | PURDIN FARMS LLC | Oregon (Moderate to High) | B+
+- **0610-164-8502-7** | 36.5ac | BAEK MICHAEL G | McFarland (Moderate to High) | B+
+- **0510-081-9502-0** | 36.5ac | KLONDIKE FARMS LLC | Oregon (Moderate to High) | B+
+- **0809-184-8502-2** | 36.4ac | STATZ CRAIG J | Waunakee (Moderate to High) | B+
+- **0909-214-8501-0** | 35.9ac | BROWN JOYCE A | Waunakee (Moderate to High) | B+
+- **0809-184-8030-3** | 35.6ac | BECKER JAMES M | Waunakee (Moderate to High) | B+
+- **0509-152-9140-2** | 35.4ac | CHRISTENSEN PAUL | Oregon (Moderate to High) | B+
+- **0808-011-8501-0** | 35.2ac | MARILYN KARLS REAL ESTATE LTD PRTNSP | Waunakee (Moderate to High) | B+
+- **0910-141-8001-0** | 35.2ac | RAULS STANLEY W 🔗MULTI | DeForest (Moderate to High) | B+
+- **0809-011-8501-1** | 35.2ac | ACKER-FARBER PEGGY | Waunakee (Moderate to High) | B+
+- **0508-121-6012-0** | 35.0ac | MUSSEHL RANDALL P | Oregon (Moderate to High) | B+
+- **0609-291-9600-2** | 35.0ac | FROSTWOOD FARMS III LLC | Oregon (Moderate to High) | B+
+- **0911-061-9000-8** | 35.0ac | GULLICKSON GARY C | DeForest (Moderate to High) | B+
+- **0510-053-9001-7** | 34.9ac | RAE LIVING TR RENA A 🔗MULTI | Oregon (Moderate to High) | B+
+- **0909-141-8010-6** | 34.8ac | HARRIS JOSHUA F | DeForest (Moderate to High) | B+
+- **0711-311-8500-6** | 34.6ac | EWING JAMES E | McFarland (Moderate to High) | B+
+- **0808-044-9010-6** | 34.3ac | DLR FARMS LLC 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0810-041-8500-3** | 33.6ac | HARBISON JOHN | DeForest (Moderate to High) | B+
+- **0809-141-8043-9** | 33.5ac | BINKLEY JOHN WARREN | Waunakee (Moderate to High) | B+
+- **0509-094-9530-1** | 32.8ac | SLATER-CHRISTENSEN LINDA A | Oregon (Moderate to High) | B+
+- **0610-012-9501-0** | 32.5ac | JACOB TR EDWIN & JEANNE 🔗MULTI | McFarland (Moderate to High) | B+
+- **0509-091-8501-1** | 32.1ac | WEBER JAMES R 🔗MULTI | Oregon (Moderate to High) | B+
+- **0910-093-9501-6** | 31.0ac | TREINEN REV LIVING TR VERNON E & VICKI L | DeForest (Moderate to High) | B+
+- **0509-041-8502-0** | 31.0ac | VALKYRIE FARM LLC | Oregon (Moderate to High) | B+
+- **0510-184-8500-7** | 30.6ac | LYON STANLEY A | Oregon (Moderate to High) | B+
+- **0509-043-9190-0** | 30.1ac | GOODSPEED DAVID C 🔗MULTI | Oregon (Moderate to High) | B+
+- **0910-151-8500-8** | 29.4ac | MANTHE TR DEAN L & JACQULYN K | DeForest (Moderate to High) | B+
+- **0711-303-8211-6** | 29.3ac | C & L INVESTMENTS LLP | McFarland (Moderate to High) | B+
+- **0808-153-9500-1** | 29.2ac | HELLENBRAND KENNETH | Waunakee (Moderate to High) | B+
+- **0510-071-9500-1** | 29.1ac | SPIEGEL BERNARD G 🔗MULTI | Oregon (Moderate to High) | B+
+- **0610-011-9031-0** | 29.0ac | JACOB TR EDWIN & JEANNE 🔗MULTI | McFarland (Moderate to High) | B+
+- **0911-064-8770-0** | 29.0ac | HAMELE ERIC LOUIS | DeForest (Moderate to High) | B+
+- **0808-114-9161-9** | 28.8ac | SHIMNIOK LE WILLIAM | Waunakee (Moderate to High) | B+
+- **0910-102-8002-1** | 28.5ac | PETERSON RYAN | DeForest (Moderate to High) | B+
+- **0910-161-8541-0** | 28.3ac | FREDENBERG STEVEN M | DeForest (Moderate to High) | B+
+- **0710-362-9090-1** | 26.4ac | STORCK ROAD FARM LLC | McFarland (Moderate to High) | B+
+- **0609-292-8060-0** | 26.4ac | MUCH KEVIN | Oregon (Moderate to High) | B+
+- **0510-174-8100-0** | 26.1ac | RICHARDSON DALE K | Oregon (Moderate to High) | B+
+- **0810-034-9190-6** | 25.8ac | EWIG SAMUEL | DeForest (Moderate to High) | B+
+- **0910-163-9001-0** | 25.7ac | RAULS JAY A 🔗MULTI | DeForest (Moderate to High) | B+
+- **0609-254-9060-4** | 25.7ac | UREN REV LIVING TR MICHAEL & NANCY | Oregon (Moderate to High) | B+
+- **0911-182-8500-9** | 25.6ac | MILLER CLEMENT S | DeForest (Moderate to High) | B+
+- **0909-212-9820-0** | 25.4ac | MAIER FARMS REAL ESTATE LLC | Waunakee (Moderate to High) | B+
+- **0809-072-8500-9** | 25.1ac | STATZ LIVING TR CYRIL J & BARBARA J 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0910-012-9501-0** | 24.9ac | IHLAND TR DAVID & DIANE | DeForest (Moderate to High) | B+
+- **0510-051-9680-8** | 24.6ac | ENZ DANIEL E 🔗MULTI | Oregon (Moderate to High) | B+
+- **0510-181-8180-8** | 24.6ac | GEFKE LIVING TR JEAN E | Oregon (Moderate to High) | B+
+- **0510-183-8210-0** | 24.6ac | NAUTA ROBERT J | Oregon (Moderate to High) | B+
+- **0510-082-8500-0** | 24.1ac | SWANSON LESLIE E | Oregon (Moderate to High) | B+
+- **0510-181-9162-0** | 23.2ac | MARTINSON THOMAS A | Oregon (Moderate to High) | B+
+- **0909-144-8065-0** | 23.2ac | THUR LISA M | DeForest (Moderate to High) | B+
+- **0710-362-9050-1** | 22.9ac | IMP FARM LLC | McFarland (Moderate to High) | B+
+- **0510-074-9151-1** | 22.4ac | VANG GER | Oregon (Moderate to High) | B+
+- **0810-082-8280-1** | 22.3ac | BECKER FARMS LLC | DeForest (Moderate to High) | B+
+- **0808-021-8000-7** | 21.9ac | ESSER DONALD H | Waunakee (Moderate to High) | B+
+- **0810-054-9120-6** | 21.6ac | THOMAS CHRIS E | DeForest (Moderate to High) | B+
+- **0510-041-8500-9** | 21.5ac | LUNDE TR J 🔗MULTI | Oregon (Moderate to High) | B+
+- **0909-224-8010-0** | 21.5ac | KOLTES MICHAEL A | DeForest (Moderate to High) | B+
+- **0510-172-9970-0** | 20.6ac | KLEMAN TODD J | Oregon (Moderate to High) | B+
+- **0610-114-9500-7** | 20.0ac | KLEINHANS JOSEPH A | McFarland (Moderate to High) | B+
+- **0809-143-9500-1** | 20.0ac | KYLE FONZO G | Waunakee (Moderate to High) | B+
+- **0509-101-8560-7** | 19.8ac | OREGON FARM LTD PARTNERSHIP | Oregon (Moderate to High) | B+
+- **0809-183-9000-8** | 19.8ac | THEIS DAVID A | Waunakee (Moderate to High) | B+
+- **0509-033-9570-6** | 19.7ac | ORVICK JAMES B | Oregon (Moderate to High) | B+
+- **0909-113-8690-8** | 19.7ac | LAVALLEY LE CYNTHIA M | DeForest (Moderate to High) | B+
+- **0510-171-9200-0** | 19.6ac | RICHARDSON DALE | Oregon (Moderate to High) | B+
+- **0809-041-8542-0** | 19.6ac | MEFFERT FARM LLC | Waunakee (Moderate to High) | B+
+- **0509-053-8001-2** | 19.6ac | CALLISTO ANTHONY | Oregon (Moderate to High) | B+
+- **0509-043-9501-7** | 19.6ac | STERLING ROBERT G | Oregon (Moderate to High) | B+
+- **0910-262-9000-7** | 19.5ac | RAULS REV LIVING TR MARK J & COLLEEN M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0509-033-8550-0** | 19.4ac | LARSEN JEAN M | Oregon (Moderate to High) | B+
+- **0808-161-9061-3** | 18.9ac | HELLENBRAND STEVEN R | Waunakee (Moderate to High) | B+
+- **0509-151-9190-3** | 18.8ac | NYGREN CORINNE C | Oregon (Moderate to High) | B+
+- **0509-152-8003-0** | 18.5ac | TOFTE DEBRA M | Oregon (Moderate to High) | B+
+- **0808-043-9502-0** | 18.5ac | DLR FARMS LLC 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0910-263-9071-1** | 18.4ac | MAYR FAMILY FARM LLC | DeForest (Moderate to High) | B+
+- **0509-171-8500-5** | 17.9ac | STAAS JEREMY A | Oregon (Moderate to High) | B+
+- **0909-134-8800-9** | 17.5ac | KNAPTON MATTHEW M | DeForest (Moderate to High) | B+
+- **0610-171-9930-0** | 17.4ac | HASSLINGER RON H | McFarland (Moderate to High) | B+
+- **0808-034-9002-0** | 16.9ac | SUCHOMEL MICHAEL G 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0910-263-8570-9** | 16.7ac | ERCE RICHARD A | DeForest (Moderate to High) | B+
+- **0808-121-8310-1** | 16.3ac | STATZ LIVING TR CYRIL J & BARBARA J 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0510-074-9182-4** | 16.1ac | OSTROWSKI CALYN | Oregon (Moderate to High) | B+
+- **0510-042-8002-0** | 16.1ac | LUNDE TR J 🔗MULTI | Oregon (Moderate to High) | B+
+- **0909-161-9680-0** | 16.0ac | ERICKSON JEREMY D | DeForest (Moderate to High) | B+
+- **0509-052-9700-5** | 15.9ac | KELZENBERG MICHAEL A | Oregon (Moderate to High) | B+
+- **0509-171-8580-9** | 15.8ac | KUSSMAUL JEFFREY | Oregon (Moderate to High) | B+
+- **0809-281-9510-2** | 15.7ac | SCHLECHT STEPHEN L 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0610-163-9190-4** | 15.5ac | NEUHAUS IRENE A | McFarland (Moderate to High) | B+
+- **0510-084-8690-9** | 15.4ac | LEE TERRA L | Oregon (Moderate to High) | B+
+- **0510-054-8500-4** | 15.3ac | ENZ DANIEL E 🔗MULTI | Oregon (Moderate to High) | B+
+- **0610-123-8750-6** | 15.3ac | STERKEN WARREN D | McFarland (Moderate to High) | B+
+- **0510-171-8290-7** | 15.3ac | LANDPHIER JEREMY | Oregon (Moderate to High) | B+
+- **0509-084-9180-7** | 15.2ac | HERFEL LIVING TR RAYMOND J | Oregon (Moderate to High) | B+
+- **0510-051-8001-1** | 15.2ac | SAFAVI MAHMUD H | Oregon (Moderate to High) | B+
+- **0510-081-8580-0** | 15.1ac | ALLEN TIMOTHY F H | Oregon (Moderate to High) | B+
+- **0710-363-9881-1** | 15.1ac | KRAKAU RICHARD J | McFarland (Moderate to High) | B+
+- **0510-051-8501-6** | 15.0ac | KORTTE WILLIAM E 🔗MULTI | Oregon (Moderate to High) | B+
+- **0510-042-8500-8** | 14.6ac | PODEBRADSKY JOHN P | Oregon (Moderate to High) | B+
+- **0610-161-9790-0** | 14.0ac | HUFF BYLA BECKY M | McFarland (Moderate to High) | B+
+- **0510-081-8500-1** | 13.4ac | FOLZ KATHLEEN | Oregon (Moderate to High) | B+
+- **0509-171-8210-6** | 13.3ac | WALDSCHMIDT RICHARD T | Oregon (Moderate to High) | B+
+- **0610-151-8000-9** | 12.7ac | MCLAIN MICHAEL J | McFarland (Moderate to High) | B+
+- **0909-161-9660-0** | 12.6ac | ADLER CHAD | DeForest (Moderate to High) | B+
+- **0610-164-9500-7** | 12.5ac | REYNOLDS MARY JOSEPHINE | McFarland (Moderate to High) | B+
+- **0610-021-9001-0** | 12.2ac | UTTER CLAIR | McFarland (Moderate to High) | B+
+- **0808-022-9610-0** | 12.1ac | RIPP STEVEN S | Waunakee (Moderate to High) | B+
+- **0609-271-8500-2** | 12.0ac | SEALS DOUGLAS E | Oregon (Moderate to High) | B+
+- **0910-274-8210-0** | 11.9ac | MELAND ROSS M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0610-222-9220-0** | 11.6ac | BJORDAHL CHRISTOPHER H | McFarland (Moderate to High) | B+
+- **0510-081-9100-0** | 11.5ac | SEARS DANIEL P | Oregon (Moderate to High) | B+
+- **0509-034-8500-1** | 10.9ac | ROWLEY THEODORE J | Oregon (Moderate to High) | B+
+- **0910-202-8750-4** | 10.8ac | ERICKSON ELAINE L | DeForest (Moderate to High) | B+
+- **0610-163-8340-4** | 10.4ac | FORLER ROBERT | McFarland (Moderate to High) | B+
+- **0510-174-8001-3** | 10.2ac | IGL ROBERT J | Oregon (Moderate to High) | B+
+- **0509-164-9302-2** | 10.2ac | FRANKSON DAVID E | Oregon (Moderate to High) | B+
+- **0909-121-8810-2** | 10.1ac | WIPPERFURTH RAY M | DeForest (Moderate to High) | B+
+- **0808-034-9320-3** | 10.1ac | STATZ AMANDA J | Waunakee (Moderate to High) | B+
+- **0610-173-8220-7** | 10.0ac | LANDERUD DAVID W | McFarland (Moderate to High) | B+
+- **0910-154-9800-0** | 10.0ac | RAULS STANLEY W 🔗MULTI | DeForest (Moderate to High) | B+
+- **0510-031-8670-0** | 9.6ac | BUTZ ALEXANDER P | Oregon (Moderate to High) | B+
+- **0509-043-9165-0** | 9.2ac | GOODSPEED DAVID C 🔗MULTI | Oregon (Moderate to High) | B+
+- **0509-052-9542-7** | 9.1ac | ROSGA SCOTT G | Oregon (Moderate to High) | B+
+- **0509-174-9815-0** | 8.8ac | FILIPEK THOMAS | Oregon (Moderate to High) | B+
+- **0509-144-8420-5** | 8.2ac | ANDERSON JERRY M | Oregon (Moderate to High) | B+
+- **0909-133-8321-1** | 8.2ac | EVANS GENE C | DeForest (Moderate to High) | B+
+- **0509-154-9410-0** | 7.8ac | PALMER BRIAN | Oregon (Moderate to High) | B+
+- **0809-302-2001-0** | 6.9ac | KRUSCHEK IRREV GRANTOR TR GERVASE & MARY | Waunakee (Moderate to High) | B+
+- **0909-164-9520-0** | 5.6ac | ELZINGA PAUL J | DeForest (Moderate to High) | B+
+- **0910-274-8180-0** | 5.5ac | MELAND ROSS M 🔗MULTI | DeForest (Moderate to High) | B+
+- **0609-234-9731-2** | 5.3ac | LAWRY ANDREW | Oregon (Moderate to High) | B+
+- **0808-132-9345-0** | 5.1ac | KALSCHEUR TERRY L | Waunakee (Moderate to High) | B+
+- **0510-054-8045-6** | 5.0ac | MILLER GERALD J | Oregon (Moderate to High) | B+
+- **0910-221-8065-0** | 5.0ac | RAULS BRYAN L | DeForest (Moderate to High) | B+
+- **0509-161-8110-9** | 4.9ac | CHRISTENSEN ARLEN WALTER | Oregon (Moderate to High) | B+
+- **0910-021-8100-0** | 4.5ac | BUDZYNSKI TOMASZ JANUSZ | DeForest (Moderate to High) | B+
+- **0509-042-8160-3** | 4.1ac | BROWN JOHN C | Oregon (Moderate to High) | B+
+- **0809-022-8610-0** | 3.6ac | HERBRAND RANDY K | Waunakee (Moderate to High) | B+
+- **0909-112-9200-9** | 3.5ac | BLUE STAR DAIRY FARMS 🔗MULTI | DeForest (Moderate to High) | B+
+- **0510-071-8300-5** | 3.3ac | SPIEGEL BERNARD G 🔗MULTI | Oregon (Moderate to High) | B+
+- **0808-033-8400-9** | 2.2ac | SUCHOMEL MICHAEL G 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0509-051-9560-6** | 2.0ac | PETERSON TR PHILIP L & CAROL L 🔗MULTI | Oregon (Moderate to High) | B+
+- **0610-094-4001-0** | 2.0ac | RADLOFF ANTHONY TRAXLER | McFarland (Moderate to High) | B+
+- **0509-051-8280-7** | 2.0ac | PETERSON TR PHILIP L & CAROL L 🔗MULTI | Oregon (Moderate to High) | B+
+- **0510-074-8501-9** | 2.0ac | SPIEGEL BERNARD G 🔗MULTI | Oregon (Moderate to High) | B+
+- **0909-142-8800-0** | 2.0ac | HAHN DAVID D 🔗MULTI | DeForest (Moderate to High) | B+
+- **0510-051-9610-0** | 1.9ac | KORTTE WILLIAM E 🔗MULTI | Oregon (Moderate to High) | B+
+- **0510-053-8840-4** | 1.4ac | RAE LIVING TR RENA A 🔗MULTI | Oregon (Moderate to High) | B+
+- **0909-202-9810-0** | 1.2ac | MCCHESNEY WILLIAM F | Waunakee (Moderate to High) | B+
+- **0910-201-8019-1** | 1.0ac | RAULS STANLEY W 🔗MULTI | DeForest (Moderate to High) | B+
+- **0809-161-2420-0** | 0.8ac | WEBER MICHAEL 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0809-161-2450-4** | 0.6ac | HARMS RUTH 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0809-161-2405-9** | 0.4ac | WEBER MICHAEL 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0809-073-6291-1** | 0.3ac | HAINSEY COTY | Waunakee (Moderate to High) | B+
+- **0809-073-6423-1** | 0.3ac | WESTPHAL STEPHANIE | Waunakee (Moderate to High) | B+
+- **0509-122-4476-3** | 0.2ac | WENDT CARLY | Oregon (Moderate to High) | B+
+- **0509-013-0933-9** | 0.1ac | HEIDEMANN BENJAMIN J | Oregon (Moderate to High) | B+
+- **0809-161-2435-3** | 0.1ac | HARMS RUTH 🔗MULTI | Waunakee (Moderate to High) | B+
+- **0610-024-0643-1** | 0.1ac | WESTRUM LAURA | McFarland (Moderate to High) | B+
+- **0610-031-6936-7** | 0.1ac | BYRNE ASHLEY MARIE 🔗MULTI | McFarland (Moderate to High) | B+
+- **0809-083-0794-8** | 0.1ac | GOFF CALEB | Waunakee (Moderate to High) | B+
+- **0509-013-0030-1** | 0.1ac | KOHLMAN REV LIVING TR MARY K | Oregon (Moderate to High) | B+
+- **0610-031-6894-8** | ?ac | BYRNE ASHLEY MARIE 🔗MULTI | McFarland (Moderate to High) | B+

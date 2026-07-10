@@ -1,0 +1,121 @@
+# Door County — FOR-SALE Land Listings
+
+**115 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **018 0116312823** | 40.7ac | TISHLER MATTHEW | Sister Bay (Moderate to High) | B+
+- **018 0119312834** | 40.5ac | MEYER WILLIAM | Sister Bay (Moderate to High) | B+
+- **018 0101312832** | 40.0ac | ANDERSEN WILLIAM S 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0110312812** | 40.0ac | JOHN J. SAWYER 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0111312841** | 40.0ac | DAOUST LAUREN M | Sister Bay (Moderate to High) | B+
+- **018 0114312822** | 40.0ac | HULL JENNIFER CUTLER | Sister Bay (Moderate to High) | B+
+- **018 0114312832** | 40.0ac | LITTLER JODY A | Sister Bay (Moderate to High) | B+
+- **018 0115312814** | 40.0ac | CODO ROBERT 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0115312821** | 40.0ac | CHAMPEAU RYAN | Sister Bay (Moderate to High) | B+
+- **018 0116312844A** | 40.0ac | KAHR REX R 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0117312844** | 40.0ac | REDELIN DIANE R | Sister Bay (Moderate to High) | B+
+- **018 0233322831A** | 40.0ac | HILANDER SWEN J 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0116312812** | 40.0ac | FIERCE DANIEL M 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0116312811** | 40.0ac | FIERCE DANIEL M 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0116312841A** | 40.0ac | KAHR REX R 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0109312824A** | 39.9ac | MANNA FARMS LLC | Sister Bay (Moderate to High) | B+
+- **018 0114312823B1** | 39.9ac | JOHN J. SAWYER 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0109312812A** | 37.2ac | ELIZABETH GRACE GARDENS & FARM LLC | Sister Bay (Moderate to High) | B+
+- **018 0221322832A** | 36.4ac | SEAQUIST FAMILY FARMS LLC 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0114312833** | 31.0ac | GARSKE MICHAEL R | Sister Bay (Moderate to High) | B+
+- **018 0228322821C** | 31.0ac | SEAQUIST FAMILY FARMS LLC 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0109312834B** | 30.8ac | ELVEN MATTHEW J | Sister Bay (Moderate to High) | B+
+- **018 0109312831B** | 30.7ac | ELVEN JERRY 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0114312823A1** | 30.5ac | CODO ROBERT 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0130312831A** | 30.2ac | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0233322823B** | 27.0ac | HILANDER SWEN J 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0233322812A1** | 24.1ac | GUNDRUM JEFFREY L | Sister Bay (Moderate to High) | B+
+- **018 0111312821B** | 24.0ac | RICE MORGAN A | Sister Bay (Moderate to High) | B+
+- **018 0107312833A** | 21.5ac | SEAQUIST FAMILY FARMS LLC 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0221322833A** | 21.2ac | SEAQUIST FAMILY FARMS LLC 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **181 0008312841A** | 20.5ac | CARLE STEPHEN D | Sister Bay (Moderate to High) | B+
+- **018 0233322834A** | 20.3ac | JOHNSON THOR | Sister Bay (Moderate to High) | B+
+- **018 0103312811** | 20.1ac | SITTE MARK F | Sister Bay (Moderate to High) | B+
+- **018 0116312813A** | 20.0ac | KAHR REX R 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0233322821A** | 20.0ac | HILANDER SWEN J 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0111312822A** | 19.5ac | KNUTSON BEVERLY | Sister Bay (Moderate to High) | B+
+- **018 0117312843A** | 19.0ac | DOLPHIN CHRISTINE A | Sister Bay (Moderate to High) | B+
+- **018 0235322822** | 18.9ac | HASS SUSAN L | Sister Bay (Moderate to High) | B+
+- **018 0103312843A** | 15.9ac | ZANDER SARA A | Sister Bay (Moderate to High) | B+
+- **018 0221322834A** | 15.3ac | SEAQUIST FAMILY FARMS LLC 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0233322814B** | 15.2ac | GRAFF GUY K | Sister Bay (Moderate to High) | B+
+- **018 0229322844N** | 15.0ac | CARLSON MARK D 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0234322821B** | 13.4ac | STOTT DONALD W | Sister Bay (Moderate to High) | B+
+- **018 0125312823A** | 12.8ac | KETCHUM TROY M 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0123312821A3** | 12.1ac | KOESSL WILLIAM J | Sister Bay (Moderate to High) | B+
+- **018 0118312832B2** | 10.2ac | AARSVOLD ELIZABETH BOWERS | Sister Bay (Moderate to High) | B+
+- **018 0118312832B4** | 10.2ac | BOWERS JOHN | Sister Bay (Moderate to High) | B+
+- **018 0233322842A4** | 10.2ac | BLIETZ CRAIG S | Sister Bay (Moderate to High) | B+
+- **018 0125312823B** | 10.1ac | KETCHUM TROY M 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312831B1** | 10.1ac | BRISTOL ERIN | Sister Bay (Moderate to High) | B+
+- **018 0118312843A1** | 10.0ac | ZIELKE LEIGH A 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312843D** | 10.0ac | ZIELKE LEIGH A 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312843C** | 10.0ac | LFEST DOUGLAS LETTIE | Sister Bay (Moderate to High) | B+
+- **018 0125312812B** | 10.0ac | GEHRKE CHRISTINA L | Sister Bay (Moderate to High) | B+
+- **018 0234322812A1** | 10.0ac | TOCKSTEIN JAMES E SR | Sister Bay (Moderate to High) | B+
+- **018 0234322823B** | 10.0ac | NELSON CYNTHIA L | Sister Bay (Moderate to High) | B+
+- **018 0228322833B** | 9.3ac | CARLSON MARK D 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0220322844H** | 8.5ac | SEAQUIST DALE E | Sister Bay (Moderate to High) | B+
+- **018 0101312831B** | 7.2ac | OLSON BART J | Sister Bay (Moderate to High) | B+
+- **018 0117312833H2** | 7.2ac | SMITH BRUCE A | Sister Bay (Moderate to High) | B+
+- **018 0234322842D2** | 6.5ac | DOERSCHING SHARON A | Sister Bay (Moderate to High) | B+
+- **018 0234322842B2** | 5.9ac | TOMASIAN MICHAEL D 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0234322842B3** | 5.5ac | TOMASIAN MICHAEL D 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0228322844A1** | 5.3ac | MORIARTY SOIRSCE ARTEMIS | Sister Bay (Moderate to High) | B+
+- **018 0102312822A2** | 5.2ac | ANICK DIANA E | Sister Bay (Moderate to High) | B+
+- **018 0130312831C2** | 5.2ac | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0130312831C4** | 5.2ac | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0109312831A** | 5.1ac | ELVEN JERRY 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0119312822A1** | 5.1ac | FENNER ROBERT W 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0119312822A2** | 5.1ac | FENNER ROBERT W 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0119312822A4** | 5.1ac | FENNER ROBERT W 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0119312822B** | 5.1ac | KONZAK CHRISTOPHER D | Sister Bay (Moderate to High) | B+
+- **018 0234322831C1** | 5.0ac | DOERSCHING ERIK A | Sister Bay (Moderate to High) | B+
+- **018 0103312811B2** | 5.0ac | SITTE KENT H 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0103312811B3** | 5.0ac | SITTE KENT H 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0102312822A4** | 5.0ac | HARRIS CLAIRE M | Sister Bay (Moderate to High) | B+
+- **018 0234322824A1** | 5.0ac | KNEPPER CHRISTOPHER RYAN | Sister Bay (Moderate to High) | B+
+- **018 0234322824A2** | 5.0ac | STEWART DOUGLAS J | Sister Bay (Moderate to High) | B+
+- **018 0232322812F** | 4.9ac | BOMAN BRIAN L | Sister Bay (Moderate to High) | B+
+- **018 0118312824C2** | 4.5ac | SENTER AMY L | Sister Bay (Moderate to High) | B+
+- **018 0101312834A1** | 4.3ac | QUEGG DAVID 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0119312811A** | 4.3ac | CLAYTON KEITH 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0104312833D1** | 4.2ac | KUNKEL JAMES D | Sister Bay (Moderate to High) | B+
+- **018 0120312822E** | 3.8ac | JACOBSON DALE E 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312812A3** | 3.7ac | MCINNIS CORINNE | Sister Bay (Moderate to High) | B+
+- **018 0117312843B** | 3.7ac | MUDROCK BRIAN C | Sister Bay (Moderate to High) | B+
+- **018 0118312824C3** | 3.5ac | HOEPPNER MARSHA | Sister Bay (Moderate to High) | B+
+- **018 0118312813A** | 3.5ac | METZGER ROBERT CHARLES | Sister Bay (Moderate to High) | B+
+- **018 0118312813A7** | 3.5ac | CURA DON C SR VAN 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312813A6** | 3.5ac | CURA DON C SR VAN 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0118312813D** | 3.5ac | WILDEMAN CRAIG J | Sister Bay (Moderate to High) | B+
+- **018 0118312812A4** | 3.5ac | BOYLE KEVIN F | Sister Bay (Moderate to High) | B+
+- **018 0118312812A** | 3.4ac | WASCHER CHRISTOPHER M | Sister Bay (Moderate to High) | B+
+- **018 0120312822F** | 3.4ac | JACOBSON DALE E 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0104312831B** | 3.0ac | SWENSON CAROLE J | Sister Bay (Moderate to High) | B+
+- **018 0101312824C** | 2.5ac | KIMBROUGH ELIZABETH L | Sister Bay (Moderate to High) | B+
+- **018 0101312831C** | 2.5ac | ANDERSEN WILLIAM S 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0234322824B1** | 2.2ac | HALLSTRAND ROBERT G | Sister Bay (Moderate to High) | B+
+- **018 0101312834E** | 2.1ac | QUEGG DAVID 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0234322824D** | 1.8ac | SINNEMA ANITA | Sister Bay (Moderate to High) | B+
+- **018 0232322841L** | 1.6ac | GANTMAN ANDREW S | Sister Bay (Moderate to High) | B+
+- **018 0118312833B** | 1.6ac | NELSON NATALIE J | Sister Bay (Moderate to High) | B+
+- **018 0117312834H1** | 1.5ac | CUTLER DAVID | Sister Bay (Moderate to High) | B+
+- **018 0117312834D** | 1.4ac | HOFFMAN MICHAEL | Sister Bay (Moderate to High) | B+
+- **018 0124312812** | 1.3ac | THIMBLEBERRY BAY COMPANY | Sister Bay (Moderate to High) | B+
+- **018 0232322811H** | 1.1ac | MATHEYS LUKAS J | Sister Bay (Moderate to High) | B+
+- **018 0119312811B** | 1.0ac | CLAYTON KEITH 🔗MULTI | Sister Bay (Moderate to High) | B+
+- **018 0232322811E** | 0.9ac | THIES SCOTT W | Sister Bay (Moderate to High) | B+
+- **018 0232322814A1** | 0.8ac | ERZINGER KIM L | Sister Bay (Moderate to High) | B+
+- **018 0127312821N** | 0.7ac | ZACARIAS ELIZABETH VOLLETZ | Sister Bay (Moderate to High) | B+
+- **018 0232322841H3** | 0.7ac | CHAPMAN KATYROSE | Sister Bay (Moderate to High) | B+
+- **018 0127312821Q** | 0.5ac | AMMONS MICHAEL L | Sister Bay (Moderate to High) | B+
+- **018 0232322814A2** | 0.5ac | WILKINSON DAVID T | Sister Bay (Moderate to High) | B+
+- **018 0232322844K2** | 0.3ac | HEDEEN FLORENCE E | Sister Bay (Moderate to High) | B+
+- **018 0118312811B1** | 0.0ac | HAIR JASON R | Sister Bay (Moderate to High) | B+

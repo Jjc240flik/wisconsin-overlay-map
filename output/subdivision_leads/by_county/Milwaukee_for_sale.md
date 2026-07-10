@@ -1,0 +1,107 @@
+# Milwaukee County — FOR-SALE Land Listings
+
+**101 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **938-9999-011** | 15.5ac | VANG CHIA | Franklin (Moderate) | B
+- **934-9992-008** | 1.0ac | STEFANEC LYNETTE | Franklin (Moderate) | B
+- **751-9984-000** | 0.9ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **891-9012-000** | 0.9ac | PRUSINSKI RONALD | Franklin (Moderate) | B
+- **766-0001-000** | 0.9ac | SINGH BACHAN 🔗MULTI | Oak Creek (Moderate) | B
+- **751-0003-000** | 0.2ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **751-0006-000** | 0.2ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **751-0007-000** | 0.2ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **751-0004-000** | 0.2ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **751-0005-000** | 0.2ac | SACRED HEART 🔗MULTI | Franklin (Moderate) | B
+- **871-9022-000** | 0.0ac | OAK CREEK INVESTMENT A GEN PARTNERSHIP 🔗MULTI | Oak Creek (Moderate) | B
+- **753-9998-003** | ?ac | KHRAISAT AHMAD | Franklin (Moderate) | B
+- **798-9988-001** | ?ac | ST MARTIN OF TOURS | Franklin (Moderate) | B
+- **801-9980-000** | ?ac | ALFAHEL NABIL | Franklin (Moderate) | B
+- **843-9991-001** | ?ac | PIPKE DANIEL | Franklin (Moderate) | B
+- **889-9999-000** | ?ac | GRAZIANO ABRAHAM G | Franklin (Moderate) | B
+- **897-9995-000** | ?ac | OMALLEY INVESTMENTS II FAMILY LP | Franklin (Moderate) | B
+- **934-9992-007** | ?ac | SCHWEITZER ROY | Franklin (Moderate) | B
+- **751-9985-000** | ?ac | SACRED HEART PRIESTS OF THE | Franklin (Moderate) | B
+- **853-9997-002** | ?ac | NINNEMANN CAROL | Franklin (Moderate) | B
+- **742-9999-001** | ?ac | SCHAEFER FARMS LLC | Franklin (Moderate) | B
+- **808-9997-003** | ?ac | FEJZOSKI ENGIN | Franklin (Moderate) | B
+- **793-9995-000** | ?ac | VASQUEZ IGNACIO | Franklin (Moderate) | B
+- **801-9992-000** | ?ac | NITZ RONALD R | Franklin (Moderate) | B
+- **842-9994-000** | ?ac | KUST DENISE 🔗MULTI | Franklin (Moderate) | B
+- **842-9995-011** | ?ac | STEWART LORIE | Franklin (Moderate) | B
+- **842-9995-014** | ?ac | KUST DENISE 🔗MULTI | Franklin (Moderate) | B
+- **843-9990-000** | ?ac | YANG LUE | Franklin (Moderate) | B
+- **845-9994-009** | ?ac | GLOWINSKA JACQUALIN T | Franklin (Moderate) | B
+- **845-9997-001** | ?ac | KUZMIC JODY | Franklin (Moderate) | B
+- **847-9983-000** | ?ac | MURR EVA | Franklin (Moderate) | B
+- **885-9997-000** | ?ac | MEETZ JUDITH 🔗MULTI | Franklin (Moderate) | B
+- **886-9985-000** | ?ac | MEETZ JUDITH 🔗MULTI | Franklin (Moderate) | B
+- **888-9998-001** | ?ac | IODER JACQUELINE | Franklin (Moderate) | B
+- **888-9998-002** | ?ac | SHAWGO MICHAEL | Franklin (Moderate) | B
+- **897-9997-000** | ?ac | DURANSO RICHARD | Franklin (Moderate) | B
+- **932-9999-000** | ?ac | HOLTERMAN MARK | Franklin (Moderate) | B
+- **934-9998-001** | ?ac | HOLTERMAN JOSEPH | Franklin (Moderate) | B
+- **935-9999-007** | ?ac | PREDZIK BREANNA | Franklin (Moderate) | B
+- **936-9997-000** | ?ac | HINKEL WILLIAM | Franklin (Moderate) | B
+- **936-9998-003** | ?ac | BORZICK DIXIE K | Franklin (Moderate) | B
+- **937-9999-003** | ?ac | TIMPE FRANCES | Franklin (Moderate) | B
+- **938-9990-000** | ?ac | BICKHART SAMUEL P | Franklin (Moderate) | B
+- **938-9991-000** | ?ac | BARWA RICHARD | Franklin (Moderate) | B
+- **938-9992-000** | ?ac | IMMEKUS JOLIE | Franklin (Moderate) | B
+- **938-9994-003** | ?ac | SERAFIN AMY | Franklin (Moderate) | B
+- **941-9983-000** | ?ac | HASS ROBERT | Franklin (Moderate) | B
+- **944-9994-000** | ?ac | PREDZIK BREANNA N | Franklin (Moderate) | B
+- **945-9996-000** | ?ac | KANIA KENNETH | Franklin (Moderate) | B
+- **945-9998-000** | ?ac | HERNANDEZ ELETICIA | Franklin (Moderate) | B
+- **945-9999-000** | ?ac | RODRIGUEZ RAFAELA | Franklin (Moderate) | B
+- **946-9998-001** | ?ac | MCARTHEY SCOTT PATRICK | Franklin (Moderate) | B
+- **979-9998-000** | ?ac | GERASOPOULOS WILLIAM P | Franklin (Moderate) | B
+- **981-9995-002** | ?ac | REHBERGER MADELYN 🔗MULTI | Franklin (Moderate) | B
+- **981-9998-001** | ?ac | REHBERGER MADELYN 🔗MULTI | Franklin (Moderate) | B
+- **981-9999-006** | ?ac | RYAN BASIL | Franklin (Moderate) | B
+- **958-9002-001** | ?ac | WEBER JAIME LEE | Oak Creek (Moderate) | B
+- **871-9020-000** | ?ac | OAK CREEK INVESTMENT A GEN PARTNERSHIP 🔗MULTI | Oak Creek (Moderate) | B
+- **780-9999-001** | ?ac | BALLBACH KAREN | Oak Creek (Moderate) | B
+- **869-9949-001** | ?ac | DONALD GASSENHUBER LIFE ESTATE | Oak Creek (Moderate) | B
+- **967-9995-002** | ?ac | KRECAK RADOSAVA | Oak Creek (Moderate) | B
+- **830-9991-003** | ?ac | UTRI ALFRED 🔗MULTI | Oak Creek (Moderate) | B
+- **830-9994-005** | ?ac | SHACKETT PAUL | Oak Creek (Moderate) | B
+- **923-9996-004** | ?ac | MICJENSAR REALTY WI LTD PARTNERSHIP | Oak Creek (Moderate) | B
+- **926-9982-001** | ?ac | DANNER DON | Oak Creek (Moderate) | B
+- **918-9986-001** | ?ac | SCHAEFER WESLEY | Oak Creek (Moderate) | B
+- **958-9988-001** | ?ac | RUSIECKI CHARLES | Oak Creek (Moderate) | B
+- **960-9992-002** | ?ac | SAMARA 1 REAL ESTATE LL A WI LIMITED LIABILITY COMPANY | Oak Creek (Moderate) | B
+- **927-9985-000** | ?ac | EDWARDS DENISE | Oak Creek (Moderate) | B
+- **927-9987-000** | ?ac | FUCILE JOYCE | Oak Creek (Moderate) | B
+- **871-9991-000** | ?ac | LAMPE MICHAEL | Oak Creek (Moderate) | B
+- **918-9019-000** | ?ac | SANTANA-SPIDELL MAGALY 🔗MULTI | Oak Creek (Moderate) | B
+- **918-9020-000** | ?ac | SANTANA-SPIDELL MAGALY 🔗MULTI | Oak Creek (Moderate) | B
+- **815-9011-000** | ?ac | STRMSEK KARL | Oak Creek (Moderate) | B
+- **958-9031-000** | ?ac | KOTECKI BRIAN | Oak Creek (Moderate) | B
+- **958-9986-000** | ?ac | DONAHUE RANDY | Oak Creek (Moderate) | B
+- **861-9013-000** | ?ac | LAWRENCE JAMES | Oak Creek (Moderate) | B
+- **969-9022-000** | ?ac | GALLAGHER TAMMY | Oak Creek (Moderate) | B
+- **969-9026-000** | ?ac | BLASCZYK MARILYN | Oak Creek (Moderate) | B
+- **863-9970-000** | ?ac | COLOMPOS STEVEN 🔗MULTI | Oak Creek (Moderate) | B
+- **863-9971-000** | ?ac | COLOMPOS STEVEN 🔗MULTI | Oak Creek (Moderate) | B
+- **781-9981-000** | ?ac | PODOLL JAMES | Oak Creek (Moderate) | B
+- **781-9983-000** | ?ac | EVANS DAVE | Oak Creek (Moderate) | B
+- **913-9993-000** | ?ac | VILLAGE FARMSTEAD LLC | Oak Creek (Moderate) | B
+- **857-9987-000** | ?ac | GEORGAS NICK | Oak Creek (Moderate) | B
+- **871-9004-000** | ?ac | POPP MARK | Oak Creek (Moderate) | B
+- **919-9995-000** | ?ac | ABDEBAQI OMAR | Oak Creek (Moderate) | B
+- **919-9996-000** | ?ac | RENKAS RODNEY | Oak Creek (Moderate) | B
+- **926-9983-000** | ?ac | LANGE MARY | Oak Creek (Moderate) | B
+- **927-9024-000** | ?ac | FINTAK KEVIN | Oak Creek (Moderate) | B
+- **912-9929-000** | ?ac | ZIESEMER DANIEL | Oak Creek (Moderate) | B
+- **919-9024-000** | ?ac | RYAN COREY | Oak Creek (Moderate) | B
+- **911-9017-000** | ?ac | LYLE BOLENDER AND ELAYNE P BOLENDER IRREVOCAB | Oak Creek (Moderate) | B
+- **767-9017-000** | ?ac | SKANAVIS PETER | Oak Creek (Moderate) | B
+- **953-9004-000** | ?ac | JAMES VESHI | Oak Creek (Moderate) | B
+- **767-9036-000** | ?ac | BEHR JEFFREY | Oak Creek (Moderate) | B
+- **830-9015-000** | ?ac | UTRI ALFRED 🔗MULTI | Oak Creek (Moderate) | B
+- **971-9022-000** | ?ac | PARKWAY APOSTOLIC CHURCH | Oak Creek (Moderate) | B
+- **971-9998-000** | ?ac | KOZLOWSKI DAVID | Oak Creek (Moderate) | B
+- **953-9993-000** | ?ac | SANTANA-SPIDELL MAGALY 🔗MULTI | Oak Creek (Moderate) | B
+- **919-9051-000** | ?ac | ROBB KAREN | Oak Creek (Moderate) | B

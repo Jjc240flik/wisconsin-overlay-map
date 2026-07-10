@@ -1,0 +1,426 @@
+# Ozaukee County — FOR-SALE Land Listings
+
+**420 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **03-003-09-002.00** | 144.0ac | STROEBEL S DUANE 🔗MULTI | Saukville (High) | A-
+- **03-019-09-000.00** | 101.1ac | TEALCO GROUP 🔗MULTI | Cedarburg (High) | A-
+- **03-004-06-000.00** | 93.6ac | RODEN PAUL F 🔗MULTI | Saukville (High) | A-
+- **08-005-14-001.00** | 90.8ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **08-027-02-008.00** | 82.6ac | AJA FARM LLC | Saukville (High) | A-
+- **08-010-10-000.00** | 75.0ac | OPITZ JEFFREY C 🔗MULTI | Saukville (High) | A-
+- **08-016-01-000.00** | 75.0ac | OPITZ JEFFREY C 🔗MULTI | Saukville (High) | A-
+- **08-034-13-003.00** | 74.4ac | MALICKI MICHAEL | Saukville (High) | A-
+- **08-028-13-003.00** | 74.2ac | BELL MARY 🔗MULTI | Saukville (High) | A-
+- **03-018-09-000.00** | 74.0ac | TEALCO GROUP 🔗MULTI | Cedarburg (High) | A-
+- **03-002-08-002.00** | 73.8ac | WINTER CLYDE A 🔗MULTI | Grafton (High) | A-
+- **03-018-14-001.00** | 73.4ac | HELNORE JERRY | Cedarburg (High) | A-
+- **04-031-15-000.00** | 73.0ac | STADLER RUDOLPH | Saukville (High) | A-
+- **06-029-13-001.00** | 72.6ac | MACIEJEWSKI NEAL C | Grafton (High) | A-
+- **08-015-03-000.00** | 70.0ac | R DENSOW LOUIS | Saukville (High) | A-
+- **03-019-02-002.00** | 66.3ac | TEALCO GROUP 🔗MULTI | Cedarburg (High) | A-
+- **03-005-01-001.00** | 63.1ac | GALL JEFFREY C | Saukville (High) | A-
+- **14-034-15-007.00** | 62.9ac | HILGENDORF MARK | Mequon (High) | A-
+- **08-005-06-002.00** | 62.7ac | BERRES MICHAEL R | Saukville (High) | A-
+- **06-016-06-000.00** | 60.0ac | GILLIS PATRICK | Grafton (High) | A-
+- **03-034-10-000.00** | 58.6ac | RASMUSSEN TIMOTHY P 🔗MULTI | Cedarburg (High) | A-
+- **06-005-10-000.00** | 55.6ac | DOMMER KENNETH W 🔗MULTI | Grafton (High) | A-
+- **06-017-01-003.00** | 54.9ac | GRUETZMACHER KURT | Grafton (High) | A-
+- **08-009-05-002.00** | 54.7ac | BORES JOHN A | Saukville (High) | A-
+- **06-007-05-006.00** | 54.6ac | FREITAG DEAN S | Grafton (High) | A-
+- **05-001-06-002.00** | 53.9ac | DENOW LOLA RAE | Grafton (High) | A-
+- **06-032-01-003.00** | 52.9ac | SIEVERS GLENN H 🔗MULTI | Grafton (High) | A-
+- **03-033-09-003.00** | 51.5ac | GLENN H. WEICHMAN | Cedarburg (High) | A-
+- **04-034-10-000.00** | 51.3ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **03-004-02-000.00** | 51.1ac | PROEFROCK HEIDI L 🔗MULTI | Saukville (High) | A-
+- **03-003-03-000.00** | 49.0ac | STROEBEL S DUANE S | Grafton (High) | A-
+- **03-016-13-003.00** | 48.6ac | CONGREGATION OF ST FRANCIS BORGIA 🔗MULTI | Cedarburg (High) | A-
+- **06-006-05-000.00** | 46.5ac | DOMMER KENNETH | Grafton (High) | A-
+- **06-031-02-001.00** | 46.0ac | LEBEN FAMILY LIMITED PARTNERSHIP 🔗MULTI | Grafton (High) | A-
+- **03-005-01-005.00** | 44.8ac | GALL MATTHEW W | Saukville (High) | A-
+- **04-033-06-006.00** | 42.5ac | RATHKE SANDRA | Saukville (High) | A-
+- **05-001-13-001.00** | 42.1ac | KONIG JEFFREY R | Grafton (High) | A-
+- **06-016-01-002.00** | 41.0ac | MOERSCHEL GREGORY | Grafton (High) | A-
+- **03-029-10-000.00** | 41.0ac | KASTEN FARM LLC 🔗MULTI | Cedarburg (High) | A-
+- **06-006-14-000.00** | 40.5ac | HOLBROOK CAROLE R | Grafton (High) | A-
+- **08-008-14-000.00** | 40.4ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **04-034-07-000.00** | 40.1ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **08-030-01-000.00** | 40.0ac | HOFFMANN MARVIN J | Saukville (High) | A-
+- **03-033-09-001.00** | 40.0ac | TOMTER DAVID M | Cedarburg (High) | A-
+- **08-022-11-002.00** | 39.6ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **08-030-02-003.00** | 39.1ac | WOLLNER FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **08-004-05-000.00** | 38.9ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **03-004-14-000.00** | 38.7ac | BEIMBORN EDWARD A | Saukville (High) | A-
+- **08-027-09-005.00** | 38.5ac | BELL MARY 🔗MULTI | Saukville (High) | A-
+- **08-027-11-001.00** | 38.1ac | VANDE BOOM VIOLET M | Cedarburg (High) | A-
+- **08-004-11-002.00** | 37.6ac | HEPBURN M D M | Saukville (High) | A-
+- **03-004-08-000.00** | 37.0ac | RODEN PAUL F 🔗MULTI | Saukville (High) | A-
+- **03-029-03-003.00** | 36.5ac | WITTE ROBERT S 🔗MULTI | Cedarburg (High) | A-
+- **08-008-02-004.00** | 35.9ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **03-030-07-001.00** | 35.0ac | PIPKORN JAMES | Cedarburg (High) | A-
+- **08-005-12-002.00** | 34.6ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **03-032-04-000.00** | 34.6ac | HOLTON JO ANNE | Cedarburg (High) | A-
+- **04-033-12-003.00** | 34.4ac | FREDONIA FARM LLC | Saukville (High) | A-
+- **06-020-13-008.00** | 34.0ac | SCHEFFKI PATRICIA S | Grafton (High) | A-
+- **06-031-02-002.00** | 34.0ac | LEBEN FAMILY LIMITED PARTNERSHIP 🔗MULTI | Grafton (High) | A-
+- **03-002-10-002.00** | 34.0ac | WINTER CLYDE A 🔗MULTI | Grafton (High) | A-
+- **08-020-08-003.00** | 32.5ac | ONEIL STEPHEN J | Saukville (High) | A-
+- **03-029-08-002.00** | 31.9ac | WITTE ROBERT S 🔗MULTI | Cedarburg (High) | A-
+- **08-005-03-000.00** | 30.7ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **10-018-11-007.00** | 30.5ac | PROEFROCK HEIDI L 🔗MULTI | Grafton (High) | A-
+- **03-033-11-003.00** | 30.3ac | WORZALLA MICHAEL | Cedarburg (High) | A-
+- **03-030-05-000.00** | 30.2ac | BRANDT BRIAN | Cedarburg (High) | A-
+- **08-005-03-001.00** | 30.0ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **08-016-09-002.00** | 29.9ac | RAU JOSEPH | Saukville (High) | A-
+- **08-020-15-002.00** | 29.7ac | BRANDT STEVEN | Saukville (High) | A-
+- **03-031-06-028.00** | 29.2ac | WINDY HILL ORGANIC FARM LLC | Cedarburg (High) | A-
+- **06-030-08-000.00** | 29.2ac | MERRIFIELD DAVID | Grafton (High) | A-
+- **06-008-06-000.00** | 28.9ac | DOMMER KENNETH W 🔗MULTI | Grafton (High) | A-
+- **16-004-15-006.00** | 28.7ac | MADDEN JOSEPH A | Grafton (High) | A-
+- **03-028-16-011.00** | 27.7ac | PROST MARY LYNN | Cedarburg (High) | A-
+- **08-021-05-002.00** | 27.1ac | DICKMANN MATTHEW A | Saukville (High) | A-
+- **03-030-14-000.00** | 27.0ac | CEDARBURG CREEK FARMS LLC | Cedarburg (High) | A-
+- **08-009-01-006.00** | 25.8ac | JENTGES BARBARA M 🔗MULTI | Saukville (High) | A-
+- **08-009-12-004.00** | 25.6ac | OPITZ JEFFREY C 🔗MULTI | Saukville (High) | A-
+- **08-016-05-000.00** | 25.0ac | CIRIACKS BETSY LEE 🔗MULTI | Saukville (High) | A-
+- **06-028-02-004.00** | 24.5ac | GROSSMAN WILLIAM WHITNEY | Grafton (High) | A-
+- **08-014-13-009.00** | 23.6ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **06-032-02-002.00** | 23.3ac | SIEVERS GLENN H 🔗MULTI | Grafton (High) | A-
+- **06-020-03-004.00** | 23.0ac | GAUTHIER MICHAEL T | Grafton (High) | A-
+- **03-008-03-011.00** | 22.6ac | KISON DARWIN | Cedarburg (High) | A-
+- **08-020-06-002.00** | 21.7ac | BUCK NICHOLAS | Saukville (High) | A-
+- **04-032-16-004.00** | 21.1ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A-
+- **03-016-11-000.00** | 21.1ac | TEALCO GROUP 🔗MULTI | Cedarburg (High) | A-
+- **08-022-14-003.00** | 20.4ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **08-021-02-002.00** | 20.1ac | KOHLWEY DAVID | Saukville (High) | A-
+- **08-033-12-003.00** | 20.1ac | SNODGRASS JAMES E | Saukville (High) | A-
+- **08-014-12-003.00** | 20.0ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **08-022-09-002.00** | 20.0ac | GOEMAN DOUGLAS W | Saukville (High) | A-
+- **08-022-06-001.00** | 20.0ac | TESKER DANIEL G | Saukville (High) | A-
+- **08-022-14-004.00** | 20.0ac | RODEN JOHN | Saukville (High) | A-
+- **08-023-05-002.00** | 20.0ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **08-023-10-001.00** | 20.0ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **03-029-14-001.00** | 20.0ac | KASTEN FARM LLC 🔗MULTI | Cedarburg (High) | A-
+- **03-010-08-001.00** | 20.0ac | GAUTHIER PROPERTIES AT COVERED BRIDGE L | Cedarburg (High) | A-
+- **08-028-09-005.00** | 19.8ac | BELL JEFFREY P | Saukville (High) | A-
+- **04-032-12-002.00** | 19.3ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A-
+- **04-032-11-004.00** | 19.0ac | LAUBENSTEIN MARK M | Saukville (High) | A-
+- **03-019-06-003.00** | 18.9ac | KASTEN FARM LLC 🔗MULTI | Cedarburg (High) | A-
+- **03-019-05-005.00** | 18.8ac | L AND L LTD | Cedarburg (High) | A-
+- **03-008-15-004.00** | 18.3ac | BLANK BLANCHE I | Cedarburg (High) | A-
+- **13-040-01-400.00** | 18.2ac | BENTZ GRAHAM R | Cedarburg (High) | A-
+- **03-032-14-002.00** | 18.0ac | MORSE WILLIAM W 🔗MULTI | Cedarburg (High) | A-
+- **06-031-14-002.00** | 17.8ac | LEBEN FAMILY LIMITED PARTNERSHIP THE | Grafton (High) | A-
+- **08-016-06-010.00** | 17.6ac | CIRIACKS BETSY LEE 🔗MULTI | Saukville (High) | A-
+- **15-029-06-008.00** | 17.4ac | KOHL SIDNEY | Mequon (High) | A-
+- **08-033-04-011.00** | 17.4ac | FUREY JACK L | Saukville (High) | A-
+- **04-033-11-004.00** | 17.3ac | KRUEGER MICHAEL 🔗MULTI | Saukville (High) | A-
+- **06-018-04-018.00** | 17.2ac | STROEBEL S DUANE 🔗MULTI | Grafton (High) | A-
+- **06-004-13-002.00** | 17.2ac | TRINKLEIN MICHAEL J | Grafton (High) | A-
+- **03-020-04-003.00** | 16.8ac | HERKERT PATRICK | Cedarburg (High) | A-
+- **03-016-15-006.00** | 16.2ac | F C C PARTNERSHIP | Cedarburg (High) | A-
+- **08-005-14-000.00** | 16.0ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **08-014-13-009.01** | 15.9ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **06-021-13-003.00** | 15.6ac | WIELAND RICHARD J | Grafton (High) | A-
+- **03-033-13-002.00** | 15.4ac | PUMPKIN FARM LLC | Cedarburg (High) | A-
+- **03-019-14-008.00** | 15.3ac | LEWANDOWSKI CHRISTOPHER A | Cedarburg (High) | A-
+- **03-018-13-003.00** | 15.2ac | RINTELMAN WILLIAM H | Cedarburg (High) | A-
+- **06-009-15-011.00** | 15.0ac | GORE BRYAN J | Grafton (High) | A-
+- **14-013-12-005.00** | 14.8ac | MCLEAN DONALD | Mequon (High) | A-
+- **06-032-10-008.02** | 14.7ac | MUSICH MARKO | Grafton (High) | A-
+- **03-016-12-002.00** | 14.6ac | OSTERMANN KENNETH G | Cedarburg (High) | A-
+- **06-030-13-006.00** | 14.3ac | CLAPPER MATTHEW R | Grafton (High) | A-
+- **03-003-05-004.00** | 13.3ac | WOLF JEFFRY E | Saukville (High) | A-
+- **08-022-01-005.00** | 12.4ac | DOLLERT DANIEL L 🔗MULTI | Saukville (High) | A-
+- **03-007-16-003.00** | 12.2ac | BELKNAP MARK M | Cedarburg (High) | A-
+- **05-025-04-033.00** | 12.1ac | KOTES KEVIN R | Grafton (High) | A-
+- **03-033-04-001.00** | 12.0ac | STELLA BLUE FARMS LLC | Cedarburg (High) | A-
+- **06-032-05-009.00** | 11.6ac | MMT FARMS LLC | Grafton (High) | A-
+- **03-010-14-004.00** | 11.2ac | KNOX RICHARD A | Cedarburg (High) | A-
+- **14-035-10-005.00** | 10.9ac | ZENS CHARLES F | Mequon (High) | A-
+- **08-027-05-004.00** | 10.8ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **14-013-06-015.00** | 10.5ac | CHRISTOPHER | Mequon (High) | A-
+- **03-009-02-004.00** | 10.3ac | BRADLEY JEREMIAH E | Saukville (High) | A-
+- **03-032-15-003.00** | 10.3ac | MORSE WILLIAM W 🔗MULTI | Cedarburg (High) | A-
+- **04-032-16-002.00** | 10.0ac | COX ZACHARY M | Saukville (High) | A-
+- **08-023-05-001.00** | 10.0ac | KELLEY KURT H | Saukville (High) | A-
+- **08-010-09-005.00** | 10.0ac | SCHMITZ AUSTIN | Saukville (High) | A-
+- **08-022-09-001.00** | 10.0ac | STREHLOW DAVID R | Saukville (High) | A-
+- **03-011-05-003.00** | 9.7ac | OLSON MATTHEW J | Grafton (High) | A-
+- **05-013-11-001.00** | 9.5ac | BEHRENS BRIAN S 🔗MULTI | Grafton (High) | A-
+- **08-021-16-006.00** | 9.3ac | HAAS DENNIS L | Saukville (High) | A-
+- **03-028-02-005.00** | 9.3ac | MORGAN MICHAEL | Cedarburg (High) | A-
+- **06-016-02-013.00** | 9.0ac | LAGRANGE DEAN F | Grafton (High) | A-
+- **08-024-10-012.00** | 8.8ac | FOPPE EDWARD J | Saukville (High) | A-
+- **04-033-04-009.00** | 8.6ac | BUBLITZ RYAN T | Saukville (High) | A-
+- **15-052-01-050.03** | 8.6ac | DOMINGUEZ JAVIER CASTILLO | Mequon (High) | A-
+- **08-053-00-000.01** | 8.5ac | NICHOLS JOSEPH | Saukville (High) | A-
+- **06-028-03-002.00** | 8.3ac | VAN HECKE VANHECKE F | Grafton (High) | A-
+- **08-031-09-004.00** | 8.1ac | PARSONS FRANK R | Saukville (High) | A-
+- **03-028-07-002.00** | 8.0ac | DENK RONALD | Cedarburg (High) | A-
+- **03-006-09-012.00** | 8.0ac | ADAM KASINSKAS | Cedarburg (High) | A-
+- **03-030-02-001.00** | 8.0ac | WITTE SUSAN | Cedarburg (High) | A-
+- **08-009-01-004.00** | 8.0ac | JENTGES BARBARA M 🔗MULTI | Saukville (High) | A-
+- **03-007-12-003.00** | 7.9ac | COOPER MARGARET L | Cedarburg (High) | A-
+- **06-032-04-009.00** | 7.7ac | LENHOF CALEB | Grafton (High) | A-
+- **03-030-15-004.00** | 7.3ac | DREES KIRK H 🔗MULTI | Cedarburg (High) | A-
+- **08-017-10-004.00** | 7.1ac | BRZEZINSKI EDWARD | Saukville (High) | A-
+- **08-030-02-002.00** | 6.9ac | WOLLNER FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **06-018-10-002.00** | 6.8ac | PROEFROCK HEIDI L 🔗MULTI | Grafton (High) | A-
+- **14-035-12-005.00** | 6.7ac | DEPIES LORI L | Mequon (High) | A-
+- **03-008-06-020.00** | 6.6ac | KISON DARWIN O | Cedarburg (High) | A-
+- **03-006-16-015.00** | 6.1ac | GALUSTYANTS VITAS | Cedarburg (High) | A-
+- **03-009-01-001.00** | 5.9ac | SHEWCZYK THOMAS J | Cedarburg (High) | A-
+- **06-029-09-005.00** | 5.7ac | YENCH DARICE | Grafton (High) | A-
+- **08-022-07-004.00** | 5.6ac | USELDING SALLY E | Saukville (High) | A-
+- **06-020-01-003.00** | 5.6ac | BHADURI NIKHILESH | Grafton (High) | A-
+- **08-017-10-008.00** | 5.4ac | UNGER CHRISTOPHER | Saukville (High) | A-
+- **03-009-01-002.00** | 5.4ac | SIEVERS GLENN H 🔗MULTI | Cedarburg (High) | A-
+- **03-032-14-004.00** | 5.3ac | MORSE WILLIAM W 🔗MULTI | Cedarburg (High) | A-
+- **06-020-01-006.00** | 5.3ac | SHARMA RAJENDRA P | Grafton (High) | A-
+- **06-020-01-007.00** | 5.3ac | SHARMA HANS RAJ | Grafton (High) | A-
+- **03-031-07-015.00** | 5.1ac | STAUSS RYAN | Cedarburg (High) | A-
+- **03-019-01-005.00** | 5.1ac | BARTELT JOSEPH | Cedarburg (High) | A-
+- **08-022-15-001.00** | 5.0ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **03-009-01-004.00** | 5.0ac | ARGALL AMY L | Cedarburg (High) | A-
+- **04-032-16-003.00** | 5.0ac | PERRY NORAH G | Saukville (High) | A-
+- **08-033-16-001.00** | 5.0ac | MONDLOCH JOSEPH G | Saukville (High) | A-
+- **06-020-16-007.00** | 5.0ac | WANG JAMES W | Grafton (High) | A-
+- **06-016-11-011.00** | 5.0ac | RENK DONN | Grafton (High) | A-
+- **08-033-01-009.00** | 5.0ac | JORS CHRIS 🔗MULTI | Saukville (High) | A-
+- **08-033-01-010.00** | 5.0ac | JORS CHRIS 🔗MULTI | Saukville (High) | A-
+- **05-025-16-001.00** | 5.0ac | BLOCK JESSICA | Cedarburg (High) | A-
+- **03-031-16-005.00** | 5.0ac | LIPSCOMB JOHN M | Cedarburg (High) | A-
+- **03-028-01-002.00** | 4.9ac | PIER JALISSA | Cedarburg (High) | A-
+- **03-029-09-016.00** | 4.6ac | GATLIN ZACHARY | Cedarburg (High) | A-
+- **03-011-14-002.00** | 4.4ac | LECHNER LAWRENCE A | Grafton (High) | A-
+- **05-013-11-003.00** | 4.4ac | BEHRENS BRIAN S 🔗MULTI | Grafton (High) | A-
+- **06-018-04-015.00** | 4.0ac | STROEBEL S. DUANE | Grafton (High) | A-
+- **03-004-16-005.00** | 4.0ac | LANGLOIS ROBIN W | Saukville (High) | A-
+- **06-021-04-003.00** | 4.0ac | MOTEL TIMOTHY S | Grafton (High) | A-
+- **06-033-11-007.00** | 4.0ac | HIPSKY CHRISTOPHER JOHN | Grafton (High) | A-
+- **03-031-08-013.00** | 3.9ac | PARSONS W STUART | Cedarburg (High) | A-
+- **06-008-01-004.00** | 3.8ac | EIDENBERGER MICHAEL A | Grafton (High) | A-
+- **06-033-06-007.00** | 3.5ac | VANDENHEUVEL THOMAS J | Grafton (High) | A-
+- **05-012-01-010.00** | 3.5ac | WILLIAMS PATRICK | Grafton (High) | A-
+- **14-050-07-130.00** | 3.2ac | MCDONALD ELIZABETH L LUCHT 🔗MULTI | Mequon (High) | A-
+- **15-084-04-020.02** | 3.2ac | RANKIN JAMES P | Mequon (High) | A-
+- **06-032-04-006.00** | 3.2ac | AIZEN FRED | Grafton (High) | A-
+- **06-009-14-010.00** | 3.1ac | FISCHER MARTIN | Grafton (High) | A-
+- **06-018-06-009.00** | 3.0ac | CORNER JEFFREY D | Grafton (High) | A-
+- **06-032-07-002.00** | 3.0ac | STROEBEL S DUANE 🔗MULTI | Grafton (High) | A-
+- **11-050-05-100.01** | 3.0ac | KESSNER DELORES | Saukville (High) | A-
+- **15-031-07-020.00** | 2.9ac | RALPH MORELLO | Mequon (High) | A-
+- **06-017-07-004.00** | 2.6ac | SAAVEDRA EFRAIN | Grafton (High) | A-
+- **15-031-11-004.00** | 2.6ac | TANNER THOMAS H | Mequon (High) | A-
+- **05-001-11-003.00** | 2.6ac | QUILLEN RENATA R | Grafton (High) | A-
+- **08-017-03-001.01** | 2.5ac | MILDEBRANDT LAURA J | Saukville (High) | A-
+- **03-028-14-008.00** | 2.5ac | SCHMITZ TANNER | Cedarburg (High) | A-
+- **14-050-04-120.00** | 2.4ac | WILLIAMS WADE | Mequon (High) | A-
+- **14-036-13-006.00** | 2.3ac | CASSIANI KIM | Mequon (High) | A-
+- **03-031-06-007.00** | 2.3ac | BEADLE JOHN | Cedarburg (High) | A-
+- **04-031-12-009.00** | 2.3ac | GIESE CLIFFORD W | Saukville (High) | A-
+- **05-001-07-001.00** | 2.3ac | HABICH ROBERT W | Grafton (High) | A-
+- **06-018-04-017.00** | 2.3ac | STROEBEL S DUANE 🔗MULTI | Grafton (High) | A-
+- **03-050-00-200.02** | 2.2ac | MOSCARELLI STEPHEN W | Cedarburg (High) | A-
+- **14-106-00-010.00** | 2.2ac | HEINY DAVID J | Mequon (High) | A-
+- **14-015-12-007.00** | 2.1ac | DEPIES JEFFREY | Mequon (High) | A-
+- **08-005-08-000.00** | 2.1ac | MICHAELS GORDON C 🔗MULTI | Saukville (High) | A-
+- **15-033-11-018.00** | 2.1ac | ASMUTH ANTHONY W | Mequon (High) | A-
+- **03-028-09-001.00** | 2.0ac | SURRENDER FARM LLC | Cedarburg (High) | A-
+- **06-021-03-009.00** | 2.0ac | FISCHER ALAN F | Grafton (High) | A-
+- **14-015-12-012.00** | 2.0ac | BODE TAYLOR B | Mequon (High) | A-
+- **14-050-07-030.01** | 2.0ac | HOLICEK SR. BRYAN R | Mequon (High) | A-
+- **15-031-06-006.00** | 2.0ac | BURROW RYAN R 🔗MULTI | Mequon (High) | A-
+- **15-031-06-010.00** | 2.0ac | BURROW RYAN R 🔗MULTI | Mequon (High) | A-
+- **15-031-10-016.00** | 2.0ac | RIX LYNN M | Mequon (High) | A-
+- **15-156-00-060.00** | 2.0ac | SMITH JOSHUA D | Mequon (High) | A-
+- **03-014-09-006.00** | 2.0ac | HENGST DEAN A | Grafton (High) | A-
+- **08-014-13-009.02** | 2.0ac | ROB-N-CIN FARMS LLC 🔗MULTI | Saukville (High) | A-
+- **05-001-11-012.00** | 1.9ac | LUBNER THOMAS R | Grafton (High) | A-
+- **03-015-06-005.00** | 1.9ac | FRIEND ANDREW H | Cedarburg (High) | A-
+- **06-018-06-006.00** | 1.8ac | MURSCH GREGORY S | Grafton (High) | A-
+- **10-001-12-004.00** | 1.8ac | HAHN DONALD C | Grafton (High) | A-
+- **08-053-00-110.00** | 1.8ac | GANTNER ALEX | Saukville (High) | A-
+- **05-001-07-005.00** | 1.8ac | LEVERAUS DARIN | Grafton (High) | A-
+- **05-001-11-013.00** | 1.7ac | LIEBENSTEIN ARLENE J | Grafton (High) | A-
+- **03-015-05-002.00** | 1.7ac | REIHART JADE | Cedarburg (High) | A-
+- **14-050-07-080.00** | 1.7ac | CONLEY WILLIAM W | Mequon (High) | A-
+- **08-052-01-040.00** | 1.7ac | SCHOENLEBER BRUCE B | Saukville (High) | A-
+- **15-099-07-010.00** | 1.7ac | GORELIK VITALIY S 🔗MULTI | Mequon (High) | A-
+- **14-050-10-100.03** | 1.6ac | KAISER KURT | Mequon (High) | A-
+- **03-011-13-020.00** | 1.6ac | TEICHERT ALFRED R | Grafton (High) | A-
+- **03-083-00-180.00** | 1.6ac | SCHOESSOW ANDREW T | Grafton (High) | A-
+- **03-008-11-001.01** | 1.6ac | BRANDT ARLENE | Cedarburg (High) | A-
+- **06-018-09-008.00** | 1.6ac | NELSON DANIEL H | Grafton (High) | A-
+- **05-025-03-017.00** | 1.6ac | CAHALA DENA | Grafton (High) | A-
+- **05-055-01-090.00** | 1.6ac | ROBINSON FELICIA MARIA 🔗MULTI | Grafton (High) | A-
+- **03-008-06-010.00** | 1.5ac | KING MATTHEW | Cedarburg (High) | A-
+- **03-031-06-023.00** | 1.5ac | STRZELCZYK ROBERT R | Cedarburg (High) | A-
+- **05-055-01-080.00** | 1.5ac | ROBINSON FELICIA MARIA 🔗MULTI | Grafton (High) | A-
+- **03-011-16-002.00** | 1.5ac | BARTH KENNETH G | Grafton (High) | A-
+- **03-029-06-003.00** | 1.5ac | LUEDKE ERIN | Cedarburg (High) | A-
+- **06-030-12-003.00** | 1.5ac | HUTCHINGS JAMIE L | Grafton (High) | A-
+- **03-002-06-020.00** | 1.5ac | STREFF EDWARD D | Saukville (High) | A-
+- **05-001-07-006.00** | 1.5ac | SIERACKI LAWRENCE L | Grafton (High) | A-
+- **14-013-10-022.00** | 1.5ac | ALVERSON WILLIAM H | Mequon (High) | A-
+- **14-073-00-250.00** | 1.5ac | NITSCHKE CHAD | Mequon (High) | A-
+- **06-071-00-110.10** | 1.5ac | BIGGINS CHRISTIAN J | Grafton (High) | A-
+- **11-040-00-080.02** | 1.5ac | HASKE TODD N | Saukville (High) | A-
+- **15-017-03-010.00** | 1.5ac | GERALD F. SPLITTGERBER | Mequon (High) | A-
+- **03-007-16-000.01** | 1.5ac | WITTE LUKE | Cedarburg (High) | A-
+- **03-015-05-010.00** | 1.4ac | SCHAETZKE JEFFREY M | Cedarburg (High) | A-
+- **03-002-05-024.00** | 1.4ac | CAMPBELL DOUGLAS 🔗MULTI | Grafton (High) | A-
+- **14-024-11-012.00** | 1.4ac | REILLY MICHAEL | Mequon (High) | A-
+- **14-068-02-010.00** | 1.4ac | NEWBAUER HOWARD A | Mequon (High) | A-
+- **14-035-11-004.00** | 1.4ac | COURCHAINE DOLPH R | Mequon (High) | A-
+- **08-053-00-210.00** | 1.4ac | GAHAN JASON J | Saukville (High) | A-
+- **06-031-06-003.00** | 1.4ac | HOY JANET E | Grafton (High) | A-
+- **14-050-07-140.00** | 1.3ac | MCDONALD ELIZABETH L LUCHT 🔗MULTI | Mequon (High) | A-
+- **03-030-13-031.00** | 1.3ac | HELMEID BENJAMIN | Cedarburg (High) | A-
+- **03-016-13-003.01** | 1.3ac | CONGREGATION OF ST FRANCIS BORGIA 🔗MULTI | Cedarburg (High) | A-
+- **06-029-10-008.00** | 1.3ac | WEGNER GREGORY M | Grafton (High) | A-
+- **03-080-00-010.00** | 1.2ac | STEINBRECKER WILLIAM JOHN | Cedarburg (High) | A-
+- **03-081-00-110.00** | 1.2ac | YEFIMOV CONSTANTINE | Cedarburg (High) | A-
+- **04-033-07-015.00** | 1.2ac | ANTON KIM ALLEN | Saukville (High) | A-
+- **10-013-15-004.00** | 1.2ac | KOSCIESZA TYLER KOSCIESZA ALYSSA | Grafton (High) | A-
+- **04-033-07-002.00** | 1.2ac | NEELIS MICHAEL E | Saukville (High) | A-
+- **03-016-10-019.00** | 1.2ac | PICCIURRO PETER F | Cedarburg (High) | A-
+- **04-032-15-004.00** | 1.1ac | DENSOW JAMES F | Saukville (High) | A-
+- **14-151-00-110.01** | 1.1ac | THORPE GAIL F | Mequon (High) | A-
+- **03-023-12-026.00** | 1.1ac | BUDA STEVEN MICHAEL | Cedarburg (High) | A-
+- **14-024-02-013.00** | 1.0ac | BALISTRERI THEODORE J | Mequon (High) | A-
+- **05-057-00-450.00** | 1.0ac | KASTEN RICKIE W 🔗MULTI | Cedarburg (High) | A-
+- **03-050-00-130.01** | 1.0ac | DUFFEY THOMAS MORGAN | Mequon (High) | A-
+- **14-035-07-013.00** | 1.0ac | VANDEN HEUVEL ERIC T | Mequon (High) | A-
+- **14-014-13-039.00** | 1.0ac | BRAUCKHOFF GARY | Mequon (High) | A-
+- **14-015-15-006.00** | 1.0ac | BRUSETH THOMAS A | Mequon (High) | A-
+- **14-050-13-050.03** | 1.0ac | TUZHILKOV MAKSIM | Mequon (High) | A-
+- **06-018-03-016.00** | 1.0ac | FROMM ALVIN W | Grafton (High) | A-
+- **03-009-13-005.00** | 1.0ac | CARTER DOUGLAS E | Cedarburg (High) | A-
+- **03-058-01-110.00** | 1.0ac | NORMAN JOHN J | Cedarburg (High) | A-
+- **03-031-04-001.00** | 1.0ac | KUCHARSKI PHILLIP J | Cedarburg (High) | A-
+- **03-032-16-002.00** | 1.0ac | BULLINGTON SARAH A | Cedarburg (High) | A-
+- **03-034-10-001.00** | 1.0ac | RASMUSSEN TIMOTHY P 🔗MULTI | Cedarburg (High) | A-
+- **14-050-07-020.00** | 1.0ac | MICHAELS KATHLEEN A | Mequon (High) | A-
+- **03-069-00-270.00** | 1.0ac | JORGENSEN MICHAEL T | Cedarburg (High) | A-
+- **06-033-07-014.00** | 1.0ac | CEILLE CHESTER C | Grafton (High) | A-
+- **15-074-01-090.01** | 0.9ac | MILLER ERIC J | Mequon (High) | A-
+- **14-014-04-005.00** | 0.9ac | DEVORKIN JOSEPH L | Mequon (High) | A-
+- **14-050-11-050.00** | 0.9ac | GOLDSCHMIDT ROBERT | Mequon (High) | A-
+- **06-028-14-004.00** | 0.9ac | SCHERMAN MICHAEL | Grafton (High) | A-
+- **03-016-13-002.00** | 0.9ac | CONGREGATION OF ST FRANCIS BORGIA 🔗MULTI | Cedarburg (High) | A-
+- **15-080-01-110.00** | 0.9ac | BEAMON JOHNNIE M | Mequon (High) | A-
+- **03-016-10-013.00** | 0.9ac | PICCIURRO PETER | Cedarburg (High) | A-
+- **03-054-01-020.00** | 0.9ac | FRANK MIKA | Cedarburg (High) | A-
+- **03-005-01-004.00** | 0.9ac | BEARER BASIL | Saukville (High) | A-
+- **06-019-07-008.00** | 0.9ac | SAUER DAVID | Grafton (High) | A-
+- **11-050-05-120.00** | 0.9ac | BRUNETTE STEVEN A 🔗MULTI | Saukville (High) | A-
+- **08-036-14-011.00** | 0.9ac | LOWITZ MELVIN C | Saukville (High) | A-
+- **03-061-01-040.01** | 0.9ac | RASMUSSEN TIMOTHY P 🔗MULTI | Cedarburg (High) | A-
+- **03-061-02-030.01** | 0.9ac | SCHOEN TAMMY S | Cedarburg (High) | A-
+- **05-057-00-460.00** | 0.9ac | KASTEN RICKIE W 🔗MULTI | Cedarburg (High) | A-
+- **14-050-14-030.01** | 0.8ac | BALGE PATRICIA A | Mequon (High) | A-
+- **03-058-01-020.00** | 0.8ac | SCHOESSOW LARRY JAMES | Cedarburg (High) | A-
+- **15-099-07-040.00** | 0.8ac | RIVER OAKS PROPERTY | Mequon (High) | A-
+- **05-057-00-470.00** | 0.8ac | KASTEN RICKIE W 🔗MULTI | Cedarburg (High) | A-
+- **05-057-00-480.00** | 0.8ac | KASTEN RICKIE W 🔗MULTI | Cedarburg (High) | A-
+- **15-161-00-250.00** | 0.8ac | SCHULTZ DAVID R | Mequon (High) | A-
+- **15-100-04-010.00** | 0.7ac | IMMINK BENJAMIN | Mequon (High) | A-
+- **06-019-07-009.00** | 0.7ac | LOPEZ ALFREDO | Grafton (High) | A-
+- **06-019-07-010.00** | 0.7ac | LUECHT KEITH W | Grafton (High) | A-
+- **14-034-15-004.00** | 0.7ac | WEBER BONNIE LEE | Mequon (High) | A-
+- **03-061-01-030.06** | 0.7ac | DEGUELLE LUKE T | Cedarburg (High) | A-
+- **12-072-02-120.04** | 0.7ac | ELLNER DENNIS | Mequon (High) | A-
+- **03-058-01-140.00** | 0.7ac | KLEMM ROBERT | Cedarburg (High) | A-
+- **15-050-03-040.00** | 0.6ac | TROTNOW MICHAEL T | Mequon (High) | A-
+- **06-029-10-012.00** | 0.6ac | OHM JAMES | Grafton (High) | A-
+- **05-052-01-040.01** | 0.6ac | HERBST GERALD | Cedarburg (High) | A-
+- **06-018-03-013.00** | 0.5ac | OLS JESSICA | Grafton (High) | A-
+- **08-027-06-003.00** | 0.5ac | FRIES CODY L | Saukville (High) | A-
+- **11-040-00-100.00** | 0.5ac | HASKE JOSEPH T | Saukville (High) | A-
+- **11-050-02-010.00** | 0.4ac | PROCHASKA JOHN | Saukville (High) | A-
+- **10-074-08-070.02** | 0.4ac | GRAMOLL SCOTT A | Grafton (High) | A-
+- **12-073-01-010.01** | 0.4ac | KILE JAMES K | Mequon (High) | A-
+- **03-008-05-008.00** | 0.4ac | EDMARCS PLACE | Cedarburg (High) | A-
+- **15-100-01-010.02** | 0.4ac | MILWAUKEE ROWING FOUNDATION | Mequon (High) | A-
+- **03-008-06-021.00** | 0.4ac | BARIKMO MICHAEL L | Cedarburg (High) | A-
+- **10-019-07-012.00** | 0.4ac | ARENTZ JAMES K | Grafton (High) | A-
+- **03-030-14-009.00** | 0.4ac | DREES KIRK H 🔗MULTI | Cedarburg (High) | A-
+- **06-028-03-006.00** | 0.3ac | GRZELAK THOMAS A | Grafton (High) | A-
+- **05-036-16-019.00** | 0.3ac | TEWS WALLACE T | Cedarburg (High) | A-
+- **06-009-12-005.01** | 0.3ac | KRECHEL DAVID | Grafton (High) | A-
+- **03-031-05-000.01** | 0.3ac | GUIDINGER JEFFREY L | Cedarburg (High) | A-
+- **14-069-00-030.00** | 0.3ac | KIMBALL RICHARD M | Mequon (High) | A-
+- **14-085-04-060.02** | 0.3ac | OZAUKEE COUNTRY CLUB | Mequon (High) | A-
+- **12-064-06-040.00** | 0.3ac | STREIFENDER THOMAS R | Mequon (High) | A-
+- **06-031-06-021.00** | 0.3ac | SCHMIDT STEVE | Grafton (High) | A-
+- **11-123-00-140.00** | 0.3ac | LARSON ALEX R | Saukville (High) | A-
+- **11-063-14-100.00** | 0.3ac | RATHENOW PAULA S | Saukville (High) | A-
+- **15-100-03-040.00** | 0.2ac | SOBIECK CLARE T 🔗MULTI | Mequon (High) | A-
+- **15-100-03-080.00** | 0.2ac | EADER STEVE 🔗MULTI | Mequon (High) | A-
+- **15-100-03-100.00** | 0.2ac | THOMPSON BLAINE E | Mequon (High) | A-
+- **03-023-01-004.00** | 0.2ac | ANDERSON LUKE J | Grafton (High) | A-
+- **03-023-01-007.00** | 0.2ac | WALTERS KYLE R | Grafton (High) | A-
+- **08-009-06-002.00** | 0.2ac | LIERSCH RICHARD A | Saukville (High) | A-
+- **11-089-00-000.01** | 0.2ac | SULLIVAN TRINA M | Saukville (High) | A-
+- **11-123-00-170.00** | 0.2ac | BOEHM ROBERT G | Saukville (High) | A-
+- **03-009-13-006.00** | 0.2ac | SCHAEFER LUKE | Cedarburg (High) | A-
+- **15-100-03-120.00** | 0.2ac | YENCH ROBERT A | Mequon (High) | A-
+- **15-100-03-160.00** | 0.2ac | BROWN BRUCE M | Mequon (High) | A-
+- **15-100-03-180.00** | 0.2ac | CHEEK DAVID J | Mequon (High) | A-
+- **03-023-01-003.00** | 0.2ac | BRONSON MARY J | Grafton (High) | A-
+- **16-274-00-330.00** | 0.2ac | CHINANG GILLES STEPHANE | Grafton (High) | A-
+- **15-100-03-020.00** | 0.2ac | NELSON SEAN | Mequon (High) | A-
+- **03-008-12-002.00** | 0.2ac | OHRTMAN DANIEL | Cedarburg (High) | A-
+- **15-100-09-230.00** | 0.2ac | BIBA CHRISTOPHER J | Mequon (High) | A-
+- **11-123-00-130.00** | 0.2ac | SCHARNWEBER CHERYL A | Saukville (High) | A-
+- **03-010-10-007.00** | 0.2ac | CHESNEY ROBERT A | Cedarburg (High) | A-
+- **11-123-00-070.00** | 0.2ac | GAULT JOHNATHAN | Saukville (High) | A-
+- **11-123-00-080.00** | 0.2ac | MILLER CHRISTOPHER A | Saukville (High) | A-
+- **05-001-02-005.00** | 0.2ac | ROELL WAYNE P | Saukville (High) | A-
+- **11-063-03-060.02** | 0.2ac | LAMBRECHT JUDITH M | Saukville (High) | A-
+- **15-100-03-010.00** | 0.2ac | WISTH WILLIAM A | Mequon (High) | A-
+- **15-100-04-170.00** | 0.2ac | BAKER ZINA M | Mequon (High) | A-
+- **14-069-00-080.00** | 0.1ac | EGGERT ALEXANDER R | Mequon (High) | A-
+- **15-100-03-060.01** | 0.1ac | SOBIECK CLARE T 🔗MULTI | Mequon (High) | A-
+- **15-100-06-040.00** | 0.1ac | GORELIK VITALIY S 🔗MULTI | Mequon (High) | A-
+- **03-002-05-022.00** | 0.1ac | CAMPBELL DOUGLAS 🔗MULTI | Grafton (High) | A-
+- **11-064-01-020.00** | 0.1ac | BLAU MARK HARLAN | Saukville (High) | A-
+- **15-100-03-070.01** | 0.1ac | EADER STEVE 🔗MULTI | Mequon (High) | A-
+- **06-021-03-012.00** | 0.1ac | FISCHER ALAN | Grafton (High) | A-
+- **05-012-04-005.00** | 0.1ac | PETERS CRAIG J | Grafton (High) | A-
+- **11-064-01-050.00** | 0.1ac | BRUNETTE STEVEN A 🔗MULTI | Saukville (High) | A-
+- **06-032-02-003.01** | 0.1ac | BERNHARDT WAYNE D | Grafton (High) | A-
+- **11-050-04-140.05** | 0.1ac | GALVIN PATRICK J | Saukville (High) | A-
+- **11-063-02-050.00** | 0.1ac | SMITH SIMEON A | Saukville (High) | A-
+- **11-026-01-017.01** | 0.1ac | HEIN ANDREW | Saukville (High) | A-
+- **03-022-09-007.00** | 0.1ac | TRABER DALE R | Cedarburg (High) | A-
+- **06-003-10-004.00** | 0.1ac | BATES FREDERICK W N | Grafton (High) | A-
+- **04-031-03-007.00** | 0.1ac | SMITH MICHAEL A | Saukville (High) | A-
+- **03-006-05-005.00** | 0.1ac | SCHULTZ DALE R | Cedarburg (High) | A-
+- **11-050-05-120.13** | 0.1ac | BRUNETTE STEVEN A 🔗MULTI | Saukville (High) | A-
+- **12-050-01-030.03** | 0.1ac | GRADY AMANDA J | Mequon (High) | A-
+- **11-063-01-090.02** | 0.1ac | THEIN ROGER A | Saukville (High) | A-
+- **12-050-01-090.03** | 0.0ac | SALAZAR DANIEL D | Mequon (High) | A-
+- **11-050-02-120.00** | 0.0ac | STEELMAN JOHN L | Saukville (High) | A-
+- **06-019-10-000.53** | 0.0ac | NGUYEN TRANG T | Grafton (High) | A-
+- **06-019-10-019.00** | 0.0ac | BRADY KELLY D | Grafton (High) | A-
+- **06-019-10-000.54** | 0.0ac | SCHUELKE ANDREW D | Grafton (High) | A-
+- **06-019-10-000.56** | 0.0ac | BANGALORE SRINIVASA N | Grafton (High) | A-
+- **06-019-10-000.57** | 0.0ac | FEUTZ ROBERT A | Grafton (High) | A-
+- **06-019-10-000.58** | 0.0ac | MELVIN JOHN P | Grafton (High) | A-
+- **06-019-10-000.59** | 0.0ac | MELNICHENKO VIKTOR | Grafton (High) | A-
+- **11-102-04-010.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-04-020.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-04-030.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-04-040.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-04-050.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-04-060.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-010.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-020.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-030.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-040.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-050.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-
+- **11-102-05-060.00** | ?ac | JBJDEVELOP LP 🔗MULTI | Saukville (High) | A-

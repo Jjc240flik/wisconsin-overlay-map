@@ -1,0 +1,187 @@
+# Winnebago County — FOR-SALE Land Listings
+
+**181 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **121-0108-0303** | 1.0ac | STEENIS CHARLEEN | Neenah area (High) | A-
+- **006-0204-01** | 0.9ac | THEDE VILA S | Neenah area (High) | A-
+- **010-0159-02** | 0.8ac | WILMS FAMILY LIMITED PARTNERSHIP | Neenah area (High) | A-
+- **010-0111-0101** | 0.7ac | BUSER TST 🔗MULTI | Neenah area (High) | A-
+- **006-0305** | 0.7ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **018-0549-10** | 0.5ac | WALTER KENNETH W 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **006-0232** | 0.5ac | FISCHENICH LUCAS 🔗MULTI | Neenah area (High) | A-
+- **026-0613-01** | 0.5ac | CIANCIOLO GREG M | Oshkosh/Algoma (High) | A-
+- **018-0379-02** | 0.5ac | EWALD DOROTHY | Oshkosh/Algoma (High) | A-
+- **026-0527-02** | 0.5ac | HEIDER RAYMOND L 🔗MULTI | Neenah area (High) | A-
+- **010-0178-0602** | 0.4ac | MARTA MICHAEL J | Neenah area (High) | A-
+- **026-0534** | 0.4ac | GILBERTSON GARY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **010-0311** | 0.3ac | LEE HOWARD 🔗MULTI | Neenah area (High) | A-
+- **010-0184-04** | 0.3ac | WILLAIMS TST | Neenah area (High) | A-
+- **026-0597** | 0.2ac | KAUFMANN TST 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **121-0705-0101** | 0.2ac | BARLOW CONNIE | Menasha (High) | A-
+- **006-0583-03** | 0.1ac | WHITE JAMIE | Neenah area (High) | A-
+- **006-0293-01** | 0.1ac | THOMPSON LORI | Neenah area (High) | A-
+- **006-0385** | 0.0ac | CHAO THAO | Neenah area (High) | A-
+- **006-0547-01** | 0.0ac | SALM LIV 🔗MULTI | Neenah area (High) | A-
+- **121-0210-02** | ?ac | SOLLENA MATTEO | Neenah area (High) | A-
+- **121-0108** | ?ac | SCHWEMER SANDY | Neenah area (High) | A-
+- **121-0185-02** | ?ac | GRUNDY EUGENE | Neenah area (High) | A-
+- **121-0189-01** | ?ac | LANG REV 🔗MULTI | Neenah area (High) | A-
+- **121-0190** | ?ac | LANG REV 🔗MULTI | Neenah area (High) | A-
+- **006-0298-01** | ?ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **006-0656-01** | ?ac | KALEKA GURJEET | Neenah area (High) | A-
+- **121-5991** | ?ac | STUCK WILLIAM P | Neenah area (High) | A-
+- **010-0103** | ?ac | BUSER TST 🔗MULTI | Neenah area (High) | A-
+- **010-0114** | ?ac | BUSER KAREN | Neenah area (High) | A-
+- **010-0117** | ?ac | BILLMAN BRANDEN | Neenah area (High) | A-
+- **010-0121** | ?ac | GROELL PAUL ALLAN | Neenah area (High) | A-
+- **010-0127** | ?ac | JOHNSON SURV | Neenah area (High) | A-
+- **010-0196** | ?ac | GABBERT DANYELLE | Neenah area (High) | A-
+- **010-0315** | ?ac | MAAS HERMAN | Neenah area (High) | A-
+- **010-0316** | ?ac | LEE HOWARD 🔗MULTI | Neenah area (High) | A-
+- **006-0064** | ?ac | DORN JUNE A | Neenah area (High) | A-
+- **006-0089** | ?ac | LUEBKE JOSEPH | Neenah area (High) | A-
+- **006-0093** | ?ac | CISKE JEROME | Neenah area (High) | A-
+- **006-0101** | ?ac | NIKODEM REV 🔗MULTI | Neenah area (High) | A-
+- **006-0102** | ?ac | NIKODEM REV 🔗MULTI | Neenah area (High) | A-
+- **006-0119** | ?ac | ORY REV 🔗MULTI | Neenah area (High) | A-
+- **006-0121-01** | ?ac | BREI MARCUS R 🔗MULTI | Neenah area (High) | A-
+- **006-0123** | ?ac | ORY REV 🔗MULTI | Neenah area (High) | A-
+- **006-0138** | ?ac | FISCHENICH DANIELLE 🔗MULTI | Neenah area (High) | A-
+- **006-0140-01** | ?ac | FISCHENICH DANIELLE 🔗MULTI | Neenah area (High) | A-
+- **006-0204** | ?ac | FISCHENICH LUCAS 🔗MULTI | Neenah area (High) | A-
+- **006-0206** | ?ac | FISCHENICH LUCAS 🔗MULTI | Neenah area (High) | A-
+- **006-0209** | ?ac | FISCHENICH DANIELLE 🔗MULTI | Neenah area (High) | A-
+- **006-0209-03** | ?ac | FISCHENICH LUCAS 🔗MULTI | Neenah area (High) | A-
+- **006-0215** | ?ac | FISCHENICH DANIELLE 🔗MULTI | Neenah area (High) | A-
+- **006-0219** | ?ac | FISCHENICH LUCAS 🔗MULTI | Neenah area (High) | A-
+- **006-0227** | ?ac | WISMER JAMES | Neenah area (High) | A-
+- **006-0261** | ?ac | CAVANAUGH FAM 🔗MULTI | Neenah area (High) | A-
+- **006-0271-01** | ?ac | CAVANAUGH FAM 🔗MULTI | Neenah area (High) | A-
+- **026-0232** | ?ac | STARR BRAD 🔗MULTI | Neenah area (High) | A-
+- **026-0233-01** | ?ac | STARR BRAD 🔗MULTI | Neenah area (High) | A-
+- **026-0234** | ?ac | STARR BRAD 🔗MULTI | Neenah area (High) | A-
+- **026-0525-02** | ?ac | HEIDER RAYMOND L 🔗MULTI | Neenah area (High) | A-
+- **026-0553-01** | ?ac | WERNER IVAN | Neenah area (High) | A-
+- **026-0563-01** | ?ac | ROST BERNARD | Neenah area (High) | A-
+- **006-0095-0202** | ?ac | NIKODEM REV 🔗MULTI | Neenah area (High) | A-
+- **121-0164-03** | ?ac | SECURA INSURANCE | Neenah area (High) | A-
+- **121-0235-02** | ?ac | KIMBALL LAURA | Neenah area (High) | A-
+- **121-0175** | ?ac | CARR PATRICIA 🔗MULTI | Neenah area (High) | A-
+- **121-0180** | ?ac | CARR PATRICIA 🔗MULTI | Neenah area (High) | A-
+- **121-0183** | ?ac | MUELLER PAMELA 🔗MULTI | Neenah area (High) | A-
+- **121-0183-02** | ?ac | MUELLER PAMELA 🔗MULTI | Neenah area (High) | A-
+- **121-0187-01** | ?ac | HOULIHAN JANE | Neenah area (High) | A-
+- **121-0191-01** | ?ac | HOLLE BENJAMIN | Neenah area (High) | A-
+- **121-0195** | ?ac | HAASE FAM 🔗MULTI | Neenah area (High) | A-
+- **121-0197** | ?ac | HAASE FAM 🔗MULTI | Neenah area (High) | A-
+- **121-0198** | ?ac | GRIMES REV 🔗MULTI | Neenah area (High) | A-
+- **121-0200-03** | ?ac | GRIMES REV 🔗MULTI | Neenah area (High) | A-
+- **121-0552-03** | ?ac | HEIMERMAN DIANE | Neenah area (High) | A-
+- **121-0553** | ?ac | MEYER MARTIN P | Neenah area (High) | A-
+- **006-0006-06** | ?ac | RIBBLE TROY | Neenah area (High) | A-
+- **006-0007-01** | ?ac | UJAZDOWSKI ANDREW 🔗MULTI | Neenah area (High) | A-
+- **006-0008** | ?ac | UJAZDOWSKI ANDREW 🔗MULTI | Neenah area (High) | A-
+- **006-0012** | ?ac | UJAZDOWSKI ANDY | Neenah area (High) | A-
+- **006-0023** | ?ac | N & T FARMS LLC 🔗MULTI | Neenah area (High) | A-
+- **006-0024** | ?ac | N & T FARMS LLC 🔗MULTI | Neenah area (High) | A-
+- **006-0026-07** | ?ac | BUNNOW BRADEN | Neenah area (High) | A-
+- **006-0027** | ?ac | VERSTEGEN BRYAN J | Neenah area (High) | A-
+- **006-0028** | ?ac | HUNSADER MARK | Neenah area (High) | A-
+- **006-0031** | ?ac | SHAW DONALD W | Neenah area (High) | A-
+- **006-0297** | ?ac | KUECK STEVEN | Neenah area (High) | A-
+- **006-0300** | ?ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **006-0303** | ?ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **006-0304** | ?ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **006-0304-02** | ?ac | BABBITTS KIM 🔗MULTI | Neenah area (High) | A-
+- **006-0322** | ?ac | UJAZDOWSKI KRISTEN | Neenah area (High) | A-
+- **006-0324-04** | ?ac | BORCHERT LISA | Neenah area (High) | A-
+- **006-0331** | ?ac | KUTCHENRITER MARY | Neenah area (High) | A-
+- **006-0332-02** | ?ac | KUTCHENRITER SHANE | Neenah area (High) | A-
+- **006-0348** | ?ac | CALDER JAMES 🔗MULTI | Neenah area (High) | A-
+- **006-0348-04** | ?ac | CALDER JAMES 🔗MULTI | Neenah area (High) | A-
+- **006-0349-0101** | ?ac | OLSON JENNIFER E 🔗MULTI | Neenah area (High) | A-
+- **006-0352** | ?ac | VANDER HEIDEN FAM LTD PTNRSHP 🔗MULTI | Neenah area (High) | A-
+- **006-0352-01** | ?ac | OLSON JENNIFER E 🔗MULTI | Neenah area (High) | A-
+- **006-0352-0101** | ?ac | OLSON JENNIFER E 🔗MULTI | Neenah area (High) | A-
+- **006-0354** | ?ac | VANDER HEIDEN FAM LTD PTNRSHP 🔗MULTI | Neenah area (High) | A-
+- **006-0372-01** | ?ac | BORCHERT REV 🔗MULTI | Neenah area (High) | A-
+- **006-0373** | ?ac | STACKER LYNN 🔗MULTI | Neenah area (High) | A-
+- **006-0375** | ?ac | BORCHERT REV 🔗MULTI | Neenah area (High) | A-
+- **006-0376** | ?ac | STACKER LYNN 🔗MULTI | Neenah area (High) | A-
+- **006-0379** | ?ac | RASMUSSEN FARM LLC 🔗MULTI | Neenah area (High) | A-
+- **006-0380** | ?ac | STACKER LYNN 🔗MULTI | Neenah area (High) | A-
+- **006-0381** | ?ac | MARKHAM DENNIS 🔗MULTI | Neenah area (High) | A-
+- **006-0383-01** | ?ac | RASMUSSEN FARM LLC 🔗MULTI | Neenah area (High) | A-
+- **006-0386** | ?ac | MARKHAM DENNIS 🔗MULTI | Neenah area (High) | A-
+- **006-0387** | ?ac | BORCHERT REV 🔗MULTI | Neenah area (High) | A-
+- **006-0390** | ?ac | BORCHERT REV 🔗MULTI | Neenah area (High) | A-
+- **006-0391** | ?ac | BLECHL MELANIE | Neenah area (High) | A-
+- **006-0391-07** | ?ac | WESTPHAL MARK | Neenah area (High) | A-
+- **006-0392** | ?ac | HARDER LEON | Neenah area (High) | A-
+- **006-0398-02** | ?ac | OLSON & SONS REV TST JAMES L 🔗MULTI | Neenah area (High) | A-
+- **006-0400** | ?ac | OLSON & SONS REV TST JAMES L 🔗MULTI | Neenah area (High) | A-
+- **006-0401** | ?ac | OLSON & SONS REV TST JAMES L 🔗MULTI | Neenah area (High) | A-
+- **006-0547** | ?ac | SALM LIV 🔗MULTI | Neenah area (High) | A-
+- **006-0549** | ?ac | SALM LIV 🔗MULTI | Neenah area (High) | A-
+- **006-0578** | ?ac | LEHRER JEFFREY | Neenah area (High) | A-
+- **006-0578-01** | ?ac | HAFEMEISTER ROBERT L | Neenah area (High) | A-
+- **006-0581-09** | ?ac | WEYLAND DAVID 🔗MULTI | Neenah area (High) | A-
+- **006-0584** | ?ac | WEYLAND DAVID 🔗MULTI | Neenah area (High) | A-
+- **006-0586** | ?ac | WEYLAND DAVID 🔗MULTI | Neenah area (High) | A-
+- **006-0604** | ?ac | KEBERLEIN DAVID | Neenah area (High) | A-
+- **006-0619** | ?ac | ECKSTEIN SANDRA 🔗MULTI | Neenah area (High) | A-
+- **006-0630** | ?ac | ECKSTEIN SANDRA 🔗MULTI | Neenah area (High) | A-
+- **006-0644** | ?ac | SALM LIV 🔗MULTI | Neenah area (High) | A-
+- **018-0001** | ?ac | DOBISH TSTE | Oshkosh/Algoma (High) | A-
+- **018-0119** | ?ac | KESTER DAVID | Oshkosh/Algoma (High) | A-
+- **018-1954-02** | ?ac | KITZMAN JOANN | Oshkosh/Algoma (High) | A-
+- **018-0556** | ?ac | BECK REV | Oshkosh/Algoma (High) | A-
+- **018-0570** | ?ac | RAMMER JUDITH | Oshkosh/Algoma (High) | A-
+- **002-0202-02** | ?ac | WEBB DOUGLAS | Oshkosh/Algoma (High) | A-
+- **012-0244** | ?ac | JUEDES TST | Oshkosh/Algoma (High) | A-
+- **018-0408-04** | ?ac | RUEGSEGGER AMY | Oshkosh/Algoma (High) | A-
+- **018-0046** | ?ac | GALLINGER CHARLES | Oshkosh/Algoma (High) | A-
+- **006-0764** | ?ac | PITSCH ELLEN | Oshkosh/Algoma (High) | A-
+- **006-0829** | ?ac | TIPLER REV | Oshkosh/Algoma (High) | A-
+- **026-0636-04** | ?ac | DICKSON LIV | Oshkosh/Algoma (High) | A-
+- **026-0638** | ?ac | GOLTZ GREG | Oshkosh/Algoma (High) | A-
+- **026-0642** | ?ac | SORENSEN MICHAEL 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0644** | ?ac | SORENSEN MICHAEL 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0155-04** | ?ac | KELLY MEGAN L | Oshkosh/Algoma (High) | A-
+- **018-0261** | ?ac | WALTER KENNETH 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0265** | ?ac | WALTER KENNETH 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0267** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0268-02** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0271** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0275** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0279** | ?ac | WALTER KENNETH 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0283** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0286** | ?ac | KOSSEL FAMILY LTD PARTNERSHIP 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0569** | ?ac | WALTER KENNETH W 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0574-03** | ?ac | GANTHER BENJAMIN | Oshkosh/Algoma (High) | A-
+- **018-0579** | ?ac | WALTER KENNETH W 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0587-20** | ?ac | KAROW TED | Oshkosh/Algoma (High) | A-
+- **026-0531** | ?ac | GILBERTSON GARY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0537** | ?ac | GILBERTSON GARY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0570** | ?ac | COWLING DUANE 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0599** | ?ac | COWLING JOSEPH | Oshkosh/Algoma (High) | A-
+- **026-0599-02** | ?ac | ANDERSON CHRIS | Oshkosh/Algoma (High) | A-
+- **026-0608** | ?ac | KLEINSCHMIT JERRY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0609** | ?ac | KALBUS DONNA 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0610** | ?ac | KALBUS DONNA 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0611** | ?ac | KALBUS DONNA 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0612** | ?ac | KALBUS DONNA 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0613** | ?ac | KLEINSCHMIT JERRY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0614-05** | ?ac | KLEINSCHMIT JERRY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0617-03** | ?ac | KAUFMANN TST 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0620** | ?ac | KLEINSCHMIT JERRY 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0621** | ?ac | KELLY JAMES | Oshkosh/Algoma (High) | A-
+- **026-0625** | ?ac | AYLWARD RICHARD J | Oshkosh/Algoma (High) | A-
+- **026-0625-02** | ?ac | VANDE VEN 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0632** | ?ac | VANDE VEN 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **026-0634** | ?ac | COWLING DUANE 🔗MULTI | Oshkosh/Algoma (High) | A-
+- **018-0078-01** | ?ac | KAYE WALTER | Oshkosh/Algoma (High) | A-
+- **018-0078-02** | ?ac | KAY WALTER | Oshkosh/Algoma (High) | A-
+- **024-0006-03** | ?ac | RADLOFF KEVIN | Oshkosh/Algoma (High) | A-

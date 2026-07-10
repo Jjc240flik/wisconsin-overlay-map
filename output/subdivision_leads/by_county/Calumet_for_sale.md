@@ -1,0 +1,176 @@
+# Calumet County — FOR-SALE Land Listings
+
+**170 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **40146** | 29.6ac | JACK BARBARA J | Menasha Calumet (High) | A-
+- **70073500** | 17.7ac | VANZEELAND NICHOLAS L 🔗MULTI | Menasha Calumet (High) | A-
+- **70080700** | 11.4ac | BIRLING LARRY | Menasha Calumet (High) | A-
+- **70080400** | 8.4ac | GIRARDI MARY G | Menasha Calumet (High) | A-
+- **70080300** | 8.4ac | LONDRE SARA K | Menasha Calumet (High) | A-
+- **40142** | 5.3ac | XIONG YONG C | Menasha Calumet (High) | A-
+- **70073000** | 0.9ac | VANZEELAND NICHOLAS L 🔗MULTI | Menasha Calumet (High) | A-
+- **33096** | 0.2ac | MARX DALE M | Menasha Calumet (High) | A-
+- **39774** | ?ac | HAEFS THOMAS | Menasha Calumet (High) | A-
+- **33472** | ?ac | SCHREIBER JOSEPH 🔗MULTI | Menasha Calumet (High) | A-
+- **33474** | ?ac | SCHREIBER JOSEPH 🔗MULTI | Menasha Calumet (High) | A-
+- **33598** | ?ac | MUELLER FARM DEVELOPMENT LLC | Menasha Calumet (High) | A-
+- **33636** | ?ac | VANDEHEY VERONA | Menasha Calumet (High) | A-
+- **12328** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12332** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12333** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12341** | ?ac | STUMPF ROBERT | Menasha Calumet (High) | A-
+- **12345** | ?ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A-
+- **12353** | ?ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A-
+- **12361** | ?ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A-
+- **12362** | ?ac | TIMM JEFFREY 🔗MULTI | Menasha Calumet (High) | A-
+- **12365** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12367** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12369** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12370** | ?ac | C & R SCHAEUBLE FARM LLC | Menasha Calumet (High) | A-
+- **12372** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12375** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12377** | ?ac | MADER MICHAEL 🔗MULTI | Menasha Calumet (High) | A-
+- **12380** | ?ac | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A-
+- **12182** | ?ac | VANHANDEL DAVID | Menasha Calumet (High) | A-
+- **12183** | ?ac | MAHNKE DORIS | Menasha Calumet (High) | A-
+- **40928** | ?ac | KLUNDT JAMES | Menasha Calumet (High) | A-
+- **40930** | ?ac | PORSCHE GLORIA | Menasha Calumet (High) | A-
+- **40936** | ?ac | BRANTMEIER JOSEPH | Menasha Calumet (High) | A-
+- **39252** | ?ac | HOPFENSPERGER RALPH | Menasha Calumet (High) | A-
+- **39664** | ?ac | BODWAY JAMES | Menasha Calumet (High) | A-
+- **39258** | ?ac | STUMPF MATTHEW P | Menasha Calumet (High) | A-
+- **39262** | ?ac | KAUER CAROL | Menasha Calumet (High) | A-
+- **40076** | ?ac | ZORNOW KAY | Menasha Calumet (High) | A-
+- **40080** | ?ac | PETERS DEAN | Menasha Calumet (High) | A-
+- **40618** | ?ac | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A-
+- **40110** | ?ac | GILLIS BARBARA 🔗MULTI | Menasha Calumet (High) | A-
+- **40796** | ?ac | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A-
+- **40798** | ?ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A-
+- **40800** | ?ac | NETTEKOVEN KASEY 🔗MULTI | Menasha Calumet (High) | A-
+- **40804** | ?ac | DIEDRICH NETTEKOVEN | Menasha Calumet (High) | A-
+- **40806** | ?ac | NETTEKOVEN KASEY 🔗MULTI | Menasha Calumet (High) | A-
+- **38866** | ?ac | JIM ECKER FARMS LLC 🔗MULTI | Menasha Calumet (High) | A-
+- **40814** | ?ac | MARX CYNTHIA 🔗MULTI | Menasha Calumet (High) | A-
+- **40816** | ?ac | NETTEKOVEN KASEY 🔗MULTI | Menasha Calumet (High) | A-
+- **40818** | ?ac | BUELOW-SPRANGERS DAWN | Menasha Calumet (High) | A-
+- **40820** | ?ac | NETTEKOVEN JEFFREY | Menasha Calumet (High) | A-
+- **40830** | ?ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A-
+- **33094** | ?ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A-
+- **33098** | ?ac | SPRANGERS BROS 🔗MULTI | Menasha Calumet (High) | A-
+- **39366** | ?ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A-
+- **39368** | ?ac | SCHMALZ PATRICIA | Menasha Calumet (High) | A-
+- **39378** | ?ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A-
+- **39384** | ?ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A-
+- **39386** | ?ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A-
+- **39388** | ?ac | KUEPPER PAUL 🔗MULTI | Menasha Calumet (High) | A-
+- **39906** | ?ac | SEILER LINDA | Menasha Calumet (High) | A-
+- **39396** | ?ac | HAYDEN MARY | Menasha Calumet (High) | A-
+- **39416** | ?ac | WITTMANN PAMELA | Menasha Calumet (High) | A-
+- **39940** | ?ac | STUMPF ANDREW | Menasha Calumet (High) | A-
+- **40980** | ?ac | BRANTMEIER CHRISTINE | Menasha Calumet (High) | A-
+- **40154** | ?ac | DREHER DEREK | Menasha Calumet (High) | A-
+- **40160** | ?ac | BUTLER CAMERON | Menasha Calumet (High) | A-
+- **40162** | ?ac | UTTECHT DANIEL | Menasha Calumet (High) | A-
+- **38376** | ?ac | GEBHART THOMAS | Menasha Calumet (High) | A-
+- **38384** | ?ac | BEVERS PATRICIA | Menasha Calumet (High) | A-
+- **40628** | ?ac | HALDIMAN KEITH 🔗MULTI | Menasha Calumet (High) | A-
+- **40630** | ?ac | NETTEKOVEN DANIEL 🔗MULTI | Menasha Calumet (High) | A-
+- **40636** | ?ac | MADER CHARLES | Menasha Calumet (High) | A-
+- **39308** | ?ac | GILLIS BARBARA 🔗MULTI | Menasha Calumet (High) | A-
+- **40640** | ?ac | NETTEKOVEN DANIEL 🔗MULTI | Menasha Calumet (High) | A-
+- **40646** | ?ac | MEYERHOFER DAIRY LLP | Menasha Calumet (High) | A-
+- **40648** | ?ac | MEYERHOFER BRUCE | Menasha Calumet (High) | A-
+- **38818** | ?ac | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A-
+- **38820** | ?ac | GEHL JILL 🔗MULTI | Menasha Calumet (High) | A-
+- **32484** | 1.0ac | PAPENDIECK DEAN | Brothertown (Moderate to High) | B+
+- **4583** | 0.7ac | SCHWARZ JAMES I | Brothertown (Moderate to High) | B+
+- **11052** | 0.6ac | SCHNEIDER CASEY | Brothertown (Moderate to High) | B+
+- **45222** | 0.4ac | GEISER DONALD C | Brothertown (Moderate to High) | B+
+- **10655** | 0.2ac | HEMAUER ELAINE M 🔗MULTI | Brothertown (Moderate to High) | B+
+- **2313** | 0.1ac | WINNEBAGO POINT ASSOCIATION | Brothertown (Moderate to High) | B+
+- **10656** | 0.0ac | HEMAUER ELAINE M 🔗MULTI | Brothertown (Moderate to High) | B+
+- **14541** | ?ac | GILLES NORBERT | Stockbridge (Moderate to High) | B+
+- **14614** | ?ac | JIM ECKER FARMS LLC 🔗MULTI | Stockbridge (Moderate to High) | B+
+- **3636** | ?ac | KOLBE JEROME | Brothertown (Moderate to High) | B+
+- **3654** | ?ac | SCHNEIDER HARVEY | Brothertown (Moderate to High) | B+
+- **32054** | ?ac | KARLS LEANNE | Brothertown (Moderate to High) | B+
+- **2868** | ?ac | SMITH DIANE M | Brothertown (Moderate to High) | B+
+- **2882** | ?ac | SCHMITZ PATRICK K | Brothertown (Moderate to High) | B+
+- **2930** | ?ac | BRIGGS JAMIE | Brothertown (Moderate to High) | B+
+- **2932** | ?ac | DAUN ELIZABETH L | Brothertown (Moderate to High) | B+
+- **2934** | ?ac | WGNER MICHAEL T | Brothertown (Moderate to High) | B+
+- **2935** | ?ac | WAGNER MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **2937** | ?ac | WAGNER MICHAEL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **2941** | ?ac | ATHERTON SUSAN | Brothertown (Moderate to High) | B+
+- **2943** | ?ac | BOEHNLEIN GLENROY | Brothertown (Moderate to High) | B+
+- **3075** | ?ac | BROECKEL MICHAEL | Brothertown (Moderate to High) | B+
+- **9095** | ?ac | WEBER STANLEY | Brothertown (Moderate to High) | B+
+- **3984** | ?ac | GRIES DENNIS | Brothertown (Moderate to High) | B+
+- **4044** | ?ac | THEILER RANDY | Brothertown (Moderate to High) | B+
+- **16888** | ?ac | MEYER BROTHERS CROP FARMS LLC | Brothertown (Moderate to High) | B+
+- **4740** | ?ac | WOELFEL PAMELA A | Brothertown (Moderate to High) | B+
+- **4826** | ?ac | YOUNG LISA | Brothertown (Moderate to High) | B+
+- **4916** | ?ac | BARTEL MARY | Brothertown (Moderate to High) | B+
+- **11416** | ?ac | SEE FARMS LLC | Brothertown (Moderate to High) | B+
+- **43744** | ?ac | KLESSIG DUWAYNE | Brothertown (Moderate to High) | B+
+- **10407** | ?ac | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10408** | ?ac | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10409** | ?ac | JANNETTE AVANEIL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10410** | ?ac | SCHNEIDER BLAKE | Brothertown (Moderate to High) | B+
+- **10417** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10425** | ?ac | RIEMER ADAM | Brothertown (Moderate to High) | B+
+- **32496** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10426** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10427** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10433** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10434** | ?ac | RIEMER DONALD 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10447** | ?ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10448** | ?ac | KOEHLER CONNIE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10449** | ?ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10451** | ?ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10456** | ?ac | SCHNEIDER ELROY | Brothertown (Moderate to High) | B+
+- **10458** | ?ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10464** | ?ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10465** | ?ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10466** | ?ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10469** | ?ac | HEPHNER MARSHALL 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10475** | ?ac | RUFFING FARMS LLP | Brothertown (Moderate to High) | B+
+- **10484** | ?ac | THOMAS R AND DANIELLE M SCHNEIDER LIVING TRUS | Brothertown (Moderate to High) | B+
+- **10485** | ?ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10487** | ?ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10492** | ?ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10493** | ?ac | SCHNEIDER CLARENCE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10494** | ?ac | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10495** | ?ac | KLESSIG DAVID | Brothertown (Moderate to High) | B+
+- **10496** | ?ac | SCHNEIDER JESSE M 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10499** | ?ac | KEULER JEANNE 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10500** | ?ac | SCHNEIDER DAVID | Brothertown (Moderate to High) | B+
+- **3260** | ?ac | MEYER JAMES H | Brothertown (Moderate to High) | B+
+- **20745** | ?ac | MEYER RONALD | Brothertown (Moderate to High) | B+
+- **10507** | ?ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+
+- **32262** | ?ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10509** | ?ac | SCHNEIDER ROBERT 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10515** | ?ac | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10517** | ?ac | WENZEL JESSICA | Brothertown (Moderate to High) | B+
+- **10519** | ?ac | PINGEL BEATRICE | Brothertown (Moderate to High) | B+
+- **10520** | ?ac | JANNSEN CHRIS 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10521** | ?ac | STECKER DON | Brothertown (Moderate to High) | B+
+- **10523** | ?ac | KOLBE COLLEEN 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10525** | ?ac | KOLBE COLLEEN 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10529** | ?ac | MILLARD MARGO 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10531** | ?ac | STECKER FAMILY PARTNERSHIP | Brothertown (Moderate to High) | B+
+- **10532** | ?ac | MILLARD MARGO 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10559** | ?ac | BRANDENBURG TERRY L | Brothertown (Moderate to High) | B+
+- **3277** | ?ac | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+
+- **10578** | ?ac | LEMKE FLORENCE | Brothertown (Moderate to High) | B+
+- **10590** | ?ac | BRANDENBURG ALAN J | Brothertown (Moderate to High) | B+
+- **3294** | ?ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+
+- **3296** | ?ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+
+- **3298** | ?ac | MILLER NICHOLAS | Brothertown (Moderate to High) | B+
+- **20227** | ?ac | ANHALT CASEY | Brothertown (Moderate to High) | B+
+- **3307** | ?ac | MEYERS HERITAGE FARM LLC 🔗MULTI | Brothertown (Moderate to High) | B+
+- **3311** | ?ac | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+
+- **3312** | ?ac | ANDAY JAIME | Brothertown (Moderate to High) | B+
+- **3313** | ?ac | DAUN ELIZABETH 🔗MULTI | Brothertown (Moderate to High) | B+

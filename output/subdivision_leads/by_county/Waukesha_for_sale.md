@@ -1,0 +1,247 @@
+# Waukesha County — FOR-SALE Land Listings
+
+**241 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **WAKC-1302-341** | 1.0ac | ST MATTHIAS EPISCOPAL CHURCH | Genesee (High) | A-
+- **LSBT-0270-047** | 0.9ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **PWV -0893-043** | 0.9ac | ABRAM RANDALL | Pewaukee (High) | A-
+- **SUXV-0245-911-001** | 0.9ac | WISCONSIN TELEPHONE CO 🔗MULTI | Lisbon/Sussex (High) | A-
+- **BR C-1094-994** | 0.8ac | CALVARY LUTHERAN CHURCH 🔗MULTI | Brookfield (High) | A-
+- **PWC -0949-990** | 0.8ac | AVONDALE COMMUNITY ASSOCIATION 🔗MULTI | Pewaukee (High) | A-
+- **PWC -0894-982** | 0.8ac | ROSS DANIEL | Pewaukee (High) | A-
+- **WAKC-1303-958** | 0.7ac | UNION PACIFIC RAILROAD | Genesee (High) | A-
+- **SUXV-0245-912** | 0.7ac | HORNE-MUDLITZ POST NO 6377 | Lisbon/Sussex (High) | A-
+- **LSBT-0272-071** | 0.7ac | PARR DANIEL | Pewaukee (High) | A-
+- **DELT-0763-037** | 0.7ac | LOT OWNERS WOODRIDGE ESTATES 🔗MULTI | Pewaukee (High) | A-
+- **BR C-1048-002** | 0.7ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **LSBT-0267-100** | 0.7ac | NOVIK ALEXSEY 🔗MULTI | Pewaukee (High) | A-
+- **BR C-1048-005** | 0.6ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **PWV -0899-965** | 0.6ac | PEWAUKEE AREA HISTORICAL | Pewaukee (High) | A-
+- **BR C-1024-995-001** | 0.6ac | TRINITY UNITED CHURCH OF CHRIST 🔗MULTI | Brookfield (High) | A-
+- **BR C-1048-007** | 0.6ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **BR C-1048-006** | 0.6ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **WAKC-0998-032** | 0.6ac | CONGREGATION EMANU-EL | Genesee (High) | A-
+- **BR C-1060-029** | 0.6ac | TRINITY PILGRIM UNITED METH | Brookfield (High) | A-
+- **MNFV-0136-999-001** | 0.6ac | WISCONSIN TELEPHONE CO 🔗MULTI | Menomonee Falls (High) | A-
+- **MNFV-0133-046** | 0.6ac | PILGRIM EVANGELICAL LUTHERAN CHURCH | Menomonee Falls (High) | A-
+- **BR C-1048-003** | 0.6ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **BR C-1048-004** | 0.5ac | FIRST CHURCH OF CHRIST SCIENTIST BROOKFIELD 🔗MULTI | Brookfield (High) | A-
+- **WAKC-1302-229** | 0.5ac | HEBRON HOUSE | Genesee (High) | A-
+- **WAKC-1303-978** | 0.5ac | THE YOUNG MEN`S CHRISTIAN | Genesee (High) | A-
+- **WAKC-0987-102** | 0.4ac | WAUKESHA WATER UTILITY | Genesee (High) | A-
+- **PWC -0933-079** | 0.4ac | FELSMANN JUDITH K | Pewaukee (High) | A-
+- **LSBT-0254-006** | 0.4ac | SCOTT DANIEL | Lisbon/Sussex (High) | A-
+- **WAKC-1303-979** | 0.3ac | YOUNG MEN`S CHRISTIAN ASSOC 🔗MULTI | Genesee (High) | A-
+- **LSBT-0282-025** | 0.3ac | REINHOLD LARRY EUGENE | Lisbon/Sussex (High) | A-
+- **LSBT-0282-031** | 0.3ac | SAWALL PETER | Lisbon/Sussex (High) | A-
+- **WAKC-0951-982** | 0.3ac | POTAWATOMI AREA COUNCIL OF THE | Genesee (High) | A-
+- **WAKC-0985-070** | 0.3ac | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗MULTI | Genesee (High) | A-
+- **WAKC-1302-053** | 0.3ac | ASSEMBLY OF PENTECOSTAL | Genesee (High) | A-
+- **SUXV-0232-977** | 0.3ac | STADLER MICHAEL | Lisbon/Sussex (High) | A-
+- **SUXV-0235-915** | 0.2ac | GERMAN EVANGELICAL ZION CHURCH OF SUSSEX | Lisbon/Sussex (High) | A-
+- **DELT-0813-015** | 0.2ac | LAKE PEWAUKEE SANITARY | Pewaukee (High) | A-
+- **MNFV-0011-335-001** | 0.2ac | ST MARYS CONGREGATION 🔗MULTI | Menomonee Falls (High) | A-
+- **LSBT-0151-999-006** | 0.2ac | UNVERRICH GLORIA 🔗MULTI | Lisbon/Sussex (High) | A-
+- **WAKC-1303-980** | 0.2ac | YOUNG MEN`S CHRISTIAN ASSOC 🔗MULTI | Genesee (High) | A-
+- **WAKT-1420-998** | 0.2ac | WENZEL CHARLES | Genesee (High) | A-
+- **PWV -0896-009** | 0.2ac | ANGLICAN CHURCH OF THE APOSTLES 🔗MULTI | Pewaukee (High) | A-
+- **PWV -0896-010** | 0.2ac | ANGLICAN CHURCH OF THE APOSTLES 🔗MULTI | Pewaukee (High) | A-
+- **WAKC-1003-255** | 0.2ac | WAUK LIME & STONE CO IN | Genesee (High) | A-
+- **SUXV-0235-973** | 0.2ac | WIRTH EMILY | Lisbon/Sussex (High) | A-
+- **WAKC-1303-410** | 0.2ac | WALL TIMOTHY R | Genesee (High) | A-
+- **PWC -0873-989** | 0.2ac | CROMWELL HILLS CEMETERY | Pewaukee (High) | A-
+- **WAKC-1000-071** | 0.1ac | MARKWARDT MICHAEL | Genesee (High) | A-
+- **WAKC-1303-982** | 0.1ac | YOUNG MEN`S CHRISTIAN ASSOC 🔗MULTI | Genesee (High) | A-
+- **WAKC-0985-069** | 0.1ac | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗MULTI | Genesee (High) | A-
+- **WAKC-1003-938** | 0.1ac | WAUKESHA WATER UTILTITY | Genesee (High) | A-
+- **WAKC-1003-942** | 0.1ac | CANADIAN NATIONAL RAILROAD | Genesee (High) | A-
+- **MNFV-0011-208** | 0.1ac | FRED HENRIZI POST 382 AMERICAN LEGION | Menomonee Falls (High) | A-
+- **WAKC-1003-254** | 0.1ac | FREDERICK KRAUS EST | Genesee (High) | A-
+- **WAKC-1303-973** | 0.1ac | FIRST CONGREGATIONAL CHURCH 🔗MULTI | Genesee (High) | A-
+- **PWV -0899-272** | 0.1ac | JACQUES JOHN | Pewaukee (High) | A-
+- **MNFV-0126-067** | 0.0ac | LOT OWERS OF AEROPARK | Menomonee Falls (High) | A-
+- **DELT-0766-998-004** | 0.0ac | ELGER JASON W | Pewaukee (High) | A-
+- **SUXV-0199-080** | 0.0ac | LOT OWNERS HIDDEN HILLS | Lisbon/Sussex (High) | A-
+- **MNFV-0126-106** | 0.0ac | LEMER MATTHEW | Menomonee Falls (High) | A-
+- **MNFV-0058-999** | ?ac | LANDVATTER MICHAEL | Menomonee Falls (High) | A-
+- **MNFV-0039-996** | ?ac | EMMANUEL EVANGELICAL CONGREGATION | Menomonee Falls (High) | A-
+- **MNFV-0049-969-001** | ?ac | GIBBONS JONATHAN | Menomonee Falls (High) | A-
+- **MNFV-0142-002** | ?ac | INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS | Menomonee Falls (High) | A-
+- **MNFV-0012-219** | ?ac | ST MARYS CONGREGATION 🔗MULTI | Menomonee Falls (High) | A-
+- **LSBT-0288-985-001** | ?ac | REDEEMER UNITED CHURCH OF CHRIST | Menomonee Falls (High) | A-
+- **MNFV-0062-990-001** | ?ac | GLORIA DEI LUTHERAN CHURCH | Menomonee Falls (High) | A-
+- **MNFV-0016-988** | ?ac | GOOD SHEPHERD | Menomonee Falls (High) | A-
+- **MNFV-0016-988-001** | ?ac | CHILDRENS COMMUNITY CENTER | Menomonee Falls (High) | A-
+- **MNFV-0017-994-003** | ?ac | LENSER MELVIN | Menomonee Falls (High) | A-
+- **MNFV-0019-993** | ?ac | HEBL MATTHEW | Menomonee Falls (High) | A-
+- **MNFV-0021-987** | ?ac | WANK LEAH | Menomonee Falls (High) | A-
+- **MNFV-0022-986** | ?ac | M-P INVESTMENT CO | Menomonee Falls (High) | A-
+- **MNFV-0022-991** | ?ac | NIEBLER JOHN 🔗MULTI | Menomonee Falls (High) | A-
+- **MNFV-0023-998** | ?ac | THE AMENDED & RESTATED DALE J & LINDA K BOEDEKER | Menomonee Falls (High) | A-
+- **MNFV-0023-999** | ?ac | NIEBLER JOHN 🔗MULTI | Menomonee Falls (High) | A-
+- **MNFV-0024-999-001** | ?ac | CHERTACK ELIOT | Menomonee Falls (High) | A-
+- **MNFV-0024-999-002** | ?ac | GAY DAVID | Menomonee Falls (High) | A-
+- **MNFV-0025-996** | ?ac | AMMENTORP ALAN | Menomonee Falls (High) | A-
+- **MNFV-0025-997** | ?ac | THOMPSON GARY | Menomonee Falls (High) | A-
+- **MNFV-0026-989** | ?ac | APPLE SPRINGS | Menomonee Falls (High) | A-
+- **MNFV-0026-994** | ?ac | CHAMBERS JUDITH | Menomonee Falls (High) | A-
+- **MNFV-0026-995** | ?ac | LATIKER JOE | Menomonee Falls (High) | A-
+- **LANV-0031-500** | ?ac | R & S HILLS FARM LLC 🔗MULTI | Menomonee Falls (High) | A-
+- **MNFV-0028-999-001** | ?ac | ZITZKE JOHN | Menomonee Falls (High) | A-
+- **LSBT-0189-995-003** | ?ac | DOPERALSKI RICHARD | Menomonee Falls (High) | A-
+- **MNFV-0059-989** | ?ac | HAENSGEN GREGG | Menomonee Falls (High) | A-
+- **MNFV-0059-994** | ?ac | VANG LAUJ-MATTHEW | Menomonee Falls (High) | A-
+- **MNFV-0011-220-002** | ?ac | ST PAULS UNITED CHURCH OF CHRIST | Menomonee Falls (High) | A-
+- **MNFV-0031-998** | ?ac | R & S HILLS FARM LLC 🔗MULTI | Menomonee Falls (High) | A-
+- **MNFV-0124-997-001** | ?ac | DAVIS RICHARD | Menomonee Falls (High) | A-
+- **MNFV-0040-957-001** | ?ac | HOLY CROSS EVANGELICAL LUTHERAN CHURCH | Menomonee Falls (High) | A-
+- **MNFV-0079-999** | ?ac | GORDON CAESAR | Menomonee Falls (High) | A-
+- **MNFV-0083-997-002** | ?ac | JOHNSON DALE | Menomonee Falls (High) | A-
+- **MNFV-0085-999-001** | ?ac | PRINCE OF PEACE LUTHERAN CHURCH | Menomonee Falls (High) | A-
+- **MNFV-0088-998-002** | ?ac | FALLS BIBLE CHURCH | Menomonee Falls (High) | A-
+- **LSBT-0217-996-002** | ?ac | LISBON | Lisbon/Sussex (High) | A-
+- **LSBT-0178-992** | ?ac | WIESE MARIE | Lisbon/Sussex (High) | A-
+- **LSBT-0184-995** | ?ac | FEEST RICHARD | Lisbon/Sussex (High) | A-
+- **LSBT-0259-989-001** | ?ac | JT SCHOOL DIST NO 2 | Lisbon/Sussex (High) | A-
+- **LSBT-0225-995-007** | ?ac | LISBON UNITED PRESBYTERIAN CHURCH | Lisbon/Sussex (High) | A-
+- **LSBT-0207-997** | ?ac | QUINONEZ MIGUEL | Lisbon/Sussex (High) | A-
+- **LSBT-0212-995** | ?ac | HORNE MARY | Lisbon/Sussex (High) | A-
+- **SUXV-0244-993-001** | ?ac | CHRIST OUR SAVIOR LUTHERAN CHURCH | Lisbon/Sussex (High) | A-
+- **SUXV-0246-948** | ?ac | METHODIST EPISCOPAL CHURCH | Lisbon/Sussex (High) | A-
+- **SUXV-0249-967** | ?ac | FAITH EVANGELICAL LUTHERAN CHURCH | Lisbon/Sussex (High) | A-
+- **SUXV-0249-971** | ?ac | PEACE LUTHERAN CHURCH | Lisbon/Sussex (High) | A-
+- **SUXV-0235-130** | ?ac | LOT OWNERS VILLAGE ESTATES | Lisbon/Sussex (High) | A-
+- **LSBT-0257-995-004** | ?ac | SPITZ FAMILY LIMITED PARTNERSHIP 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0261-999** | ?ac | SPITZ FAMILY LIMITED PARTNERSHIP 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0150-995** | ?ac | VILORIA ANTHONY | Lisbon/Sussex (High) | A-
+- **LSBT-0223-997** | ?ac | SPITZ FAMILY LIMITED PARTNERSHIP 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0148-999** | ?ac | AUMUELLER CHAD | Lisbon/Sussex (High) | A-
+- **LSBT-0152-995-001** | ?ac | PFANNERSTILL PROSPER | Lisbon/Sussex (High) | A-
+- **LSBT-0220-014** | ?ac | STUHR SAMUEL | Lisbon/Sussex (High) | A-
+- **LSBT-0220-016** | ?ac | HERDER LUKE A | Lisbon/Sussex (High) | A-
+- **LSBT-0180-999** | ?ac | FRYDA MICHAEL | Lisbon/Sussex (High) | A-
+- **LSBT-0186-996** | ?ac | UNVERRICH GLORIA 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0190-997-002** | ?ac | GEHRKE MATTHEW | Lisbon/Sussex (High) | A-
+- **LSBT-0190-999** | ?ac | STEVENS JAMES | Lisbon/Sussex (High) | A-
+- **LSBT-0255-998** | ?ac | GATZKE DERIK | Lisbon/Sussex (High) | A-
+- **LSBT-0257-010** | ?ac | STRADINGER DANE | Lisbon/Sussex (High) | A-
+- **LSBT-0257-012** | ?ac | HANSEN JAMES P 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0257-013** | ?ac | HANSEN JAMES P 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0257-014** | ?ac | DREWEK ROBERT J | Lisbon/Sussex (High) | A-
+- **LSBT-0257-015** | ?ac | ARMBRUSTER JAY | Lisbon/Sussex (High) | A-
+- **LSBT-0257-016** | ?ac | ROSENBERGER ERIC | Lisbon/Sussex (High) | A-
+- **LSBT-0257-020** | ?ac | DREWEK ROBERT | Lisbon/Sussex (High) | A-
+- **LSBT-0257-031** | ?ac | THOMPSON BRANDON | Lisbon/Sussex (High) | A-
+- **LSBT-0257-032** | ?ac | LISBON LAND PARTNERSHIP LLP | Lisbon/Sussex (High) | A-
+- **LSBT-0257-065** | ?ac | CONDON PROPERTIES LIMITED PARTNERSHIP | Lisbon/Sussex (High) | A-
+- **LSBT-0257-069** | ?ac | DANOWSKI SAMANTHA M | Lisbon/Sussex (High) | A-
+- **LSBT-0269-995** | ?ac | ROBINSON CLAIRE A | Lisbon/Sussex (High) | A-
+- **LSBT-0185-997-001** | ?ac | ZIEBELL EARL | Lisbon/Sussex (High) | A-
+- **LSBT-0287-999-002** | ?ac | MEHRINGER MAE 🔗MULTI | Lisbon/Sussex (High) | A-
+- **LSBT-0287-999-003** | ?ac | MEHRINGER MAE 🔗MULTI | Lisbon/Sussex (High) | A-
+- **PWC -0913-998-002** | ?ac | SOO LINE RAILROAD CO | Genesee (High) | A-
+- **PWC -0914-965** | ?ac | QUEEN OF APOSTLES CONGREGATION | Genesee (High) | A-
+- **WAKC-0977-049** | ?ac | SILVERNAIL 90 LTD PARTNERSHIP | Genesee (High) | A-
+- **PWC -0959-986** | ?ac | HOLLANDER TRISHA L | Genesee (High) | A-
+- **WAKC-0964-998-003** | ?ac | LUTHERAN SOCIAL SERVICES OF | Genesee (High) | A-
+- **WAKC-0974-094** | ?ac | GOODWILL INDUSTRIES OF 🔗MULTI | Genesee (High) | A-
+- **PWC -0963-986** | ?ac | VERIZON WIRELESS PERSONAL COMMUNICATIONS LP | Genesee (High) | A-
+- **WAKC-1130-118** | ?ac | SHEET METAL WORKERS INTL | Genesee (High) | A-
+- **WAKC-1007-032** | ?ac | GOODWILL INDUSTRIES OF 🔗MULTI | Genesee (High) | A-
+- **WAKC-1303-929** | ?ac | WAUK CO AREA VOC & TECH | Genesee (High) | A-
+- **WAKC-1303-969** | ?ac | FIRST CONGREGATIONAL CHURCH 🔗MULTI | Genesee (High) | A-
+- **WAKC-1303-977** | ?ac | YOUNG MEN`S | Genesee (High) | A-
+- **PWC -0958-978** | ?ac | GRISWOLD JOSEPH | Genesee (High) | A-
+- **WAKC-0986-999-002** | ?ac | SECULAR INSTITUTE OF THE | Genesee (High) | A-
+- **BKFT-1030-986** | ?ac | SINGH BACHAN 🔗MULTI | Pewaukee (High) | A-
+- **BKFT-1031-996** | ?ac | BIRA RICHARD R | Pewaukee (High) | A-
+- **DELT-0812-998** | ?ac | PRAIRIE HILL WALDORF SCHOOL | Pewaukee (High) | A-
+- **DELT-0813-998-002** | ?ac | ST ANTHONY CONGREGATION | Pewaukee (High) | A-
+- **DELT-0815-986** | ?ac | ZION PRESBYTERIAN CHURCH | Pewaukee (High) | A-
+- **DELT-0728-998-001** | ?ac | UNITED STATES CELLULAR | Pewaukee (High) | A-
+- **DELT-0766-034** | ?ac | CHURCH OF THE RESURRECTION | Pewaukee (High) | A-
+- **LSBT-0267-115** | ?ac | NOVIK ALEXSEY 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0284-994-002** | ?ac | HENNINGS BRIAN | Pewaukee (High) | A-
+- **PWC -0939-970** | ?ac | NEW VISION BRETHREN IN CHRIST CHURCH | Pewaukee (High) | A-
+- **PWC -0929-990** | ?ac | GALILEE LUTHERAN CHURCH | Pewaukee (High) | A-
+- **PWC -0931-974** | ?ac | DISCALCED CARMELITE NUNS OF MILWAUKEE | Pewaukee (High) | A-
+- **PWV -0900-968** | ?ac | THE GETHSEMANE UNITED METHODIST CHURCH | Pewaukee (High) | A-
+- **PWC -0949-999-001** | ?ac | AVONDALE COMMUNITY ASSOCIATION 🔗MULTI | Pewaukee (High) | A-
+- **PWV -0898-195-065** | ?ac | PHASE TWO PEWAUKEE PARK HILLS CONDOMINIUM HOMES | Pewaukee (High) | A-
+- **PWC -0901-999-001** | ?ac | DIVINE REDEEMER | Pewaukee (High) | A-
+- **PWC -0920-996** | ?ac | NORTH CENTRAL REGIONAL COUNCIL OF CARPENTERS | Pewaukee (High) | A-
+- **PWC -0921-984-010** | ?ac | EPISCOPAL DIOCESE OF MILWAUKEE | Pewaukee (High) | A-
+- **PWC -0950-995** | ?ac | LAMB OF GOD EVANGELICAL LUTHERAN CHURCH | Pewaukee (High) | A-
+- **PWC -0960-996** | ?ac | BENO BRIAN | Pewaukee (High) | A-
+- **PWV -0898-998** | ?ac | SAFRO JOHN | Pewaukee (High) | A-
+- **PWV -0899-981** | ?ac | WISCONSIN TELEPHONE CO 🔗MULTI | Pewaukee (High) | A-
+- **PWV -0925-999** | ?ac | AREA BOARD OF VACATIONAL TECHNICAL & ADULT | Pewaukee (High) | A-
+- **PWC -0906-998** | ?ac | JEHOVAH WITNESS | Pewaukee (High) | A-
+- **PWC -0917-994-004** | ?ac | HEAT & FROST INSULATORS LOCAL UNION NO 19 | Pewaukee (High) | A-
+- **PWC -0917-994-007** | ?ac | INTERNATIONAL UNION OF OPERATING ENG LOCAL #139 | Pewaukee (High) | A-
+- **PWC -0941-994-007** | ?ac | CAREW MARLENE | Pewaukee (High) | A-
+- **PWC -0962-995-004** | ?ac | SCOTT JASON 🔗MULTI | Pewaukee (High) | A-
+- **PWC -0962-995-005** | ?ac | SCOTT JASON 🔗MULTI | Pewaukee (High) | A-
+- **PWC -0883-996-001** | ?ac | CHRISTIAN JORDAN | Pewaukee (High) | A-
+- **PWC -0886-998-001** | ?ac | KREUSER KYLE | Pewaukee (High) | A-
+- **DELT-0763-039** | ?ac | LOT OWNERS WOODRIDGE ESTATES 🔗MULTI | Pewaukee (High) | A-
+- **DELT-0763-040** | ?ac | KRANICK THOMAS | Pewaukee (High) | A-
+- **BKFT-1027-998** | ?ac | HAASCH DIANE 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0265-025** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0269-993-004** | ?ac | HURTGEN PAUL | Pewaukee (High) | A-
+- **LSBT-0270-041** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0270-042** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0270-043** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0270-044** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0270-045** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0270-046** | ?ac | SCHULTZ CARL 🔗MULTI | Pewaukee (High) | A-
+- **LSBT-0284-994-001** | ?ac | HAMDAN NAJWA | Pewaukee (High) | A-
+- **PWC -0909-999-005** | ?ac | GARFIELD BAPTIST CHURCH | Pewaukee (High) | A-
+- **PWC -0867-994-002** | ?ac | HANSEN CHRISTIAN | Pewaukee (High) | A-
+- **PWC -0867-996** | ?ac | MIEROW JEFFREY | Pewaukee (High) | A-
+- **PWC -0873-998-002** | ?ac | MIEROW HARRY | Pewaukee (High) | A-
+- **PWC -0879-995** | ?ac | CAMPBELL-SCHULTZ SCOTT | Pewaukee (High) | A-
+- **PWC -0879-999-001** | ?ac | HOEPER AMY | Pewaukee (High) | A-
+- **PWC -0881-998-002** | ?ac | PUGH JAMES | Pewaukee (High) | A-
+- **PWC -0870-998-004** | ?ac | STEINER SAM | Pewaukee (High) | A-
+- **BR C-1013-999** | ?ac | WAUWATOSA KNIGHTS OF COLUMBUS | Brookfield (High) | A-
+- **BR C-1014-998-002** | ?ac | MCKINLEY MASONIC LODGE #307 F & AM | Brookfield (High) | A-
+- **BR C-1023-997** | ?ac | MICHIGAN WI PIPELINE CO | Brookfield (High) | A-
+- **BR C-1047-996-002** | ?ac | CHARI STEFON | Brookfield (High) | A-
+- **BR C-1060-955** | ?ac | PEACE UNITED METHODIST | Brookfield (High) | A-
+- **BR C-1061-992-004** | ?ac | MILWAUKEE CHRISTIAN SCHOOL | Brookfield (High) | A-
+- **BR C-1061-992-006** | ?ac | BROOKFIELD CHRISTIAN REF CHURC | Brookfield (High) | A-
+- **BR C-1040-992** | ?ac | GEORGE AUDREY | Brookfield (High) | A-
+- **BR C-1053-997** | ?ac | WISCONSIN MEMORIAL PARK | Brookfield (High) | A-
+- **BR C-1054-999** | ?ac | WISCONSIN MEMORIAL PARK CO | Brookfield (High) | A-
+- **BR C-1089-989** | ?ac | ST JOHN VIANNEY CONGREGATION | Brookfield (High) | A-
+- **BR C-1064-984** | ?ac | MOUND ZION CEMETERY ASSC | Brookfield (High) | A-
+- **BR C-1064-985** | ?ac | MOUND ZION CEMETERY ASSN | Brookfield (High) | A-
+- **BR C-1068-998** | ?ac | CEMETERY | Brookfield (High) | A-
+- **BR C-1143-215** | ?ac | CHURCH REDEMPTION | Brookfield (High) | A-
+- **BR C-1093-994-002** | ?ac | BROOKFIELD CONGREGATIONAL | Brookfield (High) | A-
+- **BR C-1011-985-001** | ?ac | IMMANUEL BAPTIST CHURCH | Brookfield (High) | A-
+- **BR C-1094-993-001** | ?ac | CALVARY LUTHERAN CHURCH 🔗MULTI | Brookfield (High) | A-
+- **BR C-1021-992** | ?ac | ST DOMINIC CHURCH | Brookfield (High) | A-
+- **BR C-1021-993** | ?ac | TRINITY UNITED CHURCH OF CHRIST 🔗MULTI | Brookfield (High) | A-
+- **BR C-1096-123** | ?ac | INDIANWOOD ADVANCEMENT ASSN | Brookfield (High) | A-
+- **BR C-1043-986** | ?ac | OAK HILL CEMETERY | Brookfield (High) | A-
+- **BR C-1063-989-001** | ?ac | NORTH AVENUE BAPTIST CHURCH | Brookfield (High) | A-
+- **BKFT-1038-988** | ?ac | ANDREE JAMES | Brookfield (High) | A-
+- **BR C-1101-998** | ?ac | WEST UNITARIAN UNIVERSALIST CHURCH | Brookfield (High) | A-
+- **BR C-1107-999-007** | ?ac | OWNER RECORD | Brookfield (High) | A-
+- **BR C-1010-996-002** | ?ac | IMMANUEL LUTHERAN CHURCH | Brookfield (High) | A-
+- **BR C-1027-999** | ?ac | HAASCH DIANE 🔗MULTI | Brookfield (High) | A-
+- **BR C-1027-999-001** | ?ac | HAASCH DIANE 🔗MULTI | Brookfield (High) | A-
+- **BR C-1036-993** | ?ac | GRAHAM EDWARD | Brookfield (High) | A-
+- **BR C-1151-027** | ?ac | GETHSEMANE LUTHERAN CHURCH | Brookfield (High) | A-
+- **BR C-1058-976-001** | ?ac | RIDGEWOOD BAPTIST CHURCH 🔗MULTI | Brookfield (High) | A-
+- **BR C-1058-976-003** | ?ac | RIDGEWOOD BAPTIST CHURCH 🔗MULTI | Brookfield (High) | A-
+- **BR C-1026-098** | ?ac | TOMICH CARL | Brookfield (High) | A-
+- **BR C-1113-996-003** | ?ac | WOODS PETER | Brookfield (High) | A-
+- **LANV-0073-471** | 0.5ac | ST JOHNS EVANGELICAL LUTHERAN CHURCH 🔗MULTI | Lannon (Moderate to High) | B+
+- **LANV-0032-498-001** | ?ac | SUNNYSIDE CEMETERY ASSOCIATION | Lannon (Moderate to High) | B+
+- **LANV-0073-451** | ?ac | ST JOHNS EVANGELICAL LUTHERAN CHURCH 🔗MULTI | Lannon (Moderate to High) | B+
+- **LANV-0073-473-001** | ?ac | ST JOHNS EVANGELICAL LUTHERAN CHURCH 🔗MULTI | Lannon (Moderate to High) | B+

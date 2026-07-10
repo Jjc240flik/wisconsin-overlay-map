@@ -1,0 +1,231 @@
+# Outagamie County — FOR-SALE Land Listings
+
+**225 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **11-1-0156-00** | 37.5ac | MTMA LAND LLP | Greenville (High) | A
+- **08-0-0871-00** | 0.6ac | PLAMANN GREGORY 🔗MULTI | Greenville (High) | A
+- **08-0-0869-00** | 0.6ac | PLAMANN GREGORY 🔗MULTI | Greenville (High) | A
+- **11-1-0641-78** | 0.5ac | EZZELL ZACHARY | Greenville (High) | A
+- **07-0-0375-02** | 0.5ac | RETTLER JEREMY | Greenville (High) | A
+- **11-1-0641-33** | 0.5ac | DOBRINSKA WILLIAM | Greenville (High) | A
+- **11-1-0641-69** | 0.4ac | LANG PATRICK | Greenville (High) | A
+- **11-1-0641-76** | 0.4ac | SCHREI JOHN | Greenville (High) | A
+- **11-1-0641-67** | 0.4ac | WEEKS ADAM | Greenville (High) | A
+- **11-1-0641-68** | 0.4ac | WAMPOLE MARK DAVID | Greenville (High) | A
+- **08-0-0399-01** | ?ac | MICHAEL MAIN 🔗MULTI | Greenville (High) | A
+- **08-0-0146-00** | ?ac | MICHAEL MAIN 🔗MULTI | Greenville (High) | A
+- **08-0-0149-00** | ?ac | MICHAEL MAIN 🔗MULTI | Greenville (High) | A
+- **11-1-0805-04** | ?ac | BOSETTI RICK | Greenville (High) | A
+- **08-0-0317-00** | ?ac | KETTNER RUSSELL | Greenville (High) | A
+- **08-0-0399-02** | ?ac | MICHAEL MAIN 🔗MULTI | Greenville (High) | A
+- **08-0-0558-00** | ?ac | VANHANDEL RONALD 🔗MULTI | Greenville (High) | A
+- **08-0-0559-00** | ?ac | VANHANDEL RONALD 🔗MULTI | Greenville (High) | A
+- **02-0-0131-00** | ?ac | OBERMEIER BARRY 🔗MULTI | Greenville (High) | A
+- **02-0-0133-00** | ?ac | OBERMEIER BARRY 🔗MULTI | Greenville (High) | A
+- **02-0-0137-00** | ?ac | OBERMEIER BARRY 🔗MULTI | Greenville (High) | A
+- **11-1-0644-00** | ?ac | NENNIG DONALD | Greenville (High) | A
+- **11-1-0095-00** | ?ac | SOLEM RODNEY | Greenville (High) | A
+- **11-1-0670-00** | ?ac | LAFROMBOIS BENJAMIN | Greenville (High) | A
+- **11-1-0674-01** | ?ac | KNAACK KENT | Greenville (High) | A
+- **11-1-0104-00** | ?ac | REIS DENNIS | Greenville (High) | A
+- **11-1-0682-01** | ?ac | ELLENBECKER HAROLD | Greenville (High) | A
+- **11-1-0696-00** | ?ac | ELLENBECKER TAMMY | Greenville (High) | A
+- **11-1-0697-06** | ?ac | KORTH BRADLEY | Greenville (High) | A
+- **11-1-0265-00** | ?ac | KAUFMANN JOSEPH | Greenville (High) | A
+- **11-1-0635-00** | ?ac | EBBEN LUCAS | Greenville (High) | A
+- **06-0-0144-00** | ?ac | BENNETT JOEL | Greenville (High) | A
+- **08-0-0865-00** | ?ac | MARION SCHROEDER 🔗MULTI | Greenville (High) | A
+- **08-0-0868-00** | ?ac | PLAMANN GREGORY 🔗MULTI | Greenville (High) | A
+- **08-0-0873-00** | ?ac | PLAMANN GREGORY 🔗MULTI | Greenville (High) | A
+- **08-0-0884-00** | ?ac | LATZEWITZ BONNIE B 🔗MULTI | Greenville (High) | A
+- **08-0-0885-00** | ?ac | LATZEWITZ BONNIE B 🔗MULTI | Greenville (High) | A
+- **08-0-0887-00** | ?ac | SCHROEDER CHAD M | Greenville (High) | A
+- **08-0-0888-00** | ?ac | MARION SCHROEDER 🔗MULTI | Greenville (High) | A
+- **08-0-0889-00** | ?ac | MARION SCHROEDER 🔗MULTI | Greenville (High) | A
+- **08-0-0892-00** | ?ac | MARION SCHROEDER 🔗MULTI | Greenville (High) | A
+- **08-0-0895-00** | ?ac | MARION SCHROEDER 🔗MULTI | Greenville (High) | A
+- **08-0-0898-00** | ?ac | SCHROEDER CHAD 🔗MULTI | Greenville (High) | A
+- **08-0-0899-00** | ?ac | SCHROEDER CHAD 🔗MULTI | Greenville (High) | A
+- **11-1-0052-00** | ?ac | SCHROEDER BRUCE | Greenville (High) | A
+- **11-1-0819-00** | ?ac | BRAEGER FARM LLC | Greenville (High) | A
+- **11-1-0863-00** | ?ac | MIDWEST PROPERTIES I LLP 🔗MULTI | Greenville (High) | A
+- **11-1-0976-00** | ?ac | BREI KEITH | Greenville (High) | A
+- **11-1-0286-00** | ?ac | SLYZELIA JOSEPH | Greenville (High) | A
+- **11-1-0294-00** | ?ac | EHM DOMINIC | Greenville (High) | A
+- **11-1-0300-00** | ?ac | KESTER RICHARD | Greenville (High) | A
+- **11-1-0302-00** | ?ac | GURALSKI DEJON M | Greenville (High) | A
+- **11-1-0376-00** | ?ac | REILAND LYNN | Greenville (High) | A
+- **11-1-0423-00** | ?ac | LEITZKE MARY | Greenville (High) | A
+- **02-0-0136-01** | ?ac | OBERMEIER BARRY 🔗MULTI | Greenville (High) | A
+- **11-1-0862-03** | ?ac | MIDWEST PROPERTIES I LLP 🔗MULTI | Greenville (High) | A
+- **11-1-0133-04** | ?ac | BENNETT BRUCE | Greenville (High) | A
+- **11-1-0407-00** | ?ac | OBERMEIER BRETT A | Greenville (High) | A
+- **11-1-1137-05** | ?ac | SCHMIDT NICHOLAS | Greenville (High) | A
+- **07-0-0043-02** | 0.9ac | MAAS LAWRENCE | Combined Locks (High) | A-
+- **04-0-0401-00** | 0.6ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **28-0-0364-00** | 0.3ac | WOLF RIVER VILLAGE LTD | Grand Chute (High) | A-
+- **01-0-0774-00** | 0.0ac | DUNPHY STEVEN | Grand Chute (High) | A-
+- **08-0-0437-00** | ?ac | LANE TYLER | Grand Chute (High) | A-
+- **02-0-0026-01** | ?ac | MOEDE TERRY | Grand Chute (High) | A-
+- **31-1-7400-00** | ?ac | APOSTOLIC TRUTH CHURCH | Grand Chute (High) | A-
+- **04-0-0270-00** | ?ac | A & N FARMS LLP 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0271-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0277-01** | ?ac | A & N FARMS LLP 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0281-00** | ?ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0282-00** | ?ac | ROSS JENS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0283-00** | ?ac | ROSS JENS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0285-00** | ?ac | ROSS JENS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0287-06** | ?ac | KAISER MARKUS | Grand Chute (High) | A-
+- **04-0-0291-00** | ?ac | KAMIEN SUZANNE 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0294-00** | ?ac | KAMIEN SUZANNE 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0296-00** | ?ac | RAHMLOW FARMS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0297-00** | ?ac | RAHMLOW FARMS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0298-00** | ?ac | RAHMLOW FARMS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0299-00** | ?ac | RAHMLOW FARMS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0301-00** | ?ac | RAHMLOW FARMS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0306-00** | ?ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0313-00** | ?ac | GOFFARD MICHAEL | Grand Chute (High) | A-
+- **04-0-0313-01** | ?ac | WICHMAN DONALD | Grand Chute (High) | A-
+- **04-0-0317-00** | ?ac | ROHM BRENT A 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0317-01** | ?ac | ROSS JENS 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0318-00** | ?ac | EXARHOS MICHAEL | Grand Chute (High) | A-
+- **04-0-0324-00** | ?ac | RIOS CRUZ | Grand Chute (High) | A-
+- **04-0-0333-00** | ?ac | SPRINGSTROH JUDITH 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0334-00** | ?ac | SPRINGSTROH JUDITH 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0339-00** | ?ac | SCHMIDT JOHN W 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0342-02** | ?ac | SCHMIDT JO ANN 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0344-01** | ?ac | SCHMIDT JOHN W 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0345-00** | ?ac | SCHMIDT JO ANN 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0346-00** | ?ac | SCHMIDT JOHN W 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0353-00** | ?ac | WYLAND MICHAEL D | Grand Chute (High) | A-
+- **04-0-0361-00** | ?ac | PALTZER ROBERT 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0361-01** | ?ac | PALTZER ROBERT 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0362-00** | ?ac | PALTZER ROBERT 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0362-01** | ?ac | PALTZER ROBERT 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0363-00** | ?ac | SCHMIDT JOHN W 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0364-00** | ?ac | SCHMIDT JOHN W 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0366-00** | ?ac | KRUEGER DAVID 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0367-00** | ?ac | KRUEGER DAVID 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0368-00** | ?ac | HOFFMAN CAROL 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0369-00** | ?ac | HOFFMAN CAROL 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0375-00** | ?ac | HOFACKER CHRISTOPHER | Grand Chute (High) | A-
+- **04-0-0380-00** | ?ac | SHEPPARD FAYEANN | Grand Chute (High) | A-
+- **04-0-0381-00** | ?ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0383-00** | ?ac | HOFACKER JEFFREY J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0393-00** | ?ac | JOYCE WICHMAN 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0394-00** | ?ac | JOYCE WICHMAN 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0395-01** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0395-02** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0396-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0397-01** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0398-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0399-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0400-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0402-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0403-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0404-00** | ?ac | VANDEWETTERING PETER 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0404-03** | ?ac | VANDEWETTERING PETER 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0404-04** | ?ac | JESKE LLOYD | Grand Chute (High) | A-
+- **04-0-0405-00** | ?ac | BESCHTA THOMAS | Grand Chute (High) | A-
+- **04-0-0411-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0412-00** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0413-01** | ?ac | HOFACKER J 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0428-00** | ?ac | KUREY KODY 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0429-02** | ?ac | KRULL JASE | Grand Chute (High) | A-
+- **04-0-0430-00** | ?ac | KRULL JOHN | Grand Chute (High) | A-
+- **04-0-0431-01** | ?ac | KUREY KODY 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0433-00** | ?ac | ASHAUER JAMES 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0537-00** | ?ac | ASHAUER JAMES 🔗MULTI | Grand Chute (High) | A-
+- **04-0-0538-00** | ?ac | WOLTER JACOB | Grand Chute (High) | A-
+- **04-0-0539-00** | ?ac | LEFEVRE MICHAEL | Grand Chute (High) | A-
+- **04-0-0540-00** | ?ac | ASHAUER JAMES 🔗MULTI | Grand Chute (High) | A-
+- **16-0-0219-01** | ?ac | GUNZ JAMES 🔗MULTI | Harrison (High) | A-
+- **07-0-0571-02** | ?ac | FLANAGAN CLIFFORD 🔗MULTI | Harrison (High) | A-
+- **07-0-0571-03** | ?ac | FLANAGAN CLIFFORD 🔗MULTI | Harrison (High) | A-
+- **09-0-0561-00** | ?ac | VANHANDEL DANIEL 🔗MULTI | Harrison (High) | A-
+- **09-0-0568-00** | ?ac | VANHANDEL DANIEL 🔗MULTI | Harrison (High) | A-
+- **02-0-0057-00** | ?ac | FIN & FEATHER CLUB OF MAINE IN 🔗MULTI | Harrison (High) | A-
+- **02-0-0058-00** | ?ac | FIN & FEATHER CLUB OF MAINE IN 🔗MULTI | Harrison (High) | A-
+- **11-1-1106-00** | ?ac | PERRY MARK | Harrison (High) | A-
+- **11-1-1137-01** | ?ac | RYMER TIMOTHY | Harrison (High) | A-
+- **02-0-0374-00** | ?ac | TACKMAN JUDITH 🔗MULTI | Harrison (High) | A-
+- **02-0-0377-00** | ?ac | TACKMAN JUDITH 🔗MULTI | Harrison (High) | A-
+- **02-0-0378-00** | ?ac | TACKMAN JUDITH 🔗MULTI | Harrison (High) | A-
+- **03-0-0288-00** | ?ac | WIESE BROTHERS FARMS | Harrison (High) | A-
+- **02-0-0869-00** | ?ac | GUYETTE JASON | Harrison (High) | A-
+- **02-0-0903-00** | ?ac | LERCH KYLE | Harrison (High) | A-
+- **02-0-0907-00** | ?ac | HANSON CARLI J | Harrison (High) | A-
+- **12-0-0115-01** | ?ac | NICKELATTI ANDREW | Harrison (High) | A-
+- **06-0-0328-00** | ?ac | SOMMER STEVE 🔗MULTI | Harrison (High) | A-
+- **06-0-0330-00** | ?ac | SOMMER STEVE 🔗MULTI | Harrison (High) | A-
+- **16-0-0218-02** | ?ac | GUNZ JAMES 🔗MULTI | Harrison (High) | A-
+- **15-0-0680-00** | ?ac | FIN & FEATHER CLUB OF MAINE 🔗MULTI | Harrison (High) | A-
+- **15-0-0681-00** | ?ac | FIN & FEATHER CLUB OF MAINE 🔗MULTI | Harrison (High) | A-
+- **11-1-1083-02** | ?ac | BREI MARCUS R 🔗MULTI | Harrison (High) | A-
+- **11-1-1083-03** | ?ac | BREI KEITH H | Harrison (High) | A-
+- **11-1-1107-00** | ?ac | ANDERSON BLAKE | Harrison (High) | A-
+- **21-0-0241-00** | ?ac | SMITH JOHN | Combined Locks (High) | A-
+- **09-0-0557-00** | ?ac | PEETERS JOSEPH | Little Chute (High) | A-
+- **02-0-0652-01** | ?ac | VANSTRATEN LARRY 🔗MULTI | Little Chute (High) | A-
+- **02-0-0441-00** | ?ac | VANSTRATEN LARRY 🔗MULTI | Little Chute (High) | A-
+- **20-0-0104-00** | ?ac | VANDENBERG LAVERNE | Little Chute (High) | A-
+- **20-0-0047-00** | ?ac | VANROOY JENNIFER ANN | Little Chute (High) | A-
+- **26-0-4457-00** | ?ac | QBK PROPERTIES LLP | Little Chute (High) | A-
+- **09-0-0284-20** | 0.4ac | VANDEWETTERING JAYNE | Buchanan (Moderate to High) | B+
+- **18-0-0389-00** | 0.4ac | FRITSCH BRENDA | Buchanan (Moderate to High) | B+
+- **17-0-1857-01** | 0.3ac | HEIDEN DANIEL J VANDER | Buchanan (Moderate to High) | B+
+- **13-0-0403-00** | 0.2ac | LEMKE PAUL | Buchanan (Moderate to High) | B+
+- **17-0-1799-00** | 0.0ac | VERHASSELT DALE | Buchanan (Moderate to High) | B+
+- **02-0-0601-00** | ?ac | JUNAK GREGORY | Buchanan (Moderate to High) | B+
+- **03-0-0633-08** | ?ac | ASHBRENNER ERIC | Buchanan (Moderate to High) | B+
+- **09-0-0160-00** | ?ac | SEEGERS JOHN | Buchanan (Moderate to High) | B+
+- **20-0-0020-00** | ?ac | VOSTERS OAK RIDGE FARM LLC | Buchanan (Moderate to High) | B+
+- **20-0-0023-00** | ?ac | VANSCHYNDEL JEROME | Buchanan (Moderate to High) | B+
+- **20-0-0024-00** | ?ac | VANSCHYNDEL LYDIA | Buchanan (Moderate to High) | B+
+- **20-0-0024-03** | ?ac | VANSCHYNDEL CHRISTY | Buchanan (Moderate to High) | B+
+- **09-0-0177-02** | ?ac | VANCAMP JACOB | Buchanan (Moderate to High) | B+
+- **09-0-0186-00** | ?ac | BLACK CREEK LIMESTONE COMPANY | Buchanan (Moderate to High) | B+
+- **09-0-0187-00** | ?ac | PATRICK ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0194-00** | ?ac | PATRICK ROBERT 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0195-00** | ?ac | GARVEY BETTY 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0196-00** | ?ac | BROCKMAN FAMILY FARM LLC 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0197-01** | ?ac | BROCKMAN FAMILY FARM LLC 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0199-00** | ?ac | GARVEY BETTY JEAN | Buchanan (Moderate to High) | B+
+- **09-0-0200-00** | ?ac | BROCKMAN FAMILY FARM LLC 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0201-00** | ?ac | IHDE DUANE | Buchanan (Moderate to High) | B+
+- **09-0-0205-04** | ?ac | BERG TODD | Buchanan (Moderate to High) | B+
+- **09-0-0208-01** | ?ac | EGGERT ADAM | Buchanan (Moderate to High) | B+
+- **09-0-0208-02** | ?ac | MURPHY MARTIN | Buchanan (Moderate to High) | B+
+- **09-0-0211-00** | ?ac | GRISSMAN MARY JANE | Buchanan (Moderate to High) | B+
+- **09-0-0215-01** | ?ac | GEENEN MICHAEL | Buchanan (Moderate to High) | B+
+- **09-0-0216-00** | ?ac | CHAPIN NICHOLAS | Buchanan (Moderate to High) | B+
+- **09-0-0226-01** | ?ac | GARVEY BETTY 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0264-02** | ?ac | VANCAMP WILLIAM | Buchanan (Moderate to High) | B+
+- **09-0-0285-02** | ?ac | VANCAMP GERALD | Buchanan (Moderate to High) | B+
+- **09-0-0286-00** | ?ac | GONNERING WILLIAM 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0298-01** | ?ac | GONNERING WILLIAM 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0315-00** | ?ac | VANASTEN MARK G | Buchanan (Moderate to High) | B+
+- **09-0-0318-00** | ?ac | VANASTEN JOSEPH F 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0319-00** | ?ac | VANASTEN JOSEPH F 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0644-03** | ?ac | VANCAMP MARK | Buchanan (Moderate to High) | B+
+- **09-0-0657-00** | ?ac | WALLACE BRAD | Buchanan (Moderate to High) | B+
+- **09-0-0659-00** | ?ac | VANROSSUM EUGENE | Buchanan (Moderate to High) | B+
+- **09-0-0663-00** | ?ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0671-00** | ?ac | FOX THOMAS | Buchanan (Moderate to High) | B+
+- **09-0-0677-00** | ?ac | MICHAEL KAVANAUGH 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0678-00** | ?ac | MICHAEL KAVANAUGH 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0682-00** | ?ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0684-00** | ?ac | VANROSSUM LYLE 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0685-00** | ?ac | KORTZ GARY 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0686-00** | ?ac | KORTZ GARY 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0688-00** | ?ac | KORTZ GARY 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0695-03** | ?ac | FOX GARY | Buchanan (Moderate to High) | B+
+- **09-0-0706-00** | ?ac | VANHANDEL FLORIAN 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0707-00** | ?ac | HILLEGAS SANDRA L 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0708-00** | ?ac | HILLEGAS SANDRA L 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0709-00** | ?ac | VANHANDEL FLORIAN 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0710-00** | ?ac | VANROSSUM RONALD | Buchanan (Moderate to High) | B+
+- **09-0-0711-00** | ?ac | VANCAMP WAYNE 🔗MULTI | Buchanan (Moderate to High) | B+
+- **09-0-0712-00** | ?ac | VANCAMP WAYNE 🔗MULTI | Buchanan (Moderate to High) | B+

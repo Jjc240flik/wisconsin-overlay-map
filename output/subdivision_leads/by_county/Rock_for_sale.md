@@ -1,0 +1,774 @@
+# Rock County — FOR-SALE Land Listings
+
+**768 active land listings** in HIGH & Moderate-to-High growth areas
+
+## 📞 For Sale — Call First
+
+- **6-2-368** | 117.0ac | MERLET FARMS #1 LLC 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-188** | 90.1ac | LIVI GEORGE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-371** | 80.0ac | HILDEBRANDT DONALD 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-351.3** | 76.8ac | MERLET FARMS #1 LLC 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-25.02** | 65.8ac | DEVELOPME HENDRICKS | Beloit/Turtle (High) | A-
+- **6-8-101G** | 61.9ac | SAYRE JOINT FARMS LLC 🔗MULTI | Janesville (High) | A-
+- **0113300100** | 57.0ac | JANESVILLE SAND & GRAVEL 🔗MULTI | Janesville (High) | A-
+- **6-6-437.1A** | 50.5ac | RIESTERER MARK | Janesville (High) | A-
+- **0113400100** | 41.6ac | JANESVILLE SAND & GRAVEL 🔗MULTI | Janesville (High) | A-
+- **6-14-277B** | 41.1ac | HOLMES NANCY 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-15-315.3** | 40.9ac | OLSON DANIEL | Beloit/Turtle (High) | A-
+- **6-14-98** | 40.7ac | OLSON RODNEY | Beloit/Turtle (High) | A-
+- **6-14-114.2** | 40.5ac | ROSS MICHAEL | Beloit/Turtle (High) | A-
+- **6-14-13** | 40.4ac | HEILIZER JEFFREY | Beloit/Turtle (High) | A-
+- **6-2-362A** | 40.0ac | RVB PARTNERSHIP | Beloit/Turtle (High) | A-
+- **6-14-150.1** | 40.0ac | KIRK BRIAN | Beloit/Turtle (High) | A-
+- **6-14-147.3** | 37.4ac | FALK THOMAS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-202B** | 36.6ac | BELLIN PHILIP | Beloit/Turtle (High) | A-
+- **6-2-200B** | 35.0ac | WI HAYNES FARMS LLC | Beloit/Turtle (High) | A-
+- **6-2-61** | 32.2ac | JOHNSON SHELLEY | Beloit/Turtle (High) | A-
+- **6-8-79.1** | 31.5ac | AL & ED FARRINGTON FARMS LLC 🔗MULTI | Janesville (High) | A-
+- **6-19-370A** | 30.0ac | HILDEBRANDT DONALD 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-149.2A** | 29.9ac | GRENAWALT FARMS LLC | Beloit/Turtle (High) | A-
+- **6-19-370B.2** | 29.7ac | HOLMES RICHARD P | Beloit/Turtle (High) | A-
+- **12110010** | 28.2ac | BRYDEN VICKI 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-277E** | 27.7ac | HOLMES NANCY 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-132.33** | 25.1ac | STURBRIDGE SPRINGS CONDO | Janesville (High) | A-
+- **6-14-15.3A** | 25.0ac | FLUECKIGER JAMES | Beloit/Turtle (High) | A-
+- **6-14-314** | 22.2ac | RICKELS RANDALL | Beloit/Turtle (High) | A-
+- **6-14-282** | 21.7ac | SHEEHAN JOHN | Beloit/Turtle (High) | A-
+- **6-14-281.1** | 20.3ac | FEDDER GINA | Beloit/Turtle (High) | A-
+- **6-6-405.1** | 20.3ac | LACOUNT DOUGLAS L | Janesville (High) | A-
+- **6-14-261.2A** | 20.3ac | HANSEN ROBERT | Beloit/Turtle (High) | A-
+- **6-2-207** | 20.0ac | BEELER DOUGLAS | Beloit/Turtle (High) | A-
+- **6-14-77A.1** | 20.0ac | TREPELAS MICHAEL | Beloit/Turtle (High) | A-
+- **6-15-352** | 20.0ac | HAYS LAVERNE | Beloit/Turtle (High) | A-
+- **6-14-58.7** | 18.1ac | AMUNDSON JARED | Beloit/Turtle (High) | A-
+- **6-14-319** | 18.0ac | RIEFF RAYMOND | Beloit/Turtle (High) | A-
+- **6-14-277D** | 17.7ac | HOLMES NANCY 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-149.2B** | 17.0ac | FALK THOMAS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-362** | 17.0ac | BRYDEN VICKI 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-210** | 16.7ac | DOMINGUEZ-ROBLES ISAIAS | Beloit/Turtle (High) | A-
+- **6-19-370C** | 16.0ac | KINNEY DAVID | Beloit/Turtle (High) | A-
+- **6-14-212** | 15.4ac | VENEMAN RODGER | Beloit/Turtle (High) | A-
+- **6-14-180.2** | 14.7ac | BALLARD GARY | Beloit/Turtle (High) | A-
+- **6-14-181** | 14.0ac | CARROLL DAVID | Beloit/Turtle (High) | A-
+- **6-14-140A** | 13.8ac | KLICK DAVID | Beloit/Turtle (High) | A-
+- **6-14-125C** | 13.4ac | COLLINS DUANE | Beloit/Turtle (High) | A-
+- **6-2-56.4** | 13.4ac | ALSETH PHILIP | Beloit/Turtle (High) | A-
+- **6-19-359.2** | 12.7ac | WALSH RICHARD | Beloit/Turtle (High) | A-
+- **6-14-237.4A** | 12.0ac | DUE PATRICK | Beloit/Turtle (High) | A-
+- **6-8-23.1** | 11.5ac | ERSA FAMILY INVESTMENTS | Janesville (High) | A-
+- **6-8-81** | 11.2ac | JOHNSON MARJORIE | Janesville (High) | A-
+- **21880030** | 10.7ac | GENERAL PARTNERSHIP TWIN | Beloit/Turtle (High) | A-
+- **6-19-344A** | 10.0ac | WALSH FAMILY FARM LLC | Beloit/Turtle (High) | A-
+- **6-14-291.1** | 10.0ac | TOUBL JAN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-23.3** | 10.0ac | ROLLINGWOOD DEVELOPMENT | Janesville (High) | A-
+- **6-8-21.5** | 10.0ac | KNOPES JEFF | Janesville (High) | A-
+- **6-6-438.2C1** | 10.0ac | CHURCH JOHN 🔗MULTI | Janesville (High) | A-
+- **6-14-108.1A** | 10.0ac | PAKES ROBERT | Beloit/Turtle (High) | A-
+- **6-14-248.01A** | 9.7ac | PARKER FRANK | Beloit/Turtle (High) | A-
+- **6-8-22.3** | 9.7ac | JIMENEZ KIMBERLY | Janesville (High) | A-
+- **6-14-266.3** | 8.8ac | HOPPER KYLE | Beloit/Turtle (High) | A-
+- **6-8-123D.2** | 8.6ac | ADVANTAGE LAND | Janesville (High) | A-
+- **6-14-250.3A** | 7.3ac | BROWN DENNIS | Beloit/Turtle (High) | A-
+- **6-2-267.1A** | 7.3ac | POFF RICHARD | Beloit/Turtle (High) | A-
+- **6-8-42** | 7.3ac | PUTSCH JOSEPH | Janesville (High) | A-
+- **6-8-104** | 6.9ac | AL & ED FARRINGTON FARMS LLC 🔗MULTI | Janesville (High) | A-
+- **6-6-437** | 6.7ac | QUADE JAMES W | Janesville (High) | A-
+- **6-19-295.2** | 6.5ac | RODRIGUEZ CRISTIAN FIDENCIO | Beloit/Turtle (High) | A-
+- **0124400051** | 6.5ac | JANESVILLE SAND & GRAVEL 🔗MULTI | Janesville (High) | A-
+- **6-8-123.01** | 6.4ac | CRYSTAL SPRINGS HOLDINGS | Janesville (High) | A-
+- **6-8-101B** | 6.0ac | FAVREAU JOHN | Janesville (High) | A-
+- **6-14-237.2C** | 5.5ac | WENGER PHILLIP | Beloit/Turtle (High) | A-
+- **6-14-208.6** | 5.3ac | BERNIER STEVEN | Beloit/Turtle (High) | A-
+- **6-6-407.1** | 5.3ac | RICK J & MARY L BERGENDAL REV LIVING TRU | Janesville (High) | A-
+- **6-8-101.3** | 5.2ac | BERGENDAL GARY | Janesville (High) | A-
+- **6-14-296.01** | 5.2ac | UTZIG RICKY | Beloit/Turtle (High) | A-
+- **6-8-66.01** | 5.1ac | MAHER JOHN | Janesville (High) | A-
+- **6-19-389.80** | 5.0ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-164** | 5.0ac | BENNETT PATRICK C | Beloit/Turtle (High) | A-
+- **6-14-206B** | 5.0ac | NASS PHILLIP | Beloit/Turtle (High) | A-
+- **6-6-367B.2** | 5.0ac | SWERIG TADE | Janesville (High) | A-
+- **6-14-316.4** | 4.7ac | CRAWFORD RICHARD | Beloit/Turtle (High) | A-
+- **6-14-115.2** | 4.6ac | SCHARLAU COLLEEN | Beloit/Turtle (High) | A-
+- **6-14-168.1** | 4.5ac | WILLIAMS STEVE | Beloit/Turtle (High) | A-
+- **6-14-235.4** | 4.2ac | AASEN SERENA | Beloit/Turtle (High) | A-
+- **6-6-434.3** | 4.0ac | STAFF GERALD | Janesville (High) | A-
+- **6-6-1133.033** | 3.8ac | RIVEROAKS SUBDIVISION HO | Janesville (High) | A-
+- **6-8-418.104** | 3.5ac | JACKSON DENNIS | Janesville (High) | A-
+- **6-8-80.3** | 3.2ac | GURITZ GARY 🔗MULTI | Janesville (High) | A-
+- **6-14-188.1** | 3.1ac | LIVI GEORGE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-14-291.2** | 3.0ac | TOUBL JAN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-80.1** | 2.6ac | GURITZ GARY 🔗MULTI | Janesville (High) | A-
+- **6-6-367G.2B** | 2.5ac | HROBSKY NATHAN | Janesville (High) | A-
+- **6-14-238** | 2.3ac | CARLSON CHAD R | Beloit/Turtle (High) | A-
+- **6-6-438.2C** | 2.3ac | CHURCH JOHN 🔗MULTI | Janesville (High) | A-
+- **6-14-202.1** | 2.3ac | MDE FARMFIELDS LLC | Beloit/Turtle (High) | A-
+- **6-8-30.5** | 2.0ac | ANDERSON JOHN | Janesville (High) | A-
+- **6-8-66.2A** | 2.0ac | SWANSON HEATHER | Janesville (High) | A-
+- **6-8-66C** | 1.8ac | HANNEMAN DONALD 🔗MULTI | Janesville (High) | A-
+- **6-8-106.1E** | 1.7ac | ROMACK BRIAN M | Janesville (High) | A-
+- **6-8-421.78** | 1.7ac | RIVERFRONT SUBDIVISION A 🔗MULTI | Janesville (High) | A-
+- **6-8-418.81** | 1.7ac | ECKERMAN BARBARA | Janesville (High) | A-
+- **6-8-418.130** | 1.7ac | TIERNEY LINDSEY | Janesville (High) | A-
+- **6-8-418.145** | 1.6ac | SEDGWICK JOHN | Janesville (High) | A-
+- **6-8-418.142** | 1.6ac | STUBBENDICK SEAN | Janesville (High) | A-
+- **6-19-372.1** | 1.5ac | DORR JACQUELYN | Beloit/Turtle (High) | A-
+- **6-8-418.133** | 1.5ac | OFORI DANIEL DARTEY | Janesville (High) | A-
+- **6-8-337.71** | 1.5ac | STORY KENDRA | Janesville (High) | A-
+- **6-8-450.25** | 1.5ac | CURLESS GLEN | Janesville (High) | A-
+- **6-8-418.154** | 1.5ac | WILLIAMS WILLIAM | Janesville (High) | A-
+- **6-8-338.72** | 1.4ac | GASSER JAY | Janesville (High) | A-
+- **6-8-99.1A** | 1.3ac | THORNTON EDWARD | Janesville (High) | A-
+- **6-8-450.17** | 1.2ac | MAIR KYLE | Janesville (High) | A-
+- **6-8-103.02** | 1.2ac | AL & ED FARRINGTON FARMS LLC 🔗MULTI | Janesville (High) | A-
+- **6-8-103.03** | 1.2ac | AL & ED FARRINGTON FARMS LLC 🔗MULTI | Janesville (High) | A-
+- **6-8-337.73** | 1.2ac | BRENT A FOX INDIVIDUAL PROPERTY | Janesville (High) | A-
+- **6-6-426B** | 1.1ac | NORGAARD CARMEN | Janesville (High) | A-
+- **6-6-1133.019** | 1.1ac | HARTZELL ROBERT | Janesville (High) | A-
+- **6-8-418.86** | 1.0ac | GOMEZ CELENE | Janesville (High) | A-
+- **6-8-418.117** | 1.0ac | SKAIFE ROGER | Janesville (High) | A-
+- **6-8-450.22** | 1.0ac | UDY JACILYN | Janesville (High) | A-
+- **6-8-337.85001** | 1.0ac | NEHLS DAVID 🔗MULTI | Janesville (High) | A-
+- **6-8-66B** | 1.0ac | ZEILINGER BRIAN | Janesville (High) | A-
+- **6-8-69** | 1.0ac | KERR-PERSING HALLEY | Janesville (High) | A-
+- **6-8-421.77** | 1.0ac | RIVERFRONT SUBDIVISION A 🔗MULTI | Janesville (High) | A-
+- **6-6-436.5** | 1.0ac | RABEN ANDREW | Janesville (High) | A-
+- **6-2-1591.27** | 1.0ac | DAVIS BRIAN T | Beloit/Turtle (High) | A-
+- **6-2-1626** | 1.0ac | SEICHTER BRIAN | Beloit/Turtle (High) | A-
+- **6-8-421.69** | 0.9ac | WENDT SANDRA | Janesville (High) | A-
+- **6-6-1070.32** | 0.9ac | AMUNDSON ALLAN | Janesville (High) | A-
+- **6-6-357.1** | 0.9ac | BECKER WILLIAM D | Janesville (High) | A-
+- **6-8-66** | 0.9ac | HANNEMAN DONALD 🔗MULTI | Janesville (High) | A-
+- **6-8-13.1A** | 0.8ac | SHULT BENJAMIN | Janesville (High) | A-
+- **6-6-438.3D.2** | 0.8ac | HOWARD MARTIN | Janesville (High) | A-
+- **6-19-389.70** | 0.8ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-81.8** | 0.8ac | JOHNSON JILL M | Janesville (High) | A-
+- **6-2-1650** | 0.8ac | CANFIELD BRENDA | Beloit/Turtle (High) | A-
+- **6-8-422.5** | 0.7ac | FUCHS CHERYL | Janesville (High) | A-
+- **6-19-389.75** | 0.7ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1619** | 0.7ac | SUAREZ DELFIN FRANCISCO | Beloit/Turtle (High) | A-
+- **6-2-2261.39** | 0.7ac | CEPHAS MARVIN | Beloit/Turtle (High) | A-
+- **6-14-202.2** | 0.6ac | COLEMAN DUSTIN | Beloit/Turtle (High) | A-
+- **0114300033** | 0.6ac | MCDADE MARK | Janesville (High) | A-
+- **6-19-389.89** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.84** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-81.2A** | 0.6ac | SORENSON JASON | Janesville (High) | A-
+- **6-8-65.10** | 0.6ac | BALAS ROGER | Janesville (High) | A-
+- **6-19-389.77** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.94** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-419.10** | 0.6ac | LAMBERT RICHARD | Janesville (High) | A-
+- **6-19-389.71** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.76** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.100** | 0.6ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1656.91** | 0.5ac | SHOEMAKER TYLER | Beloit/Turtle (High) | A-
+- **6-2-2357.8** | 0.5ac | FIELDS GERALD | Beloit/Turtle (High) | A-
+- **6-19-363C** | 0.5ac | BREWER ROBERT | Beloit/Turtle (High) | A-
+- **6-19-389.78** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.79** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.92** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-373** | 0.5ac | CONNORS PATRICK | Beloit/Turtle (High) | A-
+- **6-19-389.87** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.101** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-6-367G** | 0.5ac | JACOBSON DOUGLAS | Janesville (High) | A-
+- **6-2-2357.19** | 0.5ac | LUDEMAN JEANNE | Beloit/Turtle (High) | A-
+- **6-2-190.3** | 0.5ac | ROLLETTE ERVIN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.86** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.91** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.95** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-337.66** | 0.5ac | HENDRICKS DIANE | Janesville (High) | A-
+- **6-2-2261.35** | 0.5ac | KROENING JOSHUA | Beloit/Turtle (High) | A-
+- **6-19-389.83** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.93** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.81** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.82** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.85** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.90** | 0.5ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **0114300041** | 0.5ac | KELLER JAMES | Janesville (High) | A-
+- **6-2-2261.2E** | 0.4ac | LARSON STEVEN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.72** | 0.4ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-19-389.74** | 0.4ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-99.2F** | 0.4ac | HOVLAND JON | Janesville (High) | A-
+- **6-19-389.73** | 0.4ac | TWIN CITY FARMS PARTNERS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1656.46** | 0.4ac | VEST BILL | Beloit/Turtle (High) | A-
+- **21860075** | 0.4ac | WILSON SCOTT 🔗MULTI | Beloit/Turtle (High) | A-
+- **0114200164** | 0.4ac | HORN ROBERT | Janesville (High) | A-
+- **6-8-337.85002** | 0.4ac | NEHLS DAVID 🔗MULTI | Janesville (High) | A-
+- **6-2-2287** | 0.4ac | VINCE RAYMOND | Beloit/Turtle (High) | A-
+- **6-2-2304** | 0.4ac | HANSBERRY JESSICA | Beloit/Turtle (High) | A-
+- **6-2-2310** | 0.4ac | MAXTED DEAN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2312** | 0.4ac | MAXTED DEAN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2317** | 0.4ac | LOSEY DENNIS | Beloit/Turtle (High) | A-
+- **6-2-2323** | 0.4ac | GENUNG JARED | Beloit/Turtle (High) | A-
+- **6-2-2331** | 0.4ac | ERICKSON JEROME | Beloit/Turtle (High) | A-
+- **6-2-2332** | 0.4ac | HENDERSON KATHLEEN | Beloit/Turtle (High) | A-
+- **6-2-2338** | 0.4ac | SAMUEL CHIJIOKE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2339** | 0.4ac | SAMUEL CHIJIOKE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2347** | 0.4ac | SAMUEL CHIJIOKE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2352** | 0.4ac | DOBERSTEIN DENNIS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2354** | 0.4ac | DOBERSTEIN DENNIS 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2355** | 0.4ac | KRAMER DIANA 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1656.44** | 0.4ac | MCKEE SEAN | Beloit/Turtle (High) | A-
+- **6-2-2261.16** | 0.4ac | HARRIS MARY | Beloit/Turtle (High) | A-
+- **6-8-30.3** | 0.4ac | WELLENKOTTER JUDY | Janesville (High) | A-
+- **6-8-98.1** | 0.4ac | PASTULA DEAN | Janesville (High) | A-
+- **6-8-99.2E** | 0.4ac | SAGEN DAVID | Janesville (High) | A-
+- **6-2-1460.33** | 0.3ac | TINDER MEGAN | Beloit/Turtle (High) | A-
+- **6-2-2261.30** | 0.3ac | HENNING KYLE 🔗MULTI | Beloit/Turtle (High) | A-
+- **21860085** | 0.3ac | WILSON SCOTT 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2261.13** | 0.3ac | RUST LYNETTE | Beloit/Turtle (High) | A-
+- **6-2-2261.29** | 0.3ac | WINCHESTER JODY | Beloit/Turtle (High) | A-
+- **6-2-2261.48** | 0.3ac | JENSEN GREGG | Beloit/Turtle (High) | A-
+- **6-2-2261.55** | 0.3ac | ANDERSON TODD | Beloit/Turtle (High) | A-
+- **6-2-1460.103** | 0.3ac | WILBERG ROBERT | Beloit/Turtle (High) | A-
+- **6-8-124D3A** | 0.3ac | DOUGLAS ALLISON | Janesville (High) | A-
+- **6-2-2261.3B** | 0.3ac | BROWN LAURIE | Beloit/Turtle (High) | A-
+- **6-2-2261.3D** | 0.3ac | WHITNEY KRISTOFER | Beloit/Turtle (High) | A-
+- **6-2-1656.70** | 0.3ac | HOWE KIRK | Beloit/Turtle (High) | A-
+- **0114200167** | 0.3ac | LOEHNDORF STEVEN T | Janesville (High) | A-
+- **6-2-2356** | 0.3ac | KRAMER DIANA 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1609.2** | 0.3ac | WILSON LARRY | Beloit/Turtle (High) | A-
+- **6-8-99.2B** | 0.3ac | CHANCE JOSEPH | Janesville (High) | A-
+- **6-6-1133.035** | 0.3ac | HEINZEN DAVID | Janesville (High) | A-
+- **6-2-1460.65** | 0.3ac | LAURSEN MIA | Beloit/Turtle (High) | A-
+- **6-2-2261.2D** | 0.3ac | LARSON STEVEN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-2261.2** | 0.3ac | RAMQUIST KEVIN | Beloit/Turtle (High) | A-
+- **0231100632** | 0.3ac | HAYE JOHN | Janesville (High) | A-
+- **6-8-65.9** | 0.3ac | BURNS ROBIN | Janesville (High) | A-
+- **6-8-66A** | 0.3ac | HUBLER JOHN | Janesville (High) | A-
+- **6-2-2260.9** | 0.2ac | CAPLE RICHARD | Beloit/Turtle (High) | A-
+- **6-8-30.10** | 0.2ac | BALOG SUSAN | Janesville (High) | A-
+- **6-2-2261.32** | 0.2ac | HENNING KYLE 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1832** | 0.2ac | HILL FRANCES | Beloit/Turtle (High) | A-
+- **6-2-190.3A** | 0.2ac | ROLLETTE ERVIN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-105.12** | 0.2ac | TAORMINO LAWRENCE | Janesville (High) | A-
+- **6-2-2260.15** | 0.2ac | STOLARZYK FRANK A | Beloit/Turtle (High) | A-
+- **6-8-81.4** | 0.2ac | GOUTCHER BETH | Janesville (High) | A-
+- **0219300420** | 0.2ac | JOHNS MICHAEL | Janesville (High) | A-
+- **6-8-66D** | 0.2ac | STANEK REBECCA | Janesville (High) | A-
+- **6-2-1484** | 0.2ac | STOJSAVLJEVIC THOMAS | Beloit/Turtle (High) | A-
+- **6-2-1925** | 0.2ac | AKBAR DAWN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1947** | 0.2ac | MARKLEY SHARON 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1948** | 0.2ac | MARKLEY SHARON 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1950** | 0.2ac | MARKLEY SHARON 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1953** | 0.2ac | NENNEMAN SHEREE | Beloit/Turtle (High) | A-
+- **6-2-1955** | 0.2ac | AKBAR DAWN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1956** | 0.2ac | AKBAR DAWN 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-26.4AB** | 0.2ac | NEHLS TIMOTHY | Janesville (High) | A-
+- **6-2-1701** | 0.2ac | PRINS ANITA | Beloit/Turtle (High) | A-
+- **6-2-1720** | 0.2ac | KNAPP LADONNA | Beloit/Turtle (High) | A-
+- **6-2-1726** | 0.2ac | STORAG FINNEGAN | Beloit/Turtle (High) | A-
+- **6-2-1758** | 0.2ac | DOMINGUEZ ESTEBAN | Beloit/Turtle (High) | A-
+- **6-2-1761** | 0.2ac | EDWARDS NORRIS | Beloit/Turtle (High) | A-
+- **6-2-1658** | 0.1ac | FINLEY BOBBIE | Beloit/Turtle (High) | A-
+- **6-2-1505** | 0.1ac | CONNER RICKY | Beloit/Turtle (High) | A-
+- **6-2-1526** | 0.1ac | KELLY ROBERT | Beloit/Turtle (High) | A-
+- **6-2-1776** | 0.1ac | ELIAS RENTAL PROPERTIES 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1778** | 0.1ac | LUSARDI RAYMOND | Beloit/Turtle (High) | A-
+- **6-2-1787** | 0.1ac | ELIAS RENTAL PROPERTIES 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1788** | 0.1ac | MANNING SANDRA | Beloit/Turtle (High) | A-
+- **6-2-1794** | 0.1ac | GARRETT MONICA | Beloit/Turtle (High) | A-
+- **6-2-1819** | 0.1ac | GOLDEN DOROTHY | Beloit/Turtle (High) | A-
+- **6-2-1820** | 0.1ac | HOFFMAN DANNY | Beloit/Turtle (High) | A-
+- **6-2-1826** | 0.1ac | CARRANZA ELIAS | Beloit/Turtle (High) | A-
+- **6-2-1840** | 0.1ac | LEE ROSEMARY | Beloit/Turtle (High) | A-
+- **6-2-1852** | 0.1ac | RAY JAMES 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1853** | 0.1ac | RAY JAMES 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1855** | 0.1ac | JENKINS LINDA 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1856** | 0.1ac | JENKINS LINDA 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1898** | 0.1ac | CASIQUE JORGE | Beloit/Turtle (High) | A-
+- **6-2-1944** | 0.1ac | DAVIS MALLORY | Beloit/Turtle (High) | A-
+- **6-2-1972** | 0.1ac | CELIA RENTAL PROPERTIES | Beloit/Turtle (High) | A-
+- **6-2-1976** | 0.1ac | TYRER DAVID | Beloit/Turtle (High) | A-
+- **6-2-1979** | 0.1ac | BRANNON CURTIS | Beloit/Turtle (High) | A-
+- **6-2-1988** | 0.1ac | PALM JAMES | Beloit/Turtle (High) | A-
+- **6-8-11.6** | 0.1ac | SCHMIDT MARQUELLE | Janesville (High) | A-
+- **6-2-1915** | 0.1ac | JJGJ WELLNITZ HOLDINGS L | Beloit/Turtle (High) | A-
+- **6-2-1916** | 0.1ac | WELLER JARED | Beloit/Turtle (High) | A-
+- **6-2-1671** | 0.1ac | LEWIS VIDA | Beloit/Turtle (High) | A-
+- **6-2-1674** | 0.1ac | BECKER DANNY 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-2-1675** | 0.1ac | BECKER DANNY 🔗MULTI | Beloit/Turtle (High) | A-
+- **6-8-66B.1** | 0.1ac | ELLIOTT LANCE | Janesville (High) | A-
+- **6-8-132.13** | ?ac | DOUGLAS DRU | Janesville (High) | A-
+- **6-8-132.24** | ?ac | HAUGEN-HALBACH HOLDINGS | Janesville (High) | A-
+- **6-20-7** | 240.0ac | FRANKLIN RICHARD A | Evansville (Moderate to High) | B+
+- **6-20-317.4** | 191.6ac | KRUMWIEDE WILLIAM | Evansville (Moderate to High) | B+
+- **6-20-166** | 177.3ac | PEACH ROBERT | Evansville (Moderate to High) | B+
+- **6-20-243** | 171.5ac | ROGERS-ROTAR LIVING TRUS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-103** | 160.0ac | VANTHOURNOUT GREGORY 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-4-139** | 150.5ac | SALTZMANN RAYMOND | Evansville (Moderate to High) | B+
+- **6-20-114** | 141.7ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-206.1** | 139.6ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-20-116** | 133.5ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-43** | 125.4ac | FRAUTSCHY FARMS LLC | Evansville (Moderate to High) | B+
+- **6-20-51.1** | 124.0ac | WHISPERING PINE ACRES LL 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-73** | 123.8ac | TENNYSON FARMS LLC | Evansville (Moderate to High) | B+
+- **6-12-35** | 122.3ac | LIDGARD STEVEN A | Evansville (Moderate to High) | B+
+- **6-20-135.2** | 120.2ac | JOHNSON DANIEL | Evansville (Moderate to High) | B+
+- **6-4-142** | 120.0ac | ROWLEY ROBBIE D | Evansville (Moderate to High) | B+
+- **6-16-103** | 120.0ac | JENSON GENE | Fulton (Moderate to High) | B+
+- **6-20-128** | 112.0ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-90** | 107.9ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-260** | 104.7ac | HETH FARM PROPERTIES LLC | Milton (Moderate to High) | B+
+- **6-11-289** | 104.1ac | DARR MICHAEL | Milton (Moderate to High) | B+
+- **6-20-18** | 103.0ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-49.2** | 102.6ac | ROSCOE DEVELOPMENT COMPA | Milton (Moderate to High) | B+
+- **6-20-133** | 100.8ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-175** | 96.5ac | 2H EAST FARMS PARTNERSHI | Milton (Moderate to High) | B+
+- **6-20-35** | 94.1ac | JESCHKE HELMUT | Evansville (Moderate to High) | B+
+- **0204200001** | 94.1ac | BRADLEY J HULBERT LIVING 🔗MULTI | Milton (Moderate to High) | B+
+- **6-20-250** | 90.6ac | LANGE DANIEL | Evansville (Moderate to High) | B+
+- **6-20-146** | 89.9ac | ROLLIN GREEN DAIRY FARM | Evansville (Moderate to High) | B+
+- **6-16-190** | 80.7ac | REED DANNY 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-20-71** | 80.0ac | NORDBROCK HERBERT F | Evansville (Moderate to High) | B+
+- **6-20-154** | 80.0ac | HAGEN STEVEN | Evansville (Moderate to High) | B+
+- **6-20-253** | 80.0ac | PRUDHON RANDALL | Evansville (Moderate to High) | B+
+- **6-20-212** | 79.8ac | TACHON AARON | Evansville (Moderate to High) | B+
+- **6-12-76.01** | 78.8ac | NEUENSCHWANDER CORVAN R | Evansville (Moderate to High) | B+
+- **0204400001** | 76.8ac | BELARDI FAMILY INVESTMEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-9-147A** | 74.5ac | REED ROGER | Milton (Moderate to High) | B+
+- **6-20-248A** | 73.4ac | ABEY HAROLD | Evansville (Moderate to High) | B+
+- **6-16-236.2** | 71.6ac | DONNELLY BRIAN J | Evansville (Moderate to High) | B+
+- **6-12-9** | 68.6ac | HADDINGER MATTHEW 🔗MULTI | Evansville (Moderate to High) | B+
+- **0204100002** | 68.3ac | BELARDI FAMILY INVESTMEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-20-294** | 66.5ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-206** | 66.2ac | FREDRICK FARMS LLP 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-237.1A** | 65.0ac | SENDELBACH CHRISTINE A | Evansville (Moderate to High) | B+
+- **6-20-313** | 64.0ac | HADDINGER MATTHEW 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-192.1** | 60.5ac | JENNINGS WESLEY | Milton (Moderate to High) | B+
+- **6-20-68** | 60.0ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-94** | 59.4ac | JOHNSTON PENELOPE 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-13-219.1** | 58.2ac | RIESTERER PETER | Milton (Moderate to High) | B+
+- **6-7-20** | 56.5ac | WILLIAM NORMAN | Milton (Moderate to High) | B+
+- **6-20-253.1A** | 55.2ac | MILLER DORA | Evansville (Moderate to High) | B+
+- **6-13-187** | 53.3ac | HANLON JAMES | Milton (Moderate to High) | B+
+- **6-20-293** | 53.3ac | ARNOLD FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-248** | 49.9ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-158.01** | 49.0ac | LASSE THOMAS | Milton (Moderate to High) | B+
+- **6-20-125** | 48.9ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-4-198** | 47.1ac | TOM & DONNA SAYRE FARMS SAYRE FARMS | Evansville (Moderate to High) | B+
+- **0204100001** | 46.4ac | BRADLEY J HULBERT LIVING 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-263** | 45.0ac | SAYRE JOINT FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-11-37.2** | 45.0ac | HENIGES-MUNNS RESIDENCE | Milton (Moderate to High) | B+
+- **6-20-199** | 44.0ac | PINE KNOLL FARMS OF EVAN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-53** | 43.8ac | SEAVERT CHARLES | Evansville (Moderate to High) | B+
+- **6-20-197.1** | 43.2ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-32.3** | 42.6ac | BADGERLAND GRAIN FARMS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-215** | 41.5ac | RIESTERER FARMS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-151** | 40.9ac | ZWEIFEL RONALD | Evansville (Moderate to High) | B+
+- **6-13-125** | 40.8ac | NEUMANN ROBERT | Milton (Moderate to High) | B+
+- **6-4-143** | 40.0ac | REILLY AARON | Evansville (Moderate to High) | B+
+- **6-12-180** | 40.0ac | COY RICHARD | Evansville (Moderate to High) | B+
+- **6-16-138** | 40.0ac | LIVIN DAVID 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-45** | 40.0ac | TEMPLETON FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-261** | 40.0ac | ROGERS-ROTAR LIVING TRUS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-195** | 40.0ac | PINE KNOLL FARMS OF EVAN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-7-88.01** | 40.0ac | BACKYARD PROPERTIES OF R 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-235.1** | 40.0ac | VANTHOURNOUT GREGORY 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-16-235.2** | 40.0ac | SAYRE JOINT FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-383** | 39.9ac | WILLE FAMILY FARMS LLC | Fulton (Moderate to High) | B+
+- **6-12-168.1** | 39.0ac | HOOKHAM BENJAMIN | Evansville (Moderate to High) | B+
+- **6-13-218** | 38.9ac | RIESTERER FARMS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-193** | 38.6ac | BURR CHARLES | Milton (Moderate to High) | B+
+- **6-20-69** | 38.6ac | LIVIN SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-90.2** | 38.5ac | DILLMAN JASON | Evansville (Moderate to High) | B+
+- **6-13-225.01** | 38.5ac | WIXOM PAUL | Milton (Moderate to High) | B+
+- **6-7-233A** | 38.0ac | DAVIS DEREK 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-94.1** | 38.0ac | JOHNSTON PENELOPE 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-13-90** | 38.0ac | MILTON 7TH DAY BAPTIST C | Fulton (Moderate to High) | B+
+- **6-13-88** | 38.0ac | MILLER CAROLYN | Milton (Moderate to High) | B+
+- **6-16-260.1** | 37.5ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-6-344.1** | 37.2ac | ROCK RIVER THRESHEREE IN | Fulton (Moderate to High) | B+
+- **6-16-155** | 36.3ac | REMLEY JOHN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-6-280** | 36.2ac | FARRINGTON EDWARD | Fulton (Moderate to High) | B+
+- **6-4-127.3** | 36.1ac | ROBERT PURINTUN REV LIVING TRUS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-125.02** | 35.1ac | TEMPLETON DONALD | Evansville (Moderate to High) | B+
+- **6-20-165.1** | 35.1ac | TARKENTON KRISTI | Evansville (Moderate to High) | B+
+- **6-13-30A** | 34.8ac | DEMPSEY ANTHONY | Milton (Moderate to High) | B+
+- **6-16-170A** | 34.5ac | ARNDT RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-11-118.3** | 33.0ac | BOSTON FARMS LLC | Milton (Moderate to High) | B+
+- **6-16-129** | 33.0ac | NELSON RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-11-287** | 32.5ac | HILLMANN JEFFERY | Milton (Moderate to High) | B+
+- **6-7-23A** | 30.2ac | HUBER ALBERT | Milton (Moderate to High) | B+
+- **6-9-145** | 30.0ac | MEYER SCOTT | Milton (Moderate to High) | B+
+- **6-20-198** | 29.0ac | SHOTLIFF MELVIN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-22** | 29.0ac | WATROUS MATTHEW | Milton (Moderate to High) | B+
+- **6-12-115** | 28.9ac | KNUTSON KIRK | Evansville (Moderate to High) | B+
+- **6-6-338.2** | 28.0ac | FARRINGTON MICHAEL | Fulton (Moderate to High) | B+
+- **6-13-244.A** | 27.6ac | DALTON/RIESTERER FARMS LLC | Milton (Moderate to High) | B+
+- **6-13-24A** | 27.0ac | VOGEL REAL ESTATE REMAIN | Milton (Moderate to High) | B+
+- **6-16-174B** | 26.4ac | LIVIN DAVID 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-50** | 25.4ac | MAAS MICHAEL P | Evansville (Moderate to High) | B+
+- **6-20-116.1** | 25.1ac | MIDTHUN DENNIS | Evansville (Moderate to High) | B+
+- **6-20-254D** | 24.6ac | DISCH MICHAEL | Evansville (Moderate to High) | B+
+- **0208200100** | 24.0ac | DK PARTNERSHIP LLP | Milton (Moderate to High) | B+
+- **6-4-18A** | 24.0ac | DEMMON KIRK | Evansville (Moderate to High) | B+
+- **6-13-82.3** | 23.5ac | HOUFE RYAN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-118.2** | 23.2ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-12-113.1** | 23.0ac | KOLLER MICHAEL 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-247** | 22.3ac | POPE NATHAN | Milton (Moderate to High) | B+
+- **6-12-8.1** | 21.9ac | HOLTERMAN DAPHNE R | Evansville (Moderate to High) | B+
+- **6-13-229** | 21.5ac | KENNEDY ROAD PROPERTY LL | Milton (Moderate to High) | B+
+- **6-20-124** | 21.0ac | LIVIN SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-144.2** | 20.4ac | NATTER DAVID | Milton (Moderate to High) | B+
+- **6-13-94.2A** | 20.1ac | PETERSEN TODD | Milton (Moderate to High) | B+
+- **6-4-107.1** | 20.0ac | KUENG MARILYN | Evansville (Moderate to High) | B+
+- **6-16-154A** | 20.0ac | REMLEY JOHN 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-46** | 20.0ac | MARSHALL JASON | Evansville (Moderate to High) | B+
+- **6-13-242** | 20.0ac | SCHMIDT JOHN | Milton (Moderate to High) | B+
+- **6-16-31** | 19.4ac | BADGERLAND GRAIN FARMS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-142.2A** | 18.8ac | TEUBERT MATTHEW 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-224** | 18.6ac | COATS CHRISTOPHER G | Milton (Moderate to High) | B+
+- **6-16-88.1** | 18.1ac | NELSON TROY | Fulton (Moderate to High) | B+
+- **6-20-280C** | 18.0ac | BLUM REX H | Evansville (Moderate to High) | B+
+- **6-13-67** | 18.0ac | ELLIS MICHAEL | Milton (Moderate to High) | B+
+- **6-13-204.4** | 17.7ac | MARTALOCK KRISTEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-204.3** | 17.1ac | MATHEWS DANIEL | Milton (Moderate to High) | B+
+- **6-12-119B.1** | 17.0ac | ERICKSON KENNETH | Evansville (Moderate to High) | B+
+- **6-13-110.3** | 16.3ac | BROOKS JEREMIAH | Milton (Moderate to High) | B+
+- **6-13-395.2** | 16.2ac | CLARK JAMES | Milton (Moderate to High) | B+
+- **6-4-36** | 15.4ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-4-166** | 15.3ac | ROBERT PURINTUN REV LIVING TRUS 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-204.2** | 15.2ac | MARTALOCK KRISTEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-77.4** | 15.2ac | KRAUSSE KALEB | Milton (Moderate to High) | B+
+- **6-20-159.2** | 15.1ac | OUTHOUSE GENEVIEVE | Evansville (Moderate to High) | B+
+- **6-7-106.1B** | 15.0ac | CLARK MARGARET A | Milton (Moderate to High) | B+
+- **6-16-88.2** | 15.0ac | YOUNG HOWARD | Fulton (Moderate to High) | B+
+- **V-23-872** | 14.6ac | HOUSNER ABIGAIL S | Milton (Moderate to High) | B+
+- **6-20-60.2** | 14.6ac | LIVIN SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-86.4** | 14.1ac | SATRE ANDREW | Milton (Moderate to High) | B+
+- **6-16-165.1** | 14.0ac | REMLEY FARMS LLC | Evansville (Moderate to High) | B+
+- **6-16-199A** | 14.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+
+- **0204400002** | 13.0ac | BELARDI FAMILY INVESTMEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-20-199.01** | 12.6ac | CANFIELD WEED | Evansville (Moderate to High) | B+
+- **6-16-1.1** | 12.5ac | BISERI FAZLI | Fulton (Moderate to High) | B+
+- **6-13-222.01** | 12.2ac | BROWN RONALD | Milton (Moderate to High) | B+
+- **6-12-119C.1** | 12.0ac | BENEDICT MARK | Evansville (Moderate to High) | B+
+- **6-4-21.1A** | 12.0ac | ALBRIGHT DANE | Evansville (Moderate to High) | B+
+- **6-6-14.1** | 12.0ac | COLLINS MICHAEL | Fulton (Moderate to High) | B+
+- **6-16-113A** | 12.0ac | TOM & DONNA SAYRE FARMS LLC 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-16-276C** | 11.9ac | COOK EDWARD | Evansville (Moderate to High) | B+
+- **6-7-114.1** | 11.6ac | REED MARK | Milton (Moderate to High) | B+
+- **6-13-78** | 11.2ac | HAMMIL BRIAN | Milton (Moderate to High) | B+
+- **6-13-135.2** | 10.7ac | ARNOLD DONALD | Milton (Moderate to High) | B+
+- **6-13-177.1C** | 10.4ac | GEORGESON STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **V-23-1245** | 10.4ac | RIESTERER FARMS LLP | Milton (Moderate to High) | B+
+- **6-13-87** | 10.4ac | LEHR GREGORY C | Milton (Moderate to High) | B+
+- **6-13-222.3A** | 10.4ac | HEINEN LISA | Milton (Moderate to High) | B+
+- **6-13-132AB** | 10.1ac | STARBRITE LLP | Milton (Moderate to High) | B+
+- **6-13-66A** | 10.1ac | HENDERSON JOHN | Milton (Moderate to High) | B+
+- **6-13-117.01** | 10.1ac | HAWKS ORCHARD & FARM LL | Milton (Moderate to High) | B+
+- **6-13-120** | 10.1ac | HUMMEL LEONARD | Milton (Moderate to High) | B+
+- **6-20-172** | 10.0ac | KVALHEIM JAMES | Evansville (Moderate to High) | B+
+- **6-20-117B** | 10.0ac | NORTON SCOTT | Evansville (Moderate to High) | B+
+- **6-20-49A** | 10.0ac | WHISPERING PINE ACRES LL 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-244.1** | 10.0ac | NOBS RONALD | Evansville (Moderate to High) | B+
+- **6-13-169** | 9.9ac | BERGMAN JOHN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-7-59.1** | 9.5ac | QUADE JAMES | Milton (Moderate to High) | B+
+- **6-27-983.6** | 9.3ac | PRAIRIE CROSSING CONDO | Evansville (Moderate to High) | B+
+- **6-16-235.4** | 9.0ac | ARNDT RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-7-43** | 8.8ac | HERNANDEZ SALVADOR | Milton (Moderate to High) | B+
+- **6-16-264.01** | 8.6ac | SCHAFF LINDA | Evansville (Moderate to High) | B+
+- **6-6-11.1** | 8.6ac | YOSS WILLIAM | Fulton (Moderate to High) | B+
+- **6-6-92.3A3** | 8.6ac | DURANTE PATRICK | Fulton (Moderate to High) | B+
+- **6-6-91.14** | 8.3ac | REBMAN MICHAEL | Fulton (Moderate to High) | B+
+- **6-13-265.2** | 8.2ac | FREDRICK FARMS LLP 🔗MULTI | Milton (Moderate to High) | B+
+- **6-4-26.3** | 7.6ac | PARSONS JAMES | Evansville (Moderate to High) | B+
+- **6-20-214A** | 7.0ac | NORBY WILLIAM 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-7-15** | 7.0ac | VANGOMPEL ANDREA M | Milton (Moderate to High) | B+
+- **6-13-58.1** | 6.8ac | MURPHY MICHAEL | Milton (Moderate to High) | B+
+- **6-9-150A** | 6.6ac | FLETCHER JOHN | Milton (Moderate to High) | B+
+- **6-13-1592.1B** | 6.4ac | PERNAT DANIEL | Milton (Moderate to High) | B+
+- **6-13-221** | 6.4ac | PETT RONALD | Milton (Moderate to High) | B+
+- **6-20-99** | 6.1ac | VANTHOURNOUT GREGORY 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-6-431.6** | 6.0ac | BORGWARDT JOHN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-20-222** | 6.0ac | BLUMER AUSTIN | Evansville (Moderate to High) | B+
+- **6-4-118.3** | 6.0ac | WIELOCH PAUL A | Evansville (Moderate to High) | B+
+- **6-6-91.4B** | 5.7ac | ZIMMERMAN MICHAEL | Fulton (Moderate to High) | B+
+- **6-20-207.2** | 5.6ac | DANIEL SCOTT | Evansville (Moderate to High) | B+
+- **6-13-15.04** | 5.4ac | MIJEN FAMILY IRREV CHILD 🔗MULTI | Milton (Moderate to High) | B+
+- **6-4-21.2B** | 5.3ac | AYRES JAYSON | Evansville (Moderate to High) | B+
+- **6-16-269** | 5.3ac | FRANKLIN RANDALL | Evansville (Moderate to High) | B+
+- **6-11-287.3** | 5.2ac | ADAMSON RANDY | Milton (Moderate to High) | B+
+- **6-20-49.2** | 5.1ac | MILLER MATTHEW | Evansville (Moderate to High) | B+
+- **6-13-56** | 5.0ac | STAVER ADAM T | Milton (Moderate to High) | B+
+- **6-20-23.1** | 5.0ac | BROCKMAN WILLIAM | Evansville (Moderate to High) | B+
+- **6-12-107.1** | 5.0ac | KOLLER MICHAEL 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-7-247.8** | 5.0ac | OCHS DANIEL | Milton (Moderate to High) | B+
+- **6-9-45.1A** | 5.0ac | SCHOBER JOSEPH R | Milton (Moderate to High) | B+
+- **6-13-67.2** | 5.0ac | THOMSEN SANDRA | Milton (Moderate to High) | B+
+- **6-6-290B** | 5.0ac | RANGE CINDI | Fulton (Moderate to High) | B+
+- **6-7-115.1A** | 4.6ac | PAUL BRIAN | Milton (Moderate to High) | B+
+- **6-7-4.1** | 4.5ac | BAKER ANDREW M | Milton (Moderate to High) | B+
+- **V-23-1279** | 4.4ac | TROON RICHARD | Milton (Moderate to High) | B+
+- **6-9-31.1** | 4.1ac | PREGONT DANIEL S | Milton (Moderate to High) | B+
+- **6-13-18.2** | 4.0ac | BOX KAITLIN | Milton (Moderate to High) | B+
+- **6-6-91.1** | 4.0ac | RYAN DAN | Fulton (Moderate to High) | B+
+- **6-13-15.01A1** | 4.0ac | MIJEN FAMILY IRREV CHILD 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-91.15** | 4.0ac | WILEMAN SCOTT | Fulton (Moderate to High) | B+
+- **6-6-91.15A** | 4.0ac | WILEMAN CHRISTOPHER | Fulton (Moderate to High) | B+
+- **6-4-139A** | 3.8ac | STROMMEN EDWARD | Evansville (Moderate to High) | B+
+- **6-20-224.6A2** | 3.8ac | LONG ROBERT | Evansville (Moderate to High) | B+
+- **6-13-209.02** | 3.7ac | FREDRICK MATTHEW | Milton (Moderate to High) | B+
+- **6-11-284** | 3.6ac | FLURY FARMS LLC | Milton (Moderate to High) | B+
+- **0207100024** | 3.5ac | MIELKE CORY | Milton (Moderate to High) | B+
+- **6-20-179.2** | 3.5ac | MATTHEWS SCOTT | Evansville (Moderate to High) | B+
+- **V-23-1468.1** | 3.5ac | BELARDI FAMILY INVESTMEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-431.3** | 3.5ac | BORGWARDT JOHN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-7-47.4** | 3.5ac | MEYER BRYAN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-16-283.3A** | 3.4ac | BRADLEY SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-283.3B** | 3.4ac | BRADLEY SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-175.2** | 3.4ac | CASE TRAVIS | Evansville (Moderate to High) | B+
+- **6-6-851.20** | 3.4ac | LAST ROSEMARIE 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-87.5** | 3.3ac | SKARDA ANDREW | Fulton (Moderate to High) | B+
+- **6-13-209.1** | 3.3ac | FREDRICK FARMS LLP 🔗MULTI | Milton (Moderate to High) | B+
+- **6-7-233B** | 3.3ac | DAVIS DEREK 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-851.70** | 3.2ac | LAST ROSEMARIE 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-20-311** | 3.1ac | SALZMAN CODY | Evansville (Moderate to High) | B+
+- **6-16-72.1** | 3.1ac | STARKS GLENN | Evansville (Moderate to High) | B+
+- **6-6-431.5** | 3.0ac | BORGWARDT JOHN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-11-293.1** | 3.0ac | CHRISTIAN MARJORIE | Milton (Moderate to High) | B+
+- **6-13-235.3** | 3.0ac | MEYER BRYAN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-650.2** | 3.0ac | WADDELL BEAU | Milton (Moderate to High) | B+
+- **6-6-440.3** | 3.0ac | TEUBERT MATTHEW 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-240** | 3.0ac | BARNETT LYNN | Milton (Moderate to High) | B+
+- **6-20-206A** | 3.0ac | NORBY WILLIAM 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-12-159** | 3.0ac | MORTON FARMS LLC | Evansville (Moderate to High) | B+
+- **6-11-286.1** | 3.0ac | HOOKSTEAD BEVERLY | Milton (Moderate to High) | B+
+- **6-7-5.2** | 3.0ac | HEDTCKE JANET | Milton (Moderate to High) | B+
+- **6-13-140A.2** | 3.0ac | HOLTZ RICHARD | Milton (Moderate to High) | B+
+- **6-9-36.2** | 3.0ac | HOOKSTEAD BEVERLY J | Milton (Moderate to High) | B+
+- **6-13-140A.1** | 3.0ac | GOODGER DIANE | Milton (Moderate to High) | B+
+- **6-7-114.2** | 3.0ac | JANES RACHEL E | Milton (Moderate to High) | B+
+- **6-6-851.51** | 3.0ac | LAST ROSEMARIE 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-16-235.3** | 3.0ac | ARNDT RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-22.2** | 2.9ac | JENNER JEANNE | Fulton (Moderate to High) | B+
+- **6-13-48.2** | 2.9ac | MORGAN JOHN | Milton (Moderate to High) | B+
+- **6-6-113.1** | 2.8ac | BACKYARD PROPERTIES OF R 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-1133A.18** | 2.7ac | CUE DANIEL | Fulton (Moderate to High) | B+
+- **6-6-88.1C** | 2.6ac | ROGERS LEORA | Fulton (Moderate to High) | B+
+- **6-13-216.1** | 2.6ac | RIESTERER FARMS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-122.1D2** | 2.6ac | VOLKEY CORY | Fulton (Moderate to High) | B+
+- **6-13-660.64A** | 2.5ac | LAKE WOODS HOMEOWNERS AS | Fulton (Moderate to High) | B+
+- **6-6-91.B** | 2.5ac | NELSON D SUNDBY AND JANICE T SUNDBY JOINT REV | Fulton (Moderate to High) | B+
+- **6-6-115** | 2.5ac | KINNETT JOHN | Fulton (Moderate to High) | B+
+- **6-6-157.01** | 2.2ac | TRAMPE KEVIN | Fulton (Moderate to High) | B+
+- **6-13-177.1B** | 2.1ac | BERG DONALD | Milton (Moderate to High) | B+
+- **6-13-169.6A** | 2.0ac | BERGMAN JOHN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-1592.1A** | 2.0ac | SCHMELING ROGER | Milton (Moderate to High) | B+
+- **6-9-73.1** | 2.0ac | JOHNSON ROBERT | Milton (Moderate to High) | B+
+- **6-6-1054** | 2.0ac | DEMROW GARY | Fulton (Moderate to High) | B+
+- **6-16-170A.1** | 2.0ac | ARNDT RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-851.4** | 1.9ac | SAMUELSEN LEIF-ERIK 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-13-1628.2** | 1.9ac | CULLEN RICHARD | Milton (Moderate to High) | B+
+- **6-11-285.1E** | 1.9ac | PERISIC DAVID | Milton (Moderate to High) | B+
+- **6-13-209.2** | 1.8ac | FREDRICK FARMS LLP 🔗MULTI | Milton (Moderate to High) | B+
+- **6-7-409.22** | 1.8ac | HARRIS DAVID | Milton (Moderate to High) | B+
+- **6-20-207.3C** | 1.7ac | KLINGELHOETS JOHN P 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-6-91.4A** | 1.7ac | WELLEN GRACE | Fulton (Moderate to High) | B+
+- **6-6-1186** | 1.7ac | SHOWERS ROBERT | Fulton (Moderate to High) | B+
+- **6-20-326.14** | 1.6ac | VENNE WILLIAM | Evansville (Moderate to High) | B+
+- **6-20-326.18** | 1.6ac | SYPNIEWSKI JONATHAN | Evansville (Moderate to High) | B+
+- **6-13-177.1** | 1.6ac | GEORGESON STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-9-57.01** | 1.6ac | FLEMING WILLIAM | Milton (Moderate to High) | B+
+- **6-20-326.12** | 1.6ac | PETTERSON JEAN | Evansville (Moderate to High) | B+
+- **6-13-1628.5** | 1.5ac | BEDARD MATTHEW | Milton (Moderate to High) | B+
+- **6-7-113.1** | 1.5ac | NUTT ARTHUR | Milton (Moderate to High) | B+
+- **6-6-1031** | 1.5ac | ELLISON DEAN | Fulton (Moderate to High) | B+
+- **6-20-326.05** | 1.5ac | MUTH KENNETH | Evansville (Moderate to High) | B+
+- **6-6-1072.39** | 1.5ac | SHUMAKER-REILLY JILL | Fulton (Moderate to High) | B+
+- **6-6-24.1** | 1.4ac | HARRISON REBECCA | Fulton (Moderate to High) | B+
+- **6-6-974** | 1.4ac | VINE ALLEN | Fulton (Moderate to High) | B+
+- **6-20-370.61** | 1.4ac | HELGESEN EXCAVATING PART 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-370.62** | 1.4ac | HELGESEN EXCAVATING PART 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-20-370.63** | 1.4ac | HELGESEN EXCAVATING PART 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-16-47.1B** | 1.4ac | HELGESTAD TRINA | Evansville (Moderate to High) | B+
+- **6-16-47.1C** | 1.4ac | ANDERSON SYDNEY | Evansville (Moderate to High) | B+
+- **6-20-199.1** | 1.3ac | BOCK ERIK | Evansville (Moderate to High) | B+
+- **6-6-1059H.23** | 1.3ac | TUCKER BRIAN A | Fulton (Moderate to High) | B+
+- **6-7-425.513** | 1.3ac | STEUCK JASON | Milton (Moderate to High) | B+
+- **6-13-1620.15A** | 1.3ac | HULL KOREY | Milton (Moderate to High) | B+
+- **6-6-851A.15** | 1.3ac | FOX MEADOW SHORES NORTH | Fulton (Moderate to High) | B+
+- **6-13-235.1AA** | 1.2ac | MEYER BRYAN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-1059H.17A** | 1.2ac | YAGER KURTIS | Fulton (Moderate to High) | B+
+- **6-13-665.28** | 1.2ac | ARNDT WILLIAM | Milton (Moderate to High) | B+
+- **6-20-248** | 1.1ac | ABEY HAROLD F | Evansville (Moderate to High) | B+
+- **6-20-162.01** | 1.1ac | FRANCIS LAURA | Evansville (Moderate to High) | B+
+- **6-20-207.3B** | 1.1ac | KLINGELHOETS JOHN P 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-7-404.1** | 1.1ac | OCONNELL TRAVIS | Milton (Moderate to High) | B+
+- **6-7-425.509** | 1.1ac | JACKSON COREY | Milton (Moderate to High) | B+
+- **6-27-820** | 1.1ac | COURTIER RODNEY | Evansville (Moderate to High) | B+
+- **6-6-1133.P10** | 1.1ac | FISCHBECK ROBERT D | Fulton (Moderate to High) | B+
+- **6-20-326.17** | 1.1ac | KRAUS MATTHEW | Evansville (Moderate to High) | B+
+- **6-6-330.1** | 1.1ac | FITTERER RYAN | Fulton (Moderate to High) | B+
+- **6-7-610** | 1.0ac | YAP BOBBY | Milton (Moderate to High) | B+
+- **6-7-19.1** | 1.0ac | ENTERPRI LAVENDER | Milton (Moderate to High) | B+
+- **6-16-105.1** | 1.0ac | NELSON RYAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-12-50.1** | 1.0ac | ANDREW TEMPLETON REV LIVING TRU | Evansville (Moderate to High) | B+
+- **6-20-270A1** | 1.0ac | CRANS DANIEL | Evansville (Moderate to High) | B+
+- **6-7-762** | 1.0ac | SANDBERG KONNER | Milton (Moderate to High) | B+
+- **6-13-1636** | 1.0ac | SPAULDING SCOTT A | Milton (Moderate to High) | B+
+- **6-13-1641** | 1.0ac | JENSEN DENZEL | Milton (Moderate to High) | B+
+- **6-6-142.B001** | 1.0ac | MESLAR GERALD | Fulton (Moderate to High) | B+
+- **6-12-21.1** | 1.0ac | COOK BRIAN L | Evansville (Moderate to High) | B+
+- **6-7-57.1A** | 1.0ac | DENTICI NATHANIEL | Milton (Moderate to High) | B+
+- **6-16-260.6** | 1.0ac | SMITH SUSAN | Evansville (Moderate to High) | B+
+- **6-7-409.26** | 1.0ac | OLSON DENNIS | Milton (Moderate to High) | B+
+- **6-13-665.24** | 1.0ac | KRAMER CLINTON | Milton (Moderate to High) | B+
+- **6-16-260.9** | 1.0ac | REHFELDT GARY | Evansville (Moderate to High) | B+
+- **6-13-1616.6** | 0.9ac | NUREDINI ILIR 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-1616.7** | 0.9ac | NUREDINI ILIR 🔗MULTI | Milton (Moderate to High) | B+
+- **6-20-325.8** | 0.9ac | BAIR ADAM | Evansville (Moderate to High) | B+
+- **6-13-1642** | 0.9ac | SYPNIEWSKI ROB | Milton (Moderate to High) | B+
+- **6-16-177** | 0.9ac | REED DANNY 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-13-635.15** | 0.9ac | WILSON CLAYTON | Milton (Moderate to High) | B+
+- **6-13-665.27** | 0.9ac | FLODEEN DALE | Milton (Moderate to High) | B+
+- **6-6-37F.2** | 0.8ac | NORMAN KRIS | Fulton (Moderate to High) | B+
+- **6-7-412.12** | 0.8ac | SOYDAN LYDIA | Milton (Moderate to High) | B+
+- **6-7-440.53** | 0.8ac | SCHALLER GERALD | Milton (Moderate to High) | B+
+- **6-20-88.1** | 0.8ac | MEYER KYLE | Evansville (Moderate to High) | B+
+- **6-6-37X** | 0.7ac | FOX DANIEL | Fulton (Moderate to High) | B+
+- **6-7-440.19** | 0.7ac | BLAIR ROBERT | Milton (Moderate to High) | B+
+- **6-6-755** | 0.7ac | YESKE JILLIAN | Fulton (Moderate to High) | B+
+- **6-7-410.2** | 0.7ac | HANSON RUSSELL | Milton (Moderate to High) | B+
+- **6-7-412.19** | 0.7ac | ASTIN FELICIA | Milton (Moderate to High) | B+
+- **6-13-631.17** | 0.7ac | FISH JON | Milton (Moderate to High) | B+
+- **6-6-753** | 0.7ac | ARMFIELD JOHN | Fulton (Moderate to High) | B+
+- **6-7-412.2** | 0.7ac | KUMLIEN KENDALL | Milton (Moderate to High) | B+
+- **6-6-1070.51A** | 0.7ac | SAYRE THOMAS 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-7-410.12** | 0.6ac | MILLER MARK | Milton (Moderate to High) | B+
+- **6-20-269.1AE** | 0.6ac | REESE KENNETH | Evansville (Moderate to High) | B+
+- **6-7-410.3** | 0.6ac | MARLING CHRISTINE | Milton (Moderate to High) | B+
+- **6-20-26** | 0.6ac | WHITMORE DANIEL | Evansville (Moderate to High) | B+
+- **6-6-1133A.15** | 0.6ac | DEREMER SPENCER | Fulton (Moderate to High) | B+
+- **6-27-834** | 0.6ac | SYMDON RICHARD | Evansville (Moderate to High) | B+
+- **6-6-91.16** | 0.6ac | PARKER BENJAMIN I | Fulton (Moderate to High) | B+
+- **6-6-108.1B1** | 0.6ac | SHERMAN LANDING CONDOS | Fulton (Moderate to High) | B+
+- **0208100162** | 0.5ac | KOCH GERALD | Milton (Moderate to High) | B+
+- **6-6-790** | 0.5ac | FINUCAN JOHN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-934** | 0.5ac | LIVIN MICHAEL | Fulton (Moderate to High) | B+
+- **6-6-851.3** | 0.5ac | SAMUELSEN LEIF-ERIK 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-7-422.25** | 0.5ac | OLSON CARLA | Milton (Moderate to High) | B+
+- **6-6-1133.18** | 0.5ac | BOHLEBER RICHARD | Fulton (Moderate to High) | B+
+- **6-7-38.3** | 0.5ac | PETERSON ELLEN | Milton (Moderate to High) | B+
+- **6-27-614** | 0.5ac | TRIPLE L CONDOMINIUM | Evansville (Moderate to High) | B+
+- **6-20-120** | 0.5ac | LIVIN SCOTT 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-593** | 0.5ac | TRAPANI PETER | Milton (Moderate to High) | B+
+- **6-6-124.1** | 0.5ac | DERMOTT RONNIE | Fulton (Moderate to High) | B+
+- **6-6-851.1** | 0.5ac | SAUNDERS RONALD | Fulton (Moderate to High) | B+
+- **6-27-396.026** | 0.5ac | CARR GRAHAM | Evansville (Moderate to High) | B+
+- **6-6-14157.7** | 0.5ac | PALMER DERRICK | Fulton (Moderate to High) | B+
+- **6-27-271.1** | 0.5ac | HERBST STEVEN | Evansville (Moderate to High) | B+
+- **6-7-422.29** | 0.5ac | HOUGE STEPHEN | Milton (Moderate to High) | B+
+- **6-7-422.36** | 0.5ac | STEINKE MELVIN | Milton (Moderate to High) | B+
+- **6-13-635.13** | 0.5ac | GODFREY GARRETT | Milton (Moderate to High) | B+
+- **6-7-422.6** | 0.5ac | KOLINSKI GREG | Milton (Moderate to High) | B+
+- **6-6-98** | 0.5ac | WISCONSINS ROCK RIVER HOME OWNERS ASSOCIATION | Fulton (Moderate to High) | B+
+- **6-27-896** | 0.5ac | TOMLIN JOEL | Evansville (Moderate to High) | B+
+- **6-6-1072.34** | 0.5ac | NELSON CHYRL 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-6-1072.52** | 0.4ac | SPEARS LESTER | Fulton (Moderate to High) | B+
+- **6-27-559.5039** | 0.4ac | CID ANTONIO 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-625.4A** | 0.4ac | JOHNSON MARK | Milton (Moderate to High) | B+
+- **6-6-794** | 0.4ac | FINUCAN JOHN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-27-768** | 0.4ac | JONES RUSSELL | Evansville (Moderate to High) | B+
+- **6-20-330.12** | 0.4ac | SCHOEPFER NATHAN | Evansville (Moderate to High) | B+
+- **6-6-1133.28** | 0.4ac | HILL ERIC | Fulton (Moderate to High) | B+
+- **6-6-1133.47** | 0.4ac | FEGGESTAD CHRISTOPHER | Fulton (Moderate to High) | B+
+- **6-16-330.1** | 0.4ac | LAWNICZAK JOSEPH | Evansville (Moderate to High) | B+
+- **6-27-559.5038** | 0.4ac | CID ANTONIO 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-7-422.52** | 0.4ac | GOODGER THOMAS | Milton (Moderate to High) | B+
+- **6-6-1072.68** | 0.4ac | FREUND MICHAEL ALLEN | Fulton (Moderate to High) | B+
+- **6-27-396.044** | 0.4ac | BARBER MASON | Evansville (Moderate to High) | B+
+- **6-6-1072.33** | 0.4ac | NELSON CHYRL 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-27-396.003** | 0.3ac | GRAND ORCHARD CONDO II | Evansville (Moderate to High) | B+
+- **6-7-429.19A** | 0.3ac | KENNEDY WILLIAM D | Milton (Moderate to High) | B+
+- **6-6-944** | 0.3ac | NELSON SCOTT | Fulton (Moderate to High) | B+
+- **6-6-1041** | 0.3ac | REILLY RAYMOND | Fulton (Moderate to High) | B+
+- **6-13-633.7** | 0.3ac | CHAMPAGNE STEPHEN | Milton (Moderate to High) | B+
+- **6-6-1072.8** | 0.3ac | HESSELMAN ROBERT | Fulton (Moderate to High) | B+
+- **6-6-1199** | 0.3ac | SPARROW SEAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-27-496.40** | 0.3ac | GARD JOSEPH | Evansville (Moderate to High) | B+
+- **0208100196** | 0.3ac | GRYTTENHOLM LISA | Milton (Moderate to High) | B+
+- **6-13-82.2** | 0.3ac | HOUFE RYAN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-1072.6** | 0.3ac | MCCORD SAMANTHA | Fulton (Moderate to High) | B+
+- **6-27-733.1** | 0.3ac | GERARD SHANE | Evansville (Moderate to High) | B+
+- **6-27-864.1** | 0.3ac | ANDONEGUI ALBERTO | Evansville (Moderate to High) | B+
+- **6-7-429.36** | 0.3ac | HOFFMAN HARRY E | Milton (Moderate to High) | B+
+- **6-6-1072.61** | 0.3ac | PORTER ISAAC | Fulton (Moderate to High) | B+
+- **6-13-536** | 0.3ac | EHLERS TRAVIS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.36** | 0.3ac | LIMA STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-239.1** | 0.3ac | MCKNIGHT ALAN | Milton (Moderate to High) | B+
+- **6-6-1070.53** | 0.3ac | SAYRE THOMAS 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-27-970.9B2** | 0.3ac | 5TH STREET CONDOMINIUMS | Evansville (Moderate to High) | B+
+- **6-6-133.1** | 0.3ac | HAJNY MICHAEL | Fulton (Moderate to High) | B+
+- **6-6-1212** | 0.3ac | THOMAS W HADLEY SR AND DEBORAH L HADLEY LIVIN | Fulton (Moderate to High) | B+
+- **6-20-458A** | 0.3ac | KLINGELHOETS JOHN P 🔗MULTI | Evansville (Moderate to High) | B+
+- **6-13-27** | 0.2ac | THIEBEAU HUNTING CLUB | Milton (Moderate to High) | B+
+- **6-13-513.2A** | 0.2ac | STUTZ JAMES 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-1133.16** | 0.2ac | HELLER MARSHALL | Fulton (Moderate to High) | B+
+- **6-6-1070.56** | 0.2ac | KALAS NATHAN I | Fulton (Moderate to High) | B+
+- **6-27-293.1082** | 0.2ac | GARFIELD EIGHTY TWO COND | Evansville (Moderate to High) | B+
+- **6-27-293.1084** | 0.2ac | GARFIELD EIGHTY FOUR CON | Evansville (Moderate to High) | B+
+- **6-27-293.1085** | 0.2ac | GARFIELD EIGHTY FIVE CON | Evansville (Moderate to High) | B+
+- **6-6-14176** | 0.2ac | FISH MONTE | Fulton (Moderate to High) | B+
+- **6-6-14181** | 0.2ac | WEYH ROBERT | Fulton (Moderate to High) | B+
+- **6-6-14308** | 0.2ac | BLAKE MURRAY | Fulton (Moderate to High) | B+
+- **6-6-109.2B** | 0.2ac | LODES TAMRA | Fulton (Moderate to High) | B+
+- **6-6-1157** | 0.2ac | SPARROW SEAN 🔗MULTI | Fulton (Moderate to High) | B+
+- **6-27-138.1** | 0.2ac | SORNSON JOHN | Evansville (Moderate to High) | B+
+- **6-27-947** | 0.2ac | SCOTT KEVIN | Evansville (Moderate to High) | B+
+- **6-6-14239** | 0.2ac | HAFEMAN GREGG | Fulton (Moderate to High) | B+
+- **6-6-1134.3A** | 0.2ac | KLEIBOER JASON | Fulton (Moderate to High) | B+
+- **6-27-927** | 0.2ac | EVANSVILLE SENIOR CARE | Evansville (Moderate to High) | B+
+- **6-13-526** | 0.2ac | EHLERS TRAVIS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.4** | 0.2ac | HOLCOMB TIMOTHY 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.12** | 0.2ac | LIMA STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.25** | 0.2ac | HOLCOMB TIMOTHY 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-565** | 0.2ac | HEIMAN RICHARD | Milton (Moderate to High) | B+
+- **6-27-706.1** | 0.2ac | CORRIDON AMY | Evansville (Moderate to High) | B+
+- **6-6-14121** | 0.2ac | PASSARELLI RICHARD J | Fulton (Moderate to High) | B+
+- **6-13-540.1** | 0.2ac | HOLCOMB TIMOTHY 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.22** | 0.2ac | HOLCOMB TIMOTHY 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-14278** | 0.2ac | TANNER THOMAS W | Fulton (Moderate to High) | B+
+- **6-6-14139** | 0.2ac | JAGUSCH BRIAN | Fulton (Moderate to High) | B+
+- **6-6-14217** | 0.2ac | KOMMA SCOTT T | Fulton (Moderate to High) | B+
+- **6-27-590.1** | 0.1ac | BEGOLLI PETRIT | Evansville (Moderate to High) | B+
+- **6-27-954.1** | 0.1ac | GRIBBLE AMY | Evansville (Moderate to High) | B+
+- **6-13-546.3** | 0.1ac | BORGWARDT DANIEL | Milton (Moderate to High) | B+
+- **6-13-554** | 0.1ac | BANTNER GAYLE H 🔗MULTI | Milton (Moderate to High) | B+
+- **6-6-1429** | 0.1ac | HILLYER MARK | Fulton (Moderate to High) | B+
+- **6-6-14132** | 0.1ac | SCHWIETERS RONALD | Fulton (Moderate to High) | B+
+- **6-6-14243** | 0.1ac | ZIPTER CYNTHIA | Fulton (Moderate to High) | B+
+- **6-6-14386** | 0.1ac | NEWELL LAWRENCE | Fulton (Moderate to High) | B+
+- **6-6-128.6A** | 0.1ac | PAUL SUSAN | Fulton (Moderate to High) | B+
+- **6-13-513.2** | 0.1ac | FLOTO PAUL 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-513.3** | 0.1ac | STUTZ JAMES 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-521** | 0.1ac | EHLERS TRAVIS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-540.41** | 0.1ac | LIMA STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-572.1** | 0.1ac | VERGENZ NIKOLAUS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-577.1** | 0.1ac | VIETH TODD | Milton (Moderate to High) | B+
+- **6-6-1068** | 0.1ac | SHERMAN DOUGLAS | Fulton (Moderate to High) | B+
+- **6-6-1153** | 0.1ac | SHEEHY BEVERLY | Fulton (Moderate to High) | B+
+- **6-13-511.3** | 0.1ac | FLOTO PAUL 🔗MULTI | Milton (Moderate to High) | B+
+- **6-27-95** | 0.1ac | 7-9 WEST MAIN ST CONDO | Evansville (Moderate to High) | B+
+- **6-13-511** | 0.1ac | FLOTO PAUL 🔗MULTI | Milton (Moderate to High) | B+
+- **6-7-410.10** | 0.1ac | KLEYMAN JAMES | Milton (Moderate to High) | B+
+- **6-13-514** | 0.1ac | STUTZ JAMES 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-514.1** | 0.1ac | HENSLEY FAYETTE 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-515** | 0.1ac | HENSLEY FAYETTE 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-516** | 0.1ac | HENSLEY FAYETTE 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-538** | 0.1ac | PIEN MARCELLA | Milton (Moderate to High) | B+
+- **6-13-540.21** | 0.1ac | LIMA STEVEN 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-548** | 0.1ac | WIERSMA TERRY | Milton (Moderate to High) | B+
+- **6-13-572** | 0.1ac | VERGENZ NIKOLAUS 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-1627.1** | 0.1ac | STEVENS GLEN | Milton (Moderate to High) | B+
+- **6-13-1627.6** | 0.1ac | COOKE ROSALIND | Milton (Moderate to High) | B+
+- **6-13-555** | 0.1ac | BANTNER GAYLE H 🔗MULTI | Milton (Moderate to High) | B+
+- **6-13-1627.5** | 0.0ac | HESSER ERIC | Milton (Moderate to High) | B+
+- **6-13-633.8** | 0.0ac | DANNENBERG GARY | Milton (Moderate to High) | B+
+- **6-6-98.1** | 0.0ac | HORN JASON | Fulton (Moderate to High) | B+
+- **6-20-326.501** | 0.0ac | DILLIE SHAY | Evansville (Moderate to High) | B+
+- **6-20-326.503** | 0.0ac | BORNTREGER MARVIN | Evansville (Moderate to High) | B+
+- **6-20-326.504** | 0.0ac | HOVERSON DANIEL | Evansville (Moderate to High) | B+
+- **6-20-326.505** | 0.0ac | COUNTRYSIDE CONDOMINIUMS | Evansville (Moderate to High) | B+
+- **6-20-326.502** | 0.0ac | KELLER STEVEN | Evansville (Moderate to High) | B+
+- **6-20-326.505A** | ?ac | MEYERS JEFFREY | Evansville (Moderate to High) | B+
+- **6-20-326.505B** | ?ac | THIELENHOUSE JOHN | Evansville (Moderate to High) | B+
