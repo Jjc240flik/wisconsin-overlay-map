@@ -125,423 +125,277 @@ Brown County has a public ArcGIS server with:
 - [Brown County Open Data Portal](https://bcgis-browncountywi.hub.arcgis.com/)
 - [Interactive Comp Plan Map](https://www.browncountywi.gov/departments/planning-and-land-services/comprehensive-planning/)
 
+---
+
 ## Subdivision Pipeline
 
-## Brown County — Subdivision Pipeline
+**328 parcels** | 176 off-market | 152 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
-**381 parcels** | 266 off-market (mail) | 115 for-sale (call)
+## Parcels Ranked by Rezoning Potential
 
-### Parcels Ranked by Future Zoning / FLU
-
-| Zone | Town | Acres | Owner | APN | Status |
+| Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| HIGH | Ledgeview | 90.4 | HIBBARD STEVEN C | R-300 | 📬 Mail |
-| HIGH | Ledgeview | 77.1 | PANSIER GLEN J 🔗 | GL-28 | 📬 Mail |
-| HIGH | Ledgeview | 64.5 | GARSOW EUNICE M | L-423-2 | 📬 Mail |
-| HIGH | Ledgeview | 62.0 | SCHMIDT KEVIN L 🔗 | GL-299 | 📬 Mail |
-| HIGH | Ledgeview | 60.0 | TRIPLE Z FARM LLC | R-381 | 📬 Mail |
-| HIGH | Ledgeview | 59.6 | ROTTIER BONNIE L | HB-425-7 | 📬 Mail |
-| HIGH | Ledgeview | 54.4 | PANSIER GLEN J 🔗 | B-314-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 53.0 | JACOBS BROTHERS 🔗 | PI-612-1 | 📬 Mail |
-| HIGH | Ledgeview | 51.6 | KELEN ROBERT J VANDER 🔗 | ED-R42 | 📬 Mail |
-| HIGH | Ashwaubenon | 49.0 | KACZMAREK JEAN 🔗 | SU-128-1 | 📬 Mail |
-| HIGH | Ledgeview | 47.8 | GRIEPENTROG GORDON | W-95 | 📬 Mail |
-| HIGH | Ashwaubenon | 47.3 | WOUTERS SHARON J | PI-413-2 | 📬 Mail |
-| HIGH | Ashwaubenon | 45.9 | LANGER ERIC E | VH-43 | 📬 Mail |
-| HIGH | Ledgeview | 44.5 | DEBEUKELAR JAMES 🔗 | R-30-1 | 📬 Mail |
-| HIGH | Bellevue | 42.8 | KROLL JAMES 🔗 | E-138 | 📬 Mail |
-| HIGH | Ledgeview | 42.3 | KERKHOFF RICHARD J 🔗 | GL-120 | 📬 Mail |
-| HIGH | Ledgeview | 41.6 | KERKHOFF RICHARD J 🔗 | GL-115 | 📬 Mail |
-| HIGH | Ledgeview | 41.5 | ZIRBEL DENNIS | R-424 | 📬 Mail |
-| HIGH | Ledgeview | 41.3 | CAPPELLE JOSEPH G 🔗 | GL-304 | 📬 Mail |
-| HIGH | Ledgeview | 41.2 | KERKHOFF RICHARD J 🔗 | GL-121 | 📬 Mail |
-| HIGH | Ledgeview | 41.0 | LAMERS FARM LLC 🔗 | L-380 | 📬 Mail |
-| HIGH | Ledgeview | 40.6 | RODNEY GRACE HUTH | L-470 | 📬 Mail |
-| HIGH | Bellevue | 40.6 | SCHUH WEBSTER A | HM-82 | 📬 Mail |
-| HIGH | Ledgeview | 40.4 | VANDERKINTER LOREN R 🔗 | GL-117 | 📬 Mail |
-| HIGH | Ledgeview | 40.1 | RANDALL M M | HM-557 | 📬 Mail |
-| HIGH | Bellevue | 40.1 | GORAL LAWRENCE P | E-41 | 📬 Mail |
-| HIGH | Ledgeview | 40.1 | OTTO FRANK A | GL-172 | 📬 Mail |
-| HIGH | Ledgeview | 40.0 | ZIRBEL DAIRY FARMS LLC 🔗 | R-411 | 📬 Mail |
-| HIGH | Ashwaubenon | 40.0 | HILLSIDE BROOK FARM LLC A WISCONSIN LIMITED LIABILITY | VH-215 | 📬 Mail |
-| HIGH | Ledgeview | 40.0 | ELZEN SHIRLEY A VANDEN 🔗 | HB-424 | 📬 Mail |
-| HIGH | Ledgeview | 40.0 | LAMERS FARM LLC 🔗 | L-413 | 📬 Mail |
-| HIGH | Ledgeview | 40.0 | ELZEN SHIRLEY A VANDEN 🔗 | HB-409 | 📬 Mail |
-| HIGH | Ledgeview | 39.9 | ZEAMER DAVID R 🔗 | R-419 | 📬 Mail |
-| HIGH | Bellevue | 39.8 | TARKOWSKI DENA | E-350 | 📬 Mail |
-| HIGH | Ledgeview | 39.8 | VANGHEEM NICHOLAS 🔗 | L-388 | 📬 Mail |
-| HIGH | Ledgeview | 39.7 | EDINGER RANDALL L 🔗 | GL-89 | 📬 Mail |
-| HIGH | Ledgeview | 39.7 | KILEY GARY J 🔗 | GL-321 | 📬 Mail |
-| HIGH | Ledgeview | 39.6 | ZEAMER JODI K 🔗 | R-175 | 📬 Mail |
-| HIGH | Ledgeview | 39.6 | LAMERS KEVIN G | L-410 | 📬 Mail |
-| HIGH | Ledgeview | 39.6 | TETZLAFF JOHN L FAMILY LTD PARTNERSHIP 🔗 | R-264 | 📬 Mail |
-| HIGH | Ledgeview | 39.5 | COATES DAVID J | D-171 | 📬 Mail |
-| HIGH | Ledgeview | 39.4 | SITZMAN ALAN B | GL-319 | 📬 Mail |
-| HIGH | Bellevue | 39.4 | DETRIE FARMS LLC 🔗 | HM-116 | 📬 Mail |
-| HIGH | Bellevue | 39.4 | KROLL JAMES M | E-389 | 📬 Mail |
-| HIGH | Ledgeview | 39.4 | LOPPNOW BARBARA J | GL-552 | 📬 Mail |
-| HIGH | Ledgeview | 39.4 | ZIRBEL DAIRY FARMS LLC 🔗 | R-410 | 📬 Mail |
-| HIGH | Ledgeview | 39.4 | OSSMANN JOYCE A 🔗 | GL-498 | 📬 Mail |
-| HIGH | Ledgeview | 39.3 | VANNOIE WILLIAM J | R-316 | 📬 Mail |
-| HIGH | Ledgeview | 39.3 | ZEAMER JODI | R-378 | 📬 Mail |
-| HIGH | Ledgeview | 39.3 | STENCIL SHELLEY J 🔗 | GL-33 | 📬 Mail |
-| HIGH | Ledgeview | 39.2 | STENCIL SHELLEY J 🔗 | GL-9 | 📬 Mail |
-| HIGH | Ledgeview | 39.1 | DIEDERICH RAYMOND L 🔗 | HB-299 | 📬 Mail |
-| HIGH | Ledgeview | 39.1 | DOBBERPUHL CONNIE J 🔗 | GL-340 | 📬 Mail |
-| HIGH | Ledgeview | 39.1 | LASEE BRIAN B | R-163 | 📬 Mail |
-| HIGH | Ledgeview | 39.0 | DUCAT CLARENCE J | R-160 | 📬 Mail |
-| HIGH | Ledgeview | 39.0 | RISSE MICHAEL L | R-190 | 📬 Mail |
-| HIGH | Ledgeview | 39.0 | CAPPELLE JOSEPH G 🔗 | GL-348 | 📬 Mail |
-| HIGH | Ledgeview | 39.0 | EVERS ALICE M | HB-32-1 | 📬 Mail |
-| HIGH | Bellevue | 39.0 | ALLEN MARK A 🔗 | HM-71 | 📬 Mail |
-| HIGH | Ledgeview | 39.0 | DOBBERPUHL CONNIE J 🔗 | R-383 | 📬 Mail |
-| HIGH | Ledgeview | 38.9 | PAUL OSSMANN 🔗 | GL-355 | 📬 Mail |
-| HIGH | Bellevue | 38.9 | LOTTO JOSEPH P | D-304 | 📬 Mail |
-| HIGH | Ledgeview | 38.9 | ZEAMER JODI K 🔗 | R-374 | 📬 Mail |
-| HIGH | Ledgeview | 38.9 | MUELLER MARK 🔗 | R-168 | 📬 Mail |
-| HIGH | Ledgeview | 38.9 | ZEAMER CARL E | R-379 | 📬 Mail |
-| HIGH | Ledgeview | 38.8 | ELZEN SHIRLEY A VANDEN 🔗 | HB-420 | 📬 Mail |
-| HIGH | Ledgeview | 38.8 | DIEDERICH RAYMOND L 🔗 | HB-312 | 📬 Mail |
-| HIGH | Ashwaubenon | 38.8 | KACZMAREK JEAN 🔗 | PI-446 | 📬 Mail |
-| HIGH | Ledgeview | 38.8 | VANDEHEI GARY N 🔗 | GL-387 | 📬 Mail |
-| HIGH | Bellevue | 38.8 | ETIENNE JODI L 🔗 | HM-122 | 📬 Mail |
-| HIGH | Ledgeview | 38.6 | KRAUTKRAMER JANET L | L-140 | 📬 Mail |
-| HIGH | Ledgeview | 38.5 | TINEDALE FARMS PARTNERSHIP LLP 🔗 | W-226 | 📬 Mail |
-| HIGH | Ledgeview | 38.4 | ZIRBEL MICHAEL | M-103-1 | 📬 Mail |
-| HIGH | Ledgeview | 38.3 | TETZLAFF JOHN L FAMILY LTD PARTNERSHIP 🔗 | R-268 | 📬 Mail |
-| HIGH | Ledgeview | 38.2 | OSSMANN JOYCE A 🔗 | GL-542 | 📬 Mail |
-| HIGH | Ashwaubenon | 38.2 | PETERS GERALD | SU-689 | 📬 Mail |
-| HIGH | Ledgeview | 38.2 | HENDRICKS CHERYL A | GL-113 | 📬 Mail |
-| HIGH | Bellevue | 38.2 | NORMAN ROMUALD | E-98 | 📬 Mail |
-| HIGH | Ledgeview | 38.1 | PAUL OSSMANN 🔗 | GL-361 | 📬 Mail |
-| HIGH | Ashwaubenon | 38.1 | JACOBS BROTHERS 🔗 | PI-496 | 📬 Mail |
-| HIGH | Ledgeview | 38.1 | ZEAMER JODI K 🔗 | R-377 | 📬 Mail |
-| HIGH | Ledgeview | 38.1 | ZIRBEL DAIRY FARMS LLC 🔗 | R-418 | 📬 Mail |
-| HIGH | Ledgeview | 38.0 | STENCIL SHELLEY J 🔗 | GL-35 | 📬 Mail |
-| HIGH | Ashwaubenon | 38.0 | BODART PAUL A | PI-590 | 📬 Mail |
-| HIGH | Ashwaubenon | 38.0 | HILLSIDE BROOK FARM LLC 🔗 | SU-735 | 📬 Mail |
-| HIGH | Ledgeview | 38.0 | STENCIL SHELLEY J 🔗 | GL-7 | 📬 Mail |
-| HIGH | Ledgeview | 38.0 | VANDERKINTER LOREN R 🔗 | GL-345 | 📬 Mail |
-| HIGH | Bellevue | 37.9 | PAY TIM 🔗 | HM-220 | 📬 Mail |
-| HIGH | Ledgeview | 37.8 | ZIRBEL DENNIS R | R-425-2 | 📬 Mail |
-| HIGH | Ashwaubenon | 37.8 | KACZMAREK JEAN 🔗 | PI-443 | 📬 Mail |
-| HIGH | Bellevue | 37.8 | BUYARSKI RICHARD A | E-153 | 📬 Mail |
-| HIGH | Ashwaubenon | 37.6 | BIG SKY REAL ESTATE LLP | SU-686 | 📬 Mail |
-| HIGH | Ledgeview | 37.5 | HETTMANN ALICE | GL-176 | 📬 Mail |
-| HIGH | Ledgeview | 37.5 | OSSMANN JOYCE A 🔗 | GL-380 | 📬 Mail |
-| HIGH | Ledgeview | 37.5 | PETERS LOIS J 🔗 | GL-84 | 📬 Mail |
-| HIGH | Bellevue | 37.4 | SABO BONNIE | E-382 | 📬 Mail |
-| HIGH | Ledgeview | 37.4 | VANDEHEI GARY N 🔗 | GL-353 | 📬 Mail |
-| HIGH | Ashwaubenon | 37.3 | STENDER KARL M | PI-588 | 📬 Mail |
-| HIGH | Ledgeview | 37.2 | VANDEHEI GARY N 🔗 | GL-369 | 📬 Mail |
-| HIGH | Ledgeview | 37.2 | KERKHOFF RICHARD J 🔗 | R-387 | 📬 Mail |
-| HIGH | Ledgeview | 37.1 | FELS JEROME | GL-336 | 📬 Mail |
-| HIGH | Ledgeview | 37.1 | AMBROSIUS ROBERT J 🔗 | HB-277 | 📬 Mail |
-| HIGH | Ledgeview | 37.1 | ZIRBEL DAIRY FARMS LLC 🔗 | R-414 | 📬 Mail |
-| HIGH | Ledgeview | 37.0 | ANTHONY J J | GL-68 | 📬 Mail |
-| HIGH | Ashwaubenon | 37.0 | VANDERVEREN CRAIG C 🔗 | PI-450 | 📬 Mail |
-| HIGH | Ledgeview | 37.0 | OSSMANN JOYCE A 🔗 | GL-499 | 📬 Mail |
-| HIGH | Ashwaubenon | 37.0 | VANDERVEREN CRAIG C 🔗 | PI-456 | 📬 Mail |
-| HIGH | Ashwaubenon | 36.9 | VICKERY GEORGE L | SU-280 | 📬 Mail |
-| HIGH | Bellevue | 36.6 | PHILLIPS ARLENE M | E-68 | 📬 Mail |
-| HIGH | Ledgeview | 36.6 | KEMPEN JACQUELYN A | R-408 | 📬 Mail |
-| HIGH | Ledgeview | 36.5 | PANSIER GLEN J 🔗 | R-393-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 36.3 | NELSON SHANE M | SU-379 | 📬 Mail |
-| HIGH | Bellevue | 36.3 | JOSSART DONALD G | HM-15-1 | 📬 Mail |
-| HIGH | Ledgeview | 36.2 | VANASTEN PHYLLIS M | L-114 | 📬 Mail |
-| HIGH | Ledgeview | 36.2 | OSSMANN JOYCE A 🔗 | GL-381 | 📬 Mail |
-| HIGH | Bellevue | 36.1 | PAY TIM 🔗 | HM-24 | 📬 Mail |
-| HIGH | Ashwaubenon | 36.1 | JEFFREY C DESJARDINS | SU-716-1 | 📬 Mail |
-| HIGH | Ledgeview | 36.1 | PETERS LOIS J 🔗 | GL-81 | 📬 Mail |
-| HIGH | Ledgeview | 36.0 | DAUL ADAM | R-394 | 📬 Mail |
-| HIGH | Ledgeview | 36.0 | CAPPELLE DARREL 🔗 | GL-503 | 📬 Mail |
-| HIGH | Ledgeview | 35.9 | CAPPELLE JOSEPH G 🔗 | GL-352 | 📬 Mail |
-| HIGH | Ledgeview | 35.9 | VANGHEEM NICHOLAS 🔗 | L-426 | 📬 Mail |
-| HIGH | Bellevue | 35.8 | RENTMEESTER JULIE A | HM-137 | 📬 Mail |
-| HIGH | Ledgeview | 35.7 | SCHMIDT KEVIN L 🔗 | GL-303 | 📬 Mail |
-| HIGH | Ashwaubenon | 35.5 | CHATEAU BERNARD F DU | PI-616 | 📬 Mail |
-| HIGH | Ledgeview | 35.5 | BLAUERT CODY J | R-416 | 📬 Mail |
-| HIGH | Ledgeview | 35.4 | DIEDRICK DAVID G | R-120 | 📬 Mail |
-| HIGH | Ledgeview | 35.4 | OSSMANN JOYCE A 🔗 | GL-488 | 📬 Mail |
-| HIGH | Bellevue | 35.3 | DAVID MARK 🔗 | SC-604 | 📬 Mail |
-| HIGH | Ledgeview | 35.2 | MILAN ANGELA M | GL-508 | 📬 Mail |
-| HIGH | Bellevue | 35.0 | KROLL DEBRA A 🔗 | HM-138 | 📬 Mail |
-| HIGH | Ledgeview | 35.0 | EDINGER RANDALL L 🔗 | GL-92 | 📬 Mail |
-| HIGH | Ledgeview | 35.0 | DOBBERPUHL CONNIE J 🔗 | R-384 | 📬 Mail |
-| HIGH | Ledgeview | 34.9 | LOTTO BERNARD P | D-128 | 📬 Mail |
-| HIGH | Ledgeview | 34.9 | MARX PATRICIA R | R-165 | 📬 Mail |
-| HIGH | Bellevue | 34.9 | CHAPPELL FARMS LLC | SC-682 | 📬 Mail |
-| HIGH | Ledgeview | 34.9 | OSSMANN JOYCE A 🔗 | GL-472-2 | 📬 Mail |
-| HIGH | Ledgeview | 34.8 | PAUL OSSMANN 🔗 | GL-346 | 📬 Mail |
-| HIGH | Ledgeview | 34.8 | THE DANIEL C HENDRICKS AND MARTA S HENDR 🔗 | R-386-1 | 📬 Mail |
-| HIGH | Bellevue | 34.8 | DETRIE FARMS LLC 🔗 | HM-113 | 📬 Mail |
-| HIGH | Ledgeview | 34.8 | OSSMANN CINDY L | GL-492-3 | 📬 Mail |
-| HIGH | Ashwaubenon | 34.6 | JACOBS BROTHERS 🔗 | PI-467 | 📬 Mail |
-| HIGH | Ledgeview | 34.5 | VANGHEEM NICHOLAS 🔗 | L-427 | 📬 Mail |
-| HIGH | Bellevue | 34.4 | ALLEN WARREN | HM-218 | 📬 Mail |
-| HIGH | Ledgeview | 34.4 | LAMERS FARM LLC 🔗 | L-411 | 📬 Mail |
-| HIGH | Ledgeview | 34.3 | HEALY KENNETH G | GL-73 | 📬 Mail |
-| HIGH | Ledgeview | 34.3 | DEBEUKELAR JAMES 🔗 | R-59 | 📬 Mail |
-| HIGH | Bellevue | 34.3 | GUO DANZHU 🔗 | E-163-1 | 📬 Mail |
-| HIGH | Ledgeview | 34.2 | ARENDT SANDRA M | D-172 | 📬 Mail |
-| HIGH | Bellevue | 34.2 | ETIENNE JODI L 🔗 | HM-121 | 📬 Mail |
-| HIGH | Ashwaubenon | 34.1 | JACOBS BROTHERS 🔗 | PI-609-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 33.9 | HILLSIDE BROOK FARM LLC 🔗 | VH-214 | 📬 Mail |
-| HIGH | Ashwaubenon | 33.7 | WHITE KEVIN J | SU-121 | 📬 Mail |
-| HIGH | Bellevue | 33.6 | ROBERT ROSS | SC-578 | 📬 Mail |
-| HIGH | Bellevue | 33.5 | KROLL DEBRA | HM-128-2 | 📬 Mail |
-| HIGH | Bellevue | 33.5 | VANESS THOMAS A | HM-474 | 📬 Mail |
-| HIGH | Bellevue | 33.4 | ALLEN RANDALL L | HM-221-2-1 | 📬 Mail |
-| HIGH | Ledgeview | 33.3 | VANDEHEI GARY N 🔗 | GL-391-2 | 📬 Mail |
-| HIGH | Bellevue | 33.3 | KROLL DEBRA A 🔗 | HM-125 | 📬 Mail |
-| HIGH | Ledgeview | 33.3 | ZEAMER JAMIE | R-370 | 📬 Mail |
-| HIGH | Bellevue | 33.1 | MENCHESKI ANTHONY A | D-307 | 📬 Mail |
-| HIGH | Bellevue | 33.0 | WATERMOLEN EVAN | E-441-1 | 📬 Mail |
-| HIGH | Ledgeview | 32.9 | PANSIER GLEN J 🔗 | GL-53 | 📬 Mail |
-| HIGH | Bellevue | 32.8 | KROLL DEBRA A 🔗 | B-12-1 | 📬 Mail |
-| HIGH | Ledgeview | 32.8 | OTS SUNRISE FARM LLC | R-356-2 | 📬 Mail |
-| HIGH | Bellevue | 32.7 | PAY TIM 🔗 | HM-41-1 | 📬 Mail |
-| HIGH | Ledgeview | 32.4 | GRUNWALD BARRY D 🔗 | R-147 | 📬 Mail |
-| HIGH | Ledgeview | 32.3 | STENCIL SHELLEY J 🔗 | GL-31 | 📬 Mail |
-| HIGH | Ashwaubenon | 32.0 | JACOBS BROTHERS 🔗 | PI-465 | 📬 Mail |
-| HIGH | Ledgeview | 31.9 | GORZLANCYK JAMES | D-134 | 📬 Mail |
-| HIGH | Ledgeview | 31.9 | KLOSTERMAN GLORIA A | VG-577 | 📬 Mail |
-| HIGH | Ledgeview | 31.6 | OTS MAX E | R-353 | 📬 Mail |
-| HIGH | Ledgeview | 31.5 | TINEDALE FARMS PARTNERSHIP LLP 🔗 | W-211-1 | 📬 Mail |
-| HIGH | Bellevue | 31.4 | JENSEN THERESA L | E-454 | 📬 Mail |
-| HIGH | Ledgeview | 31.3 | PEETERS IRVIN L | ED-R49 | 📬 Mail |
-| HIGH | Bellevue | 30.9 | BLACKMAN SAMANTHA J | HM-473-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 30.4 | BEAVERS JONATHAN | HB-152-2 | 📬 Mail |
-| HIGH | Bellevue | 30.4 | SCHMITT JAMES J 🔗 | SC-670 | 📬 Mail |
-| HIGH | Ledgeview | 30.4 | ELZEN SHIRLEY A VANDEN 🔗 | HB-371 | 📬 Mail |
-| HIGH | Bellevue | 30.2 | PANSIER GLEN J 🔗 | D-249 | 📬 Mail |
-| HIGH | Bellevue | 30.2 | SKALETSKI DONNA M | E-349 | 📬 Mail |
-| HIGH | Ledgeview | 30.2 | THE DANIEL C HENDRICKS AND MARTA S HENDR 🔗 | GL-112-2 | 📬 Mail |
-| HIGH | Ledgeview | 30.2 | KERKHOFF RICHARD J 🔗 | GL-118-1 | 📬 Mail |
-| HIGH | Bellevue | 29.8 | GAUTHIER THOMAS L | E-422 | 📬 Mail |
-| HIGH | Ledgeview | 29.7 | ELZEN SHIRLEY A VANDEN 🔗 | HB-398 | 📬 Mail |
-| HIGH | Bellevue | 29.6 | WACHAL CAROL A | E-352 | 📬 Mail |
-| HIGH | Bellevue | 29.5 | PANSIER GLEN J 🔗 | D-241 | 📬 Mail |
-| HIGH | Ledgeview | 29.4 | STENCIL SHELLEY J 🔗 | GL-36 | 📬 Mail |
-| HIGH | Ledgeview | 29.4 | STENCIL SHELLEY J 🔗 | GL-12 | 📬 Mail |
-| HIGH | Bellevue | 29.3 | KROLL JAMES 🔗 | E-139 | 📬 Mail |
-| HIGH | Bellevue | 29.2 | GERALD BRICE | D-276 | 📬 Mail |
-| HIGH | Ledgeview | 29.2 | BOERS DAVID R | R-372-1 | 📬 Mail |
-| HIGH | Ledgeview | 28.9 | DANIEL PETERS & RONALD H WILLEMS REALTY LLP | GL-152-1 | 📬 Mail |
-| HIGH | Ledgeview | 28.8 | ALLEN KAREN J 🔗 | GL-159 | 📬 Mail |
-| HIGH | Ledgeview | 28.7 | CAPPELLE DARREL 🔗 | GL-504 | 📬 Mail |
-| HIGH | Ledgeview | 28.7 | LORITZ EUNICE MAY | GL-292-1 | 📬 Mail |
-| HIGH | Ledgeview | 28.6 | HOCK ROBBI J | HB-149-1 | 📬 Mail |
-| HIGH | Ledgeview | 28.4 | PAY KEVIN J VAN | GL-134-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 28.3 | POSEY SHIRLEY | SU-675-4 | 📬 Mail |
-| HIGH | Bellevue | 27.9 | GUO DANZHU 🔗 | E-162 | 📬 Mail |
-| HIGH | Ledgeview | 27.9 | BECKER JAMES | R-95 | 📬 Mail |
-| HIGH | Ledgeview | 27.8 | MUELLER MARK 🔗 | R-170-1 | 📬 Mail |
-| HIGH | Bellevue | 27.8 | BERGH DANIEL VANDEN | E-172 | 📬 Mail |
-| HIGH | Ledgeview | 27.7 | DOBBERPUHL DALE R | GL-329 | 📬 Mail |
-| HIGH | Bellevue | 27.6 | CORRIGAN CHAD S | D-265 | 📬 Mail |
-| HIGH | Ledgeview | 27.6 | GRUNWALD BARRY D 🔗 | R-149 | 📬 Mail |
-| HIGH | Ledgeview | 27.6 | ZIRBEL DAIRY FARMS LLC 🔗 | R-415-2 | 📬 Mail |
-| HIGH | Ledgeview | 27.5 | ALLEN KAREN J 🔗 | GL-162 | 📬 Mail |
-| HIGH | Bellevue | 27.5 | 7180 LTD PARTNERSHIP | 22-SC464 | 📬 Mail |
-| HIGH | Ledgeview | 27.4 | CRAIG F HUTJENS | R-17 | 📬 Mail |
-| HIGH | Ledgeview | 27.3 | VANROSSUM MICHAEL H | L-76-2 | 📬 Mail |
-| HIGH | Ashwaubenon | 27.2 | JACOBS BROTHERS 🔗 | PI-466-1 | 📬 Mail |
-| HIGH | Ashwaubenon | 26.9 | ANDREWS GERALD L | SU-107 | 📬 Mail |
-| HIGH | Ledgeview | 26.8 | AMBROSIUS FAMILY LP | HB-383 | 📬 Mail |
-| HIGH | Ledgeview | 26.0 | AMBROSIUS ROBERT J 🔗 | HB-288-2 | 📬 Mail |
-| HIGH | Ashwaubenon | 26.0 | JAWORSKI DONALD | PI-630 | 📬 Mail |
-| HIGH | Bellevue | 25.7 | ROBERTS IVAN G | HM-203 | 📬 Mail |
-| HIGH | Ledgeview | 25.2 | ZEAMER JODI K 🔗 | R-376-1 | 📬 Mail |
-| HIGH | Bellevue | 25.2 | FROELICH LORI L | B-13 | 📬 Mail |
-| HIGH | Ashwaubenon | 25.0 | JACOBS BROTHERS 🔗 | PI-478-1 | 📬 Mail |
-| HIGH | Ledgeview | 25.0 | BIESE MARVIN B | W-12-3 | 📬 Mail |
-| HIGH | Bellevue | 25.0 | PIESCHEK ERIC G | E-69 | 📬 Mail |
-| HIGH | Bellevue | 24.9 | SIMPSON JOHN | D-247 | 📬 Mail |
-| HIGH | Bellevue | 24.9 | JLM ENTERPRISES LLP | E-413 | 📬 Mail |
-| HIGH | Bellevue | 24.8 | LAANEN STEVE | SC-319 | 📬 Mail |
-| HIGH | Ledgeview | 24.6 | HOSKENS JAMES P | R-89 | 📬 Mail |
-| HIGH | Ledgeview | 24.5 | GERALD H GORZELANCZYK | D-118 | 📬 Mail |
-| HIGH | Ashwaubenon | 24.5 | GEORGIA PACIFIC CONSUMER PRODUCTS LP | VA-216-2 | 📬 Mail |
-| HIGH | Ledgeview | 24.3 | ZIRBEL DAIRY FARMS LLC 🔗 | R-409-2 | 📬 Mail |
-| HIGH | Bellevue | 24.0 | FRANKENTHAL HOWARD M | B-333 | 📬 Mail |
-| HIGH | Bellevue | 23.9 | HARMON HAYLEY M | 21-188-6-1 | 📬 Mail |
-| HIGH | Ledgeview | 23.6 | PANSIER GLEN J 🔗 | GL-77 | 📬 Mail |
-| HIGH | Ledgeview | 23.5 | KOENIG MICHAEL J | GL-65-2 | 📬 Mail |
-| HIGH | Bellevue | 23.4 | LEFEVRE STEVEN R | E-339 | 📬 Mail |
-| HIGH | Bellevue | 23.1 | KROLL DEBRA A 🔗 | HM-147-1 | 📬 Mail |
-| HIGH | Ledgeview | 22.9 | LARSON DONALD S | L-465 | 📬 Mail |
-| HIGH | Ashwaubenon | 22.4 | JACOBS BROTHERS 🔗 | PI-384 | 📬 Mail |
-| HIGH | Bellevue | 22.2 | GIBSON DAVID J | SC-717-1 | 📬 Mail |
-| HIGH | Ledgeview | 22.0 | THE MATTHEW M VANDENHEUVEL AND ELIZABETH | HB-307 | 📬 Mail |
-| HIGH | Ledgeview | 22.0 | STENCIL SHELLEY J 🔗 | GL-4 | 📬 Mail |
-| HIGH | Ledgeview | 21.9 | KOCKEN KATHLEEN | VA-L194 | 📬 Mail |
-| HIGH | Ledgeview | 21.8 | TINEDALE FARMS LLC 🔗 | VW-W203 | 📬 Mail |
-| HIGH | Ledgeview | 21.7 | LIN DER HUA | VA-L190 | 📬 Mail |
-| HIGH | Ledgeview | 21.6 | PEETERS IRVIN | ED-R29 | 📬 Mail |
-| HIGH | Ledgeview | 21.6 | KELEN ROBERT J VANDER 🔗 | ED-R52-1 | 📬 Mail |
-| HIGH | Ledgeview | 21.4 | MICKE EUGENE | L-16 | 📬 Mail |
-| HIGH | Ledgeview | 21.2 | KILEY GARY J 🔗 | GL-315 | 📬 Mail |
-| HIGH | Bellevue | 21.1 | VANDENAVOND CARL | B-207 | 📬 Mail |
-| HIGH | Ashwaubenon | 20.8 | MCGREW REBECCA A | SU-645 | 📬 Mail |
-| HIGH | Ledgeview | 20.8 | MATZKE FAMILY LP | GL-96 | 📬 Mail |
-| HIGH | Bellevue | 20.7 | UNIVERSITY OF WISCONSIN BOARD OF REGENTS 🔗 | 22-183-2 | 📬 Mail |
-| HIGH | Ledgeview | 20.6 | VANDERKINTER LOREN R 🔗 | GL-506 | 📬 Mail |
-| HIGH | Ledgeview | 20.3 | MID VALLEE GOLF COURSE | L-102 | 📬 Mail |
-| HIGH | Bellevue | 20.3 | DETRIE FARMS LLC 🔗 | HM-117-1 | 📬 Mail |
-| HIGH | Ledgeview | 20.2 | SCHMIDT DAWN M | GL-99 | 📬 Mail |
-| HIGH | Ledgeview | 20.2 | MARX REX D | R-140-2 | 📬 Mail |
-| HIGH | Ledgeview | 20.2 | ZEAMER DAVID R 🔗 | R-427 | 📬 Mail |
-| HIGH | Ledgeview | 20.2 | UNITED STATES OF AMERICA 🔗 | HB-390-2 | 📬 Mail |
-| HIGH | Ledgeview | 20.1 | EDINGER RANDALL L 🔗 | GL-95 | 📬 Mail |
-| HIGH | Bellevue | 20.1 | SEIDL DIANE M | E-39 | 📬 Mail |
-| HIGH | Ledgeview | 20.1 | TINEDALE FARMS LLC 🔗 | W-6 | 📬 Mail |
-| HIGH | Ledgeview | 20.1 | VANDERKINTER LOREN R 🔗 | GL-505 | 📬 Mail |
-| HIGH | Bellevue | 20.1 | LGL FARMS LLC | E-15 | 📬 Mail |
-| HIGH | Bellevue | 20.0 | ALLEN MARK A 🔗 | HM-75 | 📬 Mail |
-| HIGH | Bellevue | 20.0 | UNIVERSITY OF WISCONSIN BOARD OF REGENTS 🔗 | SC-216 | 📬 Mail |
-| HIGH | Ledgeview | 20.0 | DIEDERICH RAYMOND L 🔗 | HB-285-1-1 | 📬 Mail |
-| HIGH | Bellevue | 18.9 | BOSAR BRIAN E | SC-2202 | 📞 MLS |
-| HIGH | Ledgeview | 18.8 | MILLHISER DANIEL J | D-2203 | 📞 MLS |
-| HIGH | Ledgeview | 18.8 | DANAHAR BENJAMIN J | D-2208 | 📞 MLS |
-| HIGH | Ledgeview | 18.8 | GREENLUND MARK | D-2220 | 📞 MLS |
-| HIGH | Ledgeview | 18.8 | FUCHS MATTHIAS A | D-2226 | 📞 MLS |
-| HIGH | Ledgeview | 18.8 | SIPES JENNIFER A | D-2236 | 📞 MLS |
-| HIGH | Ledgeview | 9.6 | MESSER MICHAEL 🔗 | L-1367 | 📞 MLS |
-| HIGH | Ledgeview | 9.6 | MESSER MICHAEL 🔗 | L-1368 | 📞 MLS |
-| HIGH | Ledgeview | 9.0 | STUDDERS EILEEN | L-1374 | 📞 MLS |
-| HIGH | Ledgeview | 9.0 | CUMMINGS KYLE | L-1379 | 📞 MLS |
-| HIGH | Ledgeview | 5.8 | DROBEK NATHAN 🔗 | D-1407 | 📞 MLS |
-| HIGH | Ledgeview | 5.8 | DROBEK NATHAN 🔗 | D-1408 | 📞 MLS |
-| HIGH | Bellevue | 4.8 | GEIGER BRIAN R | SC-2245 | 📞 MLS |
-| HIGH | Bellevue | 4.8 | BARR GREGORY V | SC-2251 | 📞 MLS |
-| HIGH | Bellevue | 4.8 | YANDA SANDRA M | SC-2252 | 📞 MLS |
-| HIGH | Bellevue | 4.8 | MILLETT RODNEY | SC-2262 | 📞 MLS |
-| HIGH | Bellevue | 4.8 | HOES MICHAEL | SC-2264 | 📞 MLS |
-| HIGH | Ledgeview | 4.4 | ALLEN GARY | L-2127 | 📞 MLS |
-| HIGH | Bellevue | 4.0 | GENSCH KEITH R | SC-2246 | 📞 MLS |
-| HIGH | Ledgeview | 3.5 | SCHUMACHER CHAD M | L-1486 | 📞 MLS |
-| HIGH | Ashwaubenon | 2.9 | VANDERVEST ERIK J | VH-1937 | 📞 MLS |
-| HIGH | Bellevue | 2.1 | MANGER BARBARA E | SC-1315 | 📞 MLS |
-| HIGH | Ashwaubenon | 1.5 | HOFFMAN BARBARA L | VH-1938 | 📞 MLS |
-| HIGH | Ledgeview | 1.4 | ROHDE KATHY | L-350-10 | 📞 MLS |
-| HIGH | Ledgeview | 1.4 | WEBER RUTH P | L-350-2 | 📞 MLS |
-| HIGH | Ledgeview | 1.4 | MICHAEL A DIESEL | L-350-6 | 📞 MLS |
-| HIGH | Bellevue | 1.1 | LIIMATTA DANIEL K | SC-2059 | 📞 MLS |
-| HIGH | Ledgeview | 1.0 | LOCHNER JOHN G | L-350-12 | 📞 MLS |
-| HIGH | Ledgeview | 1.0 | SYTSMA JUSY A | L-350-5 | 📞 MLS |
-| HIGH | Ledgeview | 1.0 | SHEA JANE H | L-350-7 | 📞 MLS |
-| HIGH | Ledgeview | 1.0 | JOHNSON ANNE M | L-350-9 | 📞 MLS |
-| HIGH | Bellevue | 0.9 | DEBAKER FAMILY PARTNERSHIP | SC-347-2 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.8 | DOVER DEV 🔗 | VA-228-Y-27 | 📞 MLS |
-| HIGH | Bellevue | 0.8 | SCHMITT JAMES J 🔗 | SC-654-5 | 📞 MLS |
-| HIGH | Bellevue | 0.8 | LIVI JOHN H 🔗 | SC-1601-48 | 📞 MLS |
-| HIGH | Bellevue | 0.7 | VANITEN RENEE L | SC-1391-103 | 📞 MLS |
-| HIGH | Bellevue | 0.7 | SCHMITT JAMES J 🔗 | SC-654-4 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.7 | DOVER DEV 🔗 | VA-228-Y-28 | 📞 MLS |
-| HIGH | Bellevue | 0.7 | SCHMITT JAMES J 🔗 | SC-654-6 | 📞 MLS |
-| HIGH | Ledgeview | 0.7 | GORDON GARY J | L-1484 | 📞 MLS |
-| HIGH | Bellevue | 0.6 | SCHANOCK DAN R | SC-22-123 | 📞 MLS |
-| HIGH | Bellevue | 0.6 | SCHMITT JAMES J 🔗 | SC-654-7 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.6 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-7 | 📞 MLS |
-| HIGH | Bellevue | 0.6 | LINDGREN DONALD S | SC-718-2 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.5 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-15 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.5 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-16 | 📞 MLS |
-| HIGH | Bellevue | 0.5 | KEULER LAURA J | SC-1604-55 | 📞 MLS |
-| HIGH | Bellevue | 0.4 | MISKE JULIE S | SC-2118 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.4 | GERNDT MARY M | VH-1690 | 📞 MLS |
-| HIGH | Bellevue | 0.4 | VERHAAG MICHAEL P | SC-1294-37 | 📞 MLS |
-| HIGH | Bellevue | 0.4 | FARRELL THOMAS | SC-1603-44 | 📞 MLS |
-| HIGH | Bellevue | 0.4 | URBAN CHRISTINE | SC-2005 | 📞 MLS |
-| HIGH | Bellevue | 0.4 | CAMILLI KAREN M | SC-22-116-3 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | JUHNKE | SC-797-8 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | ZEISE FRANK J | SC-2008 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | RABE TREVOR T | SC-2009 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | HENDON IRA M | SC-2010 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-13 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-14 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | LAMERS A & K PROPERTIES LLP 🔗 | VA-228-W-8 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | BERGER REBECCA N 🔗 | SC-1294-32 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | WEGNER SCOTT R | SC-1294-33 | 📞 MLS |
-| HIGH | Ledgeview | 0.3 | MESSER MICHAEL J | L-1370 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | MENNEN ANGELA L | VH-747-H-133 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | ESSEN PATRICIA A VAN 🔗 | VH-846-34 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | THOMSON NATHAN J | VA-228-D-122 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.3 | ESSEN PATRICIA A VAN 🔗 | VH-846-32 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | NICOLET LUMBER CO | SC-683-3 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | RANDALL BETH | SC-1604-16 | 📞 MLS |
-| HIGH | Bellevue | 0.3 | DIXON JOHN A | SC-1294-21 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | VANDEUSEN LORI ANN | SC-1185 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | CALHOON DAVID J 🔗 | SC-1294-1 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | LARSEN JAMES A | SC-1602-9 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | KIND JOEL | SC-1188 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | OVERLY METTJA R | SC-1189 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | THOMSON DIANE R | SC-1294-11 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-12 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-13 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-14 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-15 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-16 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | KASBOHM KRISTINA ALICE | SC-1294-17 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | HELKE KATHLEEN IRENE | SC-1294-18 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DAVID MARK 🔗 | SC-1294-19 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | CALHOON DAVID J 🔗 | SC-1294-3 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | CALHOON DAVID J 🔗 | SC-1294-4 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | CALHOON DAVID J 🔗 | SC-1294-5 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | DEVEREAUX BRIAN S | SC-1167 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | BERGER REBECCA N 🔗 | SC-1294-31 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | VISSERS JASON P | SC-718-1-1 | 📞 MLS |
-| HIGH | Bellevue | 0.2 | EPPING JARROD V | SC-1123 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | MAYVILLE HAROLD J 🔗 | VH-853 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | MAYVILLE HAROLD J 🔗 | VH-854 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | KOWALSKI JACQUELYN F 🔗 | VH-871 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | KOWALSKI JACQUELYN F 🔗 | VH-872 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | KOWALSKI JACQUELYN F 🔗 | VH-873 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | BELTER JOHN | VH-880 | 📞 MLS |
-| HIGH | Ashwaubenon | 0.1 | MEYER ERIC | VH-885 | 📞 MLS |
-| HIGH | Bellevue | 0.1 | SAUNDERS ROBERT | SC-1601-52 | 📞 MLS |
-| HIGH | Bellevue | 0.1 | MCMONAGLE DEBRA | SC-1601-55 | 📞 MLS |
-| HIGH | Bellevue | 0.1 | LIVI JOHN H 🔗 | SC-1601-47 | 📞 MLS |
-| HIGH | Bellevue | 0.1 | PLANTE ROLAND W LA | SC-1601-50 | 📞 MLS |
-| HIGH | Bellevue | 0.1 | BISKNER CHRIS | SC-1603-65-A | 📞 MLS |
-| HIGH | Bellevue | 0.1 | DAVID MARK 🔗 | SC-1293-1 | 📞 MLS |
-| HIGH | Bellevue | 0.0 | MAHONEY MOSHE | SC-1602-24 | 📞 MLS |
-| HIGH | Ashwaubenon | ? | KUEHL TODD | VH-3599-1 | 📞 MLS |
-| HIGH | Ledgeview | ? | THOMPSON MATT | D-2202 | 📞 MLS |
-| HIGH | Ledgeview | ? | BOEKE ROB | D-2206 | 📞 MLS |
-| HIGH | Ledgeview | ? | ALBRECHT TERRY J | D-2213 | 📞 MLS |
-| HIGH | Ledgeview | ? | COISMAN GERALD | D-2216 | 📞 MLS |
-| HIGH | Ledgeview | ? | BARAN DEANN | D-2218 | 📞 MLS |
-| HIGH | Ledgeview | ? | LOFQUIST GARY | D-2224 | 📞 MLS |
-| HIGH | Ledgeview | ? | THE DEREK F ROBINSON AND ALISON A ROBINS | D-2228 | 📞 MLS |
-| HIGH | Ledgeview | ? | SIPES DONALD R | D-2235 | 📞 MLS |
-| HIGH | Ledgeview | ? | TRIMBERGER MICHAEL | D-2237 | 📞 MLS |
+| **A+** | LEDGEVIEW | 39.5 | COATES DAVID J | D-171 | 📬 |
+| **A+** | LEDGEVIEW | 38.9 | LOTTO JOSEPH P | D-304 | 📬 |
+| **A+** | LEDGEVIEW | 37.5 | JASON R R | D-267 | 📬 |
+| **A+** | LEDGEVIEW | 34.9 | LOTTO BERNARD P | D-128 | 📬 |
+| **A+** | LEDGEVIEW | 34.2 | ARENDT SANDRA M | D-172 | 📬 |
+| **A+** | LEDGEVIEW | 33.1 | MENCHESKI ANTHONY A | D-307 | 📬 |
+| **A+** | LEDGEVIEW | 30.2 | PANSIER GLEN J 🔗| D-249 | 📬 |
+| **A+** | LEDGEVIEW | 29.5 | PANSIER GLEN J 🔗| D-241 | 📬 |
+| **A+** | LEDGEVIEW | 29.3 | EDINGER RANDALL L | D-462 | 📬 |
+| **A+** | LEDGEVIEW | 29.2 | GERALD BRICE | D-276 | 📬 |
+| **A+** | LEDGEVIEW | 27.6 | CORRIGAN CHAD S | D-265 | 📬 |
+| **A+** | LEDGEVIEW | 24.9 | SIMPSON JOHN | D-247 | 📬 |
+| **A+** | LEDGEVIEW | 24.5 | GERALD H GORZELANCZYK 🔗| D-118 | 📬 |
+| **A+** | LEDGEVIEW | 22.0 | GERALD H GORZELANCZYK 🔗| D-132 | 📬 |
+| **A+** | LEDGEVIEW | 21.7 | GORZLANCYK JAMES | D-133 | 📬 |
+| **A+** | LEDGEVIEW | 20.0 | STENCIL SHELLEY J | D-320-2-1 | 📬 |
+| **A+** | LEDGEVIEW | 18.8 | MILLHISER DANIEL J | D-2203 | 📞 |
+| **A+** | LEDGEVIEW | 18.8 | DANAHAR BENJAMIN J | D-2208 | 📞 |
+| **A+** | LEDGEVIEW | 18.8 | GREENLUND MARK | D-2220 | 📞 |
+| **A+** | LEDGEVIEW | 18.8 | FUCHS MATTHIAS A | D-2226 | 📞 |
+| **A+** | LEDGEVIEW | 18.8 | SIPES JENNIFER A | D-2236 | 📞 |
+| **A+** | LEDGEVIEW | 5.8 | DROBEK NATHAN 🔗| D-1407 | 📞 |
+| **A+** | LEDGEVIEW | 5.8 | DROBEK NATHAN 🔗| D-1408 | 📞 |
+| **A+** | LEDGEVIEW | ? | THOMPSON MATT | D-2202 | 📞 |
+| **A+** | LEDGEVIEW | ? | BOEKE ROB | D-2206 | 📞 |
+| **A+** | LEDGEVIEW | ? | ALBRECHT TERRY J | D-2213 | 📞 |
+| **A+** | LEDGEVIEW | ? | COISMAN GERALD | D-2216 | 📞 |
+| **A+** | LEDGEVIEW | ? | BARAN DEANN | D-2218 | 📞 |
+| **A+** | LEDGEVIEW | ? | LOFQUIST GARY | D-2224 | 📞 |
+| **A+** | LEDGEVIEW | ? | THE DEREK F ROBINSON AND ALISON A ROBINS | D-2228 | 📞 |
+| **A+** | LEDGEVIEW | ? | SIPES DONALD R | D-2235 | 📞 |
+| **A+** | LEDGEVIEW | ? | TRIMBERGER MICHAEL | D-2237 | 📞 |
+| **A** | LAWRENCE | 64.5 | GARSOW EUNICE M | L-423-2 | 📬 |
+| **A** | BELLEVUE | 54.4 | PANSIER GLEN J 🔗| B-314-1 | 📬 |
+| **A** | SUAMICO | 49.0 | KACZMAREK JEAN | SU-128-1 | 📬 |
+| **A** | HOWARD | 45.9 | LANGER ERIC E | VH-43 | 📬 |
+| **A** | LAWRENCE | 41.0 | LAMERS FARM LLC 🔗| L-380 | 📬 |
+| **A** | SUAMICO | 40.8 | MCNEILL DOROTHY A | SU-310 | 📬 |
+| **A** | LAWRENCE | 40.6 | RODNEY GRACE HUTH | L-470 | 📬 |
+| **A** | BELLEVUE | 40.4 | VANDENAVOND CARL 🔗| B-183 | 📬 |
+| **A** | SUAMICO | 40.0 | TOMCHEK JAMES R | SU-185 | 📬 |
+| **A** | HOWARD | 40.0 | HILLSIDE BROOK FARM LLC A WISCONSIN LIMITED LIABILITY | VH-215 | 📬 |
+| **A** | LAWRENCE | 40.0 | LAMERS FARM LLC 🔗| L-413 | 📬 |
+| **A** | LAWRENCE | 39.8 | VANGHEEM NICHOLAS 🔗| L-388 | 📬 |
+| **A** | LAWRENCE | 39.6 | LAMERS KEVIN G | L-410 | 📬 |
+| **A** | SUAMICO | 38.9 | GAURA NANCY A | SU-212 | 📬 |
+| **A** | LAWRENCE | 38.6 | KRAUTKRAMER JANET L | L-140 | 📬 |
+| **A** | SUAMICO | 38.2 | PETERS GERALD | SU-689 | 📬 |
+| **A** | SUAMICO | 38.0 | HILLSIDE BROOK FARM LLC 🔗| SU-735 | 📬 |
+| **A** | SUAMICO | 37.8 | REHBEIN DOUGLAS G | SU-211 | 📬 |
+| **A** | SUAMICO | 37.6 | BIG SKY REAL ESTATE LLP 🔗| SU-686 | 📬 |
+| **A** | SUAMICO | 37.1 | BENDER MICHAEL | SU-545-2 | 📬 |
+| **A** | SUAMICO | 36.9 | VICKERY GEORGE L | SU-280 | 📬 |
+| **A** | LAWRENCE | 36.9 | VANGHEEM NICHOLAS 🔗| L-387 | 📬 |
+| **A** | SUAMICO | 36.3 | NELSON SHANE M | SU-379 | 📬 |
+| **A** | LAWRENCE | 36.2 | VANASTEN PHYLLIS M | L-114 | 📬 |
+| **A** | SUAMICO | 36.1 | JEFFREY C DESJARDINS | SU-716-1 | 📬 |
+| **A** | LAWRENCE | 35.9 | VANGHEEM NICHOLAS 🔗| L-426 | 📬 |
+| **A** | LAWRENCE | 35.5 | MICKE EUGENE 🔗| L-11-1 | 📬 |
+| **A** | LAWRENCE | 34.5 | VANGHEEM NICHOLAS 🔗| L-427 | 📬 |
+| **A** | BELLEVUE | 34.4 | KROLL DEBRA A 🔗| B-46 | 📬 |
+| **A** | LAWRENCE | 34.4 | LAMERS FARM LLC 🔗| L-411 | 📬 |
+| **A** | BELLEVUE | 34.2 | DEGRAVE KERRY P | B-216 | 📬 |
+| **A** | HOWARD | 33.9 | HILLSIDE BROOK FARM LLC 🔗| VH-214 | 📬 |
+| **A** | SUAMICO | 33.7 | WHITE KEVIN J | SU-121 | 📬 |
+| **A** | BELLEVUE | 32.8 | KROLL DEBRA A 🔗| B-12-1 | 📬 |
+| **A** | SUAMICO | 32.1 | VELDEN ROBERT VANDER | SU-597 | 📬 |
+| **A** | BELLEVUE | 29.7 | KROLL DEBRA A 🔗| B-11 | 📬 |
+| **A** | BELLEVUE | 29.6 | VANDERKELEN ROBERT J | B-D124 | 📬 |
+| **A** | LAWRENCE | 28.6 | GHEEM PAUL | L-61 | 📬 |
+| **A** | SUAMICO | 28.3 | POSEY SHIRLEY | SU-675-4 | 📬 |
+| **A** | LAWRENCE | 27.3 | VANROSSUM MICHAEL H | L-76-2 | 📬 |
+| **A** | SUAMICO | 27.3 | TERRIEN EILEEN | SU-607 | 📬 |
+| **A** | HOWARD | 27.2 | MCALLISTER KATHLEEN M | VH-53-1 | 📬 |
+| **A** | SUAMICO | 26.9 | ANDREWS GERALD L | SU-107 | 📬 |
+| **A** | BELLEVUE | 26.6 | DANIEL J PEETERS/RONALD H WILLEMS REALTY LLP | B-313 | 📬 |
+| **A** | SUAMICO | 25.2 | BIG SKY REAL ESTATE LLP 🔗| SU-641-2 | 📬 |
+| **A** | BELLEVUE | 25.2 | FROELICH LORI L | B-13 | 📬 |
+| **A** | HOWARD | 24.9 | MASON JARED D | VH-70 | 📬 |
+| **A** | BELLEVUE | 24.0 | FRANKENTHAL HOWARD M | B-333 | 📬 |
+| **A** | HOWARD | 23.9 | MCALLISTER KATHLEEN | VH-37 | 📬 |
+| **A** | SUAMICO | 23.4 | MEULEMANS CHARMIANE | SU-9 | 📬 |
+| **A** | LAWRENCE | 22.9 | LARSON DONALD S | L-465 | 📬 |
+| **A** | LAWRENCE | 21.4 | MICKE EUGENE 🔗| L-16 | 📬 |
+| **A** | BELLEVUE | 21.1 | VANDENAVOND CARL 🔗| B-207 | 📬 |
+| **A** | SUAMICO | 20.8 | MCGREW REBECCA A | SU-645 | 📬 |
+| **A** | LAWRENCE | 20.3 | MID VALLEE GOLF COURSE | L-102 | 📬 |
+| **A** | LAWRENCE | 20.2 | VANGHEEM PAUL | L-57 | 📬 |
+| **A** | LAWRENCE | 9.6 | MESSER MICHAEL 🔗| L-1367 | 📞 |
+| **A** | LAWRENCE | 9.6 | MESSER MICHAEL 🔗| L-1368 | 📞 |
+| **A** | LAWRENCE | 9.0 | STUDDERS EILEEN | L-1374 | 📞 |
+| **A** | LAWRENCE | 9.0 | CUMMINGS KYLE | L-1379 | 📞 |
+| **A** | BELLEVUE | 5.7 | PIONTEK SHERI L | B-2678 | 📞 |
+| **A** | BELLEVUE | 5.7 | BLACKBURN CHRIS E | B-2681 | 📞 |
+| **A** | BELLEVUE | 5.7 | DREWS CHARLES R | B-2682 | 📞 |
+| **A** | BELLEVUE | 5.7 | MATTISON RICK D | B-2688 | 📞 |
+| **A** | BELLEVUE | 5.7 | WOHLFEIL STEVEN R | B-2689 | 📞 |
+| **A** | LAWRENCE | 4.4 | ALLEN GARY 🔗| L-2127 | 📞 |
+| **A** | LAWRENCE | 3.5 | SCHUMACHER CHAD M | L-1486 | 📞 |
+| **A** | HOWARD | 2.9 | VANDERVEST ERIK J | VH-1937 | 📞 |
+| **A** | SUAMICO | 1.6 | STILLER KEVIN | SU-820-A | 📞 |
+| **A** | HOWARD | 1.5 | HOFFMAN BARBARA L | VH-1938 | 📞 |
+| **A** | LAWRENCE | 1.4 | ROHDE KATHY | L-350-10 | 📞 |
+| **A** | LAWRENCE | 1.4 | WEBER RUTH P | L-350-2 | 📞 |
+| **A** | LAWRENCE | 1.4 | MICHAEL A DIESEL | L-350-6 | 📞 |
+| **A** | LAWRENCE | 1.0 | LOCHNER JOHN G | L-350-12 | 📞 |
+| **A** | LAWRENCE | 1.0 | SYTSMA JUSY A | L-350-5 | 📞 |
+| **A** | LAWRENCE | 1.0 | SHEA JANE H | L-350-7 | 📞 |
+| **A** | LAWRENCE | 1.0 | JOHNSON ANNE M | L-350-9 | 📞 |
+| **A** | LAWRENCE | 0.7 | GORDON GARY J | L-1484 | 📞 |
+| **A** | HOWARD | 0.4 | GERNDT MARY M | VH-1690 | 📞 |
+| **A** | LAWRENCE | 0.3 | MESSER MICHAEL J | L-1370 | 📞 |
+| **A** | HOWARD | 0.3 | MENNEN ANGELA L | VH-747-H-133 | 📞 |
+| **A** | HOWARD | 0.3 | ESSEN PATRICIA A VAN 🔗| VH-846-34 | 📞 |
+| **A** | HOWARD | 0.3 | ESSEN PATRICIA A VAN 🔗| VH-846-32 | 📞 |
+| **A** | HOWARD | 0.3 | LINSMEYER KENNETH | VH-917-M-28 | 📞 |
+| **A** | HOWARD | 0.2 | KLUG TONYA C | VH-828 | 📞 |
+| **A** | SUAMICO | 0.1 | DANIEL OLEARY | SU-964 | 📞 |
+| **A** | HOWARD | 0.1 | MAYVILLE HAROLD J 🔗| VH-853 | 📞 |
+| **A** | HOWARD | 0.1 | MAYVILLE HAROLD J 🔗| VH-854 | 📞 |
+| **A** | HOWARD | 0.1 | KOWALSKI JACQUELYN F 🔗| VH-871 | 📞 |
+| **A** | HOWARD | 0.1 | KOWALSKI JACQUELYN F 🔗| VH-872 | 📞 |
+| **A** | HOWARD | 0.1 | KOWALSKI JACQUELYN F 🔗| VH-873 | 📞 |
+| **A** | HOWARD | 0.1 | BELTER JOHN | VH-880 | 📞 |
+| **A** | HOWARD | 0.1 | MEYER ERIC | VH-885 | 📞 |
+| **A** | HOWARD | ? | KUEHL TODD | VH-3599-1 | 📞 |
+| **A-** | ASHWAUBENON | 24.5 | GEORGIA PACIFIC CONSUMER PRODUCTS LP | VA-216-2 | 📬 |
+| **A-** | ASHWAUBENON | 21.9 | KOCKEN KATHLEEN | VA-L194 | 📬 |
+| **A-** | ASHWAUBENON | 21.7 | LIN DER HUA | VA-L190 | 📬 |
+| **A-** | ASHWAUBENON | 0.8 | DOVER DEV 🔗| VA-228-Y-27 | 📞 |
+| **A-** | ASHWAUBENON | 0.7 | DOVER DEV 🔗| VA-228-Y-28 | 📞 |
+| **A-** | ASHWAUBENON | 0.6 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-7 | 📞 |
+| **A-** | ASHWAUBENON | 0.5 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-15 | 📞 |
+| **A-** | ASHWAUBENON | 0.5 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-16 | 📞 |
+| **A-** | ASHWAUBENON | 0.3 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-13 | 📞 |
+| **A-** | ASHWAUBENON | 0.3 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-14 | 📞 |
+| **A-** | ASHWAUBENON | 0.3 | LAMERS A & K PROPERTIES LLP 🔗| VA-228-W-8 | 📞 |
+| **A-** | ASHWAUBENON | 0.3 | THOMSON NATHAN J | VA-228-D-122 | 📞 |
+| **B+** | HUMBOLDT | 55.8 | STAHL DAVE J 🔗| HM-575-1 | 📬 |
+| **B+** | HUMBOLDT | 46.4 | JSMJ FARM LLC | HM-267 | 📬 |
+| **B+** | HUMBOLDT | 42.1 | PAY TIM 🔗| HM-7 | 📬 |
+| **B+** | HUMBOLDT | 41.5 | DETRIE FARMS LLC 🔗| HM-431 | 📬 |
+| **B+** | HUMBOLDT | 40.6 | SCHUH WEBSTER A | HM-82 | 📬 |
+| **B+** | SCOTT | 40.2 | ROBERTS DALE A | SC-702 | 📬 |
+| **B+** | HUMBOLDT | 40.1 | RANDALL M M | HM-557 | 📬 |
+| **B+** | SCOTT | 40.0 | VIRLEE RANDALL | SC-386 | 📬 |
+| **B+** | HUMBOLDT | 39.4 | JOSSART DONALD G 🔗| HM-17 | 📬 |
+| **B+** | HUMBOLDT | 39.4 | SEIDL JAMES G 🔗| HM-283 | 📬 |
+| **B+** | HUMBOLDT | 39.4 | DETRIE FARMS LLC 🔗| HM-116 | 📬 |
+| **B+** | HUMBOLDT | 39.1 | SEIDL JAMES G 🔗| HM-282 | 📬 |
+| **B+** | HUMBOLDT | 39.0 | ALLEN MARK A 🔗| HM-71 | 📬 |
+| **B+** | HUMBOLDT | 38.9 | BERNARD 🔗| HM-514 | 📬 |
+| **B+** | HUMBOLDT | 38.8 | ETIENNE JODI L 🔗| HM-122 | 📬 |
+| **B+** | HUMBOLDT | 38.7 | MARTIN STEVEN J 🔗| HM-6 | 📬 |
+| **B+** | HUMBOLDT | 38.6 | SEIFERT LINDA L 🔗| HM-14 | 📬 |
+| **B+** | HUMBOLDT | 38.4 | KROLL DEBRA A 🔗| HM-32 | 📬 |
+| **B+** | HUMBOLDT | 38.4 | RONSMAN JEFFREY G | HM-467 | 📬 |
+| **B+** | HUMBOLDT | 38.3 | ROBERTS IVAN J 🔗| HM-530 | 📬 |
+| **B+** | HUMBOLDT | 38.1 | BAETEN PERRY 🔗| HM-538 | 📬 |
+| **B+** | HUMBOLDT | 38.1 | MARTIN STEVEN J 🔗| HM-1 | 📬 |
+| **B+** | HUMBOLDT | 38.1 | DANTINNE DEBRA | HM-537 | 📬 |
+| **B+** | HUMBOLDT | 38.0 | BERNARD 🔗| HM-328 | 📬 |
+| **B+** | SCOTT | 38.0 | DUFEK GLEN J 🔗| SC-421 | 📬 |
+| **B+** | HUMBOLDT | 37.9 | PAY TIM 🔗| HM-220 | 📬 |
+| **B+** | HUMBOLDT | 37.6 | SEIFERT LINDA L 🔗| HM-545-1 | 📬 |
+| **B+** | HUMBOLDT | 37.6 | ROMAINE M JUNEAU | HM-219 | 📬 |
+| **B+** | SCOTT | 37.2 | BAENEN BRIAN L 🔗| SC-360-1 | 📬 |
+| **B+** | SCOTT | 37.2 | TORDEUR EDWARD G | SC-442 | 📬 |
+| **B+** | SCOTT | 37.1 | STREBEL BARBARA J 🔗| SC-376 | 📬 |
+| **B+** | HUMBOLDT | 37.0 | KROLL DEBRA L | HM-531 | 📬 |
+| **B+** | SCOTT | 36.9 | STREBEL BARBARA J 🔗| SC-323-1 | 📬 |
+| **B+** | HUMBOLDT | 36.8 | JAUQUET DAVID J | HM-11 | 📬 |
+| **B+** | HUMBOLDT | 36.7 | ETIENNE JODI L 🔗| HM-120 | 📬 |
+| **B+** | SCOTT | 36.7 | 7180 LTD PARTNERSHIP 🔗| SC-486A | 📬 |
+| **B+** | SCOTT | 36.6 | JOSKI ANNETTE E | SC-732 | 📬 |
+| **B+** | HUMBOLDT | 36.3 | JOSSART DONALD G 🔗| HM-15-1 | 📬 |
+| **B+** | HUMBOLDT | 36.2 | KROLL JAMES M | HM-70 | 📬 |
+| **B+** | HUMBOLDT | 36.2 | ROBERTS IVAN J 🔗| HM-516 | 📬 |
+| **B+** | HUMBOLDT | 36.1 | PAY TIM 🔗| HM-24 | 📬 |
+| **B+** | HUMBOLDT | 35.8 | RENTMEESTER JULIE A | HM-137 | 📬 |
+| **B+** | SCOTT | 35.3 | PETERS FAMILY WISCONSIN LIMITED PARTNERSHIP | SC-503 | 📬 |
+| **B+** | SCOTT | 35.3 | DAVID MARK 🔗| SC-604 | 📬 |
+| **B+** | HUMBOLDT | 35.0 | KROLL DEBRA A 🔗| HM-138 | 📬 |
+| **B+** | SCOTT | 34.9 | CHAPPELL FARMS LLC | SC-682 | 📬 |
+| **B+** | HUMBOLDT | 34.8 | DETRIE FARMS LLC 🔗| HM-113 | 📬 |
+| **B+** | HUMBOLDT | 34.7 | DUFEK LARRY J 🔗| HM-438-1 | 📬 |
+| **B+** | HUMBOLDT | 34.6 | 7180 LTD PARTNERSHIP 🔗| HM-359 | 📬 |
+| **B+** | HUMBOLDT | 34.4 | ALLEN WARREN | HM-218 | 📬 |
+| **B+** | HUMBOLDT | 34.2 | ETIENNE JODI L 🔗| HM-121 | 📬 |
+| **B+** | HUMBOLDT | 34.1 | SEIDL JAMES G 🔗| HM-281-1 | 📬 |
+| **B+** | HUMBOLDT | 33.9 | ARENDT DAVID H | HM-533-1 | 📬 |
+| **B+** | HUMBOLDT | 33.9 | SEIFERT LINDA L 🔗| HM-38 | 📬 |
+| **B+** | HUMBOLDT | 33.7 | ROBERTS IVAN J 🔗| HM-39 | 📬 |
+| **B+** | SCOTT | 33.6 | ROBERT ROSS | SC-578 | 📬 |
+| **B+** | HUMBOLDT | 33.6 | BERNARD 🔗| HM-329 | 📬 |
+| **B+** | SCOTT | 33.5 | BRIAN L BAENEN | SC-275 | 📬 |
+| **B+** | HUMBOLDT | 33.5 | KROLL DEBRA | HM-128-2 | 📬 |
+| **B+** | HUMBOLDT | 33.5 | PAY TIM 🔗| HM-306-1 | 📬 |
+| **B+** | HUMBOLDT | 33.5 | VANESS THOMAS A | HM-474 | 📬 |
+| **B+** | HUMBOLDT | 33.4 | ALLEN RANDALL L | HM-221-2-1 | 📬 |
+| ... | ... | ... (+128 more) | ... | ... |
 
-### North Star Takeaway
+## Rezoning Analysis
 
-#### Ledgeview — 199 parcels, ~6038 acres (HIGH, PRIMARY)
-- **199 parcels** totaling ~6038 acres
-- **FLU context:** Fastest growing. Near De Pere expansion boundary.
-- **34 multi-property owners** in this cluster
+### 🔥 A+/A — Prime Ag→Subdivision Targets
+*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-#### Bellevue — 126 parcels, ~2084 acres (HIGH, PRIMARY)
-- **126 parcels** totaling ~2084 acres
-- **FLU context:** East of Green Bay. Steady residential growth.
-- **14 multi-property owners** in this cluster
+- **D-171** | 39.5ac | COATES DAVID J | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-304** | 38.9ac | LOTTO JOSEPH P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-267** | 37.5ac | JASON R R | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-128** | 34.9ac | LOTTO BERNARD P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-172** | 34.2ac | ARENDT SANDRA M | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-307** | 33.1ac | MENCHESKI ANTHONY A | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-249** | 30.2ac | PANSIER GLEN J | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-241** | 29.5ac | PANSIER GLEN J | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-462** | 29.3ac | EDINGER RANDALL L | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-276** | 29.2ac | GERALD BRICE | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 
-#### Ashwaubenon — 56 parcels, ~1169 acres (HIGH, PRIMARY)
-- **56 parcels** totaling ~1169 acres
-- **FLU context:** Adjacent to Green Bay. I-41. Sewer/water.
-- **9 multi-property owners** in this cluster
+### Clusters
+**SCOTT** (B+): 116 parcels, ~901ac
+  89 MLS — call first
+  12 multi-owners
+**HUMBOLDT** (B+): 74 parcels, ~2518ac
+  17 multi-owners
+**LAWRENCE** (A): 34 parcels, ~713ac
+  15 MLS — call first
+  5 multi-owners
+**LEDGEVIEW** (A+): 32 parcels, ~582ac
+  16 MLS — call first
+  3 multi-owners
+**SUAMICO** (A): 22 parcels, ~686ac
+  2 MLS — call first
+  2 multi-owners
+**HOWARD** (A): 22 parcels, ~203ac
+  16 MLS — call first
+  4 multi-owners
+**BELLEVUE** (A): 16 parcels, ~381ac
+  5 MLS — call first
+  3 multi-owners
+**ASHWAUBENON** (A-): 12 parcels, ~73ac
+  9 MLS — call first
+  2 multi-owners
 
-#### 📞 For-Sale Priority (Call)
-- **Bellevue**: 61 MLS-listed parcels
-- **Ledgeview**: 31 MLS-listed parcels
-- **Ashwaubenon**: 23 MLS-listed parcels
+### 📞 For-Sale
+- **SCOTT** (B+): 89
+- **LEDGEVIEW** (A+): 16
+- **HOWARD** (A): 16
+- **LAWRENCE** (A): 15
+- **ASHWAUBENON** (A-): 9
+- **BELLEVUE** (A): 5
+- **SUAMICO** (A): 2
 
-#### 📬 Off-Market Priority (Mail)
-- **Ledgeview**: 168 parcels — 32 multi-owners
-- **Bellevue**: 65 parcels — 11 multi-owners
-- **Ashwaubenon**: 33 parcels — 4 multi-owners
+### 📬 Off-Market
+- **HUMBOLDT** (B+): 74 — 17 multi-owners
+- **SCOTT** (B+): 27 — 6 multi-owners
+- **SUAMICO** (A): 20 — 2 multi-owners
+- **LAWRENCE** (A): 19 — 3 multi-owners
+- **LEDGEVIEW** (A+): 16 — 2 multi-owners
+- **BELLEVUE** (A): 11 — 3 multi-owners
+- **HOWARD** (A): 6 — 1 multi-owners
+- **ASHWAUBENON** (A-): 3
 
 ---
+*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

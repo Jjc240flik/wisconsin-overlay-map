@@ -176,221 +176,161 @@ An interactive toggle map showing **Current Zoning ↔ Future Land Use** with co
 - [Town of Freedom](https://townoffreedom.org/)
 - [Town of Buchanan](https://www.townofbuchanan.org/)
 
+---
+
 ## Subdivision Pipeline
 
-## Outagamie County — Subdivision Pipeline
+**112 parcels** | 112 off-market | 0 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
-**182 parcels** | 182 off-market (mail) | 0 for-sale (call)
+## Parcels Ranked by Rezoning Potential
 
-### Parcels Ranked by Future Zoning / FLU
-
-| Zone | Town | Acres | Owner | APN | Status |
+| Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| HIGH | Greenville | ? | OBERMEIER BARRY | 02-0-0133-00 | 📬 Mail |
-| HIGH | Greenville | ? | MARION SCHROEDER | 08-0-0865-00 | 📬 Mail |
-| HIGH | Greenville | ? | LATZEWITZ BONNIE B | 08-0-0885-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0271-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ROHM BRENT A 🔗 | 04-0-0281-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | KAMIEN SUZANNE | 04-0-0294-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | RAHMLOW FARMS | 04-0-0296-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ROHM BRENT A 🔗 | 04-0-0306-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHMIDT JO ANN | 04-0-0342-02 | 📬 Mail |
-| HIGH | Grand Chute | ? | PALTZER ROBERT | 04-0-0362-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | KRUEGER DAVID | 04-0-0366-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | JOYCE WICHMAN | 04-0-0393-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0397-01 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0402-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0403-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0412-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ASHAUER JAMES 🔗 | 04-0-0433-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ASHAUER JAMES 🔗 | 04-0-0540-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHROEDER GERHARDT 🔗 | 04-0-0554-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHROEDER GERHARDT 🔗 | 04-0-0557-02 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0559-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER JEFFREY J 🔗 | 04-0-0616-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER JEFFREY J 🔗 | 04-0-0617-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER JEFFREY J 🔗 | 04-0-0619-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER JEFFREY J 🔗 | 04-0-0621-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER JEFFREY J 🔗 | 04-0-0622-02 | 📬 Mail |
-| HIGH | Grand Chute | ? | SPRINGSTROH GLENN L | 04-0-0635-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | HOFACKER J 🔗 | 04-0-0259-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WINTERS JODY | 06-0-0063-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | RICKERT DARLENE 🔗 | 09-0-0182-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHUH BRENT | 09-0-0518-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHWALBACH NED | 09-0-0527-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | MURPHY DONNA | 09-0-0539-02 | 📬 Mail |
-| HIGH | Grand Chute | ? | BLACK CREEK LIMESTONE COMPANY 🔗 | 09-0-0540-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | G & G FARM LAND LLC 🔗 | 09-0-0607-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANDEWETTERING JAYNE | 09-0-0288-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | G & G FARM LAND LLC 🔗 | 09-0-0612-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BAST JOHN | 01-0-0796-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WELLS DEBRA 🔗 | 08-0-0628-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WELLS DEBRA 🔗 | 08-0-0631-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BLACK CREEK LIMESTONE COMPANY 🔗 | 09-0-0449-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | RICKERT DARLENE 🔗 | 09-0-0458-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BLACK CREEK LIMESTONE COMPANY 🔗 | 09-0-0481-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ROMENESKO BRIAN | 09-0-0489-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHAMPERS MARK | 13-0-0211-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANHANDEL JULE | 10-1-0421-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | EVERS FAMILY LTD PARTNERSHIP | 20-0-0127-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANHANDEL GREGORY | 20-0-0188-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WICHMAN BRUCE | 04-0-0003-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ROHM BRENT A 🔗 | 04-0-0015-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ROHM BRENT A 🔗 | 04-0-0016-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | ENGLAND FAMILY LTD PARTNERS | 04-0-0848-01 | 📬 Mail |
-| HIGH | Grand Chute | ? | MCCARTHY DAVID 🔗 | 04-0-0858-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | MCCARTHY DAVID 🔗 | 04-0-0859-03 | 📬 Mail |
-| HIGH | Grand Chute | ? | MCCARTHY DAVID 🔗 | 04-0-0862-03 | 📬 Mail |
-| HIGH | Grand Chute | ? | BERG THOMAS | 04-0-0689-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SUE WOLTER | 04-0-0909-04 | 📬 Mail |
-| HIGH | Grand Chute | ? | APPLE HILL FARMS LLC | 31-1-9202-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | DEEP FARMS LLC | 31-1-9220-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHABO JAY | 04-0-0955-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WESTRA CHRISTOPHER S | 31-1-9310-04 | 📬 Mail |
-| HIGH | Grand Chute | ? | MCCARTHY DAVID 🔗 | 04-0-0830-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | MCCARTHY DAVID 🔗 | 04-0-0831-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | JENTZ PAMELA A | 08-0-0915-01 | 📬 Mail |
-| HIGH | Grand Chute | ? | VERHASSELT BROS L | 09-0-0757-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BEHLE FARM LLC 🔗 | 09-0-0766-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BEHLE FARM LLC 🔗 | 09-0-0770-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | BEHLE FARM LLC 🔗 | 09-0-0771-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WENDT DONNA | 09-0-0792-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | GEHRING NANCY 🔗 | 09-0-0793-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | GEHRING NANCY 🔗 | 09-0-0796-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | GEHRING NANCY 🔗 | 09-0-0873-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANDERLOOP LEE 🔗 | 09-0-0913-02 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANHANDEL JOSEPH | 09-0-0924-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VOSTERS JAMES | 09-0-0943-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | STELLMACHER JON | 19-0-0136-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | CAREW CONCRETE SUPPLY CO | 09-0-0055-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | TANK HARVEY | 09-0-0145-06 | 📬 Mail |
-| HIGH | Grand Chute | ? | SPRINGSTROH JUDITH 🔗 | 09-0-0151-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SPRINGSTROH JUDITH 🔗 | 09-0-0152-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | SCHROTH DAVID | 10-1-0847-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANHANDEL MOONSHADOW FARMS LLC | 17-0-2008-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | WHITE ANNA | 17-0-1259-00 | 📬 Mail |
-| HIGH | Grand Chute | ? | VANDERLOOP LEE 🔗 | 20-0-0096-01 | 📬 Mail |
-| HIGH | Harrison Village | ? | WIESE BROTHERS FARMS | 03-0-0288-00 | 📬 Mail |
-| HIGH | Combined Locks | ? | SMITH JOHN | 21-0-0241-00 | 📬 Mail |
-| MOD | Buchanan | ? | BLACK CREEK LIMESTONE COMPANY 🔗 | 09-0-0186-00 | 📬 Mail |
-| MOD | Buchanan | ? | PATRICK ROBERT | 09-0-0187-00 | 📬 Mail |
-| MOD | Buchanan | ? | GARVEY BETTY | 09-0-0226-01 | 📬 Mail |
-| MOD | Buchanan | ? | VANROSSUM LYLE 🔗 | 09-0-0663-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANROSSUM LYLE 🔗 | 09-0-0682-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ GARY 🔗 | 09-0-0686-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ GARY 🔗 | 09-0-0688-00 | 📬 Mail |
-| MOD | Buchanan | ? | FOX VALLEY GOLF CLUB 🔗 | 09-0-0699-00 | 📬 Mail |
-| MOD | Buchanan | ? | FOX VALLEY GOLF CLUB 🔗 | 09-0-0700-00 | 📬 Mail |
-| MOD | Buchanan | ? | HILLEGAS SANDRA L | 09-0-0707-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANROSSUM RONALD | 09-0-0710-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANASTEN MICHAEL | 09-0-0339-00 | 📬 Mail |
-| MOD | Buchanan | ? | CONRAD LINDA | 09-0-0353-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO KATHLEEN H 🔗 | 09-0-0384-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANROSSUM EUGENE | 09-0-0387-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO FARMS LLC 🔗 | 01-0-0690-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO FARMS LLC 🔗 | 01-0-0691-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT FARMLAND LLC 🔗 | 13-0-0082-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT FARMS LTD 🔗 | 13-0-0093-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT FARMS LTD 🔗 | 13-0-0100-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO THOMAS 🔗 | 13-0-0101-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO THOMAS 🔗 | 13-0-0104-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO KATHLEEN H 🔗 | 13-0-0109-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO KATHLEEN H 🔗 | 13-0-0111-00 | 📬 Mail |
-| MOD | Buchanan | ? | ROMENESKO KATHLEEN H 🔗 | 13-0-0118-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANWYCHEN FARMS LLC 🔗 | 13-0-0122-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANWYCHEN FARMS LLC 🔗 | 13-0-0125-00 | 📬 Mail |
-| MOD | Buchanan | ? | HEART OF VALLEY METRO & SEWAGE | 03-0-0133-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT FARMLAND LLC 🔗 | 13-0-0154-00 | 📬 Mail |
-| MOD | Buchanan | ? | AL KAY DAIRY FARMS LLC 🔗 | 13-0-0190-00 | 📬 Mail |
-| MOD | Buchanan | ? | AL KAY DAIRY FARMS LLC 🔗 | 13-0-0193-00 | 📬 Mail |
-| MOD | Buchanan | ? | LIEBERGEN DALE | 13-0-0212-00 | 📬 Mail |
-| MOD | Buchanan | ? | HOELZEL PAUL 🔗 | 03-0-0150-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 13-0-0229-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 13-0-0230-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 13-0-0231-00 | 📬 Mail |
-| MOD | Buchanan | ? | FOX GARY | 13-0-0235-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO ROBERT 🔗 | 13-0-0237-00 | 📬 Mail |
-| MOD | Buchanan | ? | PENTERMAN WILLIAM | 03-0-0158-00 | 📬 Mail |
-| MOD | Buchanan | ? | EARL | 13-0-0261-00 | 📬 Mail |
-| MOD | Buchanan | ? | VENROOY ELAINE | 13-0-0263-01 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO ROBERT 🔗 | 13-0-0266-00 | 📬 Mail |
-| MOD | Buchanan | ? | COUNTRY AIRE HARVESTING 🔗 | 03-0-0168-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDEYACHT TED | 03-0-0265-00 | 📬 Mail |
-| MOD | Buchanan | ? | HOELZEL PAUL 🔗 | 03-0-0271-00 | 📬 Mail |
-| MOD | Buchanan | ? | HOELZEL PAUL 🔗 | 03-0-0276-00 | 📬 Mail |
-| MOD | Buchanan | ? | HOELZEL DANIEL | 03-0-0287-00 | 📬 Mail |
-| MOD | Buchanan | ? | KAUKAUNA UTILITIES | 32-2-1133-01 | 📬 Mail |
-| MOD | Buchanan | ? | FELDKAMP HOWARD | 03-0-0018-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDE HEY BRUCE 🔗 | 03-0-0030-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDE HEY BRUCE 🔗 | 03-0-0031-00 | 📬 Mail |
-| MOD | Buchanan | ? | FELDKAMP ROGER L 🔗 | 03-0-0034-00 | 📬 Mail |
-| MOD | Buchanan | ? | FELDKAMP ROGER L 🔗 | 03-0-0036-00 | 📬 Mail |
-| MOD | Buchanan | ? | UITENBROEK MARK 🔗 | 03-0-0040-00 | 📬 Mail |
-| MOD | Buchanan | ? | UITENBROEK MARK 🔗 | 03-0-0043-00 | 📬 Mail |
-| MOD | Buchanan | ? | SCHUESSLER LOUISE | 03-0-0049-00 | 📬 Mail |
-| MOD | Buchanan | ? | LIEBERGEN MARK 🔗 | 03-0-0051-00 | 📬 Mail |
-| MOD | Buchanan | ? | LIEBERGEN MARK 🔗 | 03-0-0054-00 | 📬 Mail |
-| MOD | Buchanan | ? | UITENBROEK MARK 🔗 | 03-0-0059-00 | 📬 Mail |
-| MOD | Buchanan | ? | ONEIDA NATION | 17-0-1803-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT DALE 🔗 | 17-0-1805-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT DALE 🔗 | 17-0-1810-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT DALE 🔗 | 17-0-1864-00 | 📬 Mail |
-| MOD | Buchanan | ? | LAMERS MICHAEL | 20-0-0106-03 | 📬 Mail |
-| MOD | Buchanan | ? | VANASTEN DENNIS | 20-0-0209-00 | 📬 Mail |
-| MOD | Buchanan | ? | VOSTERS GORDON | 20-0-0245-01 | 📬 Mail |
-| MOD | Buchanan | ? | HUSS JAMES | 09-0-0732-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ GARY W 🔗 | 09-0-0734-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ GARY W 🔗 | 09-0-0738-00 | 📬 Mail |
-| MOD | Buchanan | ? | WALTON KENNETH M | 32-5-0594-00 | 📬 Mail |
-| MOD | Buchanan | ? | WILLER TODD | 09-0-0007-03 | 📬 Mail |
-| MOD | Buchanan | ? | MURPHY JOSEPH | 09-0-0008-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDENHEUVEL DAVID | 09-0-0951-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDERLOOP GARY | 09-0-0954-00 | 📬 Mail |
-| MOD | Buchanan | ? | HOVEN ROSS | 09-0-0048-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANHANDEL FLORIAN | 09-0-0974-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANVREEDE DOUGLAS J | 09-0-0985-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 09-0-0989-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 09-0-0993-00 | 📬 Mail |
-| MOD | Buchanan | ? | KORTZ MARK 🔗 | 09-0-0994-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDEHEY JAMES | 09-0-0996-03 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO ROBERT 🔗 | 13-0-0335-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO ROBERT 🔗 | 13-0-0359-01 | 📬 Mail |
-| MOD | Buchanan | ? | VANDELOO ROBERT 🔗 | 13-0-0363-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANZEELAND MARION F | 13-0-0392-00 | 📬 Mail |
-| MOD | Buchanan | ? | KILSDONK ELIZABETH 🔗 | 13-0-0009-00 | 📬 Mail |
-| MOD | Buchanan | ? | KILSDONK ELIZABETH 🔗 | 13-0-0012-00 | 📬 Mail |
-| MOD | Buchanan | ? | KILSDONK ELIZABETH 🔗 | 13-0-0013-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT DALE 🔗 | 13-0-0016-00 | 📬 Mail |
-| MOD | Buchanan | ? | KILSDONK ELIZABETH 🔗 | 13-0-0017-00 | 📬 Mail |
-| MOD | Buchanan | ? | VERHASSELT DALE 🔗 | 13-0-0018-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANWYCHEN FARMS LLC 🔗 | 13-0-0055-00 | 📬 Mail |
-| MOD | Buchanan | ? | VANROSSUM LYLE 🔗 | 13-0-0066-00 | 📬 Mail |
-| MOD | Buchanan | ? | VER BUST THOMAS J | 18-0-0258-00 | 📬 Mail |
-| MOD | Buchanan | ? | HIETPAS MARV | 20-0-0552-00 | 📬 Mail |
-| MOD | Buchanan | ? | SCHUESSLER ELIZABETH | 03-0-0134-03 | 📬 Mail |
+| **A+** | GREENVILLE | ? | LARSON JESSICA R | 11-1-0042-00 | 📬 |
+| **A+** | GREENVILLE | ? | WINTERFELDT HARRY | 11-1-0055-01 | 📬 |
+| **A+** | GREENVILLE | ? | ZIEGLER MARK 🔗| 11-1-0125-00 | 📬 |
+| **A+** | GREENVILLE | ? | MILLER ELECTRIC MFG CO | 11-1-0891-01 | 📬 |
+| **A+** | GREENVILLE | ? | REIS DENNIS | 11-1-0103-00 | 📬 |
+| **A+** | GREENVILLE | ? | OBERMEIER BRETT A | 11-1-0406-02 | 📬 |
+| **A+** | GREENVILLE | ? | MTMA LAND LLP | 11-1-0268-00 | 📬 |
+| **A+** | GREENVILLE | ? | ZIEGLER MARK 🔗| 11-1-0126-00 | 📬 |
+| **A+** | GREENVILLE | ? | ESSLER BARBARA | 11-1-0410-00 | 📬 |
+| **A+** | GREENVILLE | ? | BRAEGER FARM LLC | 11-1-0818-00 | 📬 |
+| **A+** | GREENVILLE | ? | NEUBERT MICHAEL | 11-1-0117-00 | 📬 |
+| **A+** | GREENVILLE | ? | SCHROTH PAUL | 11-1-0885-00 | 📬 |
+| **A+** | GREENVILLE | ? | MAROSZEK ALTHEA | 11-1-0212-00 | 📬 |
+| **A+** | GREENVILLE | ? | STREY RANDALL 🔗| 11-1-0230-00 | 📬 |
+| **A+** | GREENVILLE | ? | JACQUOT MARY | 11-1-0233-00 | 📬 |
+| **A+** | GREENVILLE | ? | STREY RANDALL 🔗| 11-1-0235-00 | 📬 |
+| **A+** | GREENVILLE | ? | ASMAN SHERYL | 11-1-0236-00 | 📬 |
+| **A+** | GREENVILLE | ? | SPENCER MAIN | 11-1-1154-00 | 📬 |
+| **A+** | GREENVILLE | ? | STREY RANDALL 🔗| 11-1-0701-00 | 📬 |
+| **A+** | GREENVILLE | ? | JACK STEVEN 🔗| 11-1-1084-00 | 📬 |
+| **A+** | GREENVILLE | ? | JACK STEVEN 🔗| 11-1-1105-00 | 📬 |
+| **A+** | GREENVILLE | ? | SCHABO HERBERT | 11-1-0942-00 | 📬 |
+| **A+** | GREENVILLE | ? | BREI KEITH | 11-1-0977-00 | 📬 |
+| **A+** | GREENVILLE | ? | ZIEGLER MARK 🔗| 11-1-0161-00 | 📬 |
+| **A+** | GREENVILLE | ? | JENTZ JEFFREY | 11-1-0716-00 | 📬 |
+| **A+** | GREENVILLE | ? | VANDELOO FARMS LLC | 11-1-0770-00 | 📬 |
+| **A+** | GREENVILLE | ? | KRUEGER REBECCA | 11-1-0802-09 | 📬 |
+| **A+** | GREENVILLE | ? | ROBERT C RUEGGER AND HOLLI L RUEGGER LIVING T | 11-1-0774-03 | 📬 |
+| **A** | GRAND CHUTE | ? | VANHANDEL JULE | 10-1-0421-00 | 📬 |
+| **A** | GRAND CHUTE | ? | SCHROTH DAVID | 10-1-0847-00 | 📬 |
+| **A** | GRAND CHUTE | ? | VTAE DIST 12 🔗| 10-1-0870-00 | 📬 |
+| **A** | GRAND CHUTE | ? | VTAE DIST 12 🔗| 10-1-0871-00 | 📬 |
+| **B+** | BUCHANAN | ? | VANDEYACHT TED | 03-0-0265-00 | 📬 |
+| **B+** | BUCHANAN | ? | HOELZEL DANIEL 🔗| 03-0-0287-00 | 📬 |
+| **B+** | BUCHANAN | ? | WIESE BROTHERS FARMS | 03-0-0288-00 | 📬 |
+| **B+** | BUCHANAN | ? | HOELZEL DANIEL 🔗| 03-0-0290-00 | 📬 |
+| **B+** | FREEDOM | ? | RICKERT DARLENE 🔗| 09-0-0182-00 | 📬 |
+| **B+** | FREEDOM | ? | BLACK CREEK LIMESTONE COMPANY 🔗| 09-0-0186-00 | 📬 |
+| **B+** | FREEDOM | ? | PATRICK ROBERT | 09-0-0187-00 | 📬 |
+| **B+** | FREEDOM | ? | BROCKMAN FAMILY FARM LLC | 09-0-0198-00 | 📬 |
+| **B+** | FREEDOM | ? | SCHUH BRENT | 09-0-0518-00 | 📬 |
+| **B+** | FREEDOM | ? | SCHWALBACH NED | 09-0-0527-00 | 📬 |
+| **B+** | FREEDOM | ? | MURPHY DONNA | 09-0-0539-02 | 📬 |
+| **B+** | FREEDOM | ? | GARVEY BETTY | 09-0-0226-01 | 📬 |
+| **B+** | FREEDOM | ? | BLACK CREEK LIMESTONE COMPANY 🔗| 09-0-0540-00 | 📬 |
+| **B+** | FREEDOM | ? | BYRNE JOSEPH 🔗| 09-0-0569-00 | 📬 |
+| **B+** | FREEDOM | ? | G & G FARM LAND LLC 🔗| 09-0-0607-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDEWETTERING JAYNE | 09-0-0288-00 | 📬 |
+| **B+** | FREEDOM | ? | G & G FARM LAND LLC 🔗| 09-0-0612-00 | 📬 |
+| **B+** | FREEDOM | ? | LARRAND REAL ESTATE LLP | 09-0-0618-00 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM LYLE 🔗| 09-0-0663-00 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM EUGENE 🔗| 09-0-0672-01 | 📬 |
+| **B+** | FREEDOM | ? | FOX THOMAS P | 09-0-0673-00 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM LYLE 🔗| 09-0-0682-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ GARY 🔗| 09-0-0686-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ GARY 🔗| 09-0-0688-00 | 📬 |
+| **B+** | FREEDOM | ? | FOX VALLEY GOLF CLUB 🔗| 09-0-0699-00 | 📬 |
+| **B+** | FREEDOM | ? | FOX VALLEY GOLF CLUB 🔗| 09-0-0700-00 | 📬 |
+| **B+** | FREEDOM | ? | HILLEGAS SANDRA L | 09-0-0707-00 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM RONALD 🔗| 09-0-0710-00 | 📬 |
+| **B+** | FREEDOM | ? | VANCAMP WAYNE | 09-0-0711-00 | 📬 |
+| **B+** | FREEDOM | ? | VANASTEN MICHAEL | 09-0-0339-00 | 📬 |
+| **B+** | FREEDOM | ? | CONRAD LINDA | 09-0-0353-00 | 📬 |
+| **B+** | FREEDOM | ? | VERHASSELT MARK | 09-0-0363-00 | 📬 |
+| **B+** | FREEDOM | ? | ROMENESKO KATHLEEN H | 09-0-0384-00 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM EUGENE 🔗| 09-0-0387-00 | 📬 |
+| **B+** | FREEDOM | ? | BLACK CREEK LIMESTONE COMPANY 🔗| 09-0-0449-00 | 📬 |
+| **B+** | FREEDOM | ? | RICKERT DARLENE 🔗| 09-0-0458-00 | 📬 |
+| **B+** | FREEDOM | ? | BLACK CREEK LIMESTONE COMPANY 🔗| 09-0-0479-00 | 📬 |
+| **B+** | FREEDOM | ? | BLACK CREEK LIMESTONE COMPANY 🔗| 09-0-0481-00 | 📬 |
+| **B+** | FREEDOM | ? | ROMENESKO BRIAN | 09-0-0489-00 | 📬 |
+| **B+** | FREEDOM | ? | HUSS JAMES | 09-0-0732-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ GARY W 🔗| 09-0-0734-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ GARY W 🔗| 09-0-0738-00 | 📬 |
+| **B+** | FREEDOM | ? | VERHASSELT BROS L | 09-0-0757-00 | 📬 |
+| **B+** | FREEDOM | ? | BYRNE JOSEPH 🔗| 09-0-0762-00 | 📬 |
+| **B+** | FREEDOM | ? | BEHLE FARM LLC 🔗| 09-0-0766-00 | 📬 |
+| **B+** | FREEDOM | ? | BEHLE FARM LLC 🔗| 09-0-0770-00 | 📬 |
+| **B+** | FREEDOM | ? | BEHLE FARM LLC 🔗| 09-0-0771-00 | 📬 |
+| **B+** | FREEDOM | ? | WENDT DONNA | 09-0-0792-00 | 📬 |
+| **B+** | FREEDOM | ? | GEHRING NANCY 🔗| 09-0-0793-00 | 📬 |
+| **B+** | FREEDOM | ? | GEHRING NANCY 🔗| 09-0-0796-00 | 📬 |
+| **B+** | FREEDOM | ? | GEHRING NANCY 🔗| 09-0-0873-00 | 📬 |
+| **B+** | FREEDOM | ? | WILLER TODD | 09-0-0007-03 | 📬 |
+| **B+** | FREEDOM | ? | MURPHY JOSEPH | 09-0-0008-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDERLOOP LEE | 09-0-0913-02 | 📬 |
+| **B+** | FREEDOM | ? | VANHANDEL JOSEPH | 09-0-0924-00 | 📬 |
+| **B+** | FREEDOM | ? | VOSTERS JAMES | 09-0-0943-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDENHEUVEL DAVID | 09-0-0951-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDERLOOP GARY | 09-0-0954-00 | 📬 |
+| **B+** | FREEDOM | ? | KEUNE JEAN M | 09-0-0043-00 | 📬 |
+| **B+** | FREEDOM | ? | HOVEN ROSS | 09-0-0048-00 | 📬 |
+| **B+** | FREEDOM | ? | CAREW CONCRETE SUPPLY CO | 09-0-0055-00 | 📬 |
+| **B+** | FREEDOM | ? | STCLLMACHER KENNETH F | 09-0-0065-00 | 📬 |
+| **B+** | FREEDOM | ? | FISCHER CHRISTOPHER | 09-0-0072-00 | 📬 |
+| **B+** | FREEDOM | ? | RIESENWEBER LARRY | 09-0-0093-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDYNHOVEN JUDITH | 09-0-0123-04 | 📬 |
+| **B+** | FREEDOM | ? | TANK HARVEY | 09-0-0145-06 | 📬 |
+| **B+** | FREEDOM | ? | SPRINGSTROH JUDITH 🔗| 09-0-0151-00 | 📬 |
+| **B+** | FREEDOM | ? | SPRINGSTROH JUDITH 🔗| 09-0-0152-00 | 📬 |
+| **B+** | FREEDOM | ? | VANHANDEL LARRY P | 09-0-0969-00 | 📬 |
+| **B+** | FREEDOM | ? | VANHANDEL FLORIAN | 09-0-0974-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ JAMES | 09-0-0981-00 | 📬 |
+| **B+** | FREEDOM | ? | VANVREEDE DOUGLAS J | 09-0-0985-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ MARK 🔗| 09-0-0989-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ MARK 🔗| 09-0-0993-00 | 📬 |
+| **B+** | FREEDOM | ? | KORTZ MARK 🔗| 09-0-0994-00 | 📬 |
+| **B+** | FREEDOM | ? | VANDEHEY JAMES | 09-0-0996-03 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM RONALD 🔗| 09-0-0601-06 | 📬 |
+| **B+** | FREEDOM | ? | VANASTEN JOSEPH F | 09-0-0322-03 | 📬 |
+| **B+** | FREEDOM | ? | FOX BRYAN | 09-0-0494-01 | 📬 |
+| **B+** | FREEDOM | ? | VANROSSUM STEVE | 09-0-0606-01 | 📬 |
 
-### North Star Takeaway
+## Rezoning Analysis
 
-#### Greenville — 3 parcels, ~0 acres (HIGH, PRIMARY)
-- **3 parcels** totaling ~0 acres
-- **FLU context:** FLU map adopted. Water/wastewater master plans. 7 sub-area growth zones.
+### 🔥 A+/A — Prime Ag→Subdivision Targets
+*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-#### Grand Chute — 81 parcels, ~0 acres (HIGH, PRIMARY)
-- **81 parcels** totaling ~0 acres
-- **FLU context:** Surrounds Appleton. FLU shows residential expansion along US 41.
-- **14 multi-property owners** in this cluster
+- **11-1-0042-00** | 0.0ac | LARSON JESSICA R | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0055-01** | 0.0ac | WINTERFELDT HARRY | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0125-00** | 0.0ac | ZIEGLER MARK | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0891-01** | 0.0ac | MILLER ELECTRIC MFG CO | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0103-00** | 0.0ac | REIS DENNIS | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0406-02** | 0.0ac | OBERMEIER BRETT A | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0268-00** | 0.0ac | MTMA LAND LLP | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0126-00** | 0.0ac | ZIEGLER MARK | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0410-00** | 0.0ac | ESSLER BARBARA | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
+- **11-1-0818-00** | 0.0ac | BRAEGER FARM LLC | GREENVILLE — PRIMARY. Adjacent Appleton. FLU adopted. 7 sub-areas. Water+wastewater. Ag→residential.
 
-#### Buchanan — 96 parcels, ~0 acres (MOD, EDGE)
-- **96 parcels** totaling ~0 acres
-- **FLU context:** Surrounds Kaukauna. In outward expansion path.
-- **22 multi-property owners** in this cluster
+### Clusters
+**FREEDOM** (B+): 76 parcels, ~0ac
+  14 multi-owners
+**GREENVILLE** (A+): 28 parcels, ~0ac
+  3 multi-owners
+**GRAND CHUTE** (A): 4 parcels, ~0ac
+  1 multi-owners
+**BUCHANAN** (B+): 4 parcels, ~0ac
+  1 multi-owners
 
 
-#### 📬 Off-Market Priority (Mail)
-- **Buchanan**: 96 parcels — 22 multi-owners
-- **Grand Chute**: 81 parcels — 14 multi-owners
-- **Greenville**: 3 parcels
-- **Harrison Village**: 1 parcels
-- **Combined Locks**: 1 parcels
+### 📬 Off-Market
+- **FREEDOM** (B+): 76 — 14 multi-owners
+- **GREENVILLE** (A+): 28 — 3 multi-owners
+- **GRAND CHUTE** (A): 4 — 1 multi-owners
+- **BUCHANAN** (B+): 4 — 1 multi-owners
 
 ---
+*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
