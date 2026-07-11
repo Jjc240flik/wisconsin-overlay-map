@@ -78,3 +78,46 @@ An interactive map showing **Zoning ↔ Overlay Zones** with municipality labels
 - [Milwaukee Open Data Portal](https://data.milwaukee.gov/)
 - [City of Franklin Comprehensive Plan](https://www.franklinwi.gov/746/Comprehensive-Plan)
 - [City of Oak Creek Comprehensive Plan](https://www.oakcreekwi.gov/658/Comprehensive-Plan)
+
+## Subdivision Pipeline
+
+## Milwaukee County — Subdivision Pipeline
+
+**13 parcels** | 13 off-market (mail) | 0 for-sale (call)
+
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
+|---|---|---|---|---|---|
+| LOW | Franklin | ? | HAACK KIM | 713-9999-001 | 📬 Mail |
+| LOW | Franklin | ? | GERASOPOULOS WILLIAM P | 979-9998-000 | 📬 Mail |
+| LOW | Franklin | ? | SCHAEFER JANET | 983-9998-000 | 📬 Mail |
+| LOW | Franklin | ? | ACKER DOROTHY 🔗 | 985-9996-000 | 📬 Mail |
+| LOW | Franklin | ? | ACKER DOROTHY 🔗 | 985-9997-003 | 📬 Mail |
+| LOW | Franklin | ? | FANETTI MARILYN | 886-9986-000 | 📬 Mail |
+| LOW | Franklin | ? | MEINERZ NANCY | 939-9996-008 | 📬 Mail |
+| LOW | Franklin | ? | SACRED HEART | 751-9998-003 | 📬 Mail |
+| LOW | Oak Creek | ? | WIS ELEC POWER CO 🔗 | 966-9998-001 | 📬 Mail |
+| LOW | Oak Creek | ? | WIS ELEC POWER CO 🔗 | 967-9992-001 | 📬 Mail |
+| LOW | Oak Creek | ? | WIS ELEC POWER CO 🔗 | 967-9999-003 | 📬 Mail |
+| LOW | Oak Creek | ? | WIS ELEC POWER CO 🔗 | 967-9989-002 | 📬 Mail |
+| LOW | Oak Creek | ? | ROBB KAREN | 919-9051-000 | 📬 Mail |
+
+### North Star Takeaway
+
+#### Franklin — 8 parcels, ~0 acres (LOW, SECONDARY)
+- **8 parcels** totaling ~0 acres
+- **FLU context:** Most greenfield in county. Southern edge.
+- **1 multi-property owners** in this cluster
+
+#### Oak Creek — 5 parcels, ~0 acres (LOW, SECONDARY)
+- **5 parcels** totaling ~0 acres
+- **FLU context:** SE edge. Growth corridor.
+- **1 multi-property owners** in this cluster
+
+
+#### 📬 Off-Market Priority (Mail)
+- **Franklin**: 8 parcels — 1 multi-owners
+- **Oak Creek**: 5 parcels — 1 multi-owners
+
+---

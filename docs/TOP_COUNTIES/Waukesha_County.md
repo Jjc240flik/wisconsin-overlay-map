@@ -93,3 +93,82 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [Village of Sussex Comprehensive Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
 - [Village of Pewaukee Comprehensive Plan](https://www.pewaukeevillage.org/245/Comprehensive-Plan)
 - [City of Muskego Comprehensive Plan](https://www.cityofmuskego.org/137/Comprehensive-Plan)
+
+## Subdivision Pipeline
+
+## Waukesha County — Subdivision Pipeline
+
+**41 parcels** | 3 off-market (mail) | 38 for-sale (call)
+
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
+|---|---|---|---|---|---|
+| HIGH | Pewaukee Village | 0.9 | ABRAM RANDALL | PWV -0893-043 | 📞 MLS |
+| HIGH | Genesee | 0.9 | OWNER`S OF LOTS IN BROOKSTONE WILLOWS ADDN NO 1 | WAKC-0980-243 | 📞 MLS |
+| HIGH | Genesee | 0.8 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-118 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.7 | PARR DANIEL | LSBT-0272-071 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.7 | NOVIK ALEXSEY | LSBT-0267-100 | 📞 MLS |
+| HIGH | Genesee | 0.6 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-051 | 📞 MLS |
+| HIGH | Genesee | 0.4 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-112 | 📞 MLS |
+| HIGH | Lisbon | 0.4 | SCOTT DANIEL | LSBT-0254-006 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-113 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-075 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗 | WAKC-0985-070 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-114 | 📞 MLS |
+| HIGH | Lisbon | 0.3 | STADLER MICHAEL | SUXV-0232-977 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-076 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-115 | 📞 MLS |
+| HIGH | Genesee | 0.1 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-053 | 📞 MLS |
+| HIGH | Genesee | 0.1 | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗 | WAKC-0985-069 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.0 | ELGER JASON W | DELT-0766-998-004 | 📞 MLS |
+| HIGH | Menomonee Falls | ? | WEILAND ROBERT | MNFV-0015-997-004 | 📬 Mail |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0220-995-003 | 📬 Mail |
+| HIGH | Lisbon | ? | TOEBES MICHAEL | LSBT-0188-007 | 📬 Mail |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0257-995-004 | 📞 MLS |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0261-999 | 📞 MLS |
+| HIGH | Lisbon | ? | VILORIA ANTHONY | LSBT-0150-995 | 📞 MLS |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0223-997 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN | WAKC-0980-343 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN OAKMONT 🔗 | WAKC-0987-086 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN OAKMONT 🔗 | WAKC-0987-087 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-072 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-073 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-074 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-052 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-054 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-116 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-117 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-119 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-120 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-121 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-122 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-123 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TRILLIUM | WAKC-1364-042 | 📞 MLS |
+
+### North Star Takeaway
+
+#### Genesee — 28 parcels, ~5 acres (HIGH, PRIMARY)
+- **28 parcels** totaling ~5 acres
+- **FLU context:** Near Waukesha/Milwaukee edge.
+- **4 multi-property owners** in this cluster
+
+#### Pewaukee Village — 4 parcels, ~2 acres (HIGH, PRIMARY)
+- **4 parcels** totaling ~2 acres
+- **FLU context:** I-94 corridor. Growing rapidly.
+
+#### Lisbon — 8 parcels, ~1 acres (HIGH, PRIMARY)
+- **8 parcels** totaling ~1 acres
+- **FLU context:** Between Menomonee Falls and Pewaukee. FLU residential.
+- **1 multi-property owners** in this cluster
+
+#### 📞 For-Sale Priority (Call)
+- **Genesee**: 28 MLS-listed parcels
+- **Lisbon**: 6 MLS-listed parcels
+- **Pewaukee Village**: 4 MLS-listed parcels
+
+#### 📬 Off-Market Priority (Mail)
+- **Lisbon**: 2 parcels — 1 multi-owners
+- **Menomonee Falls**: 1 parcels
+
+---

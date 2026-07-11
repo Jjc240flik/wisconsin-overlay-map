@@ -125,3 +125,110 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [City of Middleton Comprehensive Plan](https://www.cityofmiddleton.us/193/Comprehensive-Plan)
 - [Village of McFarland Comprehensive Plan](https://www.mcfarlandwi.gov/278/Comprehensive-Plan)
 - [Village of Cottage Grove Comprehensive Plan](https://www.cottagegrovewi.gov/190/Comprehensive-Plan)
+
+## Subdivision Pipeline
+
+## Dane County — Subdivision Pipeline
+
+**50 parcels** | 39 off-market (mail) | 11 for-sale (call)
+
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
+|---|---|---|---|---|---|
+| HIGH | Fitchburg | 141.5 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-342-0101-6 | 📬 Mail |
+| HIGH | Verona | 92.3 | MACKLER-MCCARTHY LIVING TR PATRICIA A | 0607-162-8600-0 | 📬 Mail |
+| HIGH | Westport | 90.7 | UNIV OF WIS REGENTS REDA 🔗 | 0708-211-0099-1 | 📬 Mail |
+| HIGH | Westport | 72.0 | UNIV OF WIS REGENTS RE DEV & ADMIN UW MADISON | 0708-223-0098-8 | 📬 Mail |
+| HIGH | Westport | 64.7 | UNIV OF WIS REGENTS REDA 🔗 | 0708-222-0098-0 | 📬 Mail |
+| HIGH | Fitchburg | 63.1 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-333-0118-0 | 📬 Mail |
+| HIGH | Fitchburg | 62.3 | MADISON METRO SEWERAGE DISTRICT | 0710-311-0097-9 | 📬 Mail |
+| HIGH | Fitchburg | 51.5 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-333-0401-9 | 📬 Mail |
+| HIGH | Sun Prairie Town | 40.0 | WEISENSEL THOMAS R | 0911-351-8000-9 | 📬 Mail |
+| HIGH | Sun Prairie Town | 39.8 | HOFFMAN DANIEL S | 0910-232-8501-0 | 📬 Mail |
+| HIGH | Sun Prairie Town | 37.2 | ERNEST FARMS LLC | 0811-282-9502-0 | 📬 Mail |
+| HIGH | Sun Prairie Town | 36.0 | JCS DERR FARM LLC | 0911-263-9000-4 | 📬 Mail |
+| HIGH | Sun Prairie Town | 31.7 | DJTW FARMS LLC | 0911-224-9560-0 | 📬 Mail |
+| HIGH | Fitchburg | 25.6 | VROMAN FAMILY FARM LLC | 0609-202-9100-2 | 📬 Mail |
+| HIGH | Verona | 24.8 | BOARD OF REGENTS UNIVERSITY OF WI SYSTEM | 0708-343-0210-4 | 📬 Mail |
+| HIGH | Sun Prairie Town | 20.0 | TIMBERS JAMES E | 0810-361-9690-5 | 📬 Mail |
+| HIGH | Fitchburg | 0.9 | JENKS CARLETON H | 0609-232-2314-7 | 📞 MLS |
+| HIGH | Westport | 0.8 | ROGERS KEVIN | 0708-123-4734-7 | 📞 MLS |
+| HIGH | Westport | 0.5 | STETTNER DAVID R | 0708-123-5303-6 | 📞 MLS |
+| HIGH | Fitchburg | 0.4 | LEANNA LUCAS E | 0609-091-7089-2 | 📞 MLS |
+| HIGH | Westport | 0.3 | ENGLAND-ZELENSKI TAMARA A | 0708-123-7860-8 | 📞 MLS |
+| HIGH | Westport | 0.2 | VOSS HOUSING COMPANY LLP | 0708-123-3678-8 | 📞 MLS |
+| HIGH | Fitchburg | 0.2 | OBRIEN SEAN | 0609-161-1111-2 | 📞 MLS |
+| MOD | DeForest | 71.7 | MUTCH LIVING TR LORNA M | 0910-043-9621-0 | 📬 Mail |
+| MOD | Waunakee | 70.1 | MADISON METROPOLITAN SEWERAGE DISTRICT | 0809-123-9001-0 | 📬 Mail |
+| MOD | Waunakee | 40.2 | HELLENBRAND STANLEY D | 0808-162-9000-5 | 📬 Mail |
+| MOD | Waunakee | 40.0 | WAUNAKEE COMMUNITY SCHL DIST 🔗 | 0809-182-8001-1 | 📬 Mail |
+| MOD | DeForest | 39.2 | KOCH JAMES | 0909-173-8130-3 | 📬 Mail |
+| MOD | Montrose | 38.4 | CLARK REV LIVING TR MARY J | 0509-174-8000-7 | 📬 Mail |
+| MOD | Montrose | 38.2 | MUCH KEVIN | 0609-292-8310-7 | 📬 Mail |
+| MOD | DeForest | 37.5 | RAULS AUSTIN LAWRENCE | 0910-252-8501-0 | 📬 Mail |
+| MOD | DeForest | 37.5 | MIDTHUN DOUGLAS K | 0909-154-9500-6 | 📬 Mail |
+| MOD | Waunakee | 37.5 | ZIEGLER CRAIG A | 0808-141-8001-0 | 📬 Mail |
+| MOD | Montrose | 37.1 | GERVASI VITO V J | 0609-262-8020-2 | 📬 Mail |
+| MOD | DeForest | 37.0 | RAULS CONNER | 0911-084-9000-1 | 📬 Mail |
+| MOD | Montrose | 36.8 | PURDIN FARMS LLC | 0509-141-9520-0 | 📬 Mail |
+| MOD | Montrose | 36.2 | THAYER THOMAS W | 0609-343-8000-0 | 📬 Mail |
+| MOD | Waunakee | 32.7 | RAULS KYLE R | 0909-353-9501-0 | 📬 Mail |
+| MOD | Pleasant Springs | 29.3 | C & L INVESTMENTS LLP | 0711-303-8211-6 | 📬 Mail |
+| MOD | Montrose | 29.1 | SPIEGEL BERNARD G | 0510-071-9500-1 | 📬 Mail |
+| MOD | Waunakee | 28.8 | SHIMNIOK LE WILLIAM | 0808-114-9161-9 | 📬 Mail |
+| MOD | Waunakee | 25.4 | MAIER FARMS REAL ESTATE LLC | 0909-212-9820-0 | 📬 Mail |
+| MOD | Waunakee | 24.4 | WAUNAKEE COMMUNITY SCHL DIST 🔗 | 0809-163-8220-8 | 📬 Mail |
+| MOD | Montrose | 23.2 | MARTINSON THOMAS A | 0510-181-9162-0 | 📬 Mail |
+| MOD | Waunakee | 20.2 | MAIER LIVING TR RICHARD W & SHIRLEY A | 0909-322-9190-8 | 📬 Mail |
+| MOD | Waunakee | 20.0 | HD FARM PROPERTIES LLC | 0808-172-9500-8 | 📬 Mail |
+| MOD | Waunakee | 0.8 | WEBER MICHAEL 🔗 | 0809-161-2420-0 | 📞 MLS |
+| MOD | Waunakee | 0.6 | HARMS RUTH 🔗 | 0809-161-2450-4 | 📞 MLS |
+| MOD | Waunakee | 0.4 | WEBER MICHAEL 🔗 | 0809-161-2405-9 | 📞 MLS |
+| MOD | Waunakee | 0.1 | HARMS RUTH 🔗 | 0809-161-2435-3 | 📞 MLS |
+
+### North Star Takeaway
+
+#### Fitchburg — 8 parcels, ~345 acres (HIGH, PRIMARY)
+- **8 parcels** totaling ~345 acres
+- **FLU context:** South of Madison. Major residential. Sewer/water expanding.
+- **1 multi-property owners** in this cluster
+
+#### Waunakee — 14 parcels, ~341 acres (MOD, EDGE)
+- **14 parcels** totaling ~341 acres
+- **FLU context:** NW metro. Strong pressure.
+- **3 multi-property owners** in this cluster
+
+#### Montrose — 7 parcels, ~239 acres (MOD, EDGE)
+- **7 parcels** totaling ~239 acres
+- **FLU context:** SE of Oregon.
+
+#### Westport — 7 parcels, ~229 acres (HIGH, PRIMARY)
+- **7 parcels** totaling ~229 acres
+- **FLU context:** Between Middleton and Lake Mendota.
+- **1 multi-property owners** in this cluster
+
+#### DeForest — 5 parcels, ~223 acres (MOD, EDGE)
+- **5 parcels** totaling ~223 acres
+- **FLU context:** North metro. I-39/90/94.
+
+#### Sun Prairie Town — 6 parcels, ~205 acres (HIGH, PRIMARY)
+- **6 parcels** totaling ~205 acres
+- **FLU context:** Surrounds city. FLU residential.
+
+#### 📞 For-Sale Priority (Call)
+- **Westport**: 4 MLS-listed parcels
+- **Waunakee**: 4 MLS-listed parcels
+- **Fitchburg**: 3 MLS-listed parcels
+
+#### 📬 Off-Market Priority (Mail)
+- **Waunakee**: 10 parcels — 1 multi-owners
+- **Montrose**: 7 parcels
+- **Sun Prairie Town**: 6 parcels
+- **Fitchburg**: 5 parcels — 1 multi-owners
+- **DeForest**: 5 parcels
+- **Westport**: 3 parcels — 1 multi-owners
+- **Verona**: 2 parcels
+- **Pleasant Springs**: 1 parcels
+
+---
