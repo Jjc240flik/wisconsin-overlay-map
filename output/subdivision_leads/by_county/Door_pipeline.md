@@ -1,107 +1,65 @@
 # Door County — North Star Subdivision Pipeline
 
-**82 total parcels** | HIGH & Moderate-to-High growth towns | 25 off-market | 57 for-sale
+**42 parcels** | 1 off-market | 41 for-sale | HIGH & Moderate-to-High towns
 
 ## Parcels Ranked by Growth Potential
 
 | Growth | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| Moderate to High | Sister Bay | 40.7 | TISHLER MATTHEW | 018 0116312823 | 📬 Mail |
-| Moderate to High | Sister Bay | 40.5 | MEYER WILLIAM | 018 0119312834 | 📞 MLS |
-| Moderate to High | Sister Bay | 40.4 | HALBROOK TIMOTHY J | 018 0103312812 | 📬 Mail |
-| Moderate to High | Sister Bay | 40.0 | REDELIN DIANE R | 018 0117312844 | 📬 Mail |
-| Moderate to High | Sister Bay | 40.0 | HILANDER SWEN J 🔗 | 018 0233322831A | 📬 Mail |
-| Moderate to High | Sister Bay | 40.0 | KRUMENACHER CARL F | 018 0235322821 | 📬 Mail |
-| Moderate to High | Sister Bay | 35.0 | WEHLING JOHN F | 018 0130312823A | 📬 Mail |
-| Moderate to High | Sister Bay | 35.0 | SMITH JOHN O | 018 0116312814 | 📬 Mail |
-| Moderate to High | Sister Bay | 31.4 | YAKSIC CHRISTINE A | 018 0116312832A | 📬 Mail |
-| Moderate to High | Sister Bay | 31.0 | SEAQUIST FAMILY FARMS LLC 🔗 | 018 0228322821C | 📬 Mail |
-| Moderate to High | Sister Bay | 30.8 | ELVEN MATTHEW J | 018 0109312834B | 📬 Mail |
-| Moderate to High | Sister Bay | 30.7 | JACOBSON MICHAEL G | 018 0109312844A | 📬 Mail |
-| Moderate to High | Sister Bay | 30.7 | ELVEN JERRY | 018 0109312831B | 📬 Mail |
-| Moderate to High | Sister Bay | 30.2 | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗 | 018 0130312831A | 📬 Mail |
-| Moderate to High | Sister Bay | 29.1 | GALECKE FREDRICK II | 018 0110312832A | 📬 Mail |
-| Moderate to High | Sister Bay | 27.0 | HILANDER SWEN J 🔗 | 018 0233322823B | 📬 Mail |
-| Moderate to High | Sister Bay | 24.1 | GUNDRUM JEFFREY L | 018 0233322812A1 | 📞 MLS |
-| Moderate to High | Sister Bay | 24.0 | RICE MORGAN A | 018 0111312821B | 📬 Mail |
-| Moderate to High | Sister Bay | 22.0 | KNUTSON BEVERLY | 018 0111312822C | 📬 Mail |
-| Moderate to High | Sister Bay | 21.5 | SEAQUIST FAMILY FARMS LLC 🔗 | 018 0107312833A | 📬 Mail |
-| Moderate to High | Sister Bay | 20.6 | JOHNSON LARS | 018 0104312821A | 📬 Mail |
-| Moderate to High | Sister Bay | 20.5 | CARLE STEPHEN D | 181 0008312841A | 📬 Mail |
-| Moderate to High | Sister Bay | 20.4 | DEAN TINA M. SAUERHAMMER-DEAN | 018 0116312813B | 📬 Mail |
-| Moderate to High | Sister Bay | 20.3 | JOHNSON THOR | 018 0233322834A | 📞 MLS |
-| Moderate to High | Sister Bay | 20.1 | SITTE MARK F | 018 0103312811 | 📬 Mail |
-| Moderate to High | Sister Bay | 20.0 | HILANDER SWEN J 🔗 | 018 0233322821A | 📬 Mail |
-| Moderate to High | Sister Bay | 20.0 | HILANDER SWEN J 🔗 | 018 0233322824A | 📬 Mail |
-| Moderate to High | Sister Bay | 20.0 | KAHR REX R | 018 0116312813A | 📬 Mail |
-| Moderate to High | Sister Bay | 19.0 | DOLPHIN CHRISTINE A | 018 0117312843A | 📞 MLS |
-| Moderate to High | Sister Bay | 13.4 | STOTT DONALD W | 018 0234322821B | 📞 MLS |
-| Moderate to High | Sister Bay | 12.8 | KETCHUM TROY M 🔗 | 018 0125312823A | 📞 MLS |
-| Moderate to High | Sister Bay | 10.2 | AARSVOLD ELIZABETH BOWERS | 018 0118312832B2 | 📞 MLS |
-| Moderate to High | Sister Bay | 10.2 | BOWERS JOHN | 018 0118312832B4 | 📞 MLS |
-| Moderate to High | Sister Bay | 10.2 | BLIETZ CRAIG S | 018 0233322842A4 | 📞 MLS |
-| Moderate to High | Sister Bay | 10.1 | KETCHUM TROY M 🔗 | 018 0125312823B | 📞 MLS |
-| Moderate to High | Sister Bay | 10.0 | LFEST DOUGLAS LETTIE | 018 0118312843C | 📞 MLS |
-| Moderate to High | Sister Bay | 10.0 | GEHRKE CHRISTINA L | 018 0125312812B | 📞 MLS |
-| Moderate to High | Sister Bay | 10.0 | TOCKSTEIN JAMES E SR | 018 0234322812A1 | 📞 MLS |
-| Moderate to High | Sister Bay | 6.5 | DOERSCHING SHARON A | 018 0234322842D2 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.9 | TOMASIAN MICHAEL D 🔗 | 018 0234322842B2 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.5 | TOMASIAN MICHAEL D 🔗 | 018 0234322842B3 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.2 | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗 | 018 0130312831C2 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.2 | SCHULTZ HALDANE ORCHARD LTD PARTNERSHIP 🔗 | 018 0130312831C4 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.1 | FENNER ROBERT W 🔗 | 018 0119312822A1 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.1 | FENNER ROBERT W 🔗 | 018 0119312822A2 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.1 | FENNER ROBERT W 🔗 | 018 0119312822A4 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.1 | KONZAK CHRISTOPHER D | 018 0119312822B | 📞 MLS |
-| Moderate to High | Sister Bay | 5.0 | DOERSCHING ERIK A | 018 0234322831C1 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.0 | KNEPPER CHRISTOPHER RYAN | 018 0234322824A1 | 📞 MLS |
-| Moderate to High | Sister Bay | 5.0 | STEWART DOUGLAS J | 018 0234322824A2 | 📞 MLS |
-| Moderate to High | Sister Bay | 4.9 | BOMAN BRIAN L | 018 0232322812F | 📞 MLS |
-| Moderate to High | Sister Bay | 4.5 | SENTER AMY L | 018 0118312824C2 | 📞 MLS |
-| Moderate to High | Sister Bay | 4.3 | CLAYTON KEITH 🔗 | 018 0119312811A | 📞 MLS |
-| Moderate to High | Sister Bay | 3.8 | JACOBSON DALE E 🔗 | 018 0120312822E | 📞 MLS |
-| Moderate to High | Sister Bay | 3.7 | MCINNIS CORINNE | 018 0118312812A3 | 📞 MLS |
-| Moderate to High | Sister Bay | 3.7 | MUDROCK BRIAN C | 018 0117312843B | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | HOEPPNER MARSHA | 018 0118312824C3 | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | METZGER ROBERT CHARLES | 018 0118312813A | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | CURA DON C SR VAN 🔗 | 018 0118312813A7 | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | CURA DON C SR VAN 🔗 | 018 0118312813A6 | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | WILDEMAN CRAIG J | 018 0118312813D | 📞 MLS |
-| Moderate to High | Sister Bay | 3.5 | BOYLE KEVIN F | 018 0118312812A4 | 📞 MLS |
-| Moderate to High | Sister Bay | 3.4 | WASCHER CHRISTOPHER M | 018 0118312812A | 📞 MLS |
-| Moderate to High | Sister Bay | 3.4 | JACOBSON DALE E 🔗 | 018 0120312822F | 📞 MLS |
-| Moderate to High | Sister Bay | 2.2 | HALLSTRAND ROBERT G | 018 0234322824B1 | 📞 MLS |
-| Moderate to High | Sister Bay | 1.9 | NOT AVAILABLE FROM THE DATA SOURCE 🔗 | 018 0118312811A | 📞 MLS |
-| Moderate to High | Sister Bay | 1.8 | SINNEMA ANITA | 018 0234322824D | 📞 MLS |
-| Moderate to High | Sister Bay | 1.6 | GANTMAN ANDREW S | 018 0232322841L | 📞 MLS |
-| Moderate to High | Sister Bay | 1.6 | NELSON NATALIE J | 018 0118312833B | 📞 MLS |
-| Moderate to High | Sister Bay | 1.5 | CUTLER DAVID | 018 0117312834H1 | 📞 MLS |
-| Moderate to High | Sister Bay | 1.3 | THIMBLEBERRY BAY COMPANY | 018 0124312812 | 📞 MLS |
-| Moderate to High | Sister Bay | 1.1 | MATHEYS LUKAS J | 018 0232322811H | 📞 MLS |
-| Moderate to High | Sister Bay | 1.0 | CLAYTON KEITH 🔗 | 018 0119312811B | 📞 MLS |
-| Moderate to High | Sister Bay | 0.9 | THIES SCOTT W | 018 0232322811E | 📞 MLS |
-| Moderate to High | Sister Bay | 0.8 | ERZINGER KIM L | 018 0232322814A1 | 📞 MLS |
-| Moderate to High | Sister Bay | 0.7 | ZACARIAS ELIZABETH VOLLETZ | 018 0127312821N | 📞 MLS |
-| Moderate to High | Sister Bay | 0.7 | CHAPMAN KATYROSE | 018 0232322841H3 | 📞 MLS |
-| Moderate to High | Sister Bay | 0.6 | NOT AVAILABLE FROM THE DATA SOURCE 🔗 | 018 0120312811A2 | 📞 MLS |
-| Moderate to High | Sister Bay | 0.5 | AMMONS MICHAEL L | 018 0127312821Q | 📞 MLS |
-| Moderate to High | Sister Bay | 0.5 | WILKINSON DAVID T | 018 0232322814A2 | 📞 MLS |
-| Moderate to High | Sister Bay | 0.3 | HEDEEN FLORENCE E | 018 0232322844K2 | 📞 MLS |
-| Moderate to High | Sister Bay | 0.0 | HAIR JASON R | 018 0118312811B1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 34.0 | SITTE ROBERT V | 181 0007312844C | 📞 MLS |
+| Moderate to High | SISTER BAY | 20.5 | CARLE STEPHEN D | 181 0008312841A | 📬 Mail |
+| Moderate to High | SISTER BAY | 12.0 | FARM & HILLS REAL ESTATE LLC | 181 0007312813C | 📞 MLS |
+| Moderate to High | SISTER BAY | 10.1 | STALEY THOMAS | 181 0007312841C | 📞 MLS |
+| Moderate to High | SISTER BAY | 10.0 | THE JEFFREY L BOLTON AND KAREN L BOLTO | 181 0008312843A2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 10.0 | DEVILEY NICHOLAS | 181 0008312813D | 📞 MLS |
+| Moderate to High | SISTER BAY | 5.3 | BIBA MICHAEL D | 181 0007312841E1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 5.0 | BEYER ERIN A | 181 0007312841B1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 5.0 | MORLEY ROBERT | 181 0008312834C1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 4.3 | SHUMWAY STEPHANIE L | 181 0007312814B2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 3.8 | SENSE SHAREE C | 181 0008312833F1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 3.8 | SENSE DARIN M | 181 0008312833F2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 3.1 | KRZYSKO RICHARD A | 181 0007312842E2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 2.8 | LANGE RYAN M | 181 0007312842E1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 2.6 | MOSES CAROL ANN | 181 0008312813G | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.8 | LONGLAIS BRETT J | 181 0006312844V | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.2 | STRANTZ PATRICK L | 181 340001 | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.2 | FRISONI TODD ANTHONY | 181 0005312811RA | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.2 | ROSSMILLER STUART | 181 0006312842P | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.0 | RISTAU PAUL P | 181 340008 | 📞 MLS |
+| Moderate to High | SISTER BAY | 1.0 | ANDERSON CLIFFORD D | 181 340009 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.9 | JOHNSON SPENCER R | 181 0006312844X2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.9 | SIMPKINS CRAIG A | 181 0006312842C2 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.8 | LFEST JEANETTE TVETEN | 181 0005312811N1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.8 | COLCER DORIN | 181 0006312832A | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.7 | ZARCONE DOMINICK | 181 270015 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.6 | JOHNSON STEVEN K IRA | 181 0005312811R9 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.6 | MCCARTHY MILUZKA MC | 181 0005312844P | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | DILTZ CORY M | 181 4240006 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | VOLODYMYR GANNIK | 181 0008312822L3 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | OLENICZAK JAMES P | 181 2602009 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | WEIR CHRISTOPHER J | 181 4240007 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | PFEILSTIFTER MICHAEL | 181 0005312811Y1 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | TURNER SUSAN L | 181 2601005 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | GARRITY MARY | 181 2601012 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | TOSTERUD JUDITH ANN | 181 290003 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.5 | BROOKS GARY L | 181 290005 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.4 | LARSON AUDREY B | 181 4230008 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.4 | THUROW DAVID | 181 4210005 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.2 | GEMERT THOMAS J VAN | 181 4220004 | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.2 | 711 LITTLE SISTER ROAD FAMILY LTD PTNRSHP | 181 0006312831F | 📞 MLS |
+| Moderate to High | SISTER BAY | 0.0 | FIEDLER JOHN L | 181 0005312811Z8 | 📞 MLS |
 
 ## North Star Takeaway
 
-### Sister Bay Cluster — 82 parcels, ~1057 acres (Moderate to High growth)
-- **82 parcels** totaling approximately **1057 acres** in Sister Bay, a Moderate to High-growth town in Door County.
-- **10 multi-property owner(s)** with multiple parcels in this cluster.
+### SISTER BAY — 42 parcels, ~151 acres (Moderate to High)
+- **42 parcels** in SISTER BAY, a Moderate to High-growth town.
+- **41 MLS-listed** — call first.
 
 ### 📞 For-Sale Priority Targets
-- **Sister Bay** (Moderate to High): 57 MLS-listed parcels — call first
+- **SISTER BAY** (Moderate to High): 41 MLS-listed
 
 ### 📬 Off-Market Priority Targets
-- **Sister Bay** (Moderate to High): 25 off-market parcels — mail campaign
-  - 3 multi-property owners to prioritize
+- **SISTER BAY** (Moderate to High): 1 parcels
 
 ---
-*Generated: 2026-07-11 00:02 | Methodology: North Star / Cody Bjugan subdivision criteria. Town-level grading from county 2040 comprehensive plans.*
-*Note: Town assignment based on ZIP code. Some parcels may belong to adjacent towns sharing the same ZIP. Verify with parcel coordinates.*
+*Generated: 2026-07-11 00:59 | Queried by exact municipality name with pagination. Graded from county 2040 comprehensive plans.*
