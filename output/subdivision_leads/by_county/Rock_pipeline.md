@@ -1,21 +1,21 @@
 # Rock County — Ag→Subdivision Rezoning Pipeline
 
-**1227 parcels** | 197 off-market | 1030 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**945 parcels** | 170 off-market | 775 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A+** | BELOIT | 117.0 | MERLET FARMS #1 LLC 🔗| 6-2-368 | 📬 |
-| **A+** | BELOIT | 105.3 | ALSETH PHILIP | 6-2-56 | 📬 |
+| **A+** | BELOIT | 117.0 | MERLET FARMS #1 LLC 🔗| 6-2-368 | 📞 |
+| **A+** | BELOIT | 105.3 | ALSETH PHILIP 🔗| 6-2-56 | 📬 |
 | **A+** | BELOIT | 80.0 | KATTERHENRY DENNIS 🔗| 6-2-360 | 📬 |
 | **A+** | BELOIT | 80.0 | WI HAYNES FARMS LLC 🔗| 6-2-75 | 📬 |
 | **A+** | BELOIT | 80.0 | LENTELL YVONNE M | 6-2-382.7 | 📬 |
 | **A+** | BELOIT | 78.4 | WI HAYNES FARMS LLC 🔗| 6-2-72 | 📬 |
-| **A+** | BELOIT | 76.8 | MERLET FARMS #1 LLC 🔗| 6-2-351.3 | 📬 |
+| **A+** | BELOIT | 76.8 | MERLET FARMS #1 LLC 🔗| 6-2-351.3 | 📞 |
 | **A+** | BELOIT | 73.9 | MERLET FARMS #2 LLC | 6-2-239.2 | 📬 |
 | **A+** | BELOIT | 72.7 | BRYDEN ROGER 🔗| 6-2-382.1 | 📬 |
-| **A+** | BELOIT | 65.8 | DEVELOPME HENDRICKS | 6-2-25.02 | 📬 |
+| **A+** | BELOIT | 65.8 | DEVELOPME HENDRICKS 🔗| 6-2-25.02 | 📞 |
 | **A+** | BELOIT | 59.9 | KATTERHENRY DENNIS 🔗| 6-2-364 | 📬 |
 | **A+** | BELOIT | 55.5 | BRYDEN ROGER 🔗| 6-2-224A | 📬 |
 | **A+** | BELOIT | 55.1 | MERLET FARMS #1 LLC 🔗| 6-2-359 | 📬 |
@@ -24,147 +24,28 @@
 | **A+** | BELOIT | 49.1 | GERLACH JOHN | 6-2-91.10 | 📬 |
 | **A+** | BELOIT | 43.7 | BEELER DOUGLAS 🔗| 6-2-210A | 📬 |
 | **A+** | BELOIT | 40.0 | SCHULTZ MARK | 6-2-71 | 📬 |
-| **A+** | BELOIT | 35.0 | WI HAYNES FARMS LLC 🔗| 6-2-200B | 📬 |
+| **A+** | BELOIT | 40.0 | RVB PARTNERSHIP | 6-2-362A | 📞 |
+| **A+** | BELOIT | 35.0 | WI HAYNES FARMS LLC 🔗| 6-2-200B | 📞 |
+| **A+** | BELOIT | 32.2 | JOHNSON SHELLEY | 6-2-61 | 📞 |
 | **A+** | BELOIT | 27.5 | MCSHANE THOMAS J | 6-2-24 | 📬 |
-| **A+** | BELOIT | 23.6 | RIVER BAY ESTATES CONDO | 6-2-22A | 📞 |
-| **A+** | BELOIT | 22.3 | ADAS JEFFREY | 6-2-200.2AA | 📞 |
-| **A+** | BELOIT | 20.0 | BEELER DOUGLAS 🔗| 6-2-207 | 📬 |
-| **A+** | BELOIT | 17.1 | SOCHA TIMOTHY | 6-2-379.01 | 📞 |
-| **A+** | BELOIT | 16.9 | LARS HORNDAHL & SUSAN MA PETERSEN DECLARATION TRU | 6-2-379.02 | 📞 |
-| **A+** | BELOIT | 9.1 | II GRAVES ENTERPRISES LL | 6-2-310.1 | 📞 |
-| **A+** | BELOIT | 8.4 | PICKETT MARK | 6-2-310B | 📞 |
-| **A+** | BELOIT | 5.1 | LIGHT MARK | 6-2-68.4 | 📞 |
-| **A+** | BELOIT | 4.2 | MANTHE BRIANNE | 6-2-584.3 | 📞 |
-| **A+** | BELOIT | 4.0 | BACKYARD PROPERTIES OF R 🔗| 6-2-442.1007 | 📞 |
-| **A+** | BELOIT | 3.9 | MISMASH DOUGLAS | 6-2-164B | 📞 |
-| **A+** | BELOIT | 3.7 | RAMIREZ JOHN LUIS | 6-2-131.2 | 📞 |
-| **A+** | BELOIT | 3.6 | BROWN RICHARD J | 6-2-112.A | 📞 |
-| **A+** | BELOIT | 3.4 | WANTROBSKI BENJAMIN J | 6-2-27.3B.2 | 📞 |
-| **A+** | BELOIT | 3.3 | TORSINI TRACEY | 6-2-401 | 📞 |
-| **A+** | BELOIT | 3.3 | CASIQUE EDUARDO | 6-2-401A | 📞 |
-| **A+** | BELOIT | 3.1 | FOWLER KRISTIE | 6-2-2057.3 | 📞 |
-| **A+** | BELOIT | 3.0 | SWEENEY STEPHAN | 6-2-196 | 📞 |
-| **A+** | BELOIT | 3.0 | SERDAR MICHAEL | 6-2-42.2 | 📞 |
-| **A+** | BELOIT | 3.0 | BACKYARD PROPERTIES OF R 🔗| 6-2-442.1006 | 📞 |
-| **A+** | BELOIT | 2.6 | WANTROBSKI BENJAMIN | 6-2-27.3B | 📞 |
-| **A+** | BELOIT | 2.5 | DILLARD STEPHEN | 6-2-396.6 | 📞 |
-| **A+** | BELOIT | 2.5 | OLDENBURG NORMAN L | 6-2-402.54 | 📞 |
-| **A+** | BELOIT | 2.3 | RICHARDS BRODDEY | 6-2-584.4F | 📞 |
-| **A+** | BELOIT | 2.3 | FORWARD PROPERTY INVESTM 🔗| 6-2-22A.2 | 📞 |
-| **A+** | BELOIT | 2.2 | SWACINA DWIGHT | 6-2-179 | 📞 |
-| **A+** | BELOIT | 2.1 | BAUMANN REBECCA | 6-2-201.1A | 📞 |
-| **A+** | BELOIT | 2.1 | RIVERSIDE PROPERTIES-BEL 🔗| 6-2-256.1A | 📞 |
-| **A+** | BELOIT | 1.8 | SHEAR DANNIE | 6-2-84.3 | 📞 |
-| **A+** | BELOIT | 1.6 | ELSASSER DREW 🔗| 6-2-148 | 📞 |
-| **A+** | BELOIT | 1.6 | RIVERSIDE PROPERTIES-BEL 🔗| 6-2-257 | 📞 |
-| **A+** | BELOIT | 1.5 | PLANKEY KENT 🔗| 6-2-122.2 | 📞 |
-| **A+** | BELOIT | 1.5 | CLINTON CROSSING CONDO | 6-21-199.000 | 📞 |
-| **A+** | BELOIT | 1.5 | POTTER JAMES L | 6-2-691.521 | 📞 |
-| **A+** | BELOIT | 1.4 | CORONA JOSE 🔗| 6-2-401B | 📞 |
-| **A+** | BELOIT | 1.4 | CORONA JOSE 🔗| 6-2-401C | 📞 |
-| **A+** | BELOIT | 1.4 | KORDIUK OLEG | 6-2-959 | 📞 |
-| **A+** | BELOIT | 1.3 | TOWNHOMES CLINTON TERRACE | 6-21-175.01 | 📞 |
-| **A+** | BELOIT | 1.3 | HEIDT CHRIS | 6-2-691.501 | 📞 |
-| **A+** | BELOIT | 1.2 | LEPPLA STEVEN 🔗| 6-2-2040.4 | 📞 |
-| **A+** | BELOIT | 1.2 | RVB PARTNERSHIP | 6-2-584.53 | 📞 |
-| **A+** | BELOIT | 1.1 | FRYE BRYAN | 6-2-30.1 | 📞 |
-| **A+** | BELOIT | 1.1 | FINDLEY FRANK | 6-2-200.9 | 📞 |
-| **A+** | BELOIT | 1.1 | GARBRECHT JAMES | 6-2-27.4B | 📞 |
-| **A+** | BELOIT | 1.0 | PULUZZI ENZA | 6-2-27.3 | 📞 |
-| **A+** | BELOIT | 1.0 | YUSUF FAUSAT | 6-2-2259 | 📞 |
-| **A+** | BELOIT | 1.0 | TOWLES MARVA 🔗| 6-2-323A | 📞 |
-| **A+** | BELOIT | 1.0 | CARMAN KENNETH | 6-2-245.9 | 📞 |
-| **A+** | BELOIT | 1.0 | YUHAS JOSEPH | 6-2-92.2 | 📞 |
-| **A+** | BELOIT | 1.0 | AFTON ROAD CONDOMINIUMS | 6-2-99.5 | 📞 |
-| **A+** | BELOIT | 1.0 | BACH RODNEY | 6-2-99.6 | 📞 |
-| **A+** | BELOIT | 1.0 | CASIQUE MOISAS | 6-2-382.6H | 📞 |
-| **A+** | BELOIT | 1.0 | WEAVER ROBERT | 6-2-392 | 📞 |
-| **A+** | BELOIT | 1.0 | OBER JULAINE | 6-2-394 | 📞 |
-| **A+** | BELOIT | 1.0 | JOHNSON ROBERT | 6-2-413.1 | 📞 |
-| **A+** | BELOIT | 1.0 | REYNOLDS JEFFREY | 6-2-690.3 | 📞 |
+| **A+** | BELOIT | 25.0 | WISCONSIN POWER & LIGHT | 6-2-83.001 | 📞 |
+| **A+** | BELOIT | 20.0 | BEELER DOUGLAS 🔗| 6-2-207 | 📞 |
+| **A+** | BELOIT | 17.0 | BRYDEN VICKI | 6-2-362 | 📞 |
+| **A+** | BELOIT | 13.4 | ALSETH PHILIP 🔗| 6-2-56.4 | 📞 |
+| **A+** | BELOIT | 7.3 | POFF RICHARD | 6-2-267.1A | 📞 |
 | **A+** | BELOIT | 1.0 | DAVIS BRIAN T | 6-2-1591.27 | 📞 |
-| **A+** | BELOIT | 1.0 | TOWLES MARVA 🔗| 6-2-323B | 📞 |
 | **A+** | BELOIT | 1.0 | SEICHTER BRIAN | 6-2-1626 | 📞 |
-| **A+** | BELOIT | 0.9 | GOODE DAVID | 6-2-449.36E | 📞 |
-| **A+** | BELOIT | 0.9 | LOSINSKE JEFFREY | 6-2-639.3 | 📞 |
-| **A+** | BELOIT | 0.9 | CLARK TAD | 6-2-2259.72 | 📞 |
-| **A+** | BELOIT | 0.9 | KLEIN ALLEN | 6-2-126.1 | 📞 |
-| **A+** | BELOIT | 0.9 | GUZMAN MIGUEL 🔗| 6-2-380D | 📞 |
-| **A+** | BELOIT | 0.9 | GUZMAN MIGUEL 🔗| 6-2-380E | 📞 |
-| **A+** | BELOIT | 0.9 | LEPPLA STEVEN 🔗| 6-2-2039 | 📞 |
-| **A+** | BELOIT | 0.9 | AVERY DICKIE | 6-2-2063.2 | 📞 |
-| **A+** | BELOIT | 0.8 | LILLARD DANIEL | 6-2-27.3A1 | 📞 |
-| **A+** | BELOIT | 0.8 | TYLER JEFFREY | 6-2-675 | 📞 |
-| **A+** | BELOIT | 0.8 | GOODWIN THOMAS | 6-2-584.45 | 📞 |
-| **A+** | BELOIT | 0.8 | BURNETT SETH | 6-2-584.46 | 📞 |
-| **A+** | BELOIT | 0.8 | GARCIA JULIE | 6-2-584.49 | 📞 |
-| **A+** | BELOIT | 0.8 | THE BELOIT CLUB HOLDINGS | 6-2-963 | 📞 |
-| **A+** | BELOIT | 0.8 | PLANKEY KENT 🔗| 6-2-122 | 📞 |
-| **A+** | BELOIT | 0.8 | MILLER BRENNA K | 6-2-385 | 📞 |
-| **A+** | BELOIT | 0.8 | FRISBEE JOEL 🔗| 6-2-2036.8C | 📞 |
 | **A+** | BELOIT | 0.8 | CANFIELD BRENDA | 6-2-1650 | 📞 |
-| **A+** | BELOIT | 0.8 | PODRASKY RICHARD | 6-2-2054 | 📞 |
-| **A+** | BELOIT | 0.7 | BK MITCHELL GROUP WAUSAU | 6-2-2069.1 | 📞 |
-| **A+** | BELOIT | 0.7 | COVEY CAMERON | 6-2-2069.001 | 📞 |
-| **A+** | BELOIT | 0.7 | FORWARD PROPERTY INVESTM 🔗| 6-2-102 | 📞 |
-| **A+** | BELOIT | 0.7 | NELSON DAVID | 6-2-245.8 | 📞 |
-| **A+** | BELOIT | 0.7 | GUNDRY KARIN | 6-2-707 | 📞 |
-| **A+** | BELOIT | 0.7 | ROLON DONALD L | 6-2-2054.1 | 📞 |
 | **A+** | BELOIT | 0.7 | SUAREZ DELFIN FRANCISCO | 6-2-1619 | 📞 |
-| **A+** | BELOIT | 0.7 | CLINTON CONDOMINIUM I | 6-21-423.009 | 📞 |
 | **A+** | BELOIT | 0.7 | CEPHAS MARVIN | 6-2-2261.39 | 📞 |
-| **A+** | BELOIT | 0.6 | CERROS ANTONIO | 6-2-238B | 📞 |
-| **A+** | BELOIT | 0.6 | MINOR WILLIAM | 6-2-2207 | 📞 |
-| **A+** | BELOIT | 0.6 | STOLARZYK FRANK A 🔗| 6-2-2063.1 | 📞 |
-| **A+** | BELOIT | 0.6 | PEREZ EVELINA 🔗| 6-2-2110 | 📞 |
-| **A+** | BELOIT | 0.6 | PEREZ EVELINA 🔗| 6-2-2110.1 | 📞 |
-| **A+** | BELOIT | 0.6 | CAMMILLERI JOHN | 6-2-97.1 | 📞 |
-| **A+** | BELOIT | 0.6 | FRIEND SUSAN L 🔗| 6-2-449.111 | 📞 |
 | **A+** | BELOIT | 0.5 | SHOEMAKER TYLER | 6-2-1656.91 | 📞 |
 | **A+** | BELOIT | 0.5 | FIELDS GERALD | 6-2-2357.8 | 📞 |
-| **A+** | BELOIT | 0.5 | THOMPSON MERLIN | 6-2-362.4 | 📞 |
-| **A+** | BELOIT | 0.5 | MARTENSON JOHN R | 6-2-449.138 | 📞 |
-| **A+** | BELOIT | 0.5 | HILL GREGORY | 6-2-449.48 | 📞 |
-| **A+** | BELOIT | 0.5 | PURCELL KENNETH | 6-2-449.50 | 📞 |
-| **A+** | BELOIT | 0.5 | PESCHL ALICE | 6-2-449.108 | 📞 |
-| **A+** | BELOIT | 0.5 | TOWLES MARVA 🔗| 6-2-323C | 📞 |
-| **A+** | BELOIT | 0.5 | PIAZZA PETER | 6-2-639.2 | 📞 |
-| **A+** | BELOIT | 0.5 | SKILDUM MATHEW | 6-2-684 | 📞 |
-| **A+** | BELOIT | 0.5 | FAUST BRENDA | 6-2-318 | 📞 |
-| **A+** | BELOIT | 0.5 | FROEBER DAVID | 6-2-584.4 | 📞 |
-| **A+** | BELOIT | 0.5 | LITTLE TRACY 🔗| 6-2-449.132 | 📞 |
-| **A+** | BELOIT | 0.5 | ELSASSER DREW 🔗| 6-2-999 | 📞 |
+| **A+** | BELOIT | 0.5 | CONNORS PATRICK | 6-2-373 | 📞 |
 | **A+** | BELOIT | 0.5 | LUDEMAN JEANNE | 6-2-2357.19 | 📞 |
-| **A+** | BELOIT | 0.5 | SHU PHAY 🔗| 6-2-2174 | 📞 |
+| **A+** | BELOIT | 0.5 | ROLLETTE ERVIN 🔗| 6-2-190.3 | 📞 |
 | **A+** | BELOIT | 0.5 | KROENING JOSHUA | 6-2-2261.35 | 📞 |
-| **A+** | BELOIT | 0.5 | GJESTSON SEAN | 6-2-2128 | 📞 |
-| **A+** | BELOIT | 0.5 | LITTLE TRACY 🔗| 6-2-449.133 | 📞 |
-| **A+** | BELOIT | 0.5 | KITZMAN BETHANY 🔗| 6-2-2036.3AA | 📞 |
-| **A+** | BELOIT | 0.5 | NG BLACK HAWK CONDO III | 6-2-450.546 | 📞 |
-| **A+** | BELOIT | 0.5 | NG BLACK HAWK CONDO II 🔗| 6-2-450.547 | 📞 |
-| **A+** | BELOIT | 0.5 | NG BLACK HAWK CONDO II 🔗| 6-2-450.548 | 📞 |
-| **A+** | BELOIT | 0.5 | THOSTENSON GLEN | 6-2-449.14 | 📞 |
-| **A+** | BELOIT | 0.5 | EARLE RICHARD P | 6-2-449.34 | 📞 |
-| **A+** | BELOIT | 0.5 | STATEN CODY M | 6-2-449.35 | 📞 |
-| **A+** | BELOIT | 0.5 | RIESEN ERNEST | 6-2-449.59 | 📞 |
-| **A+** | BELOIT | 0.5 | KRULL PHILLIP | 6-2-449.102 | 📞 |
-| **A+** | BELOIT | 0.5 | PARK SUSAN | 6-2-449.104 | 📞 |
-| **A+** | BELOIT | 0.5 | BLUM RICHARD | 6-2-449.128 | 📞 |
-| **A+** | BELOIT | 0.5 | WARREN JEFFERY | 6-2-1455 | 📞 |
-| **A+** | BELOIT | 0.5 | JONES NANCY | 6-2-449.67 | 📞 |
-| **A+** | BELOIT | 0.5 | FRIEND SUSAN L 🔗| 6-2-449.112 | 📞 |
-| **A+** | BELOIT | 0.5 | GUZMAN MIGUEL 🔗| 6-2-449.114 | 📞 |
 | **A+** | BELOIT | 0.4 | LARSON STEVEN 🔗| 6-2-2261.2E | 📞 |
-| **A+** | BELOIT | 0.4 | MATHEWS TODD | 6-2-1004.75 | 📞 |
-| **A+** | BELOIT | 0.4 | VOSS JEFFREY | 6-2-167C | 📞 |
-| **A+** | BELOIT | 0.4 | FINK FAY | 6-2-692.64 | 📞 |
-| **A+** | BELOIT | 0.4 | GIRARD DANIEL | 6-2-162A | 📞 |
-| **A+** | BELOIT | 0.4 | WORTHAM MICHELLE | 6-2-117.4B | 📞 |
-| **A+** | BELOIT | 0.4 | SUMMER ROBERT | 6-2-450.9 | 📞 |
 | **A+** | BELOIT | 0.4 | VEST BILL | 6-2-1656.46 | 📞 |
-| **A+** | BELOIT | 0.4 | MENGSOL LOUIS | 6-2-1000.27 | 📞 |
-| **A+** | BELOIT | 0.4 | HOLLEMAN LOUIS | 6-2-1000.430 | 📞 |
-| **A+** | BELOIT | 0.4 | SALLINGER TODD | 6-2-592 | 📞 |
 | **A+** | BELOIT | 0.4 | VINCE RAYMOND | 6-2-2287 | 📞 |
 | **A+** | BELOIT | 0.4 | HANSBERRY JESSICA | 6-2-2304 | 📞 |
 | **A+** | BELOIT | 0.4 | MAXTED DEAN 🔗| 6-2-2310 | 📞 |
@@ -180,33 +61,152 @@
 | **A+** | BELOIT | 0.4 | DOBERSTEIN DENNIS 🔗| 6-2-2354 | 📞 |
 | **A+** | BELOIT | 0.4 | KRAMER DIANA 🔗| 6-2-2355 | 📞 |
 | **A+** | BELOIT | 0.4 | MCKEE SEAN | 6-2-1656.44 | 📞 |
-| **A+** | BELOIT | 0.4 | PAYNE BARB | 6-2-1000.530 | 📞 |
-| **A+** | BELOIT | 0.4 | THOMAS JASON D | 6-2-450.18 | 📞 |
-| **A+** | BELOIT | 0.4 | DRESSLER VALERIE | 6-2-695 | 📞 |
 | **A+** | BELOIT | 0.4 | HARRIS MARY | 6-2-2261.16 | 📞 |
-| **A+** | BELOIT | 0.4 | SCHINDLER COLIN 🔗| 6-2-2050 | 📞 |
-| **A+** | BELOIT | 0.4 | GUTHRIE TONY | 6-2-1001.51 | 📞 |
-| **A+** | BELOIT | 0.4 | SIMONDS DEBORAH | 6-2-126.1A | 📞 |
-| **A+** | BELOIT | 0.4 | ALLEN DANA | 6-2-727 | 📞 |
-| **A+** | BELOIT | 0.4 | LANG KATHLEEN M | 6-2-2195.103 | 📞 |
 | **A+** | BELOIT | 0.3 | TINDER MEGAN | 6-2-1460.33 | 📞 |
 | **A+** | BELOIT | 0.3 | HENNING KYLE 🔗| 6-2-2261.30 | 📞 |
-| **A+** | BELOIT | 0.3 | PLANKEY KAIL | 6-2-117B2 | 📞 |
-| **A+** | BELOIT | 0.3 | SMART GARY | 6-2-166.5C | 📞 |
 | **A+** | BELOIT | 0.3 | RUST LYNETTE | 6-2-2261.13 | 📞 |
 | **A+** | BELOIT | 0.3 | WINCHESTER JODY | 6-2-2261.29 | 📞 |
 | **A+** | BELOIT | 0.3 | JENSEN GREGG | 6-2-2261.48 | 📞 |
 | **A+** | BELOIT | 0.3 | ANDERSON TODD | 6-2-2261.55 | 📞 |
 | **A+** | BELOIT | 0.3 | WILBERG ROBERT | 6-2-1460.103 | 📞 |
-| **A+** | BELOIT | 0.3 | MENKE MATTHEW | 6-2-450.58 | 📞 |
-| **A+** | BELOIT | 0.3 | WEISS KONRAD W | 6-2-2195.3 | 📞 |
 | **A+** | BELOIT | 0.3 | BROWN LAURIE | 6-2-2261.3B | 📞 |
 | **A+** | BELOIT | 0.3 | WHITNEY KRISTOFER | 6-2-2261.3D | 📞 |
-| **A+** | BELOIT | 0.3 | CARL DAVID | 6-2-2038.1 | 📞 |
-| **A+** | BELOIT | 0.3 | FRISBEE JOEL 🔗| 6-2-2038.5B | 📞 |
-| **A+** | BELOIT | 0.3 | KITZMAN BETHANY 🔗| 6-2-2040.1 | 📞 |
-| **A+** | BELOIT | 0.3 | CRESS MATTHEW | 6-2-583.1 | 📞 |
-| ... | ... | ... (+1027 more) | ... | ... |
+| **A+** | BELOIT | 0.3 | HOWE KIRK | 6-2-1656.70 | 📞 |
+| **A+** | BELOIT | 0.3 | KRAMER DIANA 🔗| 6-2-2356 | 📞 |
+| **A+** | BELOIT | 0.3 | WILSON LARRY | 6-2-1609.2 | 📞 |
+| **A+** | BELOIT | 0.3 | LAURSEN MIA | 6-2-1460.65 | 📞 |
+| **A+** | BELOIT | 0.3 | LARSON STEVEN 🔗| 6-2-2261.2D | 📞 |
+| **A+** | BELOIT | 0.3 | RAMQUIST KEVIN | 6-2-2261.2 | 📞 |
+| **A+** | BELOIT | 0.2 | CAPLE RICHARD | 6-2-2260.9 | 📞 |
+| **A+** | BELOIT | 0.2 | HENNING KYLE 🔗| 6-2-2261.32 | 📞 |
+| **A+** | BELOIT | 0.2 | HILL FRANCES | 6-2-1832 | 📞 |
+| **A+** | BELOIT | 0.2 | ROLLETTE ERVIN 🔗| 6-2-190.3A | 📞 |
+| **A+** | BELOIT | 0.2 | STOLARZYK FRANK A | 6-2-2260.15 | 📞 |
+| **A+** | BELOIT | 0.2 | STOJSAVLJEVIC THOMAS | 6-2-1484 | 📞 |
+| **A+** | BELOIT | 0.2 | AKBAR DAWN 🔗| 6-2-1925 | 📞 |
+| **A+** | BELOIT | 0.2 | MARKLEY SHARON 🔗| 6-2-1947 | 📞 |
+| **A+** | BELOIT | 0.2 | MARKLEY SHARON 🔗| 6-2-1948 | 📞 |
+| **A+** | BELOIT | 0.2 | MARKLEY SHARON 🔗| 6-2-1950 | 📞 |
+| **A+** | BELOIT | 0.2 | NENNEMAN SHEREE | 6-2-1953 | 📞 |
+| **A+** | BELOIT | 0.2 | AKBAR DAWN 🔗| 6-2-1955 | 📞 |
+| **A+** | BELOIT | 0.2 | AKBAR DAWN 🔗| 6-2-1956 | 📞 |
+| **A+** | BELOIT | 0.2 | PRINS ANITA | 6-2-1701 | 📞 |
+| **A+** | BELOIT | 0.2 | KNAPP LADONNA | 6-2-1720 | 📞 |
+| **A+** | BELOIT | 0.2 | STORAG FINNEGAN | 6-2-1726 | 📞 |
+| **A+** | BELOIT | 0.2 | DOMINGUEZ ESTEBAN | 6-2-1758 | 📞 |
+| **A+** | BELOIT | 0.2 | EDWARDS NORRIS | 6-2-1761 | 📞 |
+| **A+** | BELOIT | 0.1 | FINLEY BOBBIE | 6-2-1658 | 📞 |
+| **A+** | BELOIT | 0.1 | CONNER RICKY | 6-2-1505 | 📞 |
+| **A+** | BELOIT | 0.1 | KELLY ROBERT | 6-2-1526 | 📞 |
+| **A+** | BELOIT | 0.1 | ELIAS RENTAL PROPERTIES 🔗| 6-2-1776 | 📞 |
+| **A+** | BELOIT | 0.1 | LUSARDI RAYMOND | 6-2-1778 | 📞 |
+| **A+** | BELOIT | 0.1 | ELIAS RENTAL PROPERTIES 🔗| 6-2-1787 | 📞 |
+| **A+** | BELOIT | 0.1 | MANNING SANDRA | 6-2-1788 | 📞 |
+| **A+** | BELOIT | 0.1 | GARRETT MONICA | 6-2-1794 | 📞 |
+| **A+** | BELOIT | 0.1 | GOLDEN DOROTHY | 6-2-1819 | 📞 |
+| **A+** | BELOIT | 0.1 | HOFFMAN DANNY | 6-2-1820 | 📞 |
+| **A+** | BELOIT | 0.1 | CARRANZA ELIAS | 6-2-1826 | 📞 |
+| **A+** | BELOIT | 0.1 | LEE ROSEMARY | 6-2-1840 | 📞 |
+| **A+** | BELOIT | 0.1 | RAY JAMES 🔗| 6-2-1852 | 📞 |
+| **A+** | BELOIT | 0.1 | RAY JAMES 🔗| 6-2-1853 | 📞 |
+| **A+** | BELOIT | 0.1 | JENKINS LINDA 🔗| 6-2-1855 | 📞 |
+| **A+** | BELOIT | 0.1 | JENKINS LINDA 🔗| 6-2-1856 | 📞 |
+| **A+** | BELOIT | 0.1 | CASIQUE JORGE | 6-2-1898 | 📞 |
+| **A+** | BELOIT | 0.1 | DAVIS MALLORY | 6-2-1944 | 📞 |
+| **A+** | BELOIT | 0.1 | CELIA RENTAL PROPERTIES | 6-2-1972 | 📞 |
+| **A+** | BELOIT | 0.1 | TYRER DAVID | 6-2-1976 | 📞 |
+| **A+** | BELOIT | 0.1 | BRANNON CURTIS | 6-2-1979 | 📞 |
+| **A+** | BELOIT | 0.1 | PALM JAMES | 6-2-1988 | 📞 |
+| **A+** | BELOIT | 0.1 | JJGJ WELLNITZ HOLDINGS L | 6-2-1915 | 📞 |
+| **A+** | BELOIT | 0.1 | WELLER JARED | 6-2-1916 | 📞 |
+| **A+** | BELOIT | 0.1 | LEWIS VIDA | 6-2-1671 | 📞 |
+| **A+** | BELOIT | 0.1 | BECKER DANNY 🔗| 6-2-1674 | 📞 |
+| **A+** | BELOIT | 0.1 | BECKER DANNY 🔗| 6-2-1675 | 📞 |
+| **A** | TURTLE | 161.0 | TWIN CITY FARMS PARTNERS 🔗| 6-19-95 | 📞 |
+| **A** | JANESVILLE | 157.3 | ROGER REBOUT & SONS FARMS 🔗| 6-8-303 | 📞 |
+| **A** | JANESVILLE | 132.4 | SAYRE JOINT FARMS LLC 🔗| 6-8-174 | 📬 |
+| **A** | JANESVILLE | 110.3 | LAWRENCE BRIAN 🔗| 6-8-266 | 📬 |
+| **A** | TURTLE | 100.0 | NEWHOUSE MARTIN 🔗| 6-19-277 | 📬 |
+| **A** | JANESVILLE | 95.4 | ROGER REBOUT & SONS FARMS 🔗| 6-8-280 | 📬 |
+| **A** | JANESVILLE | 91.4 | OLEARY GUNN FARMS | 6-8-331 | 📬 |
+| **A** | TURTLE | 90.0 | NAME NOT AVAILABLE 🔗| 6-19-82 | 📬 |
+| **A** | TURTLE | 89.0 | BREWER ROBERT 🔗| 6-19-263A | 📬 |
+| **A** | TURTLE | 87.7 | KUTZ TWIN OAKS FARM LLC 🔗| 6-19-67B | 📬 |
+| **A** | TURTLE | 80.0 | HENSCHLER JASON 🔗| 6-19-251A | 📬 |
+| **A** | JANESVILLE | 80.0 | FARRINGTON SCOTT 🔗| 6-8-27 | 📞 |
+| **A** | TURTLE | 80.0 | HILDEBRANDT DONALD 🔗| 6-19-371 | 📞 |
+| **A** | TURTLE | 80.0 | WAITE GREGORY 🔗| 6-19-153 | 📞 |
+| **A** | JANESVILLE | 78.1 | DIEHLS KENNETH | 6-8-57 | 📬 |
+| **A** | JANESVILLE | 77.5 | ROGER REBOUT & SONS FARMS 🔗| 6-8-286 | 📬 |
+| **A** | TURTLE | 77.0 | SCHROEDER TRENTON | 6-19-376 | 📬 |
+| **A** | TURTLE | 74.8 | WISCONSIN AGGREGATE CO L 🔗| 6-19-87 | 📬 |
+| **A** | TURTLE | 72.0 | HENSCHLER JASON 🔗| 6-19-251B | 📬 |
+| **A** | TURTLE | 68.4 | HICKORY GROVE FARM OF BE | 6-19-365 | 📬 |
+| **A** | TURTLE | 67.0 | BREWER ROBERT 🔗| 6-19-363A | 📬 |
+| **A** | TURTLE | 66.5 | BREWER ROBERT 🔗| 6-19-139A.1 | 📬 |
+| **A** | JANESVILLE | 64.4 | RIESTERER FARMS LLP 🔗| 6-8-3 | 📬 |
+| **A** | JANESVILLE | 61.9 | SAYRE JOINT FARMS LLC 🔗| 6-8-101G | 📞 |
+| **A** | TURTLE | 60.5 | KARSTAEDT STEPHEN | 6-19-361A | 📬 |
+| **A** | TURTLE | 60.3 | WISCONSIN AGGREGATE CO L 🔗| 6-19-88 | 📬 |
+| **A** | TURTLE | 59.0 | MID AMERICA HOLDINGS LLP | 6-19-302 | 📬 |
+| **A** | JANESVILLE | 57.2 | AL & ED FARRINGTON FARMS LLC 🔗| 6-8-104A | 📬 |
+| **A** | JANESVILLE | 57.0 | S & E PROPERTIES OF JANESV | 6-8-148A | 📬 |
+| **A** | TURTLE | 55.6 | R & R VENTURES LIMITED P | 6-19-256 | 📬 |
+| **A** | JANESVILLE | 55.2 | HOLMAN THOMAS 🔗| 6-8-4 | 📬 |
+| **A** | TURTLE | 53.6 | WI HAYNES FARMS LLC 🔗| 6-19-276.4 | 📞 |
+| **A** | JANESVILLE | 52.6 | CONNOR FARM LLC | 6-8-77 | 📬 |
+| **A** | TURTLE | 52.6 | HASSELER ANITA | 6-19-109 | 📬 |
+| **A** | JANESVILLE | 50.6 | PENNYCOOK FARM LLC | 6-8-22A | 📬 |
+| **A** | TURTLE | 50.0 | GRAHAM RICHARD | 6-19-374 | 📞 |
+| **A** | TURTLE | 49.7 | WALSH FAMILY FARM LLC 🔗| 6-19-359A | 📞 |
+| **A** | TURTLE | 48.2 | KUTZ TWIN OAKS FARM LLC 🔗| 6-19-67 | 📬 |
+| **A** | TURTLE | 46.2 | BUSS FARM HOLDINGS LLC 🔗| 6-19-16 | 📬 |
+| **A** | TURTLE | 45.9 | WI HAYNES FARMS LLC 🔗| 6-19-369E | 📬 |
+| **A** | JANESVILLE | 45.2 | REILLY JOHN | 6-8-60.30 | 📞 |
+| **A** | TURTLE | 45.2 | WALSH AARON | 6-19-377 | 📞 |
+| **A** | JANESVILLE | 44.6 | BEGGS DENNIS | 6-8-60.01 | 📬 |
+| **A** | TURTLE | 44.0 | WAITE GREGORY 🔗| 6-19-155A | 📬 |
+| **A** | TURTLE | 44.0 | BUSS FARM HOLDINGS LLC 🔗| 6-19-190.6A | 📬 |
+| **A** | JANESVILLE | 44.0 | ROGER REBOUT & SONS FARMS 🔗| 6-8-291 | 📬 |
+| **A** | JANESVILLE | 42.5 | COOPER LINDA | 6-8-308.3 | 📬 |
+| **A** | JANESVILLE | 41.0 | TILTON ALAN | 6-8-47.01 | 📞 |
+| **A** | TURTLE | 40.6 | KNUEPPEL HENRY | 6-19-194 | 📬 |
+| **A** | TURTLE | 40.4 | BREWER ROBERT 🔗| 6-19-141 | 📞 |
+| **A** | TURTLE | 40.4 | ECHO FARMS LLC | 6-19-137 | 📬 |
+| **A** | TURTLE | 40.4 | BUSS FARM HOLDINGS LLC 🔗| 6-19-138 | 📬 |
+| **A** | JANESVILLE | 40.0 | ROGER REBOUT & SONS FARMS 🔗| 6-8-275 | 📬 |
+| **A** | JANESVILLE | 40.0 | KERSTEN DENNIS | 6-8-284 | 📬 |
+| **A** | JANESVILLE | 40.0 | SAYRE JOINT FARMS LLC 🔗| 6-8-174.01 | 📞 |
+| **A** | TURTLE | 38.3 | LONG JEREMY | 6-19-19 | 📬 |
+| **A** | TURTLE | 37.9 | GRADY JOHN | 6-19-105A | 📬 |
+| **A** | TURTLE | 37.5 | BURKMAN BRIAN | 6-19-66 | 📬 |
+| **A** | TURTLE | 37.2 | WALSH CHRISTINE | 6-19-379 | 📞 |
+| **A** | TURTLE | 36.7 | KUTZ TWIN OAKS FARM LLC 🔗| 6-19-67A | 📬 |
+| **A** | JANESVILLE | 36.5 | ROLLINGWOOD DEVELOPMENT 🔗| 6-8-23A | 📬 |
+| **A** | JANESVILLE | 35.9 | ROGER REBOUT & SONS FARMS 🔗| 6-8-297 | 📞 |
+| **A** | TURTLE | 35.8 | HULLAH LESLIE | 6-19-130.3 | 📞 |
+| **A** | JANESVILLE | 35.7 | FOX GERARD | 6-8-53.2 | 📞 |
+| **A** | JANESVILLE | 35.6 | ROGER REBOUT & SONS FARMS 🔗| 6-8-190 | 📬 |
+| **A** | JANESVILLE | 35.6 | MARLING KURT | 6-8-187 | 📞 |
+| **A** | TURTLE | 35.5 | WI HAYNES FARMS LLC 🔗| 6-19-289 | 📬 |
+| **A** | TURTLE | 35.1 | HENSCHLER JASON 🔗| 6-19-175A.1 | 📬 |
+| **A** | TURTLE | 34.6 | WI HAYNES FARMS LLC 🔗| 6-19-159B | 📬 |
+| **A** | JANESVILLE | 33.5 | CONDON ALLEN | 6-8-47.1 | 📞 |
+| **A** | JANESVILLE | 32.8 | ALT JAMES 🔗| 6-8-62 | 📞 |
+| **A** | JANESVILLE | 31.5 | AL & ED FARRINGTON FARMS LLC 🔗| 6-8-79.1 | 📞 |
+| **A** | JANESVILLE | 30.1 | ROLLINGWOOD DEVELOPMENT 🔗| 6-8-28 | 📞 |
+| **A** | JANESVILLE | 30.0 | HUENERBERG RYAN | 6-8-55C | 📬 |
+| **A** | TURTLE | 30.0 | HILDEBRANDT DONALD 🔗| 6-19-370A | 📞 |
+| **A** | TURTLE | 29.9 | WISCONSIN AGGREGATE CO L 🔗| 6-19-84 | 📬 |
+| **A** | TURTLE | 29.7 | HOLMES RICHARD P | 6-19-370B.2 | 📞 |
+| **A** | TURTLE | 29.4 | BUSS FARM HOLDINGS LLC 🔗| 6-19-119 | 📬 |
+| **A** | JANESVILLE | 27.4 | DETTMAN TAMMY | 6-8-1A | 📬 |
+| **A** | JANESVILLE | 27.0 | PETERSON DANIEL 🔗| 6-8-168.1 | 📞 |
+| **A** | JANESVILLE | 26.6 | ROLLINGWOOD DEVELOPMENT 🔗| 6-8-26.2 | 📬 |
+| **A** | JANESVILLE | 26.6 | SPIKE DOROTHY | 6-8-102.1 | 📬 |
+| **A** | TURTLE | 26.5 | NEWHOUSE MARTIN 🔗| 6-19-173.1 | 📬 |
+| **A** | TURTLE | 25.2 | WALSH BRENNAN | 6-19-359 | 📞 |
+| ... | ... | ... (+745 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -225,45 +225,44 @@
 - **6-2-25.02** | 65.8ac | DEVELOPME HENDRICKS | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
 
 ### Clusters
-**BELOIT** (A+): 411 parcels, ~1605ac
-  390 MLS — call first
-  48 multi-owners
-**FULTON** (B+): 197 parcels, ~2160ac
-  166 MLS — call first
-  22 multi-owners
-**MILTON** (B+): 192 parcels, ~2218ac
-  157 MLS — call first
-  32 multi-owners
-**JANESVILLE** (A): 167 parcels, ~1865ac
-  137 MLS — call first
-  17 multi-owners
-**TURTLE** (A): 151 parcels, ~2528ac
-  103 MLS — call first
-  18 multi-owners
-**HARMONY** (B+): 81 parcels, ~1979ac
-  50 MLS — call first
-  7 multi-owners
-**EVANSVILLE** (B+): 28 parcels, ~43ac
-  27 MLS — call first
-  1 multi-owners
+**MILTON** (B+): 204 parcels, ~3485ac
+  175 MLS — call first
+  38 multi-owners
+**TURTLE** (A): 190 parcels, ~3042ac
+  148 MLS — call first
+  23 multi-owners
+**JANESVILLE** (A): 151 parcels, ~2505ac
+  126 MLS — call first
+  21 multi-owners
+**FULTON** (B+): 130 parcels, ~2255ac
+  100 MLS — call first
+  20 multi-owners
+**HARMONY** (B+): 119 parcels, ~2677ac
+  91 MLS — call first
+  14 multi-owners
+**BELOIT** (A+): 116 parcels, ~1476ac
+  100 MLS — call first
+  20 multi-owners
+**EVANSVILLE** (B+): 35 parcels, ~382ac
+  35 MLS — call first
+  2 multi-owners
 
 ### 📞 For-Sale
-- **BELOIT** (A+): 390
-- **FULTON** (B+): 166
-- **MILTON** (B+): 157
-- **JANESVILLE** (A): 137
-- **TURTLE** (A): 103
-- **HARMONY** (B+): 50
-- **EVANSVILLE** (B+): 27
+- **MILTON** (B+): 175
+- **TURTLE** (A): 148
+- **JANESVILLE** (A): 126
+- **BELOIT** (A+): 100
+- **FULTON** (B+): 100
+- **HARMONY** (B+): 91
+- **EVANSVILLE** (B+): 35
 
 ### 📬 Off-Market
-- **TURTLE** (A): 48 — 8 multi-owners
-- **MILTON** (B+): 35 — 6 multi-owners
-- **FULTON** (B+): 31 — 7 multi-owners
-- **HARMONY** (B+): 31 — 6 multi-owners
-- **JANESVILLE** (A): 30 — 5 multi-owners
-- **BELOIT** (A+): 21 — 5 multi-owners
-- **EVANSVILLE** (B+): 1
+- **TURTLE** (A): 42 — 10 multi-owners
+- **FULTON** (B+): 30 — 13 multi-owners
+- **MILTON** (B+): 29 — 9 multi-owners
+- **HARMONY** (B+): 28 — 7 multi-owners
+- **JANESVILLE** (A): 25 — 7 multi-owners
+- **BELOIT** (A+): 16 — 6 multi-owners
 
 ---
-*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

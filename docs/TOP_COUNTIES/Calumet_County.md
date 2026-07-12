@@ -92,206 +92,206 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **B+** | STOCKBRIDGE | 1.0 | PAPENDIECK DEAN | 32484 | 📞 |
-| **B+** | STOCKBRIDGE | 0.8 | MCLERNON JUDITH L | 10603 | 📞 |
-| **B+** | STOCKBRIDGE | 0.6 | SCHNEIDER CASEY | 11052 | 📞 |
-| **B+** | STOCKBRIDGE | 0.4 | POLAR JEREMY | 11505 | 📞 |
-| **B+** | STOCKBRIDGE | 0.3 | ZAMMUTO FRANK 🔗| 10749 | 📞 |
-| **B+** | STOCKBRIDGE | 0.3 | ARNDT GENEVIEVE | 11517 | 📞 |
-| **B+** | STOCKBRIDGE | 0.3 | STEGER JOHN | 11528 | 📞 |
-| **B+** | STOCKBRIDGE | 0.2 | THORPE CYNTHIA | 11544 | 📞 |
-| **B+** | STOCKBRIDGE | 0.2 | HEMAUER ELAINE M 🔗| 10655 | 📞 |
-| **B+** | BROTHERTOWN | 0.1 | WINNEBAGO POINT ASSOCIATION | 2313 | 📞 |
-| **B+** | STOCKBRIDGE | 0.0 | HEMAUER ELAINE M 🔗| 10656 | 📞 |
-| **B+** | STOCKBRIDGE | ? | DENSLOW STEVEN | 10664 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LEE 🔗| 10669 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHUMACHER ANDREW 🔗| 10689 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ECKER MARVIN 🔗| 10775 | 📬 |
-| **B+** | STOCKBRIDGE | ? | FRANZEN JERRY | 10845 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GEBHART ALLEN 🔗| 10919 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN KATHERINE | 10930 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HELLER ROBERT 🔗| 10935 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10943 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MEYER ANTOINETTE 🔗| 10994 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHWOBE PATRICK T 🔗| 11008 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHWOBE PATRICK T 🔗| 11011 | 📬 |
-| **B+** | STOCKBRIDGE | ? | M & M FARM PROPERTIES LLC 🔗| 11015 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WERBECKES LORAINE | 11022 | 📬 |
-| **B+** | STOCKBRIDGE | ? | M & M FARM PROPERTIES LLC 🔗| 11024 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHWARZ CONNOR J | 11029 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHWOBE CRAIG G | 11033 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WENIG ERIC | 11036 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PORTMANN JOEL | 11045 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11048 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11049 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11050 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BARRY BARBARA | 11060 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WINN EAST SHORE CONSERV CLUB | 11064 | 📬 |
-| **B+** | STOCKBRIDGE | ? | POPPY DWIGHT C | 11065 | 📬 |
-| **B+** | STOCKBRIDGE | ? | REIF ARTHUR | 11067 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN GERALD 🔗| 11072 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 11076 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GEBHART ALLEN 🔗| 11094 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GEBHART ARLENE | 11096 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GEBHART BROTHERS PARTNERSHIP | 11099 | 📬 |
-| **B+** | STOCKBRIDGE | ? | TREMBLE LYLAS | 11112 | 📬 |
-| **B+** | STOCKBRIDGE | ? | VANHOORN JANENE | 11117 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHNEIDER SCOTT | 11118 | 📬 |
-| **B+** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 11120 | 📬 |
-| **B+** | STOCKBRIDGE | ? | LUDWIG MICHAEL 🔗| 11121 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 26630 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BIESE DANIEL 🔗| 11496 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BIESE RONALD J | 11498 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LEE 🔗| 11499 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LEE 🔗| 11500 | 📬 |
-| **B+** | STOCKBRIDGE | ? | STROOBANTS JARED 🔗| 11501 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 11143 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 11144 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 11146 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ECKER CHRISTOPHER | 11151 | 📬 |
-| **B+** | STOCKBRIDGE | ? | LUDWIG MICHAEL 🔗| 11152 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DEGENEFFE LYNN | 11154 | 📬 |
-| **B+** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 11156 | 📬 |
-| **B+** | STOCKBRIDGE | ? | VANDENHOOGEN ALICIA | 28784 | 📬 |
-| **B+** | STOCKBRIDGE | ? | OLSON BRENDA | 11181 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 32008 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN GERALD 🔗| 11191 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HELLER ROBERT 🔗| 11209 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HOERTH CLARENCE | 11225 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MEYER ANTOINETTE 🔗| 11227 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KARLS JASON 🔗| 11235 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11237 | 📬 |
-| **B+** | STOCKBRIDGE | ? | POPP AMANDA | 32382 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 11245 | 📬 |
-| **B+** | STOCKBRIDGE | ? | THIEL GAIL | 11260 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KOPECKY WENDY | 28434 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WINKLER ROBERT L | 11264 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11282 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11283 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KLEINHANS MICHELLE | 11290 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KOEHLER CHERYL | 11293 | 📬 |
-| **B+** | STOCKBRIDGE | ? | NOLAN KRISTIN | 11308 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11311 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BRENNER ARLENE | 11139 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PROPSON DONALD 🔗| 11320 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 32312 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BIESE KEVIN | 11338 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KONEN DANIEL | 11339 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL JOSHUA | 28192 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 20371 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PROPSON JAMES 🔗| 11351 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PROPSON JAMES 🔗| 11354 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 32058 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN RICHARD | 11379 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUFFING DELORES | 11382 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RACH KENNETH 🔗| 11387 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 11404 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PROPSON DONALD 🔗| 11408 | 📬 |
-| **B+** | STOCKBRIDGE | ? | VANHOORN LEO | 11409 | 📬 |
-| **B+** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 11412 | 📬 |
-| **B+** | STOCKBRIDGE | ? | STROOBANTS JARED 🔗| 11424 | 📬 |
-| **B+** | STOCKBRIDGE | ? | TASCH KENNETH 🔗| 11436 | 📬 |
-| **B+** | STOCKBRIDGE | ? | MUELLER JOHN 🔗| 32010 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHOMMER DONNA | 11443 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RACH KENNETH 🔗| 11444 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SIEGWARTH DAVID | 11449 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUFFING PAMELA 🔗| 11456 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUFFING PAMELA 🔗| 11465 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 25498 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11467 | 📬 |
-| **B+** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 38204 | 📬 |
-| **B+** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 32554 | 📬 |
-| **B+** | STOCKBRIDGE | ? | BIESE DANIEL 🔗| 42356 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 43746 | 📬 |
-| **B+** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 44478 | 📬 |
-| **B+** | STOCKBRIDGE | ? | TASCH KENNETH 🔗| 44506 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HEAD JILL | 44000 | 📬 |
-| **B+** | STOCKBRIDGE | ? | STADTMUELLER KATHY | 46362 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KURSCHEIDT MICHAEL J | 46360 | 📬 |
-| **B+** | BROTHERTOWN | ? | BROCKMAN JORY | 2251 | 📬 |
-| **B+** | BROTHERTOWN | ? | LAVEY MATTHEW | 2602 | 📬 |
-| **B+** | BROTHERTOWN | ? | TASCH DIANE 🔗| 2605 | 📬 |
-| **B+** | BROTHERTOWN | ? | ECKER ELROY 🔗| 2614 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2616 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2619 | 📬 |
-| **B+** | BROTHERTOWN | ? | GERNER MARGARET | 2621 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2622 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2626 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2627 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 29650 | 📬 |
-| **B+** | BROTHERTOWN | ? | LEITNER MICHAEL | 2640 | 📬 |
-| **B+** | BROTHERTOWN | ? | LEITNER NICHOLAS | 2641 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 31464 | 📬 |
-| **B+** | BROTHERTOWN | ? | SCHWOBE CRAIG | 2650 | 📬 |
-| **B+** | BROTHERTOWN | ? | KUEHNL JASON | 30034 | 📬 |
-| **B+** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 28110 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2686 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS EUGENE | 2687 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2688 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2714 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2717 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2720 | 📬 |
-| **B+** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 25464 | 📬 |
-| **B+** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 2758 | 📬 |
-| **B+** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 2764 | 📬 |
-| **B+** | BROTHERTOWN | ? | KARLS JASON 🔗| 2768 | 📬 |
-| **B+** | BROTHERTOWN | ? | POPP ANITA 🔗| 2769 | 📬 |
-| **B+** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 23593 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2778 | 📬 |
-| **B+** | BROTHERTOWN | ? | POPP ANITA 🔗| 2780 | 📬 |
-| **B+** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 2786 | 📬 |
-| **B+** | BROTHERTOWN | ? | DITTER JODI 🔗| 2787 | 📬 |
-| **B+** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 31286 | 📬 |
-| **B+** | BROTHERTOWN | ? | DITTER JODI 🔗| 2789 | 📬 |
-| **B+** | BROTHERTOWN | ? | DITTER JODI 🔗| 2791 | 📬 |
-| **B+** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2807 | 📬 |
-| **B+** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2808 | 📬 |
-| **B+** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2809 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2832 | 📬 |
-| **B+** | BROTHERTOWN | ? | DITTER JODI 🔗| 2834 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2838 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2843 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2844 | 📬 |
-| **B+** | BROTHERTOWN | ? | SEE CAROL | 25770 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2850 | 📬 |
-| **B+** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2856 | 📬 |
-| **B+** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2858 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2859 | 📬 |
-| **B+** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2869 | 📬 |
-| **B+** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 2870 | 📬 |
-| **B+** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2874 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2960 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 32534 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEIER BRUCE J | 2966 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2968 | 📬 |
-| **B+** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 3015 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER DENNIS 🔗| 3020 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3035 | 📬 |
-| **B+** | BROTHERTOWN | ? | BRENNER JEFFREY | 3041 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN LEE 🔗| 20746 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 3063 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN MARK O | 31714 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3098 | 📬 |
-| **B+** | BROTHERTOWN | ? | PETRIE ELIZABETH | 3099 | 📬 |
-| **B+** | BROTHERTOWN | ? | HANKE RITA 🔗| 3129 | 📬 |
-| **B+** | BROTHERTOWN | ? | HANKE RITA 🔗| 3135 | 📬 |
-| **B+** | BROTHERTOWN | ? | HANKE KATHLEEN | 3138 | 📬 |
-| **B+** | BROTHERTOWN | ? | PETHAN MARK | 3139 | 📬 |
-| **B+** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3140 | 📬 |
-| **B+** | BROTHERTOWN | ? | MERTENS LUANN 🔗| 20229 | 📬 |
-| **B+** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3145 | 📬 |
-| **B+** | BROTHERTOWN | ? | HOERL STEVEN J | 3147 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS HERITAGE FARM LLC 🔗| 3168 | 📬 |
-| **B+** | BROTHERTOWN | ? | THIEL CINDY | 3172 | 📬 |
-| **B+** | BROTHERTOWN | ? | GEISER JOSEPH R | 3177 | 📬 |
-| **B+** | BROTHERTOWN | ? | KARLS ALLEN | 3205 | 📬 |
-| **B+** | BROTHERTOWN | ? | CASPER ALLEN A | 3229 | 📬 |
-| **B+** | BROTHERTOWN | ? | CASPER ALLEN | 32244 | 📬 |
-| **B+** | BROTHERTOWN | ? | PETRIE LAWRENCE 🔗| 27782 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS PAUL E | 3234 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS PAUL | 3238 | 📬 |
-| **B+** | BROTHERTOWN | ? | STEINER JOHN D 🔗| 29646 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER DEANN | 32604 | 📬 |
+| **B** | STOCKBRIDGE | 1.0 | PAPENDIECK DEAN | 32484 | 📞 |
+| **B** | STOCKBRIDGE | 0.8 | MCLERNON JUDITH L | 10603 | 📞 |
+| **B** | STOCKBRIDGE | 0.6 | SCHNEIDER CASEY | 11052 | 📞 |
+| **B** | STOCKBRIDGE | 0.4 | POLAR JEREMY | 11505 | 📞 |
+| **B** | STOCKBRIDGE | 0.3 | ZAMMUTO FRANK 🔗| 10749 | 📞 |
+| **B** | STOCKBRIDGE | 0.3 | ARNDT GENEVIEVE | 11517 | 📞 |
+| **B** | STOCKBRIDGE | 0.3 | STEGER JOHN | 11528 | 📞 |
+| **B** | STOCKBRIDGE | 0.2 | THORPE CYNTHIA | 11544 | 📞 |
+| **B** | STOCKBRIDGE | 0.2 | HEMAUER ELAINE M 🔗| 10655 | 📞 |
+| **B** | BROTHERTOWN | 0.1 | WINNEBAGO POINT ASSOCIATION | 2313 | 📞 |
+| **B** | STOCKBRIDGE | 0.0 | HEMAUER ELAINE M 🔗| 10656 | 📞 |
+| **B** | STOCKBRIDGE | ? | DENSLOW STEVEN | 10664 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LEE 🔗| 10669 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHUMACHER ANDREW 🔗| 10689 | 📬 |
+| **B** | STOCKBRIDGE | ? | ECKER MARVIN 🔗| 10775 | 📬 |
+| **B** | STOCKBRIDGE | ? | FRANZEN JERRY | 10845 | 📬 |
+| **B** | STOCKBRIDGE | ? | GEBHART ALLEN 🔗| 10919 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN KATHERINE | 10930 | 📬 |
+| **B** | STOCKBRIDGE | ? | HELLER ROBERT 🔗| 10935 | 📬 |
+| **B** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10943 | 📬 |
+| **B** | STOCKBRIDGE | ? | MEYER ANTOINETTE 🔗| 10994 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHWOBE PATRICK T 🔗| 11008 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHWOBE PATRICK T 🔗| 11011 | 📬 |
+| **B** | STOCKBRIDGE | ? | M & M FARM PROPERTIES LLC 🔗| 11015 | 📬 |
+| **B** | STOCKBRIDGE | ? | WERBECKES LORAINE | 11022 | 📬 |
+| **B** | STOCKBRIDGE | ? | M & M FARM PROPERTIES LLC 🔗| 11024 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHWARZ CONNOR J | 11029 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHWOBE CRAIG G | 11033 | 📬 |
+| **B** | STOCKBRIDGE | ? | WENIG ERIC | 11036 | 📬 |
+| **B** | STOCKBRIDGE | ? | PORTMANN JOEL | 11045 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11048 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11049 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11050 | 📬 |
+| **B** | STOCKBRIDGE | ? | BARRY BARBARA | 11060 | 📬 |
+| **B** | STOCKBRIDGE | ? | WINN EAST SHORE CONSERV CLUB | 11064 | 📬 |
+| **B** | STOCKBRIDGE | ? | POPPY DWIGHT C | 11065 | 📬 |
+| **B** | STOCKBRIDGE | ? | REIF ARTHUR | 11067 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN GERALD 🔗| 11072 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 11076 | 📬 |
+| **B** | STOCKBRIDGE | ? | GEBHART ALLEN 🔗| 11094 | 📬 |
+| **B** | STOCKBRIDGE | ? | GEBHART ARLENE | 11096 | 📬 |
+| **B** | STOCKBRIDGE | ? | GEBHART BROTHERS PARTNERSHIP | 11099 | 📬 |
+| **B** | STOCKBRIDGE | ? | TREMBLE LYLAS | 11112 | 📬 |
+| **B** | STOCKBRIDGE | ? | VANHOORN JANENE | 11117 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHNEIDER SCOTT | 11118 | 📬 |
+| **B** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 11120 | 📬 |
+| **B** | STOCKBRIDGE | ? | LUDWIG MICHAEL 🔗| 11121 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 26630 | 📬 |
+| **B** | STOCKBRIDGE | ? | BIESE DANIEL 🔗| 11496 | 📬 |
+| **B** | STOCKBRIDGE | ? | BIESE RONALD J | 11498 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LEE 🔗| 11499 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LEE 🔗| 11500 | 📬 |
+| **B** | STOCKBRIDGE | ? | STROOBANTS JARED 🔗| 11501 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 11143 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 11144 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 11146 | 📬 |
+| **B** | STOCKBRIDGE | ? | ECKER CHRISTOPHER | 11151 | 📬 |
+| **B** | STOCKBRIDGE | ? | LUDWIG MICHAEL 🔗| 11152 | 📬 |
+| **B** | STOCKBRIDGE | ? | DEGENEFFE LYNN | 11154 | 📬 |
+| **B** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 11156 | 📬 |
+| **B** | STOCKBRIDGE | ? | VANDENHOOGEN ALICIA | 28784 | 📬 |
+| **B** | STOCKBRIDGE | ? | OLSON BRENDA | 11181 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 32008 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN GERALD 🔗| 11191 | 📬 |
+| **B** | STOCKBRIDGE | ? | HELLER ROBERT 🔗| 11209 | 📬 |
+| **B** | STOCKBRIDGE | ? | HOERTH CLARENCE | 11225 | 📬 |
+| **B** | STOCKBRIDGE | ? | MEYER ANTOINETTE 🔗| 11227 | 📬 |
+| **B** | STOCKBRIDGE | ? | KARLS JASON 🔗| 11235 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11237 | 📬 |
+| **B** | STOCKBRIDGE | ? | POPP AMANDA | 32382 | 📬 |
+| **B** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 11245 | 📬 |
+| **B** | STOCKBRIDGE | ? | THIEL GAIL | 11260 | 📬 |
+| **B** | STOCKBRIDGE | ? | KOPECKY WENDY | 28434 | 📬 |
+| **B** | STOCKBRIDGE | ? | WINKLER ROBERT L | 11264 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11282 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11283 | 📬 |
+| **B** | STOCKBRIDGE | ? | KLEINHANS MICHELLE | 11290 | 📬 |
+| **B** | STOCKBRIDGE | ? | KOEHLER CHERYL | 11293 | 📬 |
+| **B** | STOCKBRIDGE | ? | NOLAN KRISTIN | 11308 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHMITZ DENNIS 🔗| 11311 | 📬 |
+| **B** | STOCKBRIDGE | ? | BRENNER ARLENE | 11139 | 📬 |
+| **B** | STOCKBRIDGE | ? | PROPSON DONALD 🔗| 11320 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 32312 | 📬 |
+| **B** | STOCKBRIDGE | ? | BIESE KEVIN | 11338 | 📬 |
+| **B** | STOCKBRIDGE | ? | KONEN DANIEL | 11339 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL JOSHUA | 28192 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 20371 | 📬 |
+| **B** | STOCKBRIDGE | ? | PROPSON JAMES 🔗| 11351 | 📬 |
+| **B** | STOCKBRIDGE | ? | PROPSON JAMES 🔗| 11354 | 📬 |
+| **B** | STOCKBRIDGE | ? | MOEHN JOHN 🔗| 32058 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN RICHARD | 11379 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUFFING DELORES | 11382 | 📬 |
+| **B** | STOCKBRIDGE | ? | RACH KENNETH 🔗| 11387 | 📬 |
+| **B** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 11404 | 📬 |
+| **B** | STOCKBRIDGE | ? | PROPSON DONALD 🔗| 11408 | 📬 |
+| **B** | STOCKBRIDGE | ? | VANHOORN LEO | 11409 | 📬 |
+| **B** | STOCKBRIDGE | ? | DAUN LIMITED PARTNERSHIP 🔗| 11412 | 📬 |
+| **B** | STOCKBRIDGE | ? | STROOBANTS JARED 🔗| 11424 | 📬 |
+| **B** | STOCKBRIDGE | ? | TASCH KENNETH 🔗| 11436 | 📬 |
+| **B** | STOCKBRIDGE | ? | MUELLER JOHN 🔗| 32010 | 📬 |
+| **B** | STOCKBRIDGE | ? | SCHOMMER DONNA | 11443 | 📬 |
+| **B** | STOCKBRIDGE | ? | RACH KENNETH 🔗| 11444 | 📬 |
+| **B** | STOCKBRIDGE | ? | SIEGWARTH DAVID | 11449 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUFFING PAMELA 🔗| 11456 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUFFING PAMELA 🔗| 11465 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 25498 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 11467 | 📬 |
+| **B** | STOCKBRIDGE | ? | CASPER BONNIE 🔗| 38204 | 📬 |
+| **B** | STOCKBRIDGE | ? | WOELFEL FARMS REAL ESTATE LLC 🔗| 32554 | 📬 |
+| **B** | STOCKBRIDGE | ? | BIESE DANIEL 🔗| 42356 | 📬 |
+| **B** | STOCKBRIDGE | ? | HOERTH GEORGENE 🔗| 43746 | 📬 |
+| **B** | STOCKBRIDGE | ? | RUHLAND DANIEL D 🔗| 44478 | 📬 |
+| **B** | STOCKBRIDGE | ? | TASCH KENNETH 🔗| 44506 | 📬 |
+| **B** | STOCKBRIDGE | ? | HEAD JILL | 44000 | 📬 |
+| **B** | STOCKBRIDGE | ? | STADTMUELLER KATHY | 46362 | 📬 |
+| **B** | STOCKBRIDGE | ? | KURSCHEIDT MICHAEL J | 46360 | 📬 |
+| **B** | BROTHERTOWN | ? | BROCKMAN JORY | 2251 | 📬 |
+| **B** | BROTHERTOWN | ? | LAVEY MATTHEW | 2602 | 📬 |
+| **B** | BROTHERTOWN | ? | TASCH DIANE 🔗| 2605 | 📬 |
+| **B** | BROTHERTOWN | ? | ECKER ELROY 🔗| 2614 | 📬 |
+| **B** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2616 | 📬 |
+| **B** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2619 | 📬 |
+| **B** | BROTHERTOWN | ? | GERNER MARGARET | 2621 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2622 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2626 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2627 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 29650 | 📬 |
+| **B** | BROTHERTOWN | ? | LEITNER MICHAEL | 2640 | 📬 |
+| **B** | BROTHERTOWN | ? | LEITNER NICHOLAS | 2641 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 31464 | 📬 |
+| **B** | BROTHERTOWN | ? | SCHWOBE CRAIG | 2650 | 📬 |
+| **B** | BROTHERTOWN | ? | KUEHNL JASON | 30034 | 📬 |
+| **B** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 28110 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2686 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYERS EUGENE | 2687 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2688 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2714 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2717 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 2720 | 📬 |
+| **B** | BROTHERTOWN | ? | CRITER JERRAINE 🔗| 25464 | 📬 |
+| **B** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 2758 | 📬 |
+| **B** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 2764 | 📬 |
+| **B** | BROTHERTOWN | ? | KARLS JASON 🔗| 2768 | 📬 |
+| **B** | BROTHERTOWN | ? | POPP ANITA 🔗| 2769 | 📬 |
+| **B** | BROTHERTOWN | ? | SEE FARMS LLC 🔗| 23593 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2778 | 📬 |
+| **B** | BROTHERTOWN | ? | POPP ANITA 🔗| 2780 | 📬 |
+| **B** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 2786 | 📬 |
+| **B** | BROTHERTOWN | ? | DITTER JODI 🔗| 2787 | 📬 |
+| **B** | BROTHERTOWN | ? | MUELLER JOHN 🔗| 31286 | 📬 |
+| **B** | BROTHERTOWN | ? | DITTER JODI 🔗| 2789 | 📬 |
+| **B** | BROTHERTOWN | ? | DITTER JODI 🔗| 2791 | 📬 |
+| **B** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2807 | 📬 |
+| **B** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2808 | 📬 |
+| **B** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2809 | 📬 |
+| **B** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2832 | 📬 |
+| **B** | BROTHERTOWN | ? | DITTER JODI 🔗| 2834 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2838 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2843 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2844 | 📬 |
+| **B** | BROTHERTOWN | ? | SEE CAROL | 25770 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2850 | 📬 |
+| **B** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2856 | 📬 |
+| **B** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2858 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 2859 | 📬 |
+| **B** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2869 | 📬 |
+| **B** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 2870 | 📬 |
+| **B** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2874 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2960 | 📬 |
+| **B** | BROTHERTOWN | ? | KONEN ANN 🔗| 32534 | 📬 |
+| **B** | BROTHERTOWN | ? | MEIER BRUCE J | 2966 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2968 | 📬 |
+| **B** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 3015 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYER DENNIS 🔗| 3020 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3035 | 📬 |
+| **B** | BROTHERTOWN | ? | BRENNER JEFFREY | 3041 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN LEE 🔗| 20746 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 3063 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN MARK O | 31714 | 📬 |
+| **B** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3098 | 📬 |
+| **B** | BROTHERTOWN | ? | PETRIE ELIZABETH | 3099 | 📬 |
+| **B** | BROTHERTOWN | ? | HANKE RITA 🔗| 3129 | 📬 |
+| **B** | BROTHERTOWN | ? | HANKE RITA 🔗| 3135 | 📬 |
+| **B** | BROTHERTOWN | ? | HANKE KATHLEEN | 3138 | 📬 |
+| **B** | BROTHERTOWN | ? | PETHAN MARK | 3139 | 📬 |
+| **B** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3140 | 📬 |
+| **B** | BROTHERTOWN | ? | MERTENS LUANN 🔗| 20229 | 📬 |
+| **B** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3145 | 📬 |
+| **B** | BROTHERTOWN | ? | HOERL STEVEN J | 3147 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYERS HERITAGE FARM LLC 🔗| 3168 | 📬 |
+| **B** | BROTHERTOWN | ? | THIEL CINDY | 3172 | 📬 |
+| **B** | BROTHERTOWN | ? | GEISER JOSEPH R | 3177 | 📬 |
+| **B** | BROTHERTOWN | ? | KARLS ALLEN | 3205 | 📬 |
+| **B** | BROTHERTOWN | ? | CASPER ALLEN A | 3229 | 📬 |
+| **B** | BROTHERTOWN | ? | CASPER ALLEN | 32244 | 📬 |
+| **B** | BROTHERTOWN | ? | PETRIE LAWRENCE 🔗| 27782 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYERS PAUL E | 3234 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYERS PAUL | 3238 | 📬 |
+| **B** | BROTHERTOWN | ? | STEINER JOHN D 🔗| 29646 | 📬 |
+| **B** | BROTHERTOWN | ? | MEYER DEANN | 32604 | 📬 |
 | ... | ... | ... (+179 more) | ... | ... |
 
 ## Rezoning Analysis

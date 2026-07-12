@@ -387,7 +387,7 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 **BURKE** (A-): 57 parcels, ~511ac
   54 MLS — call first
   7 multi-owners
-**DEFOREST** (B+): 37 parcels, ~798ac
+**DEFOREST** (A-): 37 parcels, ~798ac
   37 MLS — call first
   6 multi-owners
 **WAUNAKEE** (B+): 34 parcels, ~275ac
@@ -415,7 +415,7 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - **BURKE** (A-): 54
 - **MONTROSE** (B+): 52
 - **WESTPORT** (A): 50
-- **DEFOREST** (B+): 37
+- **DEFOREST** (A-): 37
 - **WAUNAKEE** (B+): 32
 - **MCFARLAND** (B+): 13
 - **OREGON** (B+): 4

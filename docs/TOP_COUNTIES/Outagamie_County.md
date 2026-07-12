@@ -419,7 +419,7 @@ An interactive toggle map showing **Current Zoning ↔ Future Land Use** with co
 **BUCHANAN** (B+): 56 parcels, ~2ac
   53 MLS — call first
   9 multi-owners
-**LITTLE CHUTE** (A-): 4 parcels, ~1ac
+**LITTLE CHUTE** (B+): 4 parcels, ~1ac
   4 MLS — call first
 
 ### 📞 For-Sale
@@ -427,7 +427,7 @@ An interactive toggle map showing **Current Zoning ↔ Future Land Use** with co
 - **FREEDOM** (B+): 65
 - **GRAND CHUTE** (A): 60
 - **BUCHANAN** (B+): 53
-- **LITTLE CHUTE** (A-): 4
+- **LITTLE CHUTE** (B+): 4
 
 ### 📬 Off-Market
 - **FREEDOM** (B+): 66 — 16 multi-owners
