@@ -79,16 +79,18 @@ An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labe
 
 ---
 
+---
+
 ## Subdivision Pipeline
 
-**42 parcels** | 1 off-market | 41 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**42 parcels** | 0 off-market | 42 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
 | **B** | SISTER BAY | 34.0 | SITTE ROBERT V | 181 0007312844C | 📞 |
-| **B** | SISTER BAY | 20.5 | CARLE STEPHEN D | 181 0008312841A | 📬 |
+| **B** | SISTER BAY | 20.5 | CARLE STEPHEN D | 181 0008312841A | 📞 |
 | **B** | SISTER BAY | 12.0 | FARM & HILLS REAL ESTATE LLC | 181 0007312813C | 📞 |
 | **B** | SISTER BAY | 10.1 | STALEY THOMAS | 181 0007312841C | 📞 |
 | **B** | SISTER BAY | 10.0 | THE JEFFREY L BOLTON AND KAREN L BOLTO | 181 0008312843A2 | 📞 |
@@ -134,13 +136,10 @@ An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labe
 
 ### Clusters
 **SISTER BAY** (B): 42 parcels, ~151ac
-  41 MLS — call first
+  42 MLS — call first
 
 ### 📞 For-Sale
-- **SISTER BAY** (B): 41
-
-### 📬 Off-Market
-- **SISTER BAY** (B): 1
+- **SISTER BAY** (B): 42
 
 ---
-*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

@@ -4,7 +4,7 @@ import requests, json, time, os
 from collections import Counter, defaultdict
 from datetime import datetime as dt
 
-API_KEY = "lp_live_z5k-VLjQn5gVOnb0NuTLG-rxJ1jtZy7G"
+API_KEY = "lp_live_e3C0PY-2uwItQt3DcW1eH2t-bD0MfjkQ"
 BASE = "https://api.landportal.com"
 H = {"Authorization": f"Bearer {API_KEY}", "Content-Type": "application/json"}
 O = "/root/wisconsin-overlay-map/output/subdivision_leads"
@@ -28,7 +28,16 @@ s = requests.Session(); s.headers.update(H)
 
 def q(fips,muni,fs=False):
     if fs:
-        fl=[{"key":"municipality","operator":"condition","value":muni},{"key":"landusecode","operator":"condition","value":"8001"},{"key":"active_listing_toggle","operator":"active_listing_toggle","value":True}]
+        all_p = []
+        for code in ["8000","8001","8008","7000","7001"]:
+            fl=[{"key":"municipality","operator":"condition","value":muni},{"key":"landusecode","operator":"condition","value":code},{"key":"active_listing_toggle","operator":"active_listing_toggle","value":True}]
+            r=s.post(f"{BASE}/v2/filter-data",json={"fips":[fips],"filters":fl},timeout=30)
+            if r.status_code!=200: continue
+            d=r.json()
+            if d.get("meta",{}).get("rejected_filters"): continue
+            all_p.extend(d.get("data",{}).get("properties",[]))
+            time.sleep(0.05)
+        return all_p
     else:
         fl=[{"key":"municipality","operator":"condition","value":muni},{"key":"lotsizeacres","operator":"range","value":{"min":20,"max":200}},{"key":"vacant","operator":"boolean","value":True},{"key":"road_frontage","operator":"range","value":{"min":300}},{"key":"wetlands_cover_percentage","operator":"range","value":{"max":25}},{"key":"fema_cover_percentage","operator":"range","value":{"max":50}},{"key":"sum_up_to_15","operator":"range","value":{"min":50}}]
     ap,pt=[],None

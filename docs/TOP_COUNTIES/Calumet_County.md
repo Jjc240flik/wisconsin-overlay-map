@@ -82,50 +82,32 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 
+---
+
 ## Subdivision Pipeline
 
-**255 parcels** | 247 off-market | 8 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**379 parcels** | 200 off-market | 179 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
+| **B+** | STOCKBRIDGE | 1.0 | PAPENDIECK DEAN | 32484 | 📞 |
+| **B+** | STOCKBRIDGE | 0.8 | MCLERNON JUDITH L | 10603 | 📞 |
 | **B+** | STOCKBRIDGE | 0.6 | SCHNEIDER CASEY | 11052 | 📞 |
 | **B+** | STOCKBRIDGE | 0.4 | POLAR JEREMY | 11505 | 📞 |
+| **B+** | STOCKBRIDGE | 0.3 | ZAMMUTO FRANK 🔗| 10749 | 📞 |
 | **B+** | STOCKBRIDGE | 0.3 | ARNDT GENEVIEVE | 11517 | 📞 |
 | **B+** | STOCKBRIDGE | 0.3 | STEGER JOHN | 11528 | 📞 |
 | **B+** | STOCKBRIDGE | 0.2 | THORPE CYNTHIA | 11544 | 📞 |
 | **B+** | STOCKBRIDGE | 0.2 | HEMAUER ELAINE M 🔗| 10655 | 📞 |
+| **B+** | BROTHERTOWN | 0.1 | WINNEBAGO POINT ASSOCIATION | 2313 | 📞 |
 | **B+** | STOCKBRIDGE | 0.0 | HEMAUER ELAINE M 🔗| 10656 | 📞 |
-| **B+** | STOCKBRIDGE | ? | KOEHLER RANDOLPH 🔗| 31018 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10613 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 29668 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10622 | 📬 |
-| **B+** | STOCKBRIDGE | ? | LEFEBER LILA | 10623 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10632 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GROCKI DIANE | 10639 | 📬 |
 | **B+** | STOCKBRIDGE | ? | DENSLOW STEVEN | 10664 | 📬 |
 | **B+** | STOCKBRIDGE | ? | DAUN LEE 🔗| 10669 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHUMACHER ANDREW | 10689 | 📬 |
-| **B+** | STOCKBRIDGE | ? | SCHAEFER JEAN | 10730 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ECKER MATTHEW D 🔗| 10758 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ECKER MATTHEW D 🔗| 22294 | 📬 |
+| **B+** | STOCKBRIDGE | ? | SCHUMACHER ANDREW 🔗| 10689 | 📬 |
 | **B+** | STOCKBRIDGE | ? | ECKER MARVIN 🔗| 10775 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ECKER MARVIN 🔗| 10786 | 📬 |
-| **B+** | STOCKBRIDGE | ? | TESCH CHAD | 10798 | 📬 |
-| **B+** | STOCKBRIDGE | ? | LISOWE JASON M | 10806 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ANDREW J AND CRYSTAL M SCHUMACHER LIVING TRUS 🔗| 10809 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ANDREW J AND CRYSTAL M SCHUMACHER LIVING TRUS 🔗| 31266 | 📬 |
-| **B+** | STOCKBRIDGE | ? | PFISTER MICHAEL D | 10821 | 📬 |
 | **B+** | STOCKBRIDGE | ? | FRANZEN JERRY | 10845 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 31994 | 📬 |
-| **B+** | STOCKBRIDGE | ? | ORTLIEB DAVID | 10850 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KURSCHEIDT JOHN | 10855 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10861 | 📬 |
-| **B+** | STOCKBRIDGE | ? | JIM ECKER FARMS LLC 🔗| 10866 | 📬 |
-| **B+** | STOCKBRIDGE | ? | KOEHLER RANDOLPH 🔗| 10895 | 📬 |
-| **B+** | STOCKBRIDGE | ? | GEBHART THOMAS A | 10900 | 📬 |
-| **B+** | STOCKBRIDGE | ? | HEAD JAMES | 10918 | 📬 |
 | **B+** | STOCKBRIDGE | ? | GEBHART ALLEN 🔗| 10919 | 📬 |
 | **B+** | STOCKBRIDGE | ? | MOEHN KATHERINE | 10930 | 📬 |
 | **B+** | STOCKBRIDGE | ? | HELLER ROBERT 🔗| 10935 | 📬 |
@@ -226,32 +208,9 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **B+** | STOCKBRIDGE | ? | HEAD JILL | 44000 | 📬 |
 | **B+** | STOCKBRIDGE | ? | STADTMUELLER KATHY | 46362 | 📬 |
 | **B+** | STOCKBRIDGE | ? | KURSCHEIDT MICHAEL J | 46360 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER JAMES H | 3260 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER RONALD | 20745 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN ELIZABETH 🔗| 3277 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS HERITAGE FARM LLC 🔗| 3296 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS HERITAGE FARM LLC 🔗| 3307 | 📬 |
-| **B+** | BROTHERTOWN | ? | DAUN ELIZABETH 🔗| 3311 | 📬 |
-| **B+** | BROTHERTOWN | ? | ANDAY JAIME | 3314 | 📬 |
-| **B+** | BROTHERTOWN | ? | MUELLENBACH DALE | 3319 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER DENNIS 🔗| 3330 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYERS ANN | 3333 | 📬 |
-| **B+** | BROTHERTOWN | ? | STEINER JOHN D 🔗| 3335 | 📬 |
-| **B+** | BROTHERTOWN | ? | MEYER BROTHERS CROP FARMS LLC | 3341 | 📬 |
 | **B+** | BROTHERTOWN | ? | BROCKMAN JORY | 2251 | 📬 |
-| **B+** | BROTHERTOWN | ? | ECKER MARVIN 🔗| 32530 | 📬 |
-| **B+** | BROTHERTOWN | ? | BUB NEIL | 2286 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE BRIAN | 25448 | 📬 |
-| **B+** | BROTHERTOWN | ? | ECKER ELROY 🔗| 2441 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE DAVID 🔗| 2442 | 📬 |
-| **B+** | BROTHERTOWN | ? | LISOWE DAVID 🔗| 29644 | 📬 |
-| **B+** | BROTHERTOWN | ? | BDN FARMS LLC | 2461 | 📬 |
-| **B+** | BROTHERTOWN | ? | SANDERFOOT SHAWN | 2523 | 📬 |
-| **B+** | BROTHERTOWN | ? | BUB BRIAN 🔗| 2524 | 📬 |
-| **B+** | BROTHERTOWN | ? | HANSEN KRISTINE | 2531 | 📬 |
-| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2532 | 📬 |
 | **B+** | BROTHERTOWN | ? | LAVEY MATTHEW | 2602 | 📬 |
-| **B+** | BROTHERTOWN | ? | TASCH DIANE | 2605 | 📬 |
+| **B+** | BROTHERTOWN | ? | TASCH DIANE 🔗| 2605 | 📬 |
 | **B+** | BROTHERTOWN | ? | ECKER ELROY 🔗| 2614 | 📬 |
 | **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2616 | 📬 |
 | **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2619 | 📬 |
@@ -290,23 +249,68 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **B+** | BROTHERTOWN | ? | MAURER CHARLES 🔗| 2809 | 📬 |
 | **B+** | BROTHERTOWN | ? | LISOWE DUANE 🔗| 2832 | 📬 |
 | **B+** | BROTHERTOWN | ? | DITTER JODI 🔗| 2834 | 📬 |
-| ... | ... | ... (+55 more) | ... | ... |
+| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2838 | 📬 |
+| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2843 | 📬 |
+| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2844 | 📬 |
+| **B+** | BROTHERTOWN | ? | SEE CAROL | 25770 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2850 | 📬 |
+| **B+** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2856 | 📬 |
+| **B+** | BROTHERTOWN | ? | KARLS JUDITH 🔗| 2858 | 📬 |
+| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 2859 | 📬 |
+| **B+** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2869 | 📬 |
+| **B+** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 2870 | 📬 |
+| **B+** | BROTHERTOWN | ? | FHLUG GORDON 🔗| 2874 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2960 | 📬 |
+| **B+** | BROTHERTOWN | ? | KONEN ANN 🔗| 32534 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEIER BRUCE J | 2966 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 2968 | 📬 |
+| **B+** | BROTHERTOWN | ? | HALBACH ROBERT R 🔗| 3015 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEYER DENNIS 🔗| 3020 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3035 | 📬 |
+| **B+** | BROTHERTOWN | ? | BRENNER JEFFREY | 3041 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN LEE 🔗| 20746 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN LIMITED PARTNERSHIP 🔗| 3063 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN MARK O | 31714 | 📬 |
+| **B+** | BROTHERTOWN | ? | DAUN JOHN 🔗| 3098 | 📬 |
+| **B+** | BROTHERTOWN | ? | PETRIE ELIZABETH | 3099 | 📬 |
+| **B+** | BROTHERTOWN | ? | HANKE RITA 🔗| 3129 | 📬 |
+| **B+** | BROTHERTOWN | ? | HANKE RITA 🔗| 3135 | 📬 |
+| **B+** | BROTHERTOWN | ? | HANKE KATHLEEN | 3138 | 📬 |
+| **B+** | BROTHERTOWN | ? | PETHAN MARK | 3139 | 📬 |
+| **B+** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3140 | 📬 |
+| **B+** | BROTHERTOWN | ? | MERTENS LUANN 🔗| 20229 | 📬 |
+| **B+** | BROTHERTOWN | ? | LEDGEROCK FARM LLC 🔗| 3145 | 📬 |
+| **B+** | BROTHERTOWN | ? | HOERL STEVEN J | 3147 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEYERS HERITAGE FARM LLC 🔗| 3168 | 📬 |
+| **B+** | BROTHERTOWN | ? | THIEL CINDY | 3172 | 📬 |
+| **B+** | BROTHERTOWN | ? | GEISER JOSEPH R | 3177 | 📬 |
+| **B+** | BROTHERTOWN | ? | KARLS ALLEN | 3205 | 📬 |
+| **B+** | BROTHERTOWN | ? | CASPER ALLEN A | 3229 | 📬 |
+| **B+** | BROTHERTOWN | ? | CASPER ALLEN | 32244 | 📬 |
+| **B+** | BROTHERTOWN | ? | PETRIE LAWRENCE 🔗| 27782 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEYERS PAUL E | 3234 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEYERS PAUL | 3238 | 📬 |
+| **B+** | BROTHERTOWN | ? | STEINER JOHN D 🔗| 29646 | 📬 |
+| **B+** | BROTHERTOWN | ? | MEYER DEANN | 32604 | 📬 |
+| ... | ... | ... (+179 more) | ... | ... |
 
 ## Rezoning Analysis
 
 ### Clusters
-**STOCKBRIDGE** (B+): 137 parcels, ~2ac
-  8 MLS — call first
-  30 multi-owners
-**BROTHERTOWN** (B+): 118 parcels, ~0ac
-  25 multi-owners
+**STOCKBRIDGE** (B+): 203 parcels, ~4ac
+  98 MLS — call first
+  41 multi-owners
+**BROTHERTOWN** (B+): 176 parcels, ~0ac
+  81 MLS — call first
+  39 multi-owners
 
 ### 📞 For-Sale
-- **STOCKBRIDGE** (B+): 8
+- **STOCKBRIDGE** (B+): 98
+- **BROTHERTOWN** (B+): 81
 
 ### 📬 Off-Market
-- **STOCKBRIDGE** (B+): 129 — 29 multi-owners
-- **BROTHERTOWN** (B+): 118 — 25 multi-owners
+- **STOCKBRIDGE** (B+): 105 — 27 multi-owners
+- **BROTHERTOWN** (B+): 95 — 26 multi-owners
 
 ---
-*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

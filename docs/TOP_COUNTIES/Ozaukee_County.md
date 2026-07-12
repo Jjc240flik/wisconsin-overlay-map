@@ -73,92 +73,105 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 
+---
+
 ## Subdivision Pipeline
 
-**532 parcels** | 58 off-market | 474 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**474 parcels** | 5 off-market | 469 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A** | CEDARBURG | 144.0 | STROEBEL S DUANE 🔗| 03-003-09-002.00 | 📬 |
-| **A** | CEDARBURG | 101.1 | TEALCO GROUP 🔗| 03-019-09-000.00 | 📬 |
-| **A** | CEDARBURG | 93.6 | RODEN PAUL F | 03-004-06-000.00 | 📬 |
-| **A** | CEDARBURG | 74.0 | TEALCO GROUP 🔗| 03-018-09-000.00 | 📬 |
-| **A** | CEDARBURG | 66.3 | TEALCO GROUP 🔗| 03-019-02-002.00 | 📬 |
-| **A** | CEDARBURG | 63.1 | GALL JEFFREY C | 03-005-01-001.00 | 📬 |
-| **A** | CEDARBURG | 51.5 | GLENN H. WEICHMAN | 03-033-09-003.00 | 📬 |
-| **A** | CEDARBURG | 44.8 | GALL MATTHEW W | 03-005-01-005.00 | 📬 |
-| **A** | CEDARBURG | 41.0 | KASTEN FARM LLC 🔗| 03-029-10-000.00 | 📬 |
-| **A** | CEDARBURG | 40.0 | KISON FAMILY FARMS LLC 🔗| 03-007-05-000.00 | 📬 |
+| **A** | CEDARBURG | 144.0 | STROEBEL S DUANE 🔗| 03-003-09-002.00 | 📞 |
+| **A** | CEDARBURG | 101.1 | TEALCO GROUP 🔗| 03-019-09-000.00 | 📞 |
+| **A** | CEDARBURG | 93.6 | RODEN PAUL F 🔗| 03-004-06-000.00 | 📞 |
+| **A** | CEDARBURG | 74.0 | TEALCO GROUP 🔗| 03-018-09-000.00 | 📞 |
+| **A** | CEDARBURG | 73.8 | WINTER CLYDE A 🔗| 03-002-08-002.00 | 📞 |
+| **A** | CEDARBURG | 73.4 | HELNORE JERRY | 03-018-14-001.00 | 📞 |
+| **A** | CEDARBURG | 72.2 | PROEFROCK HEIDI L 🔗| 03-004-03-001.00 | 📞 |
+| **A** | CEDARBURG | 66.3 | TEALCO GROUP 🔗| 03-019-02-002.00 | 📞 |
+| **A** | CEDARBURG | 63.1 | GALL JEFFREY C | 03-005-01-001.00 | 📞 |
+| **A** | CEDARBURG | 58.6 | RASMUSSEN TIMOTHY P | 03-034-10-000.00 | 📞 |
+| **A** | CEDARBURG | 51.5 | GLENN H. WEICHMAN | 03-033-09-003.00 | 📞 |
+| **A** | CEDARBURG | 51.1 | PROEFROCK HEIDI L 🔗| 03-004-02-000.00 | 📞 |
+| **A** | CEDARBURG | 49.0 | STROEBEL S DUANE S | 03-003-03-000.00 | 📞 |
+| **A** | CEDARBURG | 48.6 | CONGREGATION OF ST FRANCIS BORGIA 🔗| 03-016-13-003.00 | 📞 |
+| **A** | CEDARBURG | 44.8 | GALL MATTHEW W | 03-005-01-005.00 | 📞 |
+| **A** | CEDARBURG | 41.0 | KASTEN FARM LLC 🔗| 03-029-10-000.00 | 📞 |
 | **A** | CEDARBURG | 40.0 | E B L JOINT VENTURE | 03-005-14-000.00 | 📞 |
-| **A** | CEDARBURG | 38.8 | MURPHY SHANE M | 03-008-09-008.00 | 📞 |
-| **A** | CEDARBURG | 36.5 | WITTE ROBERT S 🔗| 03-029-03-003.00 | 📬 |
-| **A** | CEDARBURG | 35.9 | PARADISE ROAD FARMS LLC | 03-005-04-000.00 | 📬 |
-| **A** | CEDARBURG | 35.0 | PIPKORN JAMES | 03-030-07-001.00 | 📬 |
-| **A** | CEDARBURG | 34.6 | HOLTON JO ANNE | 03-032-04-000.00 | 📬 |
-| **A** | CEDARBURG | 34.0 | WINTER CLYDE A | 03-002-10-002.00 | 📬 |
-| **A** | CEDARBURG | 31.9 | WITTE ROBERT S 🔗| 03-029-08-002.00 | 📬 |
+| **A** | CEDARBURG | 40.0 | KISON FAMILY FARMS LLC 🔗| 03-007-05-000.00 | 📞 |
+| **A** | CEDARBURG | 40.0 | TOMTER DAVID M | 03-033-09-001.00 | 📞 |
+| **A** | CEDARBURG | 38.7 | BEIMBORN EDWARD A | 03-004-14-000.00 | 📞 |
+| **A** | CEDARBURG | 38.6 | KISON FAMILY FARMS LLC 🔗| 03-007-09-000.00 | 📞 |
+| **A** | CEDARBURG | 37.5 | BEHRENS BRIAN S 🔗| 03-014-16-000.00 | 📞 |
+| **A** | CEDARBURG | 37.0 | RODEN PAUL F 🔗| 03-004-08-000.00 | 📞 |
+| **A** | CEDARBURG | 36.5 | WITTE ROBERT S 🔗| 03-029-03-003.00 | 📞 |
+| **A** | CEDARBURG | 35.9 | PARADISE ROAD FARMS LLC | 03-005-04-000.00 | 📞 |
+| **A** | CEDARBURG | 35.0 | PIPKORN JAMES | 03-030-07-001.00 | 📞 |
+| **A** | CEDARBURG | 34.6 | HOLTON JO ANNE | 03-032-04-000.00 | 📞 |
+| **A** | CEDARBURG | 34.0 | WINTER CLYDE A 🔗| 03-002-10-002.00 | 📞 |
+| **A** | CEDARBURG | 31.9 | WITTE ROBERT S 🔗| 03-029-08-002.00 | 📞 |
 | **A** | GRAFTON | 30.5 | PROEFROCK HEIDI L 🔗| 10-018-11-007.00 | 📞 |
-| **A** | CEDARBURG | 30.2 | BRANDT BRIAN | 03-030-05-000.00 | 📬 |
-| **A** | CEDARBURG | 27.0 | CEDARBURG CREEK FARMS LLC | 03-030-14-000.00 | 📬 |
-| **A** | CEDARBURG | 25.0 | ZIEBELL LINDA K | 03-006-13-000.00 | 📬 |
-| **A** | CEDARBURG | 24.7 | B L E | 03-005-03-002.00 | 📞 |
-| **A** | CEDARBURG | 22.6 | KISON DARWIN | 03-008-03-011.00 | 📬 |
+| **A** | CEDARBURG | 30.3 | WORZALLA MICHAEL | 03-033-11-003.00 | 📞 |
+| **A** | CEDARBURG | 30.2 | BRANDT BRIAN | 03-030-05-000.00 | 📞 |
+| **A** | CEDARBURG | 29.2 | WINDY HILL ORGANIC FARM LLC | 03-031-06-028.00 | 📞 |
+| **A** | CEDARBURG | 27.7 | PROST MARY LYNN | 03-028-16-011.00 | 📞 |
+| **A** | CEDARBURG | 27.0 | CEDARBURG CREEK FARMS LLC | 03-030-14-000.00 | 📞 |
+| **A** | CEDARBURG | 26.0 | HALLORAN MICHAEL D | 03-007-11-000.00 | 📞 |
+| **A** | CEDARBURG | 25.0 | ZIEBELL LINDA K | 03-006-13-000.00 | 📞 |
+| **A** | CEDARBURG | 22.6 | KISON DARWIN | 03-008-03-011.00 | 📞 |
+| **A** | CEDARBURG | 21.5 | RODEN PAUL F 🔗| 03-004-05-001.00 | 📞 |
 | **A** | CEDARBURG | 21.1 | TEALCO GROUP 🔗| 03-016-11-000.00 | 📞 |
-| **A** | CEDARBURG | 21.1 | ENGELMAN GARY R | 03-087-00-060.00 | 📞 |
-| **A** | CEDARBURG | 20.0 | KASTEN FARM LLC 🔗| 03-029-14-001.00 | 📬 |
-| **A** | CEDARBURG | 20.0 | KISON FAMILY FARMS LLC 🔗| 03-007-08-002.00 | 📬 |
+| **A** | CEDARBURG | 20.7 | KISON FAMILY FARMS LLC 🔗| 03-007-14-002.00 | 📞 |
+| **A** | CEDARBURG | 20.0 | KASTEN FARM LLC 🔗| 03-029-14-001.00 | 📞 |
+| **A** | CEDARBURG | 20.0 | KISON FAMILY FARMS LLC 🔗| 03-007-08-002.00 | 📞 |
+| **A** | CEDARBURG | 20.0 | GAUTHIER PROPERTIES AT COVERED BRIDGE L | 03-010-08-001.00 | 📞 |
+| **A** | CEDARBURG | 18.9 | KASTEN FARM LLC 🔗| 03-019-06-003.00 | 📞 |
+| **A** | CEDARBURG | 18.8 | L AND L LTD | 03-019-05-005.00 | 📞 |
 | **A** | CEDARBURG | 18.3 | BLANK BLANCHE I | 03-008-15-004.00 | 📞 |
+| **A** | CEDARBURG | 18.0 | MORSE WILLIAM W 🔗| 03-032-14-002.00 | 📞 |
 | **A** | CEDARBURG | 16.8 | HERKERT PATRICK | 03-020-04-003.00 | 📞 |
-| **A** | CEDARBURG | 15.4 | PUMPKIN FARM LLC | 03-033-13-002.00 | 📞 |
+| **A** | CEDARBURG | 16.2 | F C C PARTNERSHIP | 03-016-15-006.00 | 📞 |
 | **A** | CEDARBURG | 15.3 | LEWANDOWSKI CHRISTOPHER A | 03-019-14-008.00 | 📞 |
+| **A** | CEDARBURG | 15.2 | RINTELMAN WILLIAM H | 03-018-13-003.00 | 📞 |
 | **A** | CEDARBURG | 14.6 | OSTERMANN KENNETH G | 03-016-12-002.00 | 📞 |
 | **A** | CEDARBURG | 13.9 | LUEBBE JUDITH A 🔗| 03-007-14-003.00 | 📞 |
 | **A** | CEDARBURG | 13.3 | WOLF JEFFRY E | 03-003-05-004.00 | 📞 |
 | **A** | CEDARBURG | 12.2 | BELKNAP MARK M | 03-007-16-003.00 | 📞 |
-| **A** | CEDARBURG | 12.0 | STELLA BLUE FARMS LLC | 03-033-04-001.00 | 📞 |
+| **A** | CEDARBURG | 11.2 | KNOX RICHARD A | 03-010-14-004.00 | 📞 |
 | **A** | CEDARBURG | 10.3 | BRADLEY JEREMIAH E | 03-009-02-004.00 | 📞 |
+| **A** | CEDARBURG | 10.3 | MORSE WILLIAM W 🔗| 03-032-15-003.00 | 📞 |
+| **A** | CEDARBURG | 9.7 | OLSON MATTHEW J | 03-011-05-003.00 | 📞 |
 | **A** | CEDARBURG | 9.3 | MORGAN MICHAEL | 03-028-02-005.00 | 📞 |
-| **A** | CEDARBURG | 8.7 | MARTIN RANDY R | 03-087-00-030.00 | 📞 |
-| **A** | CEDARBURG | 8.6 | FALLER ANTHONY | 03-020-05-008.00 | 📞 |
 | **A** | CEDARBURG | 8.0 | DENK RONALD | 03-028-07-002.00 | 📞 |
+| **A** | CEDARBURG | 8.0 | ADAM KASINSKAS | 03-006-09-012.00 | 📞 |
+| **A** | CEDARBURG | 8.0 | WITTE SUSAN | 03-030-02-001.00 | 📞 |
 | **A** | CEDARBURG | 7.9 | COOPER MARGARET L | 03-007-12-003.00 | 📞 |
 | **A** | SAUKVILLE | 7.5 | DIDIER NICK R | 11-030-10-036.00 | 📞 |
-| **A** | CEDARBURG | 7.3 | DREES KIRK H 🔗| 03-030-15-004.00 | 📞 |
-| **A** | CEDARBURG | 6.7 | SHERMAN DEVIN A | 03-087-00-040.00 | 📞 |
+| **A** | CEDARBURG | 6.7 | GREVE KENNETH R | 03-007-13-005.00 | 📞 |
+| **A** | CEDARBURG | 6.6 | KISON DARWIN O | 03-008-06-020.00 | 📞 |
 | **A** | CEDARBURG | 6.1 | GALUSTYANTS VITAS | 03-006-16-015.00 | 📞 |
+| **A** | CEDARBURG | 6.1 | MANKE HOWARD F | 03-005-11-001.00 | 📞 |
 | **A** | CEDARBURG | 5.9 | SHEWCZYK THOMAS J | 03-009-01-001.00 | 📞 |
 | **A** | CEDARBURG | 5.4 | SIEVERS GLENN H 🔗| 03-009-01-002.00 | 📞 |
-| **A** | CEDARBURG | 5.1 | STAUSS RYAN | 03-031-07-015.00 | 📞 |
+| **A** | CEDARBURG | 5.3 | MORSE WILLIAM W 🔗| 03-032-14-004.00 | 📞 |
 | **A** | CEDARBURG | 5.1 | BARTELT JOSEPH | 03-019-01-005.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | ARGALL AMY L | 03-009-01-004.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | DEARING BRIAN | 03-009-02-009.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | RUDZINSKI SARAH | 03-005-02-003.00 | 📞 |
-| **A** | CEDARBURG | 5.0 | LIPSCOMB JOHN M | 03-031-16-005.00 | 📞 |
 | **A** | CEDARBURG | 4.9 | PIER JALISSA 🔗| 03-028-01-002.00 | 📞 |
-| **A** | CEDARBURG | 4.8 | DURBIN JOY | 03-086-00-080.00 | 📞 |
-| **A** | CEDARBURG | 4.8 | ROSS ALLEN | 03-086-00-070.00 | 📞 |
-| **A** | CEDARBURG | 4.6 | MCCLAIN PATRICK | 03-017-16-008.00 | 📞 |
 | **A** | CEDARBURG | 4.6 | GATLIN ZACHARY | 03-029-09-016.00 | 📞 |
-| **A** | CEDARBURG | 4.0 | SCHULTE KIM M | 03-086-00-030.00 | 📞 |
-| **A** | CEDARBURG | 4.0 | YOUSIF ADIM | 03-086-00-010.00 | 📞 |
-| **A** | CEDARBURG | 4.0 | RADTKE TIMOTHY S 🔗| 03-086-00-050.00 | 📞 |
-| **A** | CEDARBURG | 3.9 | HERNANDEZ CHRISTOPHER | 03-050-00-240.01 | 📞 |
-| **A** | CEDARBURG | 3.9 | PARSONS W STUART | 03-031-08-013.00 | 📞 |
+| **A** | CEDARBURG | 4.4 | LECHNER LAWRENCE A | 03-011-14-002.00 | 📞 |
+| **A** | CEDARBURG | 4.0 | LANGLOIS ROBIN W | 03-004-16-005.00 | 📞 |
 | **A** | GRAFTON | 3.1 | PINE RIDGE CONDOMINIUM | 10-026-03-033.00 | 📞 |
 | **A** | SAUKVILLE | 3.0 | KESSNER DELORES | 11-050-05-100.01 | 📞 |
-| **A** | CEDARBURG | 2.6 | PECOR RAY | 03-050-00-300.08 | 📞 |
 | **A** | CEDARBURG | 2.5 | SCHMITZ TANNER | 03-028-14-008.00 | 📞 |
-| **A** | CEDARBURG | 2.3 | BEADLE JOHN | 03-031-06-007.00 | 📞 |
-| **A** | CEDARBURG | 2.2 | MOSCARELLI STEPHEN W | 03-050-00-200.02 | 📞 |
 | **A** | CEDARBURG | 2.1 | DLUGOPOLSKI GARY A | 03-070-00-000.01 | 📞 |
 | **A** | CEDARBURG | 2.0 | SURRENDER FARM LLC | 03-028-09-001.00 | 📞 |
 | **A** | CEDARBURG | 2.0 | HENGST DEAN A | 03-014-09-006.00 | 📞 |
-| **A** | CEDARBURG | 1.9 | MCCUE NIALL M | 03-070-00-240.01 | 📞 |
 | **A** | CEDARBURG | 1.9 | FRIEND ANDREW H | 03-015-06-005.00 | 📞 |
 | **A** | GRAFTON | 1.8 | HAHN DONALD C | 10-001-12-004.00 | 📞 |
-| **A** | CEDARBURG | 1.7 | SMIES JOSEPH F | 03-016-03-011.00 | 📞 |
 | **A** | CEDARBURG | 1.7 | REIHART JADE | 03-015-05-002.00 | 📞 |
 | **A** | GRAFTON | 1.6 | RIVER BEND MEADOWS HOMEOWNER'S ASSOCIATI | 10-257-00-000.09 | 📞 |
 | **A** | CEDARBURG | 1.6 | TEICHERT ALFRED R | 03-011-13-020.00 | 📞 |
@@ -166,7 +179,6 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **A** | CEDARBURG | 1.6 | CAMPBELL DOUGLAS 🔗| 03-002-05-026.00 | 📞 |
 | **A** | CEDARBURG | 1.6 | BRANDT ARLENE | 03-008-11-001.01 | 📞 |
 | **A** | CEDARBURG | 1.5 | KING MATTHEW | 03-008-06-010.00 | 📞 |
-| **A** | CEDARBURG | 1.5 | STRZELCZYK ROBERT R | 03-031-06-023.00 | 📞 |
 | **A** | CEDARBURG | 1.5 | LUEDKE ERIN | 03-029-06-003.00 | 📞 |
 | **A** | CEDARBURG | 1.5 | BARTH KENNETH G | 03-011-16-002.00 | 📞 |
 | **A** | CEDARBURG | 1.5 | STREFF EDWARD D | 03-002-06-020.00 | 📞 |
@@ -176,39 +188,30 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **A** | CEDARBURG | 1.4 | CAMPBELL DOUGLAS 🔗| 03-002-05-024.00 | 📞 |
 | **A** | CEDARBURG | 1.4 | LUEBBE JUDITH A 🔗| 03-007-03-001.00 | 📞 |
 | **A** | CEDARBURG | 1.3 | HELMEID BENJAMIN | 03-030-13-031.00 | 📞 |
+| **A** | CEDARBURG | 1.3 | CONGREGATION OF ST FRANCIS BORGIA 🔗| 03-016-13-003.01 | 📞 |
 | **A** | CEDARBURG | 1.2 | STEINBRECKER WILLIAM JOHN | 03-080-00-010.00 | 📞 |
 | **A** | CEDARBURG | 1.2 | YEFIMOV CONSTANTINE | 03-081-00-110.00 | 📞 |
 | **A** | GRAFTON | 1.2 | KOSCIESZA TYLER KOSCIESZA ALYSSA | 10-013-15-004.00 | 📞 |
 | **A** | CEDARBURG | 1.2 | PICCIURRO PETER F | 03-016-10-019.00 | 📞 |
-| **A** | CEDARBURG | 1.2 | RAUSCH PETER A | 03-050-00-200.37 | 📞 |
 | **A** | CEDARBURG | 1.1 | BUDA STEVEN MICHAEL | 03-023-12-026.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | MILWAUKEE METROPOLITAN SEWERAGE DISTRICT 🔗| 03-005-06-004.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | CARTER DOUGLAS E | 03-009-13-005.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | NORMAN JOHN J | 03-058-01-110.00 | 📞 |
-| **A** | CEDARBURG | 1.0 | KUCHARSKI PHILLIP J | 03-031-04-001.00 | 📞 |
-| **A** | CEDARBURG | 1.0 | BULLINGTON SARAH A | 03-032-16-002.00 | 📞 |
-| **A** | CEDARBURG | 1.0 | RASMUSSEN TIMOTHY P 🔗| 03-034-10-001.00 | 📞 |
-| **A** | CEDARBURG | 1.0 | DUFFEY THOMAS MORGAN | 03-050-00-130.01 | 📞 |
 | **A** | CEDARBURG | 1.0 | JORGENSEN MICHAEL T | 03-069-00-270.00 | 📞 |
 | **A** | CEDARBURG | 0.9 | GREENWOOD MATTHEW D | 03-010-01-001.00 | 📞 |
+| **A** | CEDARBURG | 0.9 | CONGREGATION OF ST FRANCIS BORGIA 🔗| 03-016-13-002.00 | 📞 |
 | **A** | CEDARBURG | 0.9 | PICCIURRO PETER | 03-016-10-013.00 | 📞 |
 | **A** | CEDARBURG | 0.9 | FRANK MIKA | 03-054-01-020.00 | 📞 |
-| **A** | CEDARBURG | 0.9 | BEARER BASIL | 03-005-01-004.00 | 📞 |
 | **A** | SAUKVILLE | 0.9 | BRUNETTE STEVEN A 🔗| 11-050-05-120.00 | 📞 |
-| **A** | CEDARBURG | 0.9 | RASMUSSEN TIMOTHY P 🔗| 03-061-01-040.01 | 📞 |
-| **A** | CEDARBURG | 0.9 | SCHOEN TAMMY S | 03-061-02-030.01 | 📞 |
-| **A** | CEDARBURG | 0.8 | SCHOESSOW LARRY JAMES | 03-058-01-020.00 | 📞 |
-| **A** | GRAFTON | 0.8 | LUETTGEN MICHAEL J 🔗| 10-246-00-120.00 | 📞 |
-| **A** | CEDARBURG | 0.7 | DEGUELLE LUKE T | 03-061-01-030.06 | 📞 |
+| **A** | CEDARBURG | 0.8 | SCHOESSOW LARRY JAMES 🔗| 03-058-01-020.00 | 📞 |
+| **A** | GRAFTON | 0.8 | LUETTGEN MICHAEL J | 10-246-00-120.00 | 📞 |
 | **A** | GRAFTON | 0.7 | SMITH ROBERT F | 10-050-04-110.00 | 📞 |
-| **A** | CEDARBURG | 0.7 | KLEMM ROBERT | 03-058-01-140.00 | 📞 |
 | **A** | GRAFTON | 0.6 | HUDGINS NICHOLAS A | 10-050-01-030.01 | 📞 |
-| **A** | GRAFTON | 0.6 | RADTKE TIMOTHY S 🔗| 10-260-00-660.00 | 📞 |
+| **A** | GRAFTON | 0.6 | RADTKE TIMOTHY S | 10-260-00-660.00 | 📞 |
 | **A** | GRAFTON | 0.5 | CHARMOLI SCOTT | 10-157-00-280.00 | 📞 |
 | **A** | GRAFTON | 0.5 | GEDELMAN FRANK E | 10-151-00-290.00 | 📞 |
 | **A** | GRAFTON | 0.5 | ANDERSON JAMES | 10-259-00-500.00 | 📞 |
 | **A** | SAUKVILLE | 0.5 | HASKE JOSEPH T | 11-040-00-100.00 | 📞 |
-| **A** | CEDARBURG | 0.5 | SCOTT JESSE E | 03-050-00-450.00 | 📞 |
 | **A** | GRAFTON | 0.4 | BEHLING WILLIAM R | 10-262-01-090.00 | 📞 |
 | **A** | GRAFTON | 0.4 | SACHSE DAVID | 10-236-00-310.00 | 📞 |
 | **A** | SAUKVILLE | 0.4 | PROCHASKA JOHN | 11-050-02-010.00 | 📞 |
@@ -216,10 +219,7 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **A** | CEDARBURG | 0.4 | EDMARCS PLACE | 03-008-05-008.00 | 📞 |
 | **A** | CEDARBURG | 0.4 | BARIKMO MICHAEL L | 03-008-06-021.00 | 📞 |
 | **A** | GRAFTON | 0.4 | ARENTZ JAMES K | 10-019-07-012.00 | 📞 |
-| **A** | CEDARBURG | 0.4 | DREES KIRK H 🔗| 03-030-14-009.00 | 📞 |
-| **A** | CEDARBURG | 0.3 | SBERNA RYAN T | 03-050-00-210.00 | 📞 |
 | **A** | GRAFTON | 0.3 | CHANG LUKE K | 10-050-04-040.01 | 📞 |
-| **A** | CEDARBURG | 0.3 | GUIDINGER JEFFREY L | 03-031-05-000.01 | 📞 |
 | **A** | GRAFTON | 0.3 | EREBOR PETER OMORUYI | 10-251-00-910.00 | 📞 |
 | **A** | SAUKVILLE | 0.3 | LARSON ALEX R | 11-123-00-140.00 | 📞 |
 | **A** | SAUKVILLE | 0.3 | LASOCKI KATHERINE LUCIA | 11-123-00-210.00 | 📞 |
@@ -263,7 +263,6 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **A** | SAUKVILLE | 0.1 | THEIN ROGER A | 11-063-01-090.02 | 📞 |
 | **A** | SAUKVILLE | 0.0 | STEELMAN JOHN L | 11-050-02-120.00 | 📞 |
 | **A** | GRAFTON | 0.0 | WARANKA DAVID J | 10-050-01-100.03 | 📞 |
-| **A** | CEDARBURG | 0.0 | FRITZ JAMES A | 03-065-00-040.01 | 📞 |
 | **A** | GRAFTON | 0.0 | DOEMEL LORI | 10-108-01-130.01 | 📞 |
 | **A** | GRAFTON | 0.0 | SMITH ANNE L | 10-096-06-080.01 | 📞 |
 | **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-010.00 | 📞 |
@@ -278,10 +277,13 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 | **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-040.00 | 📞 |
 | **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-050.00 | 📞 |
 | **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-060.00 | 📞 |
-| **A-** | MEQUON | 75.2 | ST MARYS HOSPITAL OF MILWAUKEE 🔗| 15-007-13-002.00 | 📞 |
+| **A-** | MEQUON | 76.3 | ESCHRICH FAMILY LTD PTSH 🔗| 14-034-09-000.00 | 📞 |
 | **A-** | MEQUON | 72.1 | MILWAUKEE METROPOLITAN SEWERAGE DISTRICT 🔗| 14-029-09-002.00 | 📬 |
-| **A-** | MEQUON | 68.3 | GIERACH ROBERT J | 14-005-05-004.00 | 📬 |
-| ... | ... | ... (+332 more) | ... | ... |
+| **A-** | MEQUON | 71.7 | HILGENDORF MARK J | 14-030-06-006.00 | 📞 |
+| **A-** | MEQUON | 68.3 | GIERACH ROBERT J | 14-005-05-004.00 | 📞 |
+| **A-** | MEQUON | 65.6 | GIERACH FARMS LLC 🔗| 14-005-02-008.00 | 📞 |
+| **A-** | MEQUON | 62.9 | HILGENDORF MARK | 14-034-15-007.00 | 📞 |
+| ... | ... | ... (+274 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -292,37 +294,36 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - **03-019-09-000.00** | 101.1ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 - **03-004-06-000.00** | 93.6ac | RODEN PAUL F | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 - **03-018-09-000.00** | 74.0ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
+- **03-002-08-002.00** | 73.8ac | WINTER CLYDE A | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
+- **03-018-14-001.00** | 73.4ac | HELNORE JERRY | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
+- **03-004-03-001.00** | 72.2ac | PROEFROCK HEIDI L | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 - **03-019-02-002.00** | 66.3ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 - **03-005-01-001.00** | 63.1ac | GALL JEFFREY C | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-033-09-003.00** | 51.5ac | GLENN H. WEICHMAN | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-005-01-005.00** | 44.8ac | GALL MATTHEW W | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-029-10-000.00** | 41.0ac | KASTEN FARM LLC | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-007-05-000.00** | 40.0ac | KISON FAMILY FARMS LLC | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
+- **03-034-10-000.00** | 58.6ac | RASMUSSEN TIMOTHY P | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 
 ### Clusters
-**CEDARBURG** (A): 173 parcels, ~1593ac
-  151 MLS — call first
-  14 multi-owners
-**MEQUON** (A-): 163 parcels, ~1462ac
-  143 MLS — call first
-  17 multi-owners
-**GRAFTON** (A): 157 parcels, ~970ac
+**CEDARBURG** (A): 171 parcels, ~2365ac
+  171 MLS — call first
+  18 multi-owners
+**GRAFTON** (A): 142 parcels, ~1270ac
   141 MLS — call first
-  13 multi-owners
+  9 multi-owners
+**MEQUON** (A-): 122 parcels, ~2029ac
+  118 MLS — call first
+  18 multi-owners
 **SAUKVILLE** (A): 39 parcels, ~18ac
   39 MLS — call first
   2 multi-owners
 
 ### 📞 For-Sale
-- **CEDARBURG** (A): 151
-- **MEQUON** (A-): 143
+- **CEDARBURG** (A): 171
 - **GRAFTON** (A): 141
+- **MEQUON** (A-): 118
 - **SAUKVILLE** (A): 39
 
 ### 📬 Off-Market
-- **CEDARBURG** (A): 22 — 5 multi-owners
-- **MEQUON** (A-): 20 — 5 multi-owners
-- **GRAFTON** (B+): 16 — 2 multi-owners
+- **MEQUON** (A-): 4 — 1 multi-owners
+- **GRAFTON** (B+): 1
 
 ---
-*2026-07-11 01:24 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
