@@ -368,3 +368,13 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Waukesha County Comp Plan](https://www.waukeshacounty.gov/comprehensiveplanning)
+- [Waukesha County GIS](https://www.waukeshacounty.gov/GIS)
+- [Village of Menomonee Falls Comp Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
+- [Village of Sussex Comp Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
+

@@ -403,3 +403,12 @@ Brown County has a public ArcGIS server with:
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Brown County 2040 Comp Plan](https://www.browncountywi.gov/i/f/files/Planning-and-Land-Services/BC%20Comp%20Plans/Brown%20County%202040%20Comp%20Plan%20-%20Full%20Document.pdf)
+- [Appendix A — Future Land Use Maps](https://www.browncountywi.gov/i/f/files/Planning-and-Land-Services/BC%20Comp%20Plans/Appendix%20A%20-%20Local%20Future%20Land%20Use%20Maps.pdf)
+- [Brown County GIS Server](https://gis.browncountywi.gov/arcgis/rest/services/)
+

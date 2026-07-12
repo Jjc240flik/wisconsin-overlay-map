@@ -228,3 +228,12 @@ An interactive map showing **Zoning ↔ Overlay Zones** with municipality labels
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Milwaukee County Planning](https://county.milwaukee.gov/EN/Infrastructure/Planning)
+- [City of Franklin Comp Plan](https://www.franklinwi.gov/746/Comprehensive-Plan)
+- [City of Oak Creek Comp Plan](https://www.oakcreekwi.gov/658/Comprehensive-Plan)
+

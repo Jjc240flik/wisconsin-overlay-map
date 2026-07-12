@@ -143,3 +143,13 @@ An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labe
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Door County Planning](https://www.co.door.wi.gov/226/Planning)
+- [Door County Zoning](https://www.co.door.wi.gov/177/Zoning)
+- [Village of Sister Bay Comp Plan](https://www.sisterbay.com/338/Comprehensive-Plan)
+- [City of Sturgeon Bay Comp Plan](https://www.sturgeonbaywi.org/planning/)
+

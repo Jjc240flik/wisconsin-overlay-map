@@ -437,3 +437,14 @@ An interactive toggle map showing **Current Zoning ↔ Future Land Use** with co
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Outagamie Comp Plan 2040](https://www.outagamie.gov/files/assets/county/v/1/dls/documents/comprehensive-planning-amp-special-projects/comprehensive-plan/vol-1-exst-cond__final.pdf)
+- [Interactive FLU Map Gallery](https://experience.arcgis.com/experience/a6f7c8ffad8b42489fe5e8bfb77effa9)
+- [Land Use, Zoning & Sanitary](https://www.outagamie.gov/County-Services/Development-Land-Services/Land-Use-Zoning-and-Sanitary)
+- [Village of Greenville FLU Map](https://www.townofgreenville.com/Map%202-1%20Year%202040%20Land%20Use_2025.pdf?t=202601200822160)
+- [Village of Little Chute Comp Plan](https://www.littlechutewi.org/389/Comprehensive-Plan)
+

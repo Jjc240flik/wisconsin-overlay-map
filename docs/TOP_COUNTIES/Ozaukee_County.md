@@ -327,3 +327,13 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Ozaukee County Planning & Zoning](https://www.co.ozaukee.wi.us/143/Planning-Parks-and-Zoning)
+- [City of Mequon Comp Plan](https://www.ci.mequon.wi.us/306/Comprehensive-Plan)
+- [Village of Grafton Comp Plan](https://www.village.grafton.wi.us/132/Comprehensive-Plan)
+- [Village of Saukville Comp Plan](https://www.village.saukville.wi.us/234/Comprehensive-Plan)
+

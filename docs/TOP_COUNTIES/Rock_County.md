@@ -356,3 +356,14 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Rock County Planning & Zoning](https://www.co.rock.wi.us/planning-development)
+- [Rock County Comp Plan](https://www.co.rock.wi.us/planning-development/comprehensive-planning)
+- [City of Janesville Comp Plan](https://www.janesvillewi.gov/771/Comprehensive-Plan)
+- [City of Beloit Comp Plan](https://www.beloitwi.gov/659/Comprehensive-Plan)
+- [Town of Beloit FLU](https://www.townofbeloit.com/planning-zoning/)
+

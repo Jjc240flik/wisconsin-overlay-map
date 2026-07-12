@@ -345,3 +345,14 @@ An interactive map showing **Land Use 2022** with color-coded municipality label
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Winnebago County Planning & Zoning](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning)
+- [Winnebago County Comp Plan](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning/Comprehensive-Planning)
+- [City of Oshkosh Comp Plan](https://www.oshkoshwi.gov/Planning/ComprehensivePlan)
+- [City of Neenah Comp Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
+- [Town of Neenah Planning](https://www.townneenah.com/planning)
+

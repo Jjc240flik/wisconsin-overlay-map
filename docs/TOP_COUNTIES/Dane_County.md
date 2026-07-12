@@ -437,3 +437,14 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)
+- [Dane County GIS Portal](https://danedata.countyofdane.com/)
+- [City of Fitchburg Comp Plan](https://www.fitchburgwi.gov/161/Comprehensive-Plan)
+- [City of Verona Planning & Zoning](https://www.veronawi.gov/186/Planning-Zoning)
+- [Village of Waunakee FLU](https://www.waunakee.com/307/Comprehensive-Plan)
+

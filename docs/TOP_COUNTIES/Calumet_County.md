@@ -314,3 +314,12 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ---
 *2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+
+
+### Zoning / FLU Verification Links
+*Cross-reference parcels against these official sources to verify rezoning potential.*
+
+- [Calumet County Planning & Zoning](https://www.calumetcounty.org/210/Planning-Zoning)
+- [Calumet County Comp Plan](https://www.calumetcounty.org/210/Planning-Zoning)
+- [Town of Harrison Planning](https://www.townofharrisonwi.gov/)
+
