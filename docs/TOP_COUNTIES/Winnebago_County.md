@@ -356,3 +356,32 @@ An interactive map showing **Land Use 2022** with color-coded municipality label
 - [City of Neenah Comp Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
 - [Town of Neenah Planning](https://www.townneenah.com/planning)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Growth follows the **US 41 corridor** as a continuous spine from Appleton (Outagamie) → Neenah/Menasha → Oshkosh/Algoma. The four primary-growth towns account for ~250+ A-rated rezoning parcels. Western townships (Utica, Poygan, Winchester, Larsen) are agricultural preservation.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| US 41 North | Neenah Town, Menasha Town | STRONG — Adjacent to Neenah/Menasha. FLU residential. Major ag landowners (Armstrong, Kiesau Acres, Wilms, Buser). |
+| US 41 South | Oshkosh Town, Algoma | STRONG — South/north of Oshkosh. FLU shows ag→residential. Grundy Enterprises, Kossel Family, Devens, Overkrik Farm. |
+
+### Towns NOT in the Growth Path
+Western townships (Utica, Poygan, Winchester, Larsen, Rushford) — agricultural preservation, no US 41 adjacency. Fox Crossing: incorporated, less raw land available.
+
+### Key Standout
+The US 41 corridor is a continuous growth spine connecting Appleton to Oshkosh. Town of Neenah and Town of Oshkosh are the primary ag→subdivision plays. Vinland and Clayton are edge-adjacent but lack direct US 41 frontage.
+
+### FLU / Zoning Verification Links
+
+- [Winnebago County Comp Plan](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning/Comprehensive-Planning)
+- [City of Oshkosh Comp Plan](https://www.oshkoshwi.gov/Planning/ComprehensivePlan)
+- [City of Neenah Comp Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
+- [Town of Neenah Planning](https://www.townneenah.com/planning)
+

@@ -153,3 +153,30 @@ An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labe
 - [Village of Sister Bay Comp Plan](https://www.sisterbay.com/338/Comprehensive-Plan)
 - [City of Sturgeon Bay Comp Plan](https://www.sturgeonbaywi.org/planning/)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+**Tourism and seasonal economy dominate.** Strict environmental protections limit subdivision. Growth is concentrated in the Sturgeon Bay corridor (Hwy 42/57) and lakeshore villages. Sister Bay is the only Mod-to-High rated town, and even that is seasonal/tourism, not ag→subdivision.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| Hwy 42/57 | Sturgeon Bay, Sister Bay | TOURISM — Seasonal/second-home development. Limited year-round demand. Different deal type than metro-edge subdivision. |
+
+### Towns NOT in the Growth Path
+Most of the peninsula — strict environmental protections, Niagara Escarpment, shoreline setbacks, seasonal economy. This is a different strategy than the other 9 counties.
+
+### Key Standout
+Door County is fundamentally different from the other 9 counties. The subdivision play here is seasonal cabin/condo development and workforce housing near Sturgeon Bay — not the large-scale ag→residential conversion that defines the North Star strategy.
+
+### FLU / Zoning Verification Links
+
+- [Door County Planning](https://www.co.door.wi.gov/226/Planning)
+- [Door County Zoning](https://www.co.door.wi.gov/177/Zoning)
+- [City of Sturgeon Bay Comp Plan](https://www.sturgeonbaywi.org/planning/)
+

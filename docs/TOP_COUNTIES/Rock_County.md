@@ -367,3 +367,33 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [City of Beloit Comp Plan](https://www.beloitwi.gov/659/Comprehensive-Plan)
 - [Town of Beloit FLU](https://www.townofbeloit.com/planning-zoning/)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+The **Stateline Corridor (I-39/90)** is the dominant growth driver. Janesville's comp plan explicitly directs expansion 'primarily to the south.' The Town of Beloit is one of only three entities with a major sewer system. FLU: 'Urban Mixed-Use,' 'Urban Moderate Density,' 'Campus' — clear urban expansion intent.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| I-39/90 South | Beloit Town, Turtle | PRIMARY — Urban FLU, major sewer, highest rezoning pressure. Turtle split: southern edge in growth path, north in AEA preservation. |
+| I-39/90 Central | Janesville Town | STRONG — FLU residential expansion on all sides, balanced south/west |
+| I-39/90 North | Harmony, Fulton, Milton | EDGE — East of Janesville, solar projects competing for land |
+
+### Towns NOT in the Growth Path
+Western townships (Avon, Bradford, Center, Johnstown, Lima, Magnolia, Newark, Plymouth, Porter) — agricultural preservation, no sewer. LaPrairie AEA and Rock Prairie create a growth-vs-preservation dividing line east of Janesville.
+
+### Key Standout
+Beloit Town: A+ PRIMARY. Urban Mixed-Use/Urban Moderate Density/Campus FLU designations. Major sewer system. Directly on Illinois line. 47,725 acres of farmland lost 2007-2022 — rezoning pressure is real.
+
+### FLU / Zoning Verification Links
+
+- [Rock County Comp Plan](https://www.co.rock.wi.us/planning-development/comprehensive-planning)
+- [City of Janesville Comp Plan](https://www.janesvillewi.gov/771/Comprehensive-Plan)
+- [City of Beloit Comp Plan](https://www.beloitwi.gov/659/Comprehensive-Plan)
+- [Town of Beloit FLU](https://www.townofbeloit.com/planning-zoning/)
+

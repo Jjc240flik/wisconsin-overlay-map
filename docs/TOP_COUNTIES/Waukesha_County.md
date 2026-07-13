@@ -378,3 +378,32 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [Village of Menomonee Falls Comp Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
 - [Village of Sussex Comp Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Growth follows the **I-94 corridor** westward from Milwaukee. The strongest pressure is on the eastern edge (Menomonee Falls, Lisbon, Sussex) closest to Milwaukee. Western lake country towns (Delafield, Oconomowoc, Summit) have preservation-focused growth.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| I-94 East | Menomonee Falls, Lisbon, Sussex, Pewaukee | PRIMARY — Milwaukee metro fringe. Menomonee Falls: 13 FLU categories, subarea plans, growth to ~43K population |
+| I-94 Central | Genesee, Waukesha Town, Brookfield | MODERATE — Ag land with development pressure, but Brookfield mostly developed |
+| I-94 West | Delafield, Oconomowoc, Summit | LOW — Lake country preservation, seasonal/recreational, limited subdivision |
+
+### Towns NOT in the Growth Path
+Western lake country towns (Delafield, Oconomowoc, Summit, Eagle, Ottawa) — lake country preservation limits subdivision. Elm Grove, Butler — built out.
+
+### Key Standout
+Menomonee Falls: 13 FLU categories, subarea planning, growth to 43K population. Lisbon: FLU residential, ag land converting. Town of Brookfield: I-94/US-18 corridor, SEWRPC environmental corridors constrain some areas.
+
+### FLU / Zoning Verification Links
+
+- [Waukesha County Comp Plan](https://www.waukeshacounty.gov/comprehensiveplanning)
+- [Village of Menomonee Falls Comp Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
+- [Village of Sussex Comp Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
+

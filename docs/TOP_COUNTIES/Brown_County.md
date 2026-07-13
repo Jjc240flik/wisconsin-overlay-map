@@ -412,3 +412,32 @@ Brown County has a public ArcGIS server with:
 - [Appendix A — Future Land Use Maps](https://www.browncountywi.gov/i/f/files/Planning-and-Land-Services/BC%20Comp%20Plans/Appendix%20A%20-%20Local%20Future%20Land%20Use%20Maps.pdf)
 - [Brown County GIS Server](https://gis.browncountywi.gov/arcgis/rest/services/)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Strongest growth is **SOUTH** (De Pere → Ledgeview → Lawrence) along I-41. Second corridor is **NORTH** (Green Bay → Howard → Suamico). West (Ashwaubenon) and East (Bellevue) are moderate.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| SOUTH (I-41) | Ledgeview, Lawrence | STRONGEST — Planned FLU designations, active sewer expansion, Town Center + Business Park signals |
+| NORTH (US-41) | Howard, Suamico | STRONG — Town Center FLU, Suamico has 50% undeveloped (~12,000 acres), new subdivisions active |
+| WEST (I-41) | Ashwaubenon | MODERATE — 80% developed, infill/redevelopment only |
+| EAST | Bellevue | MODERATE — 51% developed, steady residential |
+
+### Towns NOT in the Growth Path
+Allouez (84% built out), Hobart (conservation FLU), Town of Green Bay (wetlands constrain), southern rural towns (Eaton, Glenmore, Holland, Morrison, Rockland — FLU = Agricultural, no sewer)
+
+### Key Standout
+Ledgeview: 60% undeveloped, 'Planned' FLU prefixes, active CTH G/GV commercial node. Lawrence: Town Center FLU, I-41/I-43 access. Suamico: largest land bank, 50% undeveloped.
+
+### FLU / Zoning Verification Links
+
+- [Brown County 2040 Comp Plan](https://www.browncountywi.gov/i/f/files/Planning-and-Land-Services/BC%20Comp%20Plans/Brown%20County%202040%20Comp%20Plan%20-%20Full%20Document.pdf)
+- [Appendix A — Local FLU Maps](https://www.browncountywi.gov/i/f/files/Planning-and-Land-Services/BC%20Comp%20Plans/Appendix%20A%20-%20Local%20Future%20Land%20Use%20Maps.pdf)
+

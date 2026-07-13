@@ -237,3 +237,32 @@ An interactive map showing **Zoning ↔ Overlay Zones** with municipality labels
 - [City of Franklin Comp Plan](https://www.franklinwi.gov/746/Comprehensive-Plan)
 - [City of Oak Creek Comp Plan](https://www.oakcreekwi.gov/658/Comprehensive-Plan)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+**Infill and redevelopment dominates.** SEWRPC VISION 2050 directs 96% of new households into existing urban service areas. The only greenfield play is Franklin (SW corner, gated by sanitary sewer). Oak Creek is winding down. Harbor District is 100% brownfield, not subdivision.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| SW (Franklin) | Franklin | ONLY GREENFIELD — Gated by 2008 Pre-Sanitary Sewer Policy. 2025 FLU map, 2050 update in progress |
+| SE (Oak Creek) | Oak Creek | WINDING DOWN — 2040 Comp Plan: 'limited land remains,' transitioning to built-out |
+| Harbor District | Milwaukee lakefront | BROWNFIELD — 1,000 acres former industrial, environmental remediation, NOT subdivision |
+
+### Towns NOT in the Growth Path
+All other 16 municipalities — fully built out. Most suburbs at 90%+ developed. True subdivision opportunities are in Waukesha, Ozaukee, and Washington counties, not Milwaukee County.
+
+### Key Standout
+Franklin: the LAST greenfield in Milwaukee County. Gated by sanitary sewer extension. 2050 FLU update in progress (2026). 63 rezoning-potential parcels identified.
+
+### FLU / Zoning Verification Links
+
+- [Milwaukee County Planning](https://county.milwaukee.gov/EN/Infrastructure/Planning)
+- [City of Franklin Comp Plan](https://www.franklinwi.gov/746/Comprehensive-Plan)
+- [City of Oak Creek Comp Plan](https://www.oakcreekwi.gov/658/Comprehensive-Plan)
+

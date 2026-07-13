@@ -323,3 +323,31 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [Calumet County Comp Plan](https://www.calumetcounty.org/210/Planning-Zoning)
 - [Town of Harrison Planning](https://www.townofharrisonwi.gov/)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+**Appleton's southward expansion IS the dominant growth driver.** The Village of Harrison alone accounts for >50% of county population growth since 2000 (doubled to 12,500). 79.5% of workers commute to the Fox Cities. The Lake Winnebago shoreline (Stockbridge, Brothertown) is seasonal/second-home amenity — NOT large-scale subdivision.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| US 41/10 NW | Harrison Town, Menasha Town | PRIMARY — South of Appleton. US 41/10 corridor. Strong ag→residential rezoning potential. |
+| Lake Winnebago | Stockbridge, Brothertown | DOWNGRADED — Seasonal/second-home amenity, NOT subdivision. Environmental constraints (Niagara Escarpment, quarries, wetlands). |
+
+### Towns NOT in the Growth Path
+Southern towns (Brillion, Charlestown, Chilton, Rantoul, Woodville) — under active Farmland Preservation Zoning, 28,217-acre HALT Agricultural Enterprise Area — locked down by design.
+
+### Key Standout
+Harrison: +50% of county growth since 2000, doubled to 12,500 population. Stockbridge and Brothertown DOWNGRADED from B+ to B — they are seasonal/second-home markets, not subdivision plays. The southern half of the county is locked by Farmland Preservation Zoning.
+
+### FLU / Zoning Verification Links
+
+- [Calumet County Planning & Zoning](https://www.calumetcounty.org/210/Planning-Zoning)
+- [Calumet County 2045 Draft Comp Plan](https://www.calumetcounty.org/210/Planning-Zoning)
+- [Town of Harrison Planning](https://www.townofharrisonwi.gov/)
+

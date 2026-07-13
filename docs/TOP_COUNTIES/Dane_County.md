@@ -448,3 +448,34 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [City of Verona Planning & Zoning](https://www.veronawi.gov/186/Planning-Zoning)
 - [Village of Waunakee FLU](https://www.waunakee.com/307/Comprehensive-Plan)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Madison's growth ring expands most aggressively in three directions: **SW (Epic/Verona)** — highest priority, **N (DeForest/Windsor I-39/90/94)** — second priority, and **S (Fitchburg)** — largest pipeline by acreage.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| SW (Epic Systems) | Verona | PRIMARY — Epic Systems (13,000+ employees) drives massive demand. Envision Verona plan re-evaluating growth boundaries. Active FLU amendments. |
+| N (I-39/90/94) | DeForest, Windsor | UPGRADED — DeForest: 2,200-acre Northern Interstate Corridor Plan + 1,800-acre Hwy 19/51 District Plan. Active FLU amendments (2023). Windsor: growth at interchange. |
+| S | Fitchburg | STRONG — 2,383 acres across 7 Future Urban Development Areas (FUDAs) + 850 acres grayfield. Active 2026 ag→residential FLU amendments. |
+| E | Sun Prairie, Burke | STRONG — FLU residential expansion, active ag→development |
+
+### Towns NOT in the Growth Path
+Western townships (Berry, Christiana, Dunkirk), far southern towns (Primrose, Perry, Vermont), far eastern towns (Albion, Deerfield) — agricultural preservation dominant
+
+### Key Standout
+DeForest: UPGRADED from B+ to A- based on 2,200-acre corridor plan + 1,800-acre district plan with active FLU amendments. This is a town with documented growth infrastructure that was underrated. Verona: Epic-driven demand, Envision Verona plan in progress. Fitchburg: 2,383 acres of FUDAs — the largest development pipeline in Dane County.
+
+### FLU / Zoning Verification Links
+
+- [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)
+- [City of Fitchburg Comp Plan](https://www.fitchburgwi.gov/161/Comprehensive-Plan)
+- [City of Verona Planning](https://www.veronawi.gov/186/Planning-Zoning)
+- [Village of DeForest Comp Plan](https://www.villageofdeforest.org/285/Comprehensive-Plan)
+

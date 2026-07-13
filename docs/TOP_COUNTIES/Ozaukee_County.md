@@ -337,3 +337,32 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 - [Village of Grafton Comp Plan](https://www.village.grafton.wi.us/132/Comprehensive-Plan)
 - [Village of Saukville Comp Plan](https://www.village.saukville.wi.us/234/Comprehensive-Plan)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Growth follows the **I-43 corridor** north from Milwaukee. Direct-path towns (Mequon, Grafton, Saukville, Cedarburg) are in sewer service areas with active subdivision pipelines. Western townships (Holland, Belgium, Fredonia) are agricultural preservation with 35-acre minimum parcels.
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| I-43 South | Mequon | MODERATE — Milwaukee north shore, high-value, limited undeveloped land |
+| I-43 Central | Grafton, Cedarburg | STRONG — Sewer service areas, active subdivision pipelines, FLU residential |
+| I-43 North | Saukville | STRONG — Expansion potential, ag land available |
+
+### Towns NOT in the Growth Path
+Western townships (Holland, Town of Belgium, Town of Fredonia) — no sewer service, 35-acre minimum parcels, LESA-prioritized farmland. 36% of recent urban development occurred outside planned areas — comp plan redirects into sewer corridors.
+
+### Key Standout
+Town of Cedarburg: Five Corners Town Center utility study, FLU residential, 2050 Draft Comp Plan. 43,938 acres (27.7%) designated Farmland Protection countywide — western townships are locked down.
+
+### FLU / Zoning Verification Links
+
+- [Ozaukee County Planning & Zoning](https://www.co.ozaukee.wi.us/143/Planning-Parks-and-Zoning)
+- [City of Mequon Comp Plan](https://www.ci.mequon.wi.us/306/Comprehensive-Plan)
+- [Village of Grafton Comp Plan](https://www.village.grafton.wi.us/132/Comprehensive-Plan)
+

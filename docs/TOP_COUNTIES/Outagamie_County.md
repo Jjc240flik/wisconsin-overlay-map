@@ -448,3 +448,33 @@ An interactive toggle map showing **Current Zoning ↔ Future Land Use** with co
 - [Village of Greenville FLU Map](https://www.townofgreenville.com/Map%202-1%20Year%202040%20Land%20Use_2025.pdf?t=202601200822160)
 - [Village of Little Chute Comp Plan](https://www.littlechutewi.org/389/Comprehensive-Plan)
 
+---
+
+## Growth Direction & FLU Analysis
+
+*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
+
+### Growth Direction
+Growth radiates from Appleton in all directions. Strongest is **NW along US 41** (Greenville, Grand Chute). Second is **E along US 10** (Harrison). From Kaukauna, growth goes **S** (Buchanan) and **W** (Combined Locks, Little Chute).
+
+### Growth Corridors
+
+| Corridor | Towns | Intensity & Evidence |
+|---|---|---|
+| NW (US 41) | Greenville, Grand Chute | PRIMARY — Greenville: 359% growth 1970-2020, +47% projected 2040, 3-tier FLU system, water+wastewater master plans, 7 sub-area plans. Grand Chute: 228% growth, +33% projected. |
+| E (US 10) | Harrison | PRIMARY — Suburban Residential + Community Mixed Use FLU, planned residential expansion |
+| S (STH 55) | Buchanan | PRIMARY — 255% growth 1970-2020, 8 FLU districts, 1,239 acres vacant short-term, sewer gating factor |
+| SW (STH 55) | Freedom | SECONDARY — 108% growth, Suburban Residential near Appleton |
+
+### Towns NOT in the Growth Path
+Kimberly (built out), Combined Locks (16% growth, limited ag), Little Chute (limited undeveloped), rural townships (Black Creek, Oneida, etc.)
+
+### Key Standout
+Greenville: 359% growth, 3-tier FLU, water+wastewater plans, 7 sub-area growth zones. This is the textbook Cody Bjugan target. Grand Chute: $7,190 projected new residents by 2040. Buchanan: 1,239 acres of vacant short-term land with sewer as gating factor.
+
+### FLU / Zoning Verification Links
+
+- [Outagamie County Comp Plan 2040](https://www.outagamie.gov/files/assets/county/v/1/dls/documents/comprehensive-planning-amp-special-projects/comprehensive-plan/vol-1-exst-cond__final.pdf)
+- [Interactive FLU Map Gallery](https://experience.arcgis.com/experience/a6f7c8ffad8b42489fe5e8bfb77effa9)
+- [Village of Greenville FLU Map](https://www.townofgreenville.com/Map%202-1%20Year%202040%20Land%20Use_2025.pdf)
+
