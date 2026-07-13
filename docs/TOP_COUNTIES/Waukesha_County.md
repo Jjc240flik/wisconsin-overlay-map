@@ -100,310 +100,79 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ## Subdivision Pipeline
 
-**336 parcels** | 10 off-market | 326 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+## Waukesha County — Subdivision Pipeline
 
-## Parcels Ranked by Rezoning Potential
+**41 parcels** | 3 off-market (mail) | 38 for-sale (call)
 
-| Rezoning | Town | Acres | Owner | APN | Status |
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A** | MENOMONEE FALLS | 1.0 | GRAYSLAND HOME OWNERS ASSOCIATION 🔗| MNFV-0136-188 | 📞 |
-| **A** | LISBON | 0.9 | SCHULTZ CARL 🔗| LSBT-0270-047 | 📞 |
-| **A** | LISBON | 0.9 | SCHULTZ CARL 🔗| LSBT-0270-021 | 📞 |
-| **A** | LISBON | 0.8 | SCHMIDT GEORGE | LSBT-0161-995 | 📞 |
-| **A** | LISBON | 0.7 | PARR DANIEL | LSBT-0272-071 | 📞 |
-| **A** | LISBON | 0.7 | NOVIK ALEXSEY 🔗| LSBT-0267-100 | 📞 |
-| **A** | MENOMONEE FALLS | 0.5 | RAVENWOODS MF LTD | MNFV-0133-218 | 📞 |
-| **A** | LISBON | 0.5 | DRISCOLL WENDY | LSBT-0282-987 | 📞 |
-| **A** | MENOMONEE FALLS | 0.4 | ST PAULS UNITED CHURCH OF CHRIST 🔗| MNFV-0011-175-001 | 📞 |
-| **A** | MENOMONEE FALLS | 0.4 | ST PAULS UNITED CHURCH OF CHRIST 🔗| MNFV-0011-220-001 | 📞 |
-| **A** | LISBON | 0.4 | SCOTT DANIEL 🔗| LSBT-0254-005 | 📞 |
-| **A** | LISBON | 0.4 | SCOTT DANIEL 🔗| LSBT-0254-006 | 📞 |
-| **A** | LISBON | 0.4 | SCOTT DANIEL 🔗| LSBT-0254-007 | 📞 |
-| **A** | LISBON | 0.3 | HALQUIST WILLIAM | LSBT-0282-010 | 📞 |
-| **A** | LISBON | 0.3 | REINHOLD LARRY EUGENE | LSBT-0282-025 | 📞 |
-| **A** | LISBON | 0.3 | SAWALL PETER | LSBT-0282-031 | 📞 |
-| **A** | LISBON | 0.3 | KWAPIL RYAN | LSBT-0191-017 | 📞 |
-| **A** | MENOMONEE FALLS | 0.2 | ST MARYS CONGREGATION 🔗| MNFV-0011-335-001 | 📞 |
-| **A** | LISBON | 0.2 | UNVERRICH GLORIA 🔗| LSBT-0151-999-006 | 📞 |
-| **A** | MENOMONEE FALLS | 0.1 | FRED HENRIZI POST 382 AMERICAN LEGION | MNFV-0011-208 | 📞 |
-| **A** | LISBON | 0.0 | SENNOTT DANIEL | LSBT-0161-999-006 | 📞 |
-| **A** | MENOMONEE FALLS | 0.0 | WASTE MANAGEMENT OF WI | MNFV-0001-999-007 | 📞 |
-| **A** | MENOMONEE FALLS | ? | R & S HILLS FARM LLC 🔗| MNFV-0031-996 | 📬 |
-| **A** | MENOMONEE FALLS | ? | GROSS HERBERT | MNFV-0079-994-012 | 📬 |
-| **A** | MENOMONEE FALLS | ? | RIOJAS SARAH | MNFV-0063-991-001 | 📬 |
-| **A** | MENOMONEE FALLS | ? | WEILAND ROBERT | MNFV-0015-997-004 | 📬 |
-| **A** | LISBON | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗| LSBT-0220-995-003 | 📬 |
-| **A** | LISBON | ? | TOEBES MICHAEL | LSBT-0188-007 | 📬 |
-| **A** | MENOMONEE FALLS | ? | LANDVATTER MICHAEL | MNFV-0058-999 | 📞 |
-| **A** | MENOMONEE FALLS | ? | KOLBECK PAUL | MNFV-0039-994 | 📞 |
-| **A** | MENOMONEE FALLS | ? | EMMANUEL EVANGELICAL CONGREGATION | MNFV-0039-996 | 📞 |
-| **A** | MENOMONEE FALLS | ? | GIBBONS JONATHAN | MNFV-0049-969-001 | 📞 |
-| **A** | MENOMONEE FALLS | ? | DAQUISTO ANDRAE | MNFV-0084-993 | 📞 |
-| **A** | MENOMONEE FALLS | ? | DACQUISTO ANDRAE 🔗| MNFV-0084-995 | 📞 |
-| **A** | MENOMONEE FALLS | ? | DACQUISTO ANDRAE 🔗| MNFV-0084-999 | 📞 |
-| **A** | MENOMONEE FALLS | ? | DACQUISTO ANDRAE 🔗| MNFV-0087-993 | 📞 |
-| **A** | MENOMONEE FALLS | ? | INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS | MNFV-0142-002 | 📞 |
-| **A** | MENOMONEE FALLS | ? | ST MARYS CONGREGATION 🔗| MNFV-0012-219 | 📞 |
-| **A** | MENOMONEE FALLS | ? | GLORIA DEI LUTHERAN CHURCH | MNFV-0062-990-001 | 📞 |
-| **A** | MENOMONEE FALLS | ? | GRAYSLAND HOME OWNERS ASSOCIATION 🔗| MNFV-0136-189 | 📞 |
-| **A** | MENOMONEE FALLS | ? | GOOD SHEPHERD | MNFV-0016-988 | 📞 |
-| **A** | MENOMONEE FALLS | ? | CHILDRENS COMMUNITY CENTER | MNFV-0016-988-001 | 📞 |
-| **A** | MENOMONEE FALLS | ? | LENSER MELVIN | MNFV-0017-994-003 | 📞 |
-| **A** | MENOMONEE FALLS | ? | HEBL MATTHEW | MNFV-0019-993 | 📞 |
-| **A** | MENOMONEE FALLS | ? | WANK LEAH | MNFV-0021-987 | 📞 |
-| **A** | MENOMONEE FALLS | ? | ARNDT MARTHA C | MNFV-0021-988 | 📞 |
-| **A** | MENOMONEE FALLS | ? | M-P INVESTMENT CO | MNFV-0022-986 | 📞 |
-| **A** | MENOMONEE FALLS | ? | UNION CEMETERY ASSOCIATION MENOMONEE | MNFV-0022-990 | 📞 |
-| **A** | MENOMONEE FALLS | ? | NIEBLER JOHN 🔗| MNFV-0022-991 | 📞 |
-| **A** | MENOMONEE FALLS | ? | THE AMENDED & RESTATED DALE J & LINDA K BOEDEKER | MNFV-0023-998 | 📞 |
-| **A** | MENOMONEE FALLS | ? | NIEBLER JOHN 🔗| MNFV-0023-999 | 📞 |
-| **A** | MENOMONEE FALLS | ? | CHERTACK ELIOT | MNFV-0024-999-001 | 📞 |
-| **A** | MENOMONEE FALLS | ? | GAY DAVID | MNFV-0024-999-002 | 📞 |
-| **A** | MENOMONEE FALLS | ? | AMMENTORP ALAN | MNFV-0025-996 | 📞 |
-| **A** | MENOMONEE FALLS | ? | THOMPSON GARY | MNFV-0025-997 | 📞 |
-| **A** | MENOMONEE FALLS | ? | APPLE SPRINGS | MNFV-0026-989 | 📞 |
-| **A** | MENOMONEE FALLS | ? | CHAMBERS JUDITH | MNFV-0026-994 | 📞 |
-| **A** | MENOMONEE FALLS | ? | LATIKER JOE | MNFV-0026-995 | 📞 |
-| **A** | MENOMONEE FALLS | ? | ZITZKE JOHN | MNFV-0028-999-001 | 📞 |
-| **A** | MENOMONEE FALLS | ? | THE PRESERVE JBJ LIMITED PARTNERSHIP | MNFV-0047-080 | 📞 |
-| **A** | MENOMONEE FALLS | ? | HAENSGEN GREGG | MNFV-0059-989 | 📞 |
-| **A** | MENOMONEE FALLS | ? | VANG LAUJ-MATTHEW | MNFV-0059-994 | 📞 |
-| **A** | MENOMONEE FALLS | ? | ST PAULS UNITED CHURCH OF CHRIST 🔗| MNFV-0011-220-002 | 📞 |
-| **A** | LISBON | ? | MERTON COMMUNITY SCHOOL DIST | LSBT-0214-997 | 📞 |
-| **A** | LISBON | ? | LISBON & MERTON UNION CEMETERY ASSOCIATION | LSBT-0216-067 | 📞 |
-| **A** | LISBON | ? | LISBON | LSBT-0217-996-002 | 📞 |
-| **A** | LISBON | ? | BARTHEN LARRY | LSBT-0178-991 | 📞 |
-| **A** | LISBON | ? | WIESE MARIE | LSBT-0178-992 | 📞 |
-| **A** | LISBON | ? | MCLEAN-PETERSON SHARON | LSBT-0178-997 | 📞 |
-| **A** | LISBON | ? | MILLER ROBERT L | LSBT-0183-992 | 📞 |
-| **A** | LISBON | ? | FEEST RICHARD | LSBT-0184-995 | 📞 |
-| **A** | LISBON | ? | ZIEBELL EARL | LSBT-0185-995 | 📞 |
-| **A** | LISBON | ? | JT SCHOOL DIST NO 2 | LSBT-0259-989-001 | 📞 |
-| **A** | LISBON | ? | NOVIK ALEXSEY 🔗| LSBT-0267-115 | 📞 |
-| **A** | LISBON | ? | LISBON UNITED PRESBYTERIAN CHURCH | LSBT-0225-995-007 | 📞 |
-| **A** | LISBON | ? | ROSE HILL CEMETERY ASSOCIATION | LSBT-0248-977 | 📞 |
-| **A** | LISBON | ? | REDEEMER UNITED CHURCH OF CHRIST | LSBT-0288-985-001 | 📞 |
-| **A** | LISBON | ? | QUINONEZ MIGUEL | LSBT-0207-997 | 📞 |
-| **A** | LISBON | ? | HOWARD DORIS | LSBT-0208-997 | 📞 |
-| **A** | LISBON | ? | HORNE MARY | LSBT-0212-995 | 📞 |
-| **A** | LISBON | ? | SCHUPPEL CATHERINE | LSBT-0279-995 | 📞 |
-| **A** | LISBON | ? | HENNINGS BRIAN | LSBT-0284-994-002 | 📞 |
-| **A** | LISBON | ? | WISCONSIN CENTRAL LTD | LSBT-0287-998-006 | 📞 |
-| **A** | LISBON | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗| LSBT-0257-995-004 | 📞 |
-| **A** | LISBON | ? | KNOPP SHEILA | LSBT-0154-997 | 📞 |
-| **A** | LISBON | ? | SOMMER ROBERT | LSBT-0161-999-012 | 📞 |
-| **A** | LISBON | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗| LSBT-0261-999 | 📞 |
-| **A** | LISBON | ? | VILORIA ANTHONY | LSBT-0150-995 | 📞 |
-| **A** | LISBON | ? | KISTING JEFFERY | LSBT-0151-999-003 | 📞 |
-| **A** | LISBON | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗| LSBT-0223-997 | 📞 |
-| **A** | LISBON | ? | BENES MEGAN | LSBT-0145-996 | 📞 |
-| **A** | LISBON | ? | BASTIAN RONALD | LSBT-0146-998-002 | 📞 |
-| **A** | LISBON | ? | AUMUELLER CHAD | LSBT-0148-999 | 📞 |
-| **A** | LISBON | ? | BOBROWITZ PAUL 🔗| LSBT-0149-990-001 | 📞 |
-| **A** | LISBON | ? | PFANNERSTILL PROSPER | LSBT-0152-995-001 | 📞 |
-| **A** | LISBON | ? | CONCRETE ACQUISITION CO | LSBT-0153-996 | 📞 |
-| **A** | LISBON | ? | BONK TIMOTHY | LSBT-0214-995 | 📞 |
-| **A** | LISBON | ? | STUHR SAMUEL | LSBT-0220-014 | 📞 |
-| **A** | LISBON | ? | HERDER LUKE A | LSBT-0220-016 | 📞 |
-| **A** | LISBON | ? | LISBON LAND PARTNERSHIP LLP 🔗| LSBT-0220-037 | 📞 |
-| **A** | LISBON | ? | LISBON LAND PARTNERSHIP LLP 🔗| LSBT-0220-038 | 📞 |
-| **A** | LISBON | ? | FRYDA MICHAEL | LSBT-0180-999 | 📞 |
-| **A** | LISBON | ? | UNVERRICH GLORIA 🔗| LSBT-0186-996 | 📞 |
-| **A** | LISBON | ? | WENZEL DOUGLAS | LSBT-0186-998-001 | 📞 |
-| **A** | LISBON | ? | DOPERALSKI RICHARD | LSBT-0189-995-003 | 📞 |
-| **A** | LISBON | ? | GEHRKE MATTHEW | LSBT-0190-997-002 | 📞 |
-| **A** | LISBON | ? | STEVENS JAMES | LSBT-0190-999 | 📞 |
-| **A** | LISBON | ? | GATZKE DERIK | LSBT-0255-998 | 📞 |
-| **A** | LISBON | ? | STRADINGER DANE | LSBT-0257-010 | 📞 |
-| **A** | LISBON | ? | HANSEN JAMES P 🔗| LSBT-0257-012 | 📞 |
-| **A** | LISBON | ? | HANSEN JAMES P 🔗| LSBT-0257-013 | 📞 |
-| **A** | LISBON | ? | DREWEK ROBERT J | LSBT-0257-014 | 📞 |
-| **A** | LISBON | ? | ARMBRUSTER JAY | LSBT-0257-015 | 📞 |
-| **A** | LISBON | ? | ROSENBERGER ERIC | LSBT-0257-016 | 📞 |
-| **A** | LISBON | ? | DREWEK ROBERT | LSBT-0257-020 | 📞 |
-| **A** | LISBON | ? | THOMPSON BRANDON | LSBT-0257-031 | 📞 |
-| **A** | LISBON | ? | LISBON LAND PARTNERSHIP LLP 🔗| LSBT-0257-032 | 📞 |
-| **A** | LISBON | ? | CONDON PROPERTIES LIMITED PARTNERSHIP | LSBT-0257-065 | 📞 |
-| **A** | LISBON | ? | DANOWSKI SAMANTHA M | LSBT-0257-069 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0265-025 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0265-029 | 📞 |
-| **A** | LISBON | ? | HURTGEN PAUL | LSBT-0269-993-004 | 📞 |
-| **A** | LISBON | ? | ROBINSON CLAIRE A | LSBT-0269-995 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-001 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-041 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-042 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-043 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-044 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-045 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-046 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-048 | 📞 |
-| **A** | LISBON | ? | SCHULTZ CARL 🔗| LSBT-0270-049 | 📞 |
-| **A** | LISBON | ? | SIMON ALEXANDER | LSBT-0161-987-001 | 📞 |
-| **A** | LISBON | ? | KONS LLP | LSBT-0163-999-001 | 📞 |
-| **A** | LISBON | ? | LANDRY THOMAS 🔗| LSBT-0165-997-001 | 📞 |
-| **A** | LISBON | ? | LANDRY THOMAS 🔗| LSBT-0165-997-002 | 📞 |
-| **A** | LISBON | ? | STAUS LAKE FIVE FAMILY FARM LLC | LSBT-0165-999 | 📞 |
-| **A** | LISBON | ? | ARTHUR G SCHLAFER FARM LLC | LSBT-0168-996 | 📞 |
-| **A** | LISBON | ? | RONALD SCHLAFER FARM LLC | LSBT-0168-999-006 | 📞 |
-| **A-** | PEWAUKEE | 0.9 | WIS ELEC POWER CO 🔗| PWV -0900-995 | 📞 |
-| **A-** | PEWAUKEE | 0.9 | ABRAM RANDALL 🔗| PWV -0893-045 | 📞 |
-| **A-** | PEWAUKEE | 0.9 | ABRAM RANDALL 🔗| PWV -0893-043 | 📞 |
-| **A-** | SUSSEX | 0.9 | WISCONSIN TELEPHONE CO 🔗| SUXV-0245-911-001 | 📞 |
-| **A-** | SUSSEX | 0.7 | HORNE-MUDLITZ POST NO 6377 | SUXV-0245-912 | 📞 |
-| **A-** | PEWAUKEE | 0.6 | PEWAUKEE AREA HISTORICAL | PWV -0899-965 | 📞 |
-| **A-** | SUSSEX | 0.6 | PEACE LUTHERAN CHURCH 🔗| SUXV-0249-971-002 | 📞 |
-| **A-** | SUSSEX | 0.6 | LOT OWNERS STONEWOOD ESTATES OF SUSSEX 🔗| SUXV-0203-018 | 📞 |
-| **A-** | GENESEE | 0.3 | WALES GENESEE LIONS CLUB | GNT -1521-043 | 📞 |
-| **A-** | SUSSEX | 0.3 | STADLER MICHAEL | SUXV-0232-977 | 📞 |
-| **A-** | SUSSEX | 0.2 | GERMAN EVANGELICAL ZION CHURCH OF SUSSEX | SUXV-0235-915 | 📞 |
-| **A-** | GENESEE | 0.2 | HENDRICKSON-MOEN IZARI | GNT -1487-990-010 | 📞 |
-| **A-** | PEWAUKEE | 0.2 | ANGLICAN CHURCH OF THE APOSTLES 🔗| PWV -0896-009 | 📞 |
-| **A-** | PEWAUKEE | 0.2 | ANGLICAN CHURCH OF THE APOSTLES 🔗| PWV -0896-010 | 📞 |
-| **A-** | SUSSEX | 0.2 | LOT OWNERS STONEWOOD ESTATES OF SUSSEX 🔗| SUXV-0203-019 | 📞 |
-| **A-** | SUSSEX | 0.2 | WIRTH EMILY | SUXV-0235-973 | 📞 |
-| **A-** | PEWAUKEE | 0.2 | PEWAUKEE MEMORIAL VFW | PWV -0899-056 | 📞 |
-| **A-** | GENESEE | 0.1 | LORENZ JOHNMARK J | GNT -1491-061 | 📞 |
-| **A-** | PEWAUKEE | 0.1 | JACQUES JOHN | PWV -0899-272 | 📞 |
-| **A-** | GENESEE | 0.0 | BOBROWITZ PAUL 🔗| GNT -1545-017 | 📞 |
-| **A-** | SUSSEX | 0.0 | LOT OWNERS HIDDEN HILLS | SUXV-0199-080 | 📞 |
-| **A-** | GENESEE | ? | NEUMANN ASHLEY 🔗| GNT -1555-999-004 | 📬 |
-| **A-** | GENESEE | ? | DIETRICH RICHARD | GNT -1570-995 | 📬 |
-| **A-** | GENESEE | ? | BUNDY MICHAEL 🔗| GNT -1527-990-001 | 📬 |
-| **A-** | GENESEE | ? | BETHESDA PRESBYTERIAN CHURCH | GNT -1490-998 | 📞 |
-| **A-** | GENESEE | ? | SCHMITTINGER JEREMY | GNT -1491-039-001 | 📞 |
-| **A-** | GENESEE | ? | JOHNS WILLIAM 🔗| GNT -1580-997-001 | 📞 |
-| **A-** | GENESEE | ? | CHESEBRO JAMES | GNT -1583-999 | 📞 |
-| **A-** | GENESEE | ? | REFORMATION EVANGELICAL LUTHERAN CHURCH | GNT -1518-008-001 | 📞 |
-| **A-** | GENESEE | ? | KETTLE MORAINE SCHOOL | GNT -1521-984 | 📞 |
-| **A-** | GENESEE | ? | ST PAULS CATHOLIC CHURCH 🔗| GNT -1480-995-001 | 📞 |
-| **A-** | GENESEE | ? | WILLIAMS STEVEN 🔗| GNT -1525-999-005 | 📞 |
-| **A-** | GENESEE | ? | MUREN ROBERT 🔗| GNT -1541-999-001 | 📞 |
-| **A-** | GENESEE | ? | GENESEE CEMETERY ASSOCIATION | GNT -1545-988-001 | 📞 |
-| **A-** | GENESEE | ? | FIRST CONGREGATIONAL CHURCH OF GENESEE | GNT -1546-009-001 | 📞 |
-| **A-** | GENESEE | ? | LUTERBACH JOSHUA 🔗| GNT -1459-987 | 📞 |
-| **A-** | GENESEE | ? | LUTERBACH JOSHUA 🔗| GNT -1459-988 | 📞 |
-| **A-** | GENESEE | ? | LUTERBACH JOSHUA 🔗| GNT -1459-989 | 📞 |
-| **A-** | GENESEE | ? | ST PAULS CATHOLIC CHURCH 🔗| GNT -1503-981 | 📞 |
-| **A-** | GENESEE | ? | MUREN ROBERT 🔗| GNT -1541-997-002 | 📞 |
-| **A-** | GENESEE | ? | EMPIRE OIL CO 🔗| GNT -1536-992-002 | 📞 |
-| **A-** | GENESEE | ? | HARDIN VIRGIL | GNT -1505-996-017 | 📞 |
-| **A-** | GENESEE | ? | NORWICK ALEX | GNT -1493-999 | 📞 |
-| **A-** | GENESEE | ? | LOOMIS EDWARD | GNT -1498-999-003 | 📞 |
-| **A-** | GENESEE | ? | VARELIS JAMES | GNT -1499-998-003 | 📞 |
-| **A-** | GENESEE | ? | WILLIAMS STEVEN 🔗| GNT -1500-989-001 | 📞 |
-| **A-** | GENESEE | ? | ROSS WILLIAM 🔗| GNT -1573-994 | 📞 |
-| **A-** | GENESEE | ? | ROSS WILLIAM 🔗| GNT -1573-995 | 📞 |
-| **A-** | GENESEE | ? | JOHNS WILLIAM 🔗| GNT -1579-996-002 | 📞 |
-| **A-** | GENESEE | ? | SCHUETT ROBERT | GNT -1579-997-001 | 📞 |
-| **A-** | GENESEE | ? | JOHNS WILLIAM 🔗| GNT -1580-997 | 📞 |
-| **A-** | GENESEE | ? | SKRZYPCHAK NATE | GNT -1580-999 | 📞 |
-| **A-** | GENESEE | ? | SPELLMAN WILLIAM | GNT -1582-996 | 📞 |
-| **A-** | GENESEE | ? | ODAY PATRICK | GNT -1582-997 | 📞 |
-| **A-** | GENESEE | ? | NETTESHEIM ALAN | GNT -1582-999 | 📞 |
-| **A-** | GENESEE | ? | MCCARTHY KEVIN | GNT -1583-998 | 📞 |
-| **A-** | GENESEE | ? | JOHNSON JEFFREY R 🔗| GNT -1485-990 | 📞 |
-| **A-** | GENESEE | ? | BARNES TREVOR | GNT -1487-990-007 | 📞 |
-| **A-** | GENESEE | ? | SMITH STEVEN | GNT -1487-999-003 | 📞 |
-| **A-** | GENESEE | ? | GAYLORD MICAH 🔗| GNT -1489-983 | 📞 |
-| **A-** | GENESEE | ? | MUELLER BOBBI | GNT -1489-999 | 📞 |
-| ... | ... | ... (+136 more) | ... | ... |
+| HIGH | Pewaukee Village | 0.9 | ABRAM RANDALL | PWV -0893-043 | 📞 MLS |
+| HIGH | Genesee | 0.9 | OWNER`S OF LOTS IN BROOKSTONE WILLOWS ADDN NO 1 | WAKC-0980-243 | 📞 MLS |
+| HIGH | Genesee | 0.8 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-118 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.7 | PARR DANIEL | LSBT-0272-071 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.7 | NOVIK ALEXSEY | LSBT-0267-100 | 📞 MLS |
+| HIGH | Genesee | 0.6 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-051 | 📞 MLS |
+| HIGH | Genesee | 0.4 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-112 | 📞 MLS |
+| HIGH | Lisbon | 0.4 | SCOTT DANIEL | LSBT-0254-006 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-113 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-075 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗 | WAKC-0985-070 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-114 | 📞 MLS |
+| HIGH | Lisbon | 0.3 | STADLER MICHAEL | SUXV-0232-977 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-076 | 📞 MLS |
+| HIGH | Genesee | 0.3 | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-115 | 📞 MLS |
+| HIGH | Genesee | 0.1 | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-053 | 📞 MLS |
+| HIGH | Genesee | 0.1 | OWNERS OF UNITS IN WOODLAND HILLS CONDOS 🔗 | WAKC-0985-069 | 📞 MLS |
+| HIGH | Pewaukee Village | 0.0 | ELGER JASON W | DELT-0766-998-004 | 📞 MLS |
+| HIGH | Menomonee Falls | ? | WEILAND ROBERT | MNFV-0015-997-004 | 📬 Mail |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0220-995-003 | 📬 Mail |
+| HIGH | Lisbon | ? | TOEBES MICHAEL | LSBT-0188-007 | 📬 Mail |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0257-995-004 | 📞 MLS |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0261-999 | 📞 MLS |
+| HIGH | Lisbon | ? | VILORIA ANTHONY | LSBT-0150-995 | 📞 MLS |
+| HIGH | Lisbon | ? | SPITZ FAMILY LIMITED PARTNERSHIP 🔗 | LSBT-0223-997 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN | WAKC-0980-343 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN OAKMONT 🔗 | WAKC-0987-086 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN OAKMONT 🔗 | WAKC-0987-087 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-072 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-073 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0989-074 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-052 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TALLGRASS 🔗 | WAKC-0990-054 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-116 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-117 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-119 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-120 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-121 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-122 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN ROLLING 🔗 | WAKC-0990-123 | 📞 MLS |
+| HIGH | Genesee | ? | OWNER`S OF LOTS IN TRILLIUM | WAKC-1364-042 | 📞 MLS |
 
-## Rezoning Analysis
+### North Star Takeaway
 
-### 🔥 A+/A — Prime Ag→Subdivision Targets
-*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
+#### Genesee — 28 parcels, ~5 acres (HIGH, PRIMARY)
+- **28 parcels** totaling ~5 acres
+- **FLU context:** Near Waukesha/Milwaukee edge.
+- **4 multi-property owners** in this cluster
 
-- **MNFV-0136-188** | 1.0ac | GRAYSLAND HOME OWNERS ASSOCIATION | MENOMONEE FALLS — NE edge Milwaukee. Expansion. Ag→residential. I-94.
-- **LSBT-0270-047** | 0.9ac | SCHULTZ CARL | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **LSBT-0270-021** | 0.9ac | SCHULTZ CARL | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **LSBT-0161-995** | 0.8ac | SCHMIDT GEORGE | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **LSBT-0272-071** | 0.7ac | PARR DANIEL | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **LSBT-0267-100** | 0.7ac | NOVIK ALEXSEY | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **MNFV-0133-218** | 0.5ac | RAVENWOODS MF LTD | MENOMONEE FALLS — NE edge Milwaukee. Expansion. Ag→residential. I-94.
-- **LSBT-0282-987** | 0.5ac | DRISCOLL WENDY | LISBON — Menomonee Falls-Pewaukee. FLU residential. Ag converting.
-- **MNFV-0011-175-001** | 0.4ac | ST PAULS UNITED CHURCH OF CHRIST | MENOMONEE FALLS — NE edge Milwaukee. Expansion. Ag→residential. I-94.
-- **MNFV-0011-220-001** | 0.4ac | ST PAULS UNITED CHURCH OF CHRIST | MENOMONEE FALLS — NE edge Milwaukee. Expansion. Ag→residential. I-94.
+#### Pewaukee Village — 4 parcels, ~2 acres (HIGH, PRIMARY)
+- **4 parcels** totaling ~2 acres
+- **FLU context:** I-94 corridor. Growing rapidly.
 
-### Clusters
-**LISBON** (A): 93 parcels, ~7ac
-  91 MLS — call first
-  9 multi-owners
-**WAUKESHA** (B+): 77 parcels, ~1ac
-  76 MLS — call first
-  16 multi-owners
-**GENESEE** (A-): 62 parcels, ~1ac
-  59 MLS — call first
-  12 multi-owners
-**MENOMONEE FALLS** (A): 46 parcels, ~3ac
-  42 MLS — call first
-  6 multi-owners
-**PEWAUKEE** (A-): 22 parcels, ~4ac
-  22 MLS — call first
-  6 multi-owners
-**SUSSEX** (A-): 16 parcels, ~4ac
-  16 MLS — call first
-  3 multi-owners
-**BROOKFIELD** (B): 15 parcels, ~1ac
-  15 MLS — call first
-  3 multi-owners
-**LANNON** (B): 5 parcels, ~0ac
-  5 MLS — call first
-  2 multi-owners
+#### Lisbon — 8 parcels, ~1 acres (HIGH, PRIMARY)
+- **8 parcels** totaling ~1 acres
+- **FLU context:** Between Menomonee Falls and Pewaukee. FLU residential.
+- **1 multi-property owners** in this cluster
 
-### 📞 For-Sale
-- **LISBON** (A): 91
-- **WAUKESHA** (B+): 76
-- **GENESEE** (A-): 59
-- **MENOMONEE FALLS** (A): 42
-- **PEWAUKEE** (A-): 22
-- **SUSSEX** (A-): 16
-- **BROOKFIELD** (B): 15
-- **LANNON** (B): 5
+#### 📞 For-Sale Priority (Call)
+- **Genesee**: 28 MLS-listed parcels
+- **Lisbon**: 6 MLS-listed parcels
+- **Pewaukee Village**: 4 MLS-listed parcels
 
-### 📬 Off-Market
-- **MENOMONEE FALLS** (A): 4 — 1 multi-owners
-- **GENESEE** (A-): 3 — 2 multi-owners
-- **LISBON** (A): 2 — 1 multi-owners
-- **WAUKESHA** (B+): 1
+#### 📬 Off-Market Priority (Mail)
+- **Lisbon**: 2 parcels — 1 multi-owners
+- **Menomonee Falls**: 1 parcels
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
-
-
-### Zoning / FLU Verification Links
-*Cross-reference parcels against these official sources to verify rezoning potential.*
-
-- [Waukesha County Comp Plan](https://www.waukeshacounty.gov/comprehensiveplanning)
-- [Waukesha County GIS](https://www.waukeshacounty.gov/GIS)
-- [Village of Menomonee Falls Comp Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
-- [Village of Sussex Comp Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
-
----
-
-## Growth Direction & FLU Analysis
-
-*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
-
-### Growth Direction
-Growth follows the **I-94 corridor** westward from Milwaukee. The strongest pressure is on the eastern edge (Menomonee Falls, Lisbon, Sussex) closest to Milwaukee. Western lake country towns (Delafield, Oconomowoc, Summit) have preservation-focused growth.
-
-### Growth Corridors
-
-| Corridor | Towns | Intensity & Evidence |
-|---|---|---|
-| I-94 East | Menomonee Falls, Lisbon, Sussex, Pewaukee | PRIMARY — Milwaukee metro fringe. Menomonee Falls: 13 FLU categories, subarea plans, growth to ~43K population |
-| I-94 Central | Genesee, Waukesha Town, Brookfield | MODERATE — Ag land with development pressure, but Brookfield mostly developed |
-| I-94 West | Delafield, Oconomowoc, Summit | LOW — Lake country preservation, seasonal/recreational, limited subdivision |
-
-### Towns NOT in the Growth Path
-Western lake country towns (Delafield, Oconomowoc, Summit, Eagle, Ottawa) — lake country preservation limits subdivision. Elm Grove, Butler — built out.
-
-### Key Standout
-Menomonee Falls: 13 FLU categories, subarea planning, growth to 43K population. Lisbon: FLU residential, ag land converting. Town of Brookfield: I-94/US-18 corridor, SEWRPC environmental corridors constrain some areas.
-
-### FLU / Zoning Verification Links
-
-- [Waukesha County Comp Plan](https://www.waukeshacounty.gov/comprehensiveplanning)
-- [Village of Menomonee Falls Comp Plan](https://www.menomoneefalls.gov/399/Comprehensive-Plan)
-- [Village of Sussex Comp Plan](https://www.villageofsussexwi.gov/327/Comprehensive-Plan)
-

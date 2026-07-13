@@ -1,6 +1,6 @@
 # Brown County — Ag→Subdivision Rezoning Pipeline
 
-**810 parcels** | 103 off-market | 707 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**812 parcels** | 103 off-market | 709 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -11,10 +11,10 @@
 | **A+** | LEDGEVIEW | 39.5 | COATES DAVID J | D-171 | 📬 |
 | **A+** | LEDGEVIEW | 38.9 | LOTTO JOSEPH P 🔗| D-304 | 📞 |
 | **A+** | LEDGEVIEW | 38.9 | UMENTUM JOSEPH E 🔗| D-144 | 📞 |
-| **A+** | LEDGEVIEW | 38.9 | LOTTO BERNARD 🔗| D-129 | 📞 |
+| **A+** | LEDGEVIEW | 38.9 | LOTTO BERNARD P 🔗| D-129 | 📞 |
 | **A+** | LEDGEVIEW | 37.5 | JASON R R | D-267 | 📞 |
 | **A+** | LEDGEVIEW | 35.9 | LOTTO JOSEPH P 🔗| D-306 | 📞 |
-| **A+** | LEDGEVIEW | 34.9 | LOTTO BERNARD P | D-128 | 📞 |
+| **A+** | LEDGEVIEW | 34.9 | LOTTO BERNARD | D-128 | 📞 |
 | **A+** | LEDGEVIEW | 34.2 | ARENDT SANDRA M | D-172 | 📬 |
 | **A+** | LEDGEVIEW | 33.1 | MENCHESKI ANTHONY A 🔗| D-307 | 📞 |
 | **A+** | LEDGEVIEW | 31.9 | GORZLANCYK JAMES 🔗| D-134 | 📞 |
@@ -41,11 +41,11 @@
 | **A+** | LEDGEVIEW | 20.1 | KAPHINGST SUSAN 🔗| D-146 | 📞 |
 | **A+** | LEDGEVIEW | 20.1 | KINTER CLYDE 🔗| D-105 | 📞 |
 | **A+** | LEDGEVIEW | 20.0 | MATZKE KENNETH J | D-283 | 📞 |
-| **A+** | LEDGEVIEW | 20.0 | LOTTO DENIS G | D-312 | 📞 |
+| **A+** | LEDGEVIEW | 20.0 | LOTTO DENIS | D-312 | 📞 |
 | **A+** | LEDGEVIEW | 20.0 | STENCIL SHELLEY J 🔗| D-320-2-1 | 📞 |
 | **A+** | LEDGEVIEW | 19.9 | LOTTO JOSPEH P | D-131 | 📞 |
 | **A+** | LEDGEVIEW | 19.5 | KINTER CLYDE H VANDER 🔗| D-100 | 📞 |
-| **A+** | LEDGEVIEW | 19.5 | SHUSTA TERRY L | D-102 | 📞 |
+| **A+** | LEDGEVIEW | 19.5 | SHUSTA PAUL F | D-102 | 📞 |
 | **A+** | LEDGEVIEW | 19.5 | KINTER CLYDE 🔗| D-103 | 📞 |
 | **A+** | LEDGEVIEW | 19.5 | PANSIER GLEN J 🔗| D-264 | 📞 |
 | **A+** | LEDGEVIEW | 19.4 | PANSIER GLEN J 🔗| D-262 | 📞 |
@@ -57,7 +57,7 @@
 | **A+** | LEDGEVIEW | 18.8 | FUCHS MATTHIAS A | D-2226 | 📞 |
 | **A+** | LEDGEVIEW | 18.8 | SIPES JENNIFER A | D-2236 | 📞 |
 | **A+** | LEDGEVIEW | 18.2 | LOTTO JOSEPH P 🔗| D-301 | 📞 |
-| **A+** | LEDGEVIEW | 18.0 | LOTTO BERNARD 🔗| D-303-1 | 📞 |
+| **A+** | LEDGEVIEW | 18.0 | LOTTO BERNARD P 🔗| D-303-1 | 📞 |
 | **A+** | LEDGEVIEW | 18.0 | GERALD H GORZELANCZYK 🔗| D-119 | 📞 |
 | **A+** | LEDGEVIEW | 17.3 | LOTTO JOSEPH P 🔗| D-302 | 📞 |
 | **A+** | LEDGEVIEW | 16.6 | KAPHINGST SUSAN 🔗| D-139 | 📞 |
@@ -69,11 +69,11 @@
 | **A+** | LEDGEVIEW | 14.3 | HEYRMAN JOSEPH L | D-285 | 📞 |
 | **A+** | LEDGEVIEW | 14.3 | JOSSART JOHN | D-255 | 📞 |
 | **A+** | LEDGEVIEW | 13.8 | VANDERKINTER WAYNE E | D-317-1 | 📞 |
-| **A+** | LEDGEVIEW | 13.2 | MITTELSTAEDT NANCY J | D-242 | 📞 |
+| **A+** | LEDGEVIEW | 13.2 | MITTELSTAEDT NANCY | D-242 | 📞 |
 | **A+** | LEDGEVIEW | 12.9 | SKALETSKI LEO M | D-106 | 📞 |
 | **A+** | LEDGEVIEW | 12.0 | FETTERLY STANLEY F | D-317 | 📞 |
 | **A+** | LEDGEVIEW | 12.0 | SCHNEIDER JACOB G | D-101-1 | 📞 |
-| **A+** | LEDGEVIEW | 10.3 | ZEITLER DARLENE M | D-308-4 | 📞 |
+| **A+** | LEDGEVIEW | 10.3 | MOLINA ANGELIA M | D-308-4 | 📞 |
 | **A+** | LEDGEVIEW | 10.0 | KASTER CRAIG | D-150-2 | 📞 |
 | **A+** | LEDGEVIEW | 10.0 | DUCKART MARK J | D-101 | 📞 |
 | **A+** | LEDGEVIEW | 8.9 | ANDERSON AMY K | D-427-86-A | 📞 |
@@ -110,7 +110,7 @@
 | **A** | BELLEVUE | 63.1 | WATERMOLEN DENNIS F | B-306 | 📞 |
 | **A** | HOWARD | 61.0 | MEACHAM DEBORAH L | VH-503 | 📞 |
 | **A** | BELLEVUE | 54.4 | PANSIER GLEN J 🔗| B-314-1 | 📬 |
-| **A** | LAWRENCE | 52.1 | ERDMANN THOMAS 🔗| L-110 | 📞 |
+| **A** | LAWRENCE | 52.1 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-110 | 📞 |
 | **A** | BELLEVUE | 49.4 | BUDI DESIRAE M | B-307 | 📞 |
 | **A** | SUAMICO | 49.0 | KACZMAREK JEAN | SU-128-1 | 📞 |
 | **A** | HOWARD | 45.9 | LANGER ERIC E | VH-43 | 📞 |
@@ -122,14 +122,14 @@
 | **A** | LAWRENCE | 40.4 | DERUYTER MICHAEL | L-383 | 📞 |
 | **A** | BELLEVUE | 40.4 | VANDENAVOND CARL 🔗| B-183 | 📬 |
 | **A** | BELLEVUE | 40.4 | KROLL DEBRA A 🔗| B-212 | 📞 |
-| **A** | LAWRENCE | 40.2 | ERDMANN THOMAS 🔗| L-132 | 📞 |
+| **A** | LAWRENCE | 40.2 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-132 | 📞 |
 | **A** | SUAMICO | 40.2 | HEISEL MARK P 🔗| SU-217 | 📞 |
-| **A** | LAWRENCE | 40.2 | ERDMANN THOMAS 🔗| L-128 | 📞 |
-| **A** | LAWRENCE | 40.2 | ERDMANN THOMAS 🔗| L-131 | 📞 |
+| **A** | LAWRENCE | 40.2 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-128 | 📞 |
+| **A** | LAWRENCE | 40.2 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-131 | 📞 |
 | **A** | SUAMICO | 40.0 | TOMCHEK JAMES R 🔗| SU-185 | 📞 |
 | **A** | LAWRENCE | 40.0 | LAMERS FARM LLC 🔗| L-413 | 📬 |
 | **A** | HOWARD | 40.0 | HILLSIDE BROOK FARM LLC A WISCONSIN LIMITED LIABILITY | VH-215 | 📞 |
-| **A** | LAWRENCE | 40.0 | ERDMANN THOMAS 🔗| L-133 | 📞 |
+| **A** | LAWRENCE | 40.0 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-133 | 📞 |
 | **A** | SUAMICO | 40.0 | MIDWEST EXPANSION LLP | SU-794 | 📞 |
 | **A** | LAWRENCE | 39.8 | VANGHEEM NICHOLAS 🔗| L-388 | 📞 |
 | **A** | SUAMICO | 39.7 | DEGREEF GARY D | SU-213 | 📞 |
@@ -137,7 +137,7 @@
 | **A** | SUAMICO | 39.3 | GAURA NANCY A 🔗| SU-216 | 📞 |
 | **A** | LAWRENCE | 39.2 | GARRITY THOMAS 🔗| L-35 | 📞 |
 | **A** | SUAMICO | 39.2 | WHITE KENNETH J | SU-109 | 📞 |
-| **A** | LAWRENCE | 39.0 | ERDMANN THOMAS 🔗| L-134 | 📞 |
+| **A** | LAWRENCE | 39.0 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-134 | 📞 |
 | **A** | LAWRENCE | 39.0 | VANROSSUM PETER | L-92-1 | 📞 |
 | **A** | SUAMICO | 38.9 | CALEWARTS LAMAR W | SU-7 | 📞 |
 | **A** | SUAMICO | 38.9 | GAURA NANCY A 🔗| SU-212 | 📞 |
@@ -146,6 +146,7 @@
 | **A** | SUAMICO | 38.4 | JUZA BONNIE L | SU-30 | 📞 |
 | **A** | SUAMICO | 38.3 | PACZKOWSKI WILLIAM F | SU-134 | 📞 |
 | **A** | SUAMICO | 38.2 | PETERS GERALD 🔗| SU-689 | 📞 |
+| **A** | HOWARD | 38.2 | VANDER VELDEN | VH-44 | 📞 |
 | **A** | SUAMICO | 38.2 | WHITE WAYNE R | SU-119 | 📞 |
 | **A** | SUAMICO | 38.0 | HILLSIDE BROOK FARM LLC 🔗| SU-735 | 📬 |
 | **A** | HOWARD | 37.9 | HILLSIDE BROOK FARM LLC 🔗| VH-199 | 📞 |
@@ -192,7 +193,7 @@
 | **A** | LAWRENCE | 31.0 | SKOGEN WENDY D | L-401-1 | 📞 |
 | **A** | LAWRENCE | 31.0 | VANBEEK VERNON G | L-384 | 📞 |
 | **A** | SUAMICO | 30.8 | STYCZYNSKI RANDALL S 🔗| SU-622 | 📞 |
-| **A** | BELLEVUE | 30.6 | PEETERS MICHAEL P | B-311-10 | 📞 |
+| **A** | BELLEVUE | 30.6 | PEETERS LARRY | B-311-10 | 📞 |
 | **A** | SUAMICO | 30.5 | TOMCHEK JAMES R 🔗| SU-184 | 📞 |
 | **A** | SUAMICO | 30.5 | REVOLINSKI JOHN M | SU-31 | 📞 |
 | **A** | BELLEVUE | 29.7 | KROLL DEBRA A 🔗| B-11 | 📬 |
@@ -205,8 +206,7 @@
 | **A** | LAWRENCE | 27.3 | VANROSSUM MICHAEL H | L-76-2 | 📞 |
 | **A** | SUAMICO | 27.3 | TERRIEN EILEEN 🔗| SU-607 | 📞 |
 | **A** | HOWARD | 27.2 | MCALLISTER KATHLEEN M | VH-53-1 | 📞 |
-| **A** | HOWARD | 27.0 | DECASTER GARY | VH-41 | 📞 |
-| ... | ... | ... (+610 more) | ... | ... |
+| ... | ... | ... (+612 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -218,15 +218,15 @@
 - **D-171** | 39.5ac | COATES DAVID J | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 - **D-304** | 38.9ac | LOTTO JOSEPH P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 - **D-144** | 38.9ac | UMENTUM JOSEPH E | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-129** | 38.9ac | LOTTO BERNARD | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-129** | 38.9ac | LOTTO BERNARD P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 - **D-267** | 37.5ac | JASON R R | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 - **D-306** | 35.9ac | LOTTO JOSEPH P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-128** | 34.9ac | LOTTO BERNARD P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-128** | 34.9ac | LOTTO BERNARD | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 - **D-172** | 34.2ac | ARENDT SANDRA M | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
 
 ### Clusters
-**SCOTT** (B+): 179 parcels, ~2245ac
-  161 MLS — call first
+**SCOTT** (B+): 180 parcels, ~2245ac
+  162 MLS — call first
   23 multi-owners
 **HUMBOLDT** (B+): 153 parcels, ~4125ac
   97 MLS — call first
@@ -243,21 +243,21 @@
 **BELLEVUE** (A): 69 parcels, ~1035ac
   62 MLS — call first
   11 multi-owners
-**HOWARD** (A): 60 parcels, ~827ac
-  60 MLS — call first
+**HOWARD** (A): 61 parcels, ~866ac
+  61 MLS — call first
   12 multi-owners
 **ASHWAUBENON** (A-): 25 parcels, ~291ac
   24 MLS — call first
   4 multi-owners
 
 ### 📞 For-Sale
-- **SCOTT** (B+): 161
+- **SCOTT** (B+): 162
 - **SUAMICO** (A): 127
 - **HUMBOLDT** (B+): 97
 - **LEDGEVIEW** (A+): 95
 - **LAWRENCE** (A): 79
 - **BELLEVUE** (A): 62
-- **HOWARD** (A): 60
+- **HOWARD** (A): 61
 - **ASHWAUBENON** (A-): 24
 - **ALLOUEZ** (B): 2
 
@@ -271,4 +271,4 @@
 - **ASHWAUBENON** (A-): 1 — 1 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

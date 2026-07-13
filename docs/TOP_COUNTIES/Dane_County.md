@@ -132,350 +132,106 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 ## Subdivision Pipeline
 
-**1256 parcels** | 464 off-market | 792 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+## Dane County — Subdivision Pipeline
 
-## Parcels Ranked by Rezoning Potential
+**49 parcels** | 38 off-market (mail) | 11 for-sale (call)
 
-| Rezoning | Town | Acres | Owner | APN | Status |
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A+** | VERONA | 26.0 | MARTY CENTURY FARM FAMILY LLP | 0608-054-8600-2 | 📞 |
-| **A+** | VERONA | 22.6 | JONES CHERRY L | 0608-223-8220-2 | 📞 |
-| **A+** | VERONA | 0.0 | CARPENTER & STOWE-CARPENTER LIVING TR DENIS D & BARBAR | 0608-161-0401-3 | 📞 |
-| **A** | FITCHBURG | 183.8 | TAYLOR VIRGINIA A | 0609-212-8650-2 | 📬 |
-| **A** | FITCHBURG | 139.2 | ROUSE FARMS LLC | 0609-131-8940-2 | 📬 |
-| **A** | FITCHBURG | 120.1 | FROSTWOOD FARM IV LLC 🔗| 0609-202-6273-2 | 📬 |
-| **A** | SUN PRAIRIE | 97.6 | ERLOOM FARMS LLC 🔗| 0811-221-9021-0 | 📞 |
-| **A** | SUN PRAIRIE | 86.9 | SCHLIMGEN ANTHONY J | 0811-013-8550-0 | 📬 |
-| **A** | FITCHBURG | 85.0 | HAGEMAN DARYL L 🔗| 0609-304-8400-3 | 📞 |
-| **A** | FITCHBURG | 80.4 | FROSTWOOD FARMS III LLC 🔗| 0609-291-8700-2 | 📞 |
-| **A** | FITCHBURG | 73.9 | HAGEMAN CLAYTON J 🔗| 0609-301-9510-2 | 📞 |
-| **A** | SUN PRAIRIE | 73.0 | RADEMACHER LIVING TR BRIAN K & NICHOLE R 🔗| 0811-223-8002-0 | 📞 |
-| **A** | FITCHBURG | 72.3 | FROSTWOOD FARM V LLC 🔗| 0609-221-9345-2 | 📬 |
-| **A** | FITCHBURG | 71.1 | HETH JAMES R | 0609-314-9325-2 | 📞 |
-| **A** | FITCHBURG | 71.0 | GORMAN LEGACY TR GARY J | 0609-224-9100-2 | 📬 |
-| **A** | WESTPORT | 70.1 | MADISON METROPOLITAN SEWERAGE DISTRICT 🔗| 0809-123-9001-0 | 📬 |
-| **A** | WESTPORT | 65.4 | ENDRES RICHARD R | 0809-151-8502-0 | 📬 |
-| **A** | SUN PRAIRIE | 58.0 | MEIER STUART J 🔗| 0811-204-9501-0 | 📬 |
-| **A** | WESTPORT | 54.9 | KOSTER FARM LLC 🔗| 0809-122-8070-9 | 📞 |
-| **A** | FITCHBURG | 49.7 | URBEN RICK L 🔗| 0609-244-8000-0 | 📬 |
-| **A** | FITCHBURG | 46.4 | URBEN RICK L 🔗| 0609-244-8501-4 | 📬 |
-| **A** | SUN PRAIRIE | 45.1 | HAMMANN DENNIS A | 0811-141-8062-0 | 📬 |
-| **A** | FITCHBURG | 44.3 | FROSTWOOD FARM V LLC 🔗| 0609-221-8060-2 | 📬 |
-| **A** | FITCHBURG | 43.4 | JENNI REV LIVING TR DANIEL F & DORIS A 🔗| 0609-193-9000-0 | 📬 |
-| **A** | FITCHBURG | 43.2 | HAGEMAN DARYL L 🔗| 0609-301-9250-2 | 📬 |
-| **A** | FITCHBURG | 41.0 | TORHORST WILLIAM R 🔗| 0609-333-8500-7 | 📬 |
-| **A** | WESTPORT | 41.0 | BALLWEG FAMILY LTD PARTNERSHIP 🔗| 0809-011-9000-5 | 📞 |
-| **A** | SUN PRAIRIE | 40.6 | STATZ WESLEY A 🔗| 0811-151-8000-3 | 📬 |
-| **A** | WESTPORT | 40.6 | RIPP LEON J 🔗| 0809-173-9000-0 | 📞 |
-| **A** | WESTPORT | 40.6 | RIPP LEON J 🔗| 0809-173-9500-5 | 📞 |
-| **A** | WESTPORT | 40.5 | STATZ CRAIG J 🔗| 0809-183-8000-0 | 📞 |
-| **A** | SUN PRAIRIE | 40.3 | SCHUSTER KENNETH L 🔗| 0811-121-8000-9 | 📞 |
-| **A** | FITCHBURG | 40.1 | FROSTWOOD FARM VII LLC 🔗| 0609-331-8500-9 | 📞 |
-| **A** | FITCHBURG | 40.0 | MANDT FAMILY FARMS LLC 🔗| 0609-211-9000-7 | 📬 |
-| **A** | FITCHBURG | 40.0 | DUNN DONALD G | 0609-341-8500-7 | 📬 |
-| **A** | FITCHBURG | 40.0 | L & S INVESTMENTS 🔗| 0609-352-8500-4 | 📬 |
-| **A** | FITCHBURG | 40.0 | STONEMAN FAMILY FARM LLC 🔗| 0609-143-8500-7 | 📬 |
-| **A** | FITCHBURG | 40.0 | STONEMAN FAMILY FARM LLC 🔗| 0609-143-9000-0 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | MITCHELL MICHAEL J 🔗| 0811-263-9000-6 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | MITCHELL MICHAEL J 🔗| 0811-274-8000-5 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | RADEMACHER TR ALAN & FRANCES 🔗| 0811-274-8500-0 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | ERNEST FARMS LLC 🔗| 0811-281-9500-9 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | ZIMBRICH STEPHEN H | 0811-114-9500-1 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | YELK LEO G 🔗| 0811-122-8500-3 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | NESSON ROBERT D | 0811-303-8000-9 | 📬 |
-| **A** | SUN PRAIRIE | 40.0 | RADEMACHER LIVING TR BRUCE & SHELLY 🔗| 0811-341-9501-0 | 📬 |
-| **A** | FITCHBURG | 40.0 | MCGIBBON FREDERICK M 🔗| 0609-262-8500-3 | 📞 |
-| **A** | FITCHBURG | 40.0 | MCGIBBON FREDERICK M 🔗| 0609-262-9000-6 | 📞 |
-| **A** | FITCHBURG | 40.0 | L & S INVESTMENTS 🔗| 0609-263-8500-2 | 📞 |
-| **A** | FITCHBURG | 40.0 | L & S INVESTMENTS 🔗| 0609-263-9000-5 | 📞 |
-| **A** | FITCHBURG | 40.0 | CAINE PATRICK MARTIN | 0609-271-8000-7 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-273-8500-0 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-273-9000-3 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-273-9500-8 | 📞 |
-| **A** | FITCHBURG | 40.0 | MCGIBBON FREDERICK M 🔗| 0609-274-8000-4 | 📞 |
-| **A** | FITCHBURG | 40.0 | L & S INVESTMENTS 🔗| 0609-274-9500-7 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-284-8000-2 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-284-9000-0 | 📞 |
-| **A** | FITCHBURG | 40.0 | FROSTWOOD FARM VII LLC 🔗| 0609-284-9500-5 | 📞 |
-| **A** | FITCHBURG | 40.0 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-293-9000-9 | 📞 |
-| **A** | FITCHBURG | 40.0 | HAGEMAN DARYL L 🔗| 0609-302-8000-9 | 📞 |
-| **A** | FITCHBURG | 40.0 | HAGEMAN DARYL L 🔗| 0609-302-9500-2 | 📞 |
-| **A** | FITCHBURG | 40.0 | HAGEMAN DARYL L 🔗| 0609-304-8500-2 | 📞 |
-| **A** | FITCHBURG | 40.0 | HAGEMAN CLAYTON J 🔗| 0609-311-9500-1 | 📞 |
-| **A** | FITCHBURG | 40.0 | WOLF ROBERT L 🔗| 0609-312-8000-7 | 📞 |
-| **A** | FITCHBURG | 40.0 | WOLF ROBERT L 🔗| 0609-312-9500-0 | 📞 |
-| **A** | FITCHBURG | 40.0 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-322-8500-0 | 📞 |
-| **A** | FITCHBURG | 40.0 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-323-8000-4 | 📞 |
-| **A** | FITCHBURG | 40.0 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-323-9500-7 | 📞 |
-| **A** | FITCHBURG | 40.0 | TORHORST WILLIAM R 🔗| 0609-324-9000-1 | 📞 |
-| **A** | FITCHBURG | 40.0 | TORHORST WILLIAM R 🔗| 0609-324-9500-6 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | STUBER RONALD N 🔗| 0811-351-8000-1 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | RADEMACHER LIVING TR BRUCE & SHELLY 🔗| 0811-352-8500-5 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | RIESOP FARMS LLC 🔗| 0811-354-8000-8 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | RIESOP FARMS LLC 🔗| 0811-362-9000-6 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | RIESOP FARMS LLC 🔗| 0811-363-8500-2 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | JENSON JAMES H | 0811-093-9000-2 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | KLEIN ROBIN M 🔗| 0811-214-8000-7 | 📞 |
-| **A** | SUN PRAIRIE | 40.0 | YELK LIVING TR DOUGLAS J 🔗| 0811-224-9500-8 | 📞 |
-| **A** | WESTPORT | 40.0 | THEIS DAVID A 🔗| 0809-192-8000-9 | 📞 |
-| **A** | WESTPORT | 40.0 | THEIS DAVID A 🔗| 0809-192-9500-2 | 📞 |
-| **A** | WESTPORT | 40.0 | TIPPERARY FARMS LLC 🔗| 0809-122-9010-9 | 📞 |
-| **A** | WESTPORT | 40.0 | VOSEN LE DELORES E | 0809-142-8000-9 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | PASKEY LIVING TR AVIS ANN 🔗| 0811-252-9000-9 | 📬 |
-| **A** | SUN PRAIRIE | 39.9 | RAD FARMS LLC 🔗| 0811-163-8500-4 | 📬 |
-| **A** | SUN PRAIRIE | 39.9 | KREBS FAMILY TR ROBERT JOHN & AUDREY E 🔗| 0811-023-8000-8 | 📬 |
-| **A** | SUN PRAIRIE | 39.9 | WEISENSEL THOMAS R 🔗| 0811-031-9500-1 | 📬 |
-| **A** | SUN PRAIRIE | 39.9 | ZIMMERMAN JEFFREY C | 0811-362-8000-8 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | RIESOP FARMS LLC 🔗| 0811-362-8500-3 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | RIESOP FARMS LLC 🔗| 0811-363-8000-7 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | MEIER STUART J 🔗| 0811-214-9000-5 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | KLEIN ROBIN M 🔗| 0811-214-9500-0 | 📞 |
-| **A** | SUN PRAIRIE | 39.9 | STATZ WESLEY A 🔗| 0811-113-9001-0 | 📬 |
-| **A** | SUN PRAIRIE | 39.8 | YELK LIVING TR DOUGLAS J 🔗| 0811-233-9000-2 | 📬 |
-| **A** | SUN PRAIRIE | 39.8 | YELK BETTY JANE C 🔗| 0811-231-8000-6 | 📞 |
-| **A** | SUN PRAIRIE | 39.7 | YELK BETTY JANE C 🔗| 0811-233-8500-9 | 📬 |
-| **A** | SUN PRAIRIE | 39.7 | ZIEGLER LIVING TR DEAN H & VIRGINIA | 0811-201-8010-0 | 📬 |
-| **A** | SUN PRAIRIE | 39.7 | STATZ WESLEY A 🔗| 0811-142-8000-4 | 📬 |
-| **A** | SUN PRAIRIE | 39.6 | YELK LIVING TR DOUGLAS J 🔗| 0811-233-9500-7 | 📬 |
-| **A** | FITCHBURG | 39.6 | HAGEMAN CLAYTON J 🔗| 0609-311-8000-8 | 📞 |
-| **A** | WESTPORT | 39.6 | ORCHARD VALLEY FARMS LLC 🔗| 0809-102-9800-0 | 📬 |
-| **A** | SUN PRAIRIE | 39.5 | YELK BETTY JANE C 🔗| 0811-233-8000-4 | 📬 |
-| **A** | SUN PRAIRIE | 39.5 | YELK LIVING TR DOUGLAS J 🔗| 0811-242-8000-3 | 📬 |
-| **A** | SUN PRAIRIE | 39.5 | PINE MEADOW FARMS LLC 🔗| 0811-083-9500-9 | 📞 |
-| **A** | WESTPORT | 39.4 | KALTENBERG FARM PARTNERSHIP LLP 🔗| 0809-033-8000-1 | 📬 |
-| **A** | WESTPORT | 39.4 | SCHLECHT STEPHEN L 🔗| 0809-281-8010-9 | 📞 |
-| **A** | FITCHBURG | 39.3 | HAGEMAN CLAYTON J 🔗| 0609-304-9000-5 | 📞 |
-| **A** | FITCHBURG | 39.3 | MCGIBBON FREDERICK M 🔗| 0609-271-9500-0 | 📞 |
-| **A** | WESTPORT | 39.2 | KEVIN D STATZ AND MICHELE M STATZ LIVING TRUS | 0809-192-9000-7 | 📞 |
-| **A** | WESTPORT | 38.9 | BALLWEG FAMILY LTD PARTNERSHIP 🔗| 0809-011-9500-0 | 📞 |
-| **A** | SUN PRAIRIE | 38.7 | YELK LEO G 🔗| 0811-111-8010-0 | 📬 |
-| **A** | FITCHBURG | 38.5 | HAAS REV LIVING TR FRANCES C MEICHER | 0609-144-9500-4 | 📬 |
-| **A** | WESTPORT | 38.5 | RIPP LEON J 🔗| 0809-202-9000-4 | 📬 |
-| **A** | WESTPORT | 38.3 | KALTENBERG DANIEL J | 0809-032-9501-4 | 📬 |
-| **A** | FITCHBURG | 38.2 | MUCH KEVIN 🔗| 0609-292-8310-7 | 📞 |
-| **A** | SUN PRAIRIE | 38.0 | STATZ WESLEY A 🔗| 0811-161-9500-4 | 📬 |
-| **A** | WESTPORT | 38.0 | BECKER JAMES M 🔗| 0809-184-9500-2 | 📞 |
-| **A** | SUN PRAIRIE | 38.0 | ERNEST FARMS LLC 🔗| 0811-281-8501-0 | 📬 |
-| **A** | WESTPORT | 37.9 | TREINEN RONALD J 🔗| 0809-014-8500-9 | 📞 |
-| **A** | WESTPORT | 37.9 | KRUSCHEK IRREV GRANTOR TR GERVASE & MARY 🔗| 0809-302-8000-5 | 📞 |
-| **A** | SUN PRAIRIE | 37.9 | RADEMACHER LIVING TR KEITH R & JOAN M 🔗| 0811-144-8000-2 | 📬 |
-| **A** | SUN PRAIRIE | 37.9 | RADEMACHER LIVING TR BRIAN K & NICHOLE R 🔗| 0811-153-8501-5 | 📬 |
-| **A** | WESTPORT | 37.8 | WALTER FAMILY TR ROBERT L JR 🔗| 0809-112-8140-6 | 📬 |
-| **A** | SUN PRAIRIE | 37.6 | OTTO DANIEL L 🔗| 0811-193-9501-0 | 📬 |
-| **A** | FITCHBURG | 37.5 | JENNI REV LIVING TR DANIEL F & DORIS A 🔗| 0609-192-9000-1 | 📬 |
-| **A** | FITCHBURG | 37.4 | JENNI REV LIVING TR DANIEL F & DORIS A 🔗| 0609-192-8000-3 | 📬 |
-| **A** | FITCHBURG | 37.2 | JENNI REV LIVING TR DANIEL F & DORIS A 🔗| 0609-192-8500-8 | 📬 |
-| **A** | FITCHBURG | 37.2 | JENNI REV LIVING TR DANIEL F & DORIS A 🔗| 0609-192-9500-6 | 📬 |
-| **A** | SUN PRAIRIE | 37.2 | ERNEST FARMS LLC 🔗| 0811-282-9502-0 | 📬 |
-| **A** | FITCHBURG | 37.1 | GERVASI VITO V J | 0609-262-8020-2 | 📬 |
-| **A** | SUN PRAIRIE | 37.1 | DENEEN HALL LYNETTE M 🔗| 0811-364-9500-9 | 📞 |
-| **A** | FITCHBURG | 37.0 | ANDERSON SUSAN C 🔗| 0609-194-8020-7 | 📬 |
-| **A** | FITCHBURG | 37.0 | FROSTWOOD FARM IV LLC 🔗| 0609-202-6384-2 | 📬 |
-| **A** | SUN PRAIRIE | 37.0 | MEIER STUART J 🔗| 0811-213-9500-1 | 📞 |
-| **A** | SUN PRAIRIE | 36.9 | RADEMACHER LIVING TR BRIAN K & NICHOLE R 🔗| 0811-103-9001-0 | 📬 |
-| **A** | FITCHBURG | 36.8 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-324-8500-8 | 📞 |
-| **A** | FITCHBURG | 36.7 | TORHORST WILLIAM R 🔗| 0609-333-9501-4 | 📬 |
-| **A** | FITCHBURG | 36.5 | WOLF ROBERT L 🔗| 0609-311-9000-6 | 📞 |
-| **A** | SUN PRAIRIE | 36.5 | RIESOP FARMS LLC 🔗| 0811-354-9000-6 | 📞 |
-| **A** | WESTPORT | 36.4 | STATZ CRAIG J 🔗| 0809-184-8502-2 | 📞 |
-| **A** | SUN PRAIRIE | 36.4 | VIKEN THOMAS L 🔗| 0811-264-9501-0 | 📬 |
-| **A** | FITCHBURG | 36.2 | THAYER THOMAS W | 0609-343-8000-0 | 📬 |
-| **A** | SUN PRAIRIE | 35.9 | WEISENSEL RAYMOND C | 0811-022-9500-2 | 📬 |
-| **A** | SUN PRAIRIE | 35.8 | RIESOP FARMS LLC 🔗| 0811-354-9500-1 | 📞 |
-| **A** | SUN PRAIRIE | 35.8 | MEIER STUART J 🔗| 0811-214-8500-2 | 📞 |
-| **A** | WESTPORT | 35.6 | BECKER JAMES M 🔗| 0809-184-8030-3 | 📞 |
-| **A** | WESTPORT | 35.5 | TIPPERARY FARMS LLC 🔗| 0809-123-8500-7 | 📞 |
-| **A** | WESTPORT | 35.2 | ACKER-FARBER PEGGY | 0809-011-8501-1 | 📞 |
-| **A** | SUN PRAIRIE | 35.1 | RADEMACHER LIVING TR KEITH R & JOAN M 🔗| 0811-134-9100-0 | 📬 |
-| **A** | WESTPORT | 35.1 | WALTER FAMILY TR ROBERT L JR 🔗| 0809-024-8200-0 | 📞 |
-| **A** | FITCHBURG | 35.0 | FROSTWOOD FARM IV LLC 🔗| 0609-202-6162-2 | 📬 |
-| **A** | SUN PRAIRIE | 35.0 | PASKEY LIVING TR AVIS ANN 🔗| 0811-261-9501-2 | 📬 |
-| **A** | SUN PRAIRIE | 35.0 | RADEMACHER TR ALAN & FRANCES 🔗| 0811-273-8000-6 | 📬 |
-| **A** | FITCHBURG | 35.0 | FROSTWOOD FARMS III LLC 🔗| 0609-291-9600-2 | 📞 |
-| **A** | SUN PRAIRIE | 34.9 | MITCHELL MICHAEL J 🔗| 0811-263-8500-3 | 📬 |
-| **A** | WESTPORT | 34.5 | ZIEGLER LIVING TR RICHARD & LORI | 0809-034-9290-0 | 📬 |
-| **A** | SUN PRAIRIE | 34.2 | KVALHEIM KRISTEN D | 0811-222-8001-0 | 📞 |
-| **A** | SUN PRAIRIE | 34.2 | STATZ WESLEY A 🔗| 0811-113-9501-0 | 📬 |
-| **A** | WESTPORT | 34.1 | KYLE FONZO G 🔗| 0809-144-8500-2 | 📞 |
-| **A** | SUN PRAIRIE | 34.0 | STATZ WESLEY A 🔗| 0811-114-9001-5 | 📬 |
-| **A** | SUN PRAIRIE | 33.9 | RIESOP FARMS LLC 🔗| 0811-253-8050-0 | 📬 |
-| **A** | SUN PRAIRIE | 33.9 | RIESOP FARMS LLC 🔗| 0811-253-8501-4 | 📬 |
-| **A** | SUN PRAIRIE | 33.7 | STATZ WESLEY A 🔗| 0811-021-9501-2 | 📬 |
-| **A** | WESTPORT | 33.5 | BINKLEY JOHN WARREN | 0809-141-8043-9 | 📞 |
-| **A** | SUN PRAIRIE | 33.1 | MEIER STUART J 🔗| 0811-213-8001-7 | 📞 |
-| **A** | SUN PRAIRIE | 33.1 | RAD FARMS LLC 🔗| 0811-301-9502-2 | 📬 |
-| **A** | SUN PRAIRIE | 32.9 | KREBS FAMILY TR ROBERT JOHN & AUDREY E 🔗| 0811-023-8503-0 | 📬 |
-| **A** | WESTPORT | 32.5 | MADISON METROPOLITAN SEWERAGE DISTRICT 🔗| 0809-132-8640-0 | 📬 |
-| **A** | FITCHBURG | 32.3 | FROSTWOOD FARM II LLC 🔗| 0609-191-9000-2 | 📬 |
-| **A** | WESTPORT | 32.3 | KALTENBERG FARM PARTNERSHIP LLP 🔗| 0809-102-8650-1 | 📬 |
-| **A** | FITCHBURG | 32.3 | HAGEMAN DARYL L 🔗| 0609-302-8500-4 | 📞 |
-| **A** | FITCHBURG | 32.0 | HAGEMAN CLAYTON J 🔗| 0609-304-9501-9 | 📞 |
-| **A** | SUN PRAIRIE | 31.9 | BUSS TAMMY K | 0811-093-9600-0 | 📞 |
-| **A** | FITCHBURG | 31.7 | HAGEMAN DARYL L 🔗| 0609-302-9000-7 | 📞 |
-| **A** | FITCHBURG | 31.6 | FROSTWOOD FARM II LLC 🔗| 0609-191-8500-9 | 📬 |
-| **A** | FITCHBURG | 31.6 | MANDT FAMILY FARMS LLC 🔗| 0609-242-8500-7 | 📬 |
-| **A** | FITCHBURG | 31.3 | GILE ADAM J | 0609-234-9820-2 | 📬 |
-| **A** | SUN PRAIRIE | 31.1 | DENEEN HALL LYNETTE M 🔗| 0811-364-9002-0 | 📞 |
-| **A** | WESTPORT | 31.1 | KALTENBERG FARM PARTNERSHIP LLP 🔗| 0809-033-9500-4 | 📬 |
-| **A** | SUN PRAIRIE | 31.1 | LANGE DARRELL D 🔗| 0811-363-9512-0 | 📞 |
-| **A** | SUN PRAIRIE | 31.1 | OTTO DANIEL L 🔗| 0811-193-9001-0 | 📬 |
-| **A** | WESTPORT | 30.6 | HELLENBRAND BRUCE ALLEN 🔗| 0809-292-8100-7 | 📞 |
-| **A** | SUN PRAIRIE | 30.5 | BULTMAN RICHARD A | 0811-191-8690-1 | 📬 |
-| **A** | SUN PRAIRIE | 30.4 | MANLEY FAMILY FARM LLC 🔗| 0811-221-8005-0 | 📞 |
-| **A** | SUN PRAIRIE | 30.0 | MANLEY FAMILY FARM LLC 🔗| 0811-154-8170-0 | 📬 |
-| **A** | FITCHBURG | 30.0 | HAGEMAN DARYL L 🔗| 0609-301-8500-5 | 📞 |
-| **A** | SUN PRAIRIE | 30.0 | RADEMACHER LIVING TR BRIAN K & NICHOLE R 🔗| 0811-094-9501-0 | 📞 |
-| **A** | SUN PRAIRIE | 29.9 | CMR FARMS LLC 🔗| 0811-341-8502-0 | 📬 |
-| **A** | SUN PRAIRIE | 29.9 | ERISMAN RYAN J | 0811-163-9500-2 | 📬 |
-| **A** | SUN PRAIRIE | 29.7 | MUNDT DONNA MAE | 0811-131-8530-6 | 📬 |
-| **A** | FITCHBURG | 29.1 | HOGAN ADAM 🔗| 0609-303-9010-4 | 📞 |
-| **A** | SUN PRAIRIE | 28.9 | BUSS HAROLD R | 0811-093-9510-0 | 📞 |
-| **A** | WESTPORT | 28.0 | OMALLEY DAVID D | 0809-063-9340-0 | 📬 |
-| **A** | SUN PRAIRIE | 28.0 | FREITAG BRAD L 🔗| 0811-302-8050-0 | 📬 |
-| **A** | FITCHBURG | 28.0 | MCGIBBON FREDERICK M 🔗| 0609-271-9000-5 | 📞 |
-| **A** | FITCHBURG | 27.9 | WOLF ROBERT L 🔗| 0609-311-8560-1 | 📞 |
-| **A** | SUN PRAIRIE | 27.9 | PASKEY KENNETH L 🔗| 0811-231-9350-0 | 📬 |
-| **A** | WESTPORT | 27.8 | HELLENBRAND BRUCE ALLEN 🔗| 0809-291-8540-6 | 📞 |
-| **A** | FITCHBURG | 27.8 | HAGEMAN DARYL L 🔗| 0609-304-8045-4 | 📞 |
-| **A** | SUN PRAIRIE | 27.3 | FREITAG BRAD L 🔗| 0811-302-8550-0 | 📬 |
-| ... | ... | ... (+1056 more) | ... | ... |
+| HIGH | Fitchburg | 141.5 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-342-0101-6 | 📬 Mail |
+| HIGH | Verona | 92.3 | MACKLER-MCCARTHY LIVING TR PATRICIA A | 0607-162-8600-0 | 📬 Mail |
+| HIGH | Westport | 90.7 | UNIV OF WIS REGENTS REDA 🔗 | 0708-211-0099-1 | 📬 Mail |
+| HIGH | Westport | 72.0 | UNIV OF WIS REGENTS RE DEV & ADMIN UW MADISON | 0708-223-0098-8 | 📬 Mail |
+| HIGH | Westport | 64.7 | UNIV OF WIS REGENTS REDA 🔗 | 0708-222-0098-0 | 📬 Mail |
+| HIGH | Fitchburg | 63.1 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-333-0118-0 | 📬 Mail |
+| HIGH | Fitchburg | 62.3 | MADISON METRO SEWERAGE DISTRICT | 0710-311-0097-9 | 📬 Mail |
+| HIGH | Fitchburg | 51.5 | UW REGENTS ARBORETUM VAN HISE HALL #1860 🔗 | 0709-333-0401-9 | 📬 Mail |
+| HIGH | Sun Prairie Town | 40.0 | WEISENSEL THOMAS R | 0911-351-8000-9 | 📬 Mail |
+| HIGH | Sun Prairie Town | 39.8 | HOFFMAN DANIEL S | 0910-232-8501-0 | 📬 Mail |
+| HIGH | Sun Prairie Town | 37.2 | ERNEST FARMS LLC | 0811-282-9502-0 | 📬 Mail |
+| HIGH | Sun Prairie Town | 36.0 | JCS DERR FARM LLC | 0911-263-9000-4 | 📬 Mail |
+| HIGH | Sun Prairie Town | 31.7 | DJTW FARMS LLC | 0911-224-9560-0 | 📬 Mail |
+| HIGH | Fitchburg | 25.6 | VROMAN FAMILY FARM LLC | 0609-202-9100-2 | 📬 Mail |
+| HIGH | Sun Prairie Town | 20.0 | TIMBERS JAMES E | 0810-361-9690-5 | 📬 Mail |
+| HIGH | Fitchburg | 0.9 | JENKS CARLETON H | 0609-232-2314-7 | 📞 MLS |
+| HIGH | Westport | 0.8 | ROGERS KEVIN | 0708-123-4734-7 | 📞 MLS |
+| HIGH | Westport | 0.5 | STETTNER DAVID R | 0708-123-5303-6 | 📞 MLS |
+| HIGH | Fitchburg | 0.4 | LEANNA LUCAS E | 0609-091-7089-2 | 📞 MLS |
+| HIGH | Westport | 0.3 | ENGLAND-ZELENSKI TAMARA A | 0708-123-7860-8 | 📞 MLS |
+| HIGH | Westport | 0.2 | VOSS HOUSING COMPANY LLP | 0708-123-3678-8 | 📞 MLS |
+| HIGH | Fitchburg | 0.2 | OBRIEN SEAN | 0609-161-1111-2 | 📞 MLS |
+| MOD | DeForest | 71.7 | MUTCH LIVING TR LORNA M | 0910-043-9621-0 | 📬 Mail |
+| MOD | Waunakee | 70.1 | MADISON METROPOLITAN SEWERAGE DISTRICT | 0809-123-9001-0 | 📬 Mail |
+| MOD | Waunakee | 40.2 | HELLENBRAND STANLEY D | 0808-162-9000-5 | 📬 Mail |
+| MOD | Waunakee | 40.0 | WAUNAKEE COMMUNITY SCHL DIST 🔗 | 0809-182-8001-1 | 📬 Mail |
+| MOD | DeForest | 39.2 | KOCH JAMES | 0909-173-8130-3 | 📬 Mail |
+| MOD | Montrose | 38.4 | CLARK REV LIVING TR MARY J | 0509-174-8000-7 | 📬 Mail |
+| MOD | Montrose | 38.2 | MUCH KEVIN | 0609-292-8310-7 | 📬 Mail |
+| MOD | DeForest | 37.5 | RAULS AUSTIN LAWRENCE | 0910-252-8501-0 | 📬 Mail |
+| MOD | DeForest | 37.5 | MIDTHUN DOUGLAS K | 0909-154-9500-6 | 📬 Mail |
+| MOD | Waunakee | 37.5 | ZIEGLER CRAIG A | 0808-141-8001-0 | 📬 Mail |
+| MOD | Montrose | 37.1 | GERVASI VITO V J | 0609-262-8020-2 | 📬 Mail |
+| MOD | DeForest | 37.0 | RAULS CONNER | 0911-084-9000-1 | 📬 Mail |
+| MOD | Montrose | 36.8 | PURDIN FARMS LLC | 0509-141-9520-0 | 📬 Mail |
+| MOD | Montrose | 36.2 | THAYER THOMAS W | 0609-343-8000-0 | 📬 Mail |
+| MOD | Waunakee | 32.7 | RAULS KYLE R | 0909-353-9501-0 | 📬 Mail |
+| MOD | Pleasant Springs | 29.3 | C & L INVESTMENTS LLP | 0711-303-8211-6 | 📬 Mail |
+| MOD | Montrose | 29.1 | SPIEGEL BERNARD G | 0510-071-9500-1 | 📬 Mail |
+| MOD | Waunakee | 28.8 | SHIMNIOK LE WILLIAM | 0808-114-9161-9 | 📬 Mail |
+| MOD | Waunakee | 25.4 | MAIER FARMS REAL ESTATE LLC | 0909-212-9820-0 | 📬 Mail |
+| MOD | Waunakee | 24.4 | WAUNAKEE COMMUNITY SCHL DIST 🔗 | 0809-163-8220-8 | 📬 Mail |
+| MOD | Montrose | 23.2 | MARTINSON THOMAS A | 0510-181-9162-0 | 📬 Mail |
+| MOD | Waunakee | 20.2 | MAIER LIVING TR RICHARD W & SHIRLEY A | 0909-322-9190-8 | 📬 Mail |
+| MOD | Waunakee | 20.0 | HD FARM PROPERTIES LLC | 0808-172-9500-8 | 📬 Mail |
+| MOD | Waunakee | 0.8 | WEBER MICHAEL 🔗 | 0809-161-2420-0 | 📞 MLS |
+| MOD | Waunakee | 0.6 | HARMS RUTH 🔗 | 0809-161-2450-4 | 📞 MLS |
+| MOD | Waunakee | 0.4 | WEBER MICHAEL 🔗 | 0809-161-2405-9 | 📞 MLS |
+| MOD | Waunakee | 0.1 | HARMS RUTH 🔗 | 0809-161-2435-3 | 📞 MLS |
 
-## Rezoning Analysis
+### North Star Takeaway
 
-### 🔥 A+/A — Prime Ag→Subdivision Targets
-*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
+#### Fitchburg — 8 parcels, ~345 acres (HIGH, PRIMARY)
+- **8 parcels** totaling ~345 acres
+- **FLU context:** South of Madison. Major residential. Sewer/water expanding.
+- **1 multi-property owners** in this cluster
 
-- **0608-054-8600-2** | 26.0ac | MARTY CENTURY FARM FAMILY LLP | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0608-223-8220-2** | 22.6ac | JONES CHERRY L | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0608-161-0401-3** | 0.0ac | CARPENTER & STOWE-CARPENTER LIVING TR DENIS D & BARBAR | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0609-212-8650-2** | 183.8ac | TAYLOR VIRGINIA A | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-131-8940-2** | 139.2ac | ROUSE FARMS LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-202-6273-2** | 120.1ac | FROSTWOOD FARM IV LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0811-221-9021-0** | 97.6ac | ERLOOM FARMS LLC | SUN PRAIRIE — Surrounds city. FLU residential. Ag in growth path.
-- **0811-013-8550-0** | 86.9ac | SCHLIMGEN ANTHONY J | SUN PRAIRIE — Surrounds city. FLU residential. Ag in growth path.
-- **0609-304-8400-3** | 85.0ac | HAGEMAN DARYL L | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-291-8700-2** | 80.4ac | FROSTWOOD FARMS III LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
+#### Waunakee — 14 parcels, ~341 acres (MOD, EDGE)
+- **14 parcels** totaling ~341 acres
+- **FLU context:** NW metro. Strong pressure.
+- **3 multi-property owners** in this cluster
 
-### Clusters
-**PLEASANT SPRINGS** (B+): 154 parcels, ~3904ac
-  95 MLS — call first
-  35 multi-owners
-**SPRINGFIELD** (A-): 151 parcels, ~4967ac
-  75 MLS — call first
-  43 multi-owners
-**SUN PRAIRIE** (A): 143 parcels, ~3843ac
-  82 MLS — call first
-  33 multi-owners
-**BRISTOL** (B+): 136 parcels, ~4115ac
-  71 MLS — call first
-  31 multi-owners
-**FITCHBURG** (A): 126 parcels, ~3982ac
-  87 MLS — call first
-  23 multi-owners
-**WINDSOR** (B+): 118 parcels, ~3090ac
-  65 MLS — call first
-  23 multi-owners
-**MONTROSE** (B+): 112 parcels, ~2807ac
-  52 MLS — call first
-  28 multi-owners
-**DUNN** (B+): 101 parcels, ~2834ac
-  69 MLS — call first
-  20 multi-owners
-**WESTPORT** (A): 64 parcels, ~1772ac
-  50 MLS — call first
-  16 multi-owners
-**BURKE** (A-): 57 parcels, ~511ac
-  54 MLS — call first
-  7 multi-owners
-**DEFOREST** (A-): 37 parcels, ~798ac
-  37 MLS — call first
-  6 multi-owners
-**WAUNAKEE** (B+): 34 parcels, ~275ac
-  32 MLS — call first
-  6 multi-owners
-**MCFARLAND** (B+): 13 parcels, ~247ac
-  13 MLS — call first
-  3 multi-owners
-**OREGON** (B+): 4 parcels, ~11ac
-  4 MLS — call first
-**VERONA** (A+): 3 parcels, ~49ac
-  3 MLS — call first
-**BLOOMING GROVE** (A-): 3 parcels, ~73ac
-  3 MLS — call first
-  2 multi-owners
+#### Montrose — 7 parcels, ~239 acres (MOD, EDGE)
+- **7 parcels** totaling ~239 acres
+- **FLU context:** SE of Oregon.
 
-### 📞 For-Sale
-- **PLEASANT SPRINGS** (B+): 95
-- **FITCHBURG** (A): 87
-- **SUN PRAIRIE** (A): 82
-- **SPRINGFIELD** (A-): 75
-- **BRISTOL** (B+): 71
-- **DUNN** (B+): 69
-- **WINDSOR** (B+): 65
-- **BURKE** (A-): 54
-- **MONTROSE** (B+): 52
-- **WESTPORT** (A): 50
-- **DEFOREST** (A-): 37
-- **WAUNAKEE** (B+): 32
-- **MCFARLAND** (B+): 13
-- **OREGON** (B+): 4
-- **VERONA** (A+): 3
-- **BLOOMING GROVE** (A-): 3
+#### Westport — 7 parcels, ~229 acres (HIGH, PRIMARY)
+- **7 parcels** totaling ~229 acres
+- **FLU context:** Between Middleton and Lake Mendota.
+- **1 multi-property owners** in this cluster
 
-### 📬 Off-Market
-- **SPRINGFIELD** (A-): 76 — 29 multi-owners
-- **BRISTOL** (B+): 65 — 19 multi-owners
-- **SUN PRAIRIE** (A): 61 — 22 multi-owners
-- **MONTROSE** (B+): 60 — 19 multi-owners
-- **PLEASANT SPRINGS** (B+): 59 — 17 multi-owners
-- **WINDSOR** (B+): 53 — 15 multi-owners
-- **FITCHBURG** (A): 39 — 12 multi-owners
-- **DUNN** (B+): 32 — 6 multi-owners
-- **WESTPORT** (A): 14 — 5 multi-owners
-- **BURKE** (A-): 3 — 1 multi-owners
-- **WAUNAKEE** (B+): 2 — 1 multi-owners
+#### DeForest — 5 parcels, ~223 acres (MOD, EDGE)
+- **5 parcels** totaling ~223 acres
+- **FLU context:** North metro. I-39/90/94.
+
+#### Sun Prairie Town — 6 parcels, ~205 acres (HIGH, PRIMARY)
+- **6 parcels** totaling ~205 acres
+- **FLU context:** Surrounds city. FLU residential.
+
+#### 📞 For-Sale Priority (Call)
+- **Westport**: 4 MLS-listed parcels
+- **Waunakee**: 4 MLS-listed parcels
+- **Fitchburg**: 3 MLS-listed parcels
+
+#### 📬 Off-Market Priority (Mail)
+- **Waunakee**: 10 parcels — 1 multi-owners
+- **Montrose**: 7 parcels
+- **Sun Prairie Town**: 6 parcels
+- **Fitchburg**: 5 parcels — 1 multi-owners
+- **DeForest**: 5 parcels
+- **Westport**: 3 parcels — 1 multi-owners
+- **Verona**: 1 parcels
+- **Pleasant Springs**: 1 parcels
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
-
-
-### Zoning / FLU Verification Links
-*Cross-reference parcels against these official sources to verify rezoning potential.*
-
-- [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)
-- [Dane County GIS Portal](https://danedata.countyofdane.com/)
-- [City of Fitchburg Comp Plan](https://www.fitchburgwi.gov/161/Comprehensive-Plan)
-- [City of Verona Planning & Zoning](https://www.veronawi.gov/186/Planning-Zoning)
-- [Village of Waunakee FLU](https://www.waunakee.com/307/Comprehensive-Plan)
-
----
-
-## Growth Direction & FLU Analysis
-
-*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
-
-### Growth Direction
-Madison's growth ring expands most aggressively in three directions: **SW (Epic/Verona)** — highest priority, **N (DeForest/Windsor I-39/90/94)** — second priority, and **S (Fitchburg)** — largest pipeline by acreage.
-
-### Growth Corridors
-
-| Corridor | Towns | Intensity & Evidence |
-|---|---|---|
-| SW (Epic Systems) | Verona | PRIMARY — Epic Systems (13,000+ employees) drives massive demand. Envision Verona plan re-evaluating growth boundaries. Active FLU amendments. |
-| N (I-39/90/94) | DeForest, Windsor | UPGRADED — DeForest: 2,200-acre Northern Interstate Corridor Plan + 1,800-acre Hwy 19/51 District Plan. Active FLU amendments (2023). Windsor: growth at interchange. |
-| S | Fitchburg | STRONG — 2,383 acres across 7 Future Urban Development Areas (FUDAs) + 850 acres grayfield. Active 2026 ag→residential FLU amendments. |
-| E | Sun Prairie, Burke | STRONG — FLU residential expansion, active ag→development |
-
-### Towns NOT in the Growth Path
-Western townships (Berry, Christiana, Dunkirk), far southern towns (Primrose, Perry, Vermont), far eastern towns (Albion, Deerfield) — agricultural preservation dominant
-
-### Key Standout
-DeForest: UPGRADED from B+ to A- based on 2,200-acre corridor plan + 1,800-acre district plan with active FLU amendments. This is a town with documented growth infrastructure that was underrated. Verona: Epic-driven demand, Envision Verona plan in progress. Fitchburg: 2,383 acres of FUDAs — the largest development pipeline in Dane County.
-
-### FLU / Zoning Verification Links
-
-- [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)
-- [City of Fitchburg Comp Plan](https://www.fitchburgwi.gov/161/Comprehensive-Plan)
-- [City of Verona Planning](https://www.veronawi.gov/186/Planning-Zoning)
-- [Village of DeForest Comp Plan](https://www.villageofdeforest.org/285/Comprehensive-Plan)
-

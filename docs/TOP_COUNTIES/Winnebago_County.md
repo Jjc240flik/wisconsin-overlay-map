@@ -85,303 +85,100 @@ An interactive map showing **Land Use 2022** with color-coded municipality label
 
 ## Subdivision Pipeline
 
-**538 parcels** | 121 off-market | 417 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+## Winnebago County — Subdivision Pipeline
 
-## Parcels Ranked by Rezoning Potential
+**70 parcels** | 70 off-market (mail) | 0 for-sale (call)
 
-| Rezoning | Town | Acres | Owner | APN | Status |
+### Parcels Ranked by Future Zoning / FLU
+
+| Zone | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A** | OSHKOSH | 0.9 | GRUNDY ENTERPRISES 🔗| 018-0425-04 | 📞 |
-| **A** | OSHKOSH | 0.8 | KOEPPL GERALDINE | 018-0353-03 | 📞 |
-| **A** | NEENAH | 0.8 | WILMS FAMILY LIMITED PARTNERSHIP 🔗| 010-0159-02 | 📞 |
-| **A** | ALGOMA | 0.8 | RADLOFF SHIRLEY 🔗| 002-0393-03 | 📞 |
-| **A** | ALGOMA | 0.8 | SPANBAUER RALPH | 002-0093-01 | 📞 |
-| **A** | NEENAH | 0.7 | BUSER TST 🔗| 010-0111-0101 | 📞 |
-| **A** | OSHKOSH | 0.5 | WALTER KENNETH W 🔗| 018-0549-10 | 📞 |
-| **A** | OSHKOSH | 0.5 | EWALD DOROTHY 🔗| 018-0379-02 | 📞 |
-| **A** | NEENAH | 0.4 | SELL KEVIN 🔗| 010-0184 | 📞 |
-| **A** | NEENAH | 0.4 | MARTA MICHAEL J | 010-0178-0602 | 📞 |
-| **A** | OSHKOSH | 0.3 | EWALD DOROTHY 🔗| 018-0357-04 | 📞 |
-| **A** | OSHKOSH | 0.3 | DEVENS TODD 🔗| 018-0323 | 📞 |
-| **A** | NEENAH | 0.3 | LEE HOWARD 🔗| 010-0311 | 📞 |
-| **A** | NEENAH | 0.3 | WILLAIMS TST | 010-0184-04 | 📞 |
-| **A** | OSHKOSH | 0.2 | GELHAR GARY R | 018-0284-02 | 📞 |
-| **A** | ALGOMA | 0.2 | ZELHOFER ROBERT 🔗| 002-0054-03 | 📞 |
-| **A** | OSHKOSH | 0.2 | MARIN LINDA | 018-0409-0702 | 📞 |
-| **A** | ALGOMA | 0.1 | ROGGE FAM | 002-0174-0104 | 📞 |
-| **A** | OSHKOSH | ? | SCHRICKER CHRISTOPHER | 018-0387 | 📬 |
-| **A** | OSHKOSH | ? | GALLINGER CHARLES 🔗| 018-0045 | 📬 |
-| **A** | OSHKOSH | ? | OVERKRIK FARM LLC 🔗| 018-0330 | 📬 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0102 | 📞 |
-| **A** | NEENAH | ? | BUSER TST 🔗| 010-0103 | 📞 |
-| **A** | NEENAH | ? | BUSER KAREN 🔗| 010-0114 | 📞 |
-| **A** | NEENAH | ? | BILLMAN BRANDEN | 010-0117 | 📞 |
-| **A** | NEENAH | ? | GROELL PAUL ALLAN | 010-0121 | 📞 |
-| **A** | NEENAH | ? | JOHNSON SURV | 010-0127 | 📞 |
-| **A** | NEENAH | ? | GABBERT DANYELLE | 010-0196 | 📞 |
-| **A** | NEENAH | ? | MAAS HERMAN | 010-0315 | 📞 |
-| **A** | NEENAH | ? | LEE HOWARD 🔗| 010-0316 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0099 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0100 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0104 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0105 | 📞 |
-| **A** | NEENAH | ? | BUSER TST 🔗| 010-0112 | 📞 |
-| **A** | NEENAH | ? | BUSER KAREN 🔗| 010-0116-02 | 📞 |
-| **A** | NEENAH | ? | KUEHNL FAM 🔗| 010-0122 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0133 | 📞 |
-| **A** | NEENAH | ? | ARMSTRONG FAM 🔗| 010-0144 | 📞 |
-| **A** | NEENAH | ? | KUEHNL FAM 🔗| 010-0145 | 📞 |
-| **A** | NEENAH | ? | KUEHNL FAM 🔗| 010-0146 | 📞 |
-| **A** | NEENAH | ? | LOGAN JANE | 010-0155-06 | 📞 |
-| **A** | NEENAH | ? | WILMS FAMILY LIMITED PARTNERSHIP 🔗| 010-0159 | 📞 |
-| **A** | NEENAH | ? | WILMS FAMILY LIMITED PARTNERSHIP 🔗| 010-0163 | 📞 |
-| **A** | NEENAH | ? | WILMS FAMILY LIMITED PARTNERSHIP 🔗| 010-0165 | 📞 |
-| **A** | NEENAH | ? | BLOHM CASSANDRA | 010-0169-04 | 📞 |
-| **A** | NEENAH | ? | WEISS DAVID | 010-0170 | 📞 |
-| **A** | NEENAH | ? | KIESAU ACRES LLP 🔗| 010-0172 | 📞 |
-| **A** | NEENAH | ? | STURGIS LIV | 010-0214-0103 | 📞 |
-| **A** | NEENAH | ? | KIESAU ACRES LLP 🔗| 010-0177 | 📞 |
-| **A** | NEENAH | ? | KIESAU ACRES LLP 🔗| 010-0177-19 | 📞 |
-| **A** | NEENAH | ? | KIESAU ACRES LLP 🔗| 010-0177-20 | 📞 |
-| **A** | NEENAH | ? | VORLAND REV 🔗| 010-0036-03 | 📞 |
-| **A** | NEENAH | ? | VORLAND REV 🔗| 010-0036-06 | 📞 |
-| **A** | NEENAH | ? | DEKEYSER FAM | 010-0043-01 | 📞 |
-| **A** | NEENAH | ? | HARNESS DAVID F 🔗| 010-0081 | 📞 |
-| **A** | NEENAH | ? | ECKLUND TRENTON 🔗| 010-0082-01 | 📞 |
-| **A** | NEENAH | ? | GEHRT RANDOLPH B | 010-0083-03 | 📞 |
-| **A** | NEENAH | ? | ECKLUND TRENTON 🔗| 010-0084-01 | 📞 |
-| **A** | NEENAH | ? | SELL KEVIN 🔗| 010-0184-03 | 📞 |
-| **A** | NEENAH | ? | WIRTH REV | 010-0188-02 | 📞 |
-| **A** | NEENAH | ? | REDDIN LIV 🔗| 010-0337 | 📞 |
-| **A** | NEENAH | ? | SWANSON ADAM | 010-0345 | 📞 |
-| **A** | NEENAH | ? | LEE CHEYENNE | 010-1483-01 | 📞 |
-| **A** | NEENAH | ? | PANSY ALANA | 010-0302-07 | 📞 |
-| **A** | NEENAH | ? | ERNST SHIRLEY | 010-0197-01 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0432 | 📞 |
-| **A** | OSHKOSH | ? | DOBISH TSTE | 018-0001 | 📞 |
-| **A** | OSHKOSH | ? | KESTER DAVID 🔗| 018-0119 | 📞 |
-| **A** | OSHKOSH | ? | KESTER DAVID 🔗| 018-0120 | 📞 |
-| **A** | OSHKOSH | ? | KESTER DAVID 🔗| 018-0120-01 | 📞 |
-| **A** | OSHKOSH | ? | KITZMAN JOANN | 018-1954-02 | 📞 |
-| **A** | OSHKOSH | ? | BECK REV | 018-0556 | 📞 |
-| **A** | OSHKOSH | ? | RAMMER JUDITH | 018-0570 | 📞 |
-| **A** | OSHKOSH | ? | CASTLE THOMAS W | 018-1299-03 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0347 | 📞 |
-| **A** | OSHKOSH | ? | OVERKRIK FARM LLC 🔗| 018-0350 | 📞 |
-| **A** | OSHKOSH | ? | EWALD DOROTHY M 🔗| 018-0356 | 📞 |
-| **A** | OSHKOSH | ? | EWALD DOROTHY 🔗| 018-0357 | 📞 |
-| **A** | OSHKOSH | ? | EWALD DOROTHY 🔗| 018-0357-02 | 📞 |
-| **A** | OSHKOSH | ? | EWALD DOROTHY 🔗| 018-0357-03 | 📞 |
-| **A** | OSHKOSH | ? | EWALD DOROTHY M 🔗| 018-0362 | 📞 |
-| **A** | OSHKOSH | ? | ZABEL JOEL 🔗| 018-0367 | 📞 |
-| **A** | OSHKOSH | ? | ZABEL JOEL 🔗| 018-0375 | 📞 |
-| **A** | OSHKOSH | ? | SIEBECKER 1998 | 018-0399 | 📞 |
-| **A** | OSHKOSH | ? | RUEGSEGGER AMY | 018-0408-04 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0421 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0422 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0427 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0445 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0446 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0447 | 📞 |
-| **A** | OSHKOSH | ? | GALLINGER CHARLES 🔗| 018-0046 | 📞 |
-| **A** | OSHKOSH | ? | KELLY MEGAN L | 018-0155-04 | 📞 |
-| **A** | OSHKOSH | ? | WALTER KENNETH 🔗| 018-0261 | 📞 |
-| **A** | OSHKOSH | ? | WALTER KENNETH 🔗| 018-0265 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0267 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0268-02 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0271 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0275 | 📞 |
-| **A** | OSHKOSH | ? | WALTER KENNETH 🔗| 018-0279 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0283 | 📞 |
-| **A** | OSHKOSH | ? | KOSSEL FAMILY LTD PARTNERSHIP 🔗| 018-0286 | 📞 |
-| **A** | OSHKOSH | ? | BRANTMIER REV 🔗| 018-0307 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS JODY | 018-0310 | 📞 |
-| **A** | OSHKOSH | ? | BRANTMIER REV 🔗| 018-0311 | 📞 |
-| **A** | OSHKOSH | ? | FLETCHER DIANE | 018-0312-01 | 📞 |
-| **A** | OSHKOSH | ? | GABERT MARIBETH | 018-0313 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0316 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0317 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0318 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0319 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0321 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0322-02 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD S 🔗| 018-0325 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0326 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0327 | 📞 |
-| **A** | OSHKOSH | ? | OVERKRIK FARM LLC 🔗| 018-0333 | 📞 |
-| **A** | OSHKOSH | ? | DODD SHERRY | 018-0339 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0340-02 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0343-02 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0344 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0346-05 | 📞 |
-| **A** | OSHKOSH | ? | WALTER KENNETH W 🔗| 018-0569 | 📞 |
-| **A** | OSHKOSH | ? | GANTHER BENJAMIN | 018-0574-03 | 📞 |
-| **A** | OSHKOSH | ? | WALTER KENNETH W 🔗| 018-0579 | 📞 |
-| **A** | OSHKOSH | ? | KAROW TED | 018-0587-20 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0313-04 | 📞 |
-| **A** | OSHKOSH | ? | KRUEGER TRAVIS | 018-0377-01 | 📞 |
-| **A** | OSHKOSH | ? | KUNDE MITCHELL | 018-0308-03 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD 🔗| 018-0308-04 | 📞 |
-| **A** | OSHKOSH | ? | KAYE WALTER | 018-0078-01 | 📞 |
-| **A** | OSHKOSH | ? | KAY WALTER | 018-0078-02 | 📞 |
-| **A** | OSHKOSH | ? | GREGORY J SHALLBETTER AND MARISA V SHALLBETTE | 018-2275-04 | 📞 |
-| **A** | OSHKOSH | ? | DEVENS TODD S 🔗| 018-0328-0102 | 📞 |
-| **A** | OSHKOSH | ? | JOOSS JASON N | 018-0359-0201 | 📞 |
-| **A** | OSHKOSH | ? | HILT KRISTY | 018-0359-0203 | 📞 |
-| **A** | OSHKOSH | ? | MEULEMANS AUSTIN | 018-0378-03 | 📞 |
-| **A** | OSHKOSH | ? | GRUNDY ENTERPRISES 🔗| 018-0312-03 | 📞 |
-| **A** | ALGOMA | ? | BELL BRUCE | 002-0001 | 📞 |
-| **A** | ALGOMA | ? | WEBB DOUGLAS 🔗| 002-0199 | 📞 |
-| **A** | ALGOMA | ? | WEBB DOUGLAS 🔗| 002-0202-02 | 📞 |
-| **A** | ALGOMA | ? | KLEMZ RICHARD | 002-0380-02 | 📞 |
-| **A** | ALGOMA | ? | KLEMZ KENRIC | 002-0381 | 📞 |
-| **A** | ALGOMA | ? | FLANDERS AUSTIN | 002-3316 | 📞 |
-| **A** | ALGOMA | ? | DEMPSEY CHRISTINE 🔗| 002-0092-01 | 📞 |
-| **A** | ALGOMA | ? | RUNKE PATRICIA | 002-0096-01 | 📞 |
-| **A** | ALGOMA | ? | SCHOENICK DAWN C | 002-0101 | 📞 |
-| **A** | ALGOMA | ? | DEMPSEY CHRISTINE 🔗| 002-0052 | 📞 |
-| **A** | ALGOMA | ? | ZELHOFER ROBERT 🔗| 002-0054-01 | 📞 |
-| **A** | ALGOMA | ? | LORD DENNIS 🔗| 002-0185-02 | 📞 |
-| **A** | ALGOMA | ? | LORD DENNIS 🔗| 002-0185-04 | 📞 |
-| **A** | ALGOMA | ? | LORD DENNIS 🔗| 002-0186 | 📞 |
-| **A** | ALGOMA | ? | RUSCH CARLA 🔗| 002-0187 | 📞 |
-| **A** | ALGOMA | ? | RUSCH CARLA 🔗| 002-0192 | 📞 |
-| **A** | ALGOMA | ? | RUSCH THOMAS | 002-0194 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0200 | 📞 |
-| **A** | ALGOMA | ? | NELSON ADAM | 002-0360 | 📞 |
-| **A** | ALGOMA | ? | OSHKOSH FARM LLC 🔗| 002-0362 | 📞 |
-| **A** | ALGOMA | ? | NELSON ADAM T | 002-0363 | 📞 |
-| **A** | ALGOMA | ? | BRUNN SHERRY 🔗| 002-0384 | 📞 |
-| **A** | ALGOMA | ? | ANTHES WILLIAM | 002-0385 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0386 | 📞 |
-| **A** | ALGOMA | ? | BRUNN SHERRY 🔗| 002-0387 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0389 | 📞 |
-| **A** | ALGOMA | ? | BRUNN SHERRY 🔗| 002-0390 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0392 | 📞 |
-| **A** | ALGOMA | ? | NERENHAUSEN REV | 002-0150 | 📞 |
-| **A** | ALGOMA | ? | ZELHOFER ROBERT 🔗| 002-0100 | 📞 |
-| **A** | ALGOMA | ? | IRVINE REV 🔗| 002-0110-02 | 📞 |
-| **A** | ALGOMA | ? | SIMON JUANITA L | 002-0111-02 | 📞 |
-| **A** | ALGOMA | ? | JONES CRAIG | 002-0160-1102 | 📞 |
-| **A** | ALGOMA | ? | HOFFMANN ERIC W | 002-0161 | 📞 |
-| **A** | ALGOMA | ? | HOFFMAN ERIC | 002-0161-01 | 📞 |
-| **A** | ALGOMA | ? | KRATZ STEPHEN | 002-0171 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF SHIRLEY 🔗| 002-0393-02 | 📞 |
-| **A** | ALGOMA | ? | MILLER REV 🔗| 002-0217 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF KEVIN W | 002-0396 | 📞 |
-| **A** | ALGOMA | ? | MILLER REV 🔗| 002-0218 | 📞 |
-| **A** | ALGOMA | ? | MILLER REV 🔗| 002-0219 | 📞 |
-| **A** | ALGOMA | ? | HINTZ LYELL | 002-0397-01 | 📞 |
-| **A** | ALGOMA | ? | STEEVENS KIM | 002-0378-0202 | 📞 |
-| **A** | ALGOMA | ? | OSHKOSH FARM LLC 🔗| 002-0365 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0366 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0367 | 📞 |
-| **A** | ALGOMA | ? | OSHKOSH FARM LLC 🔗| 002-0368 | 📞 |
-| **A** | ALGOMA | ? | DON E TEUNISSEN AND LU ANN TEUNISSEN JOINT RE | 002-0369 | 📞 |
-| **A** | ALGOMA | ? | RISTOW LIV | 002-0371 | 📞 |
-| **A** | ALGOMA | ? | TRAXLER DANIEL J | 002-0374 | 📞 |
-| **A** | ALGOMA | ? | TRAXLER DANIEL | 002-0376 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0210-01 | 📞 |
-| **A** | ALGOMA | ? | MILLER REV 🔗| 002-0212-0501 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0213-03 | 📞 |
-| **A** | ALGOMA | ? | GUNZ BARBARA | 002-0214 | 📞 |
-| **A** | ALGOMA | ? | MILLER REV 🔗| 002-0216 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0203 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0206 | 📞 |
-| **A** | ALGOMA | ? | BEHM NANCY | 002-0184 | 📞 |
-| **A** | ALGOMA | ? | SCHOENAUER KURT | 002-0236-0102 | 📞 |
-| **A** | ALGOMA | ? | RADLOFF IRREV 🔗| 002-0391-01 | 📞 |
-| ... | ... | ... (+338 more) | ... | ... |
+| HIGH | Neenah Town | ? | HIGHWAY COMMISSION | 121-0091-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | CARR PATRICIA | 121-0180 | 📬 Mail |
+| HIGH | Neenah Town | ? | MUELLER PAMELA | 121-0183 | 📬 Mail |
+| HIGH | Neenah Town | ? | HOULIHAN JANE | 121-0187-01 | 📬 Mail |
+| HIGH | Neenah Town | ? | HAASE REV | 121-0193 | 📬 Mail |
+| HIGH | Neenah Town | ? | UJAZDOWSKI ANDREW | 006-0008 | 📬 Mail |
+| HIGH | Neenah Town | ? | UJAZDOWSKI ANDY | 006-0012 | 📬 Mail |
+| HIGH | Neenah Town | ? | N & T FARMS LLC | 006-0024 | 📬 Mail |
+| HIGH | Neenah Town | ? | KUECK STEVEN | 006-0298 | 📬 Mail |
+| HIGH | Neenah Town | ? | STAHL FARM LLC | 006-0310 | 📬 Mail |
+| HIGH | Neenah Town | ? | KUTCHENRITER MARY | 006-0331 | 📬 Mail |
+| HIGH | Neenah Town | ? | BORCHERT REV | 006-0372-01 | 📬 Mail |
+| HIGH | Neenah Town | ? | STACKER LYNN | 006-0373 | 📬 Mail |
+| HIGH | Neenah Town | ? | MARKHAM DENNIS | 006-0386 | 📬 Mail |
+| HIGH | Neenah Town | ? | OLSON & SONS REV TST JAMES L | 006-0398-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | HAFEMEISTER ROBERT L | 006-0578-01 | 📬 Mail |
+| HIGH | Neenah Town | ? | ECKSTEIN SANDRA | 006-0619 | 📬 Mail |
+| HIGH | Neenah Town | ? | IHDE AMOS M | 006-0623 | 📬 Mail |
+| HIGH | Neenah Town | ? | HART FRANCES 🔗 | 006-0675 | 📬 Mail |
+| HIGH | Neenah Town | ? | TYRIVER JACKSON | 006-0679 | 📬 Mail |
+| HIGH | Neenah Town | ? | JJK PROPERTIES LTD | 006-0900 | 📬 Mail |
+| HIGH | Neenah Town | ? | KUEHNL FAM | 010-0146 | 📬 Mail |
+| HIGH | Neenah Town | ? | WILMS FAMILY LIMITED PARTNERSHIP | 010-0159 | 📬 Mail |
+| HIGH | Neenah Town | ? | VORLAND REV | 010-0036-06 | 📬 Mail |
+| HIGH | Neenah Town | ? | SEELOW DANIEL 🔗 | 006-0057 | 📬 Mail |
+| HIGH | Neenah Town | ? | SEELOW DANIEL 🔗 | 006-0058 | 📬 Mail |
+| HIGH | Neenah Town | ? | BREI MARCUS | 006-0118 | 📬 Mail |
+| HIGH | Neenah Town | ? | ERICKSON EDWARD | 006-0121 | 📬 Mail |
+| HIGH | Neenah Town | ? | SWANSON MATTHEW T | 006-0237 | 📬 Mail |
+| HIGH | Neenah Town | ? | BLACK CREEK LIME STONE | 006-0501 | 📬 Mail |
+| HIGH | Neenah Town | ? | KOLOSSO JUDITH | 006-0842 | 📬 Mail |
+| HIGH | Neenah Town | ? | OAKHEART FARM LLC | 006-0844 | 📬 Mail |
+| HIGH | Neenah Town | ? | HARNESS ZACHARY M | 026-0022 | 📬 Mail |
+| HIGH | Neenah Town | ? | REESE DOUGLAS F 🔗 | 026-0046 | 📬 Mail |
+| HIGH | Neenah Town | ? | REESE DOUGLAS F 🔗 | 026-0047-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | WOLFF JOYCE 🔗 | 026-0052 | 📬 Mail |
+| HIGH | Neenah Town | ? | WOLFF JOYCE 🔗 | 026-0052-01 | 📬 Mail |
+| HIGH | Neenah Town | ? | TOMAHAWK LAND COMPANY | 026-0216 | 📬 Mail |
+| HIGH | Neenah Town | ? | DOBBERKE REV | 026-0251 | 📬 Mail |
+| HIGH | Neenah Town | ? | COWLING KAY 🔗 | 026-0280 | 📬 Mail |
+| HIGH | Neenah Town | ? | COWLING KAY 🔗 | 026-0286 | 📬 Mail |
+| HIGH | Neenah Town | ? | WEBER REV | 026-0293 | 📬 Mail |
+| HIGH | Neenah Town | ? | GRUNSKA DAVID | 026-0303 | 📬 Mail |
+| HIGH | Neenah Town | ? | ZWICKY FARMS LLC 🔗 | 026-0304-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | ZWICKY FARMS LLC 🔗 | 026-0305 | 📬 Mail |
+| HIGH | Neenah Town | ? | COWLING JOSEPH 🔗 | 026-0320 | 📬 Mail |
+| HIGH | Neenah Town | ? | JENSEN BROTHERS FARM LLC | 026-0508 | 📬 Mail |
+| HIGH | Neenah Town | ? | ROCH PATRICIA | 026-0529 | 📬 Mail |
+| HIGH | Neenah Town | ? | COWLING JANE | 026-0563 | 📬 Mail |
+| HIGH | Neenah Town | ? | COWLING JOSEPH 🔗 | 026-0578 | 📬 Mail |
+| HIGH | Neenah Town | ? | VANDE VEN MICHAEL J | 026-0594 | 📬 Mail |
+| HIGH | Neenah Town | ? | VANDE VEN 🔗 | 026-0596-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | VANDE VEN 🔗 | 026-0624-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | VANDE VEN 🔗 | 026-0631 | 📬 Mail |
+| HIGH | Neenah Town | ? | EISCH ANNE | 026-0285-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | WIESNER REV | 026-0321-02 | 📬 Mail |
+| HIGH | Neenah Town | ? | REDDIN LIV | 006-0899-01 | 📬 Mail |
+| HIGH | Neenah Town | ? | PRINCE REV | 121-0210-09 | 📬 Mail |
+| HIGH | Neenah Town | ? | SECURA INSURANCE | 121-0164-0102 | 📬 Mail |
+| HIGH | Neenah Town | ? | HART FRANCES 🔗 | 006-0677-03 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | GALLINGER CHARLES 🔗 | 018-0045 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | GALLINGER CHARLES 🔗 | 018-0046 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | LOEWENHAGEN JANICE | 028-0955 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | WALTER KENNETH | 018-0261 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | KOSSEL FAMILY LTD PARTNERSHIP | 018-0286 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | GILBERTSON GARY | 026-0537 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | COWLING DUANE | 026-0570 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | AYLWARD RICHARD J | 026-0625 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | RADLOFF KEVIN | 024-0006-03 | 📬 Mail |
+| HIGH | Oshkosh Town | ? | CASTLE ROCK LAND/SHARON INVEST & HOLDING | 12-65000100 | 📬 Mail |
 
-## Rezoning Analysis
+### North Star Takeaway
 
-### 🔥 A+/A — Prime Ag→Subdivision Targets
-*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
+#### Neenah Town — 60 parcels, ~0 acres (HIGH, PRIMARY)
+- **60 parcels** totaling ~0 acres
+- **FLU context:** Adjacent to Neenah/Menasha. FLU residential.
+- **8 multi-property owners** in this cluster
 
-- **018-0425-04** | 0.9ac | GRUNDY ENTERPRISES | OSHKOSH — South Oshkosh. US 41. Ag rezoning potential.
-- **018-0353-03** | 0.8ac | KOEPPL GERALDINE | OSHKOSH — South Oshkosh. US 41. Ag rezoning potential.
-- **010-0159-02** | 0.8ac | WILMS FAMILY LIMITED PARTNERSHIP | NEENAH — Adjacent Neenah/Menasha. US 41. FLU residential. Ag→development.
-- **002-0393-03** | 0.8ac | RADLOFF SHIRLEY | ALGOMA — North Oshkosh. US 41. Ag growth path.
-- **002-0093-01** | 0.8ac | SPANBAUER RALPH | ALGOMA — North Oshkosh. US 41. Ag growth path.
-- **010-0111-0101** | 0.7ac | BUSER TST | NEENAH — Adjacent Neenah/Menasha. US 41. FLU residential. Ag→development.
-- **018-0549-10** | 0.5ac | WALTER KENNETH W | OSHKOSH — South Oshkosh. US 41. Ag rezoning potential.
-- **018-0379-02** | 0.5ac | EWALD DOROTHY | OSHKOSH — South Oshkosh. US 41. Ag rezoning potential.
-- **010-0184** | 0.4ac | SELL KEVIN | NEENAH — Adjacent Neenah/Menasha. US 41. FLU residential. Ag→development.
-- **010-0178-0602** | 0.4ac | MARTA MICHAEL J | NEENAH — Adjacent Neenah/Menasha. US 41. FLU residential. Ag→development.
+#### Oshkosh Town — 10 parcels, ~0 acres (HIGH, PRIMARY)
+- **10 parcels** totaling ~0 acres
+- **FLU context:** South of Oshkosh. US 41.
+- **1 multi-property owners** in this cluster
 
-### Clusters
-**CLAYTON** (B+): 163 parcels, ~5ac
-  111 MLS — call first
-  36 multi-owners
-**VINLAND** (B+): 141 parcels, ~2ac
-  80 MLS — call first
-  32 multi-owners
-**OSHKOSH** (A): 84 parcels, ~4ac
-  81 MLS — call first
-  13 multi-owners
-**ALGOMA** (A): 69 parcels, ~2ac
-  69 MLS — call first
-  11 multi-owners
-**NEENAH** (A): 51 parcels, ~3ac
-  51 MLS — call first
-  12 multi-owners
-**FOX CROSSING** (B): 30 parcels, ~1ac
-  25 MLS — call first
-  6 multi-owners
 
-### 📞 For-Sale
-- **CLAYTON** (B+): 111
-- **OSHKOSH** (A): 81
-- **VINLAND** (B+): 80
-- **ALGOMA** (A): 69
-- **NEENAH** (A): 51
-- **FOX CROSSING** (B): 25
-
-### 📬 Off-Market
-- **VINLAND** (B+): 61 — 15 multi-owners
-- **CLAYTON** (B+): 52 — 17 multi-owners
-- **FOX CROSSING** (B): 5 — 1 multi-owners
-- **OSHKOSH** (A): 3 — 2 multi-owners
+#### 📬 Off-Market Priority (Mail)
+- **Neenah Town**: 60 parcels — 8 multi-owners
+- **Oshkosh Town**: 10 parcels — 1 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
-
-
-### Zoning / FLU Verification Links
-*Cross-reference parcels against these official sources to verify rezoning potential.*
-
-- [Winnebago County Planning & Zoning](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning)
-- [Winnebago County Comp Plan](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning/Comprehensive-Planning)
-- [City of Oshkosh Comp Plan](https://www.oshkoshwi.gov/Planning/ComprehensivePlan)
-- [City of Neenah Comp Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
-- [Town of Neenah Planning](https://www.townneenah.com/planning)
-
----
-
-## Growth Direction & FLU Analysis
-
-*Research based on county 2040 comprehensive plans, FLU maps, and municipal planning documents. Last updated: 2026-07-13.*
-
-### Growth Direction
-Growth follows the **US 41 corridor** as a continuous spine from Appleton (Outagamie) → Neenah/Menasha → Oshkosh/Algoma. The four primary-growth towns account for ~250+ A-rated rezoning parcels. Western townships (Utica, Poygan, Winchester, Larsen) are agricultural preservation.
-
-### Growth Corridors
-
-| Corridor | Towns | Intensity & Evidence |
-|---|---|---|
-| US 41 North | Neenah Town, Menasha Town | STRONG — Adjacent to Neenah/Menasha. FLU residential. Major ag landowners (Armstrong, Kiesau Acres, Wilms, Buser). |
-| US 41 South | Oshkosh Town, Algoma | STRONG — South/north of Oshkosh. FLU shows ag→residential. Grundy Enterprises, Kossel Family, Devens, Overkrik Farm. |
-
-### Towns NOT in the Growth Path
-Western townships (Utica, Poygan, Winchester, Larsen, Rushford) — agricultural preservation, no US 41 adjacency. Fox Crossing: incorporated, less raw land available.
-
-### Key Standout
-The US 41 corridor is a continuous growth spine connecting Appleton to Oshkosh. Town of Neenah and Town of Oshkosh are the primary ag→subdivision plays. Vinland and Clayton are edge-adjacent but lack direct US 41 frontage.
-
-### FLU / Zoning Verification Links
-
-- [Winnebago County Comp Plan](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning/Comprehensive-Planning)
-- [City of Oshkosh Comp Plan](https://www.oshkoshwi.gov/Planning/ComprehensivePlan)
-- [City of Neenah Comp Plan](https://www.neenahwi.gov/567/Comprehensive-Plan)
-- [Town of Neenah Planning](https://www.townneenah.com/planning)
-

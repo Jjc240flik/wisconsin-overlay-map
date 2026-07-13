@@ -1,6 +1,6 @@
 # Rock County — Ag→Subdivision Rezoning Pipeline
 
-**945 parcels** | 170 off-market | 775 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**939 parcels** | 170 off-market | 769 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -30,7 +30,6 @@
 | **A+** | BELOIT | 27.5 | MCSHANE THOMAS J | 6-2-24 | 📬 |
 | **A+** | BELOIT | 25.0 | WISCONSIN POWER & LIGHT | 6-2-83.001 | 📞 |
 | **A+** | BELOIT | 20.0 | BEELER DOUGLAS 🔗| 6-2-207 | 📞 |
-| **A+** | BELOIT | 17.0 | BRYDEN VICKI | 6-2-362 | 📞 |
 | **A+** | BELOIT | 13.4 | ALSETH PHILIP 🔗| 6-2-56.4 | 📞 |
 | **A+** | BELOIT | 7.3 | POFF RICHARD | 6-2-267.1A | 📞 |
 | **A+** | BELOIT | 1.0 | DAVIS BRIAN T | 6-2-1591.27 | 📞 |
@@ -117,6 +116,7 @@
 | **A+** | BELOIT | 0.1 | TYRER DAVID | 6-2-1976 | 📞 |
 | **A+** | BELOIT | 0.1 | BRANNON CURTIS | 6-2-1979 | 📞 |
 | **A+** | BELOIT | 0.1 | PALM JAMES | 6-2-1988 | 📞 |
+| **A+** | BELOIT | 0.1 | VANDERVORT MICHAEL | 6-2-2000 | 📞 |
 | **A+** | BELOIT | 0.1 | JJGJ WELLNITZ HOLDINGS L | 6-2-1915 | 📞 |
 | **A+** | BELOIT | 0.1 | WELLER JARED | 6-2-1916 | 📞 |
 | **A+** | BELOIT | 0.1 | LEWIS VIDA | 6-2-1671 | 📞 |
@@ -206,7 +206,7 @@
 | **A** | JANESVILLE | 26.6 | SPIKE DOROTHY | 6-8-102.1 | 📬 |
 | **A** | TURTLE | 26.5 | NEWHOUSE MARTIN 🔗| 6-19-173.1 | 📬 |
 | **A** | TURTLE | 25.2 | WALSH BRENNAN | 6-19-359 | 📞 |
-| ... | ... | ... (+745 more) | ... | ... |
+| ... | ... | ... (+739 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -228,33 +228,33 @@
 **MILTON** (B+): 204 parcels, ~3485ac
   175 MLS — call first
   38 multi-owners
-**TURTLE** (A): 190 parcels, ~3042ac
-  148 MLS — call first
+**TURTLE** (A): 191 parcels, ~3043ac
+  149 MLS — call first
   23 multi-owners
 **JANESVILLE** (A): 151 parcels, ~2505ac
   126 MLS — call first
   21 multi-owners
-**FULTON** (B+): 130 parcels, ~2255ac
-  100 MLS — call first
+**FULTON** (B+): 131 parcels, ~2256ac
+  101 MLS — call first
   20 multi-owners
 **HARMONY** (B+): 119 parcels, ~2677ac
   91 MLS — call first
   14 multi-owners
-**BELOIT** (A+): 116 parcels, ~1476ac
+**BELOIT** (A+): 116 parcels, ~1459ac
   100 MLS — call first
   20 multi-owners
-**EVANSVILLE** (B+): 35 parcels, ~382ac
-  35 MLS — call first
+**EVANSVILLE** (B+): 27 parcels, ~370ac
+  27 MLS — call first
   2 multi-owners
 
 ### 📞 For-Sale
 - **MILTON** (B+): 175
-- **TURTLE** (A): 148
+- **TURTLE** (A): 149
 - **JANESVILLE** (A): 126
+- **FULTON** (B+): 101
 - **BELOIT** (A+): 100
-- **FULTON** (B+): 100
 - **HARMONY** (B+): 91
-- **EVANSVILLE** (B+): 35
+- **EVANSVILLE** (B+): 27
 
 ### 📬 Off-Market
 - **TURTLE** (A): 42 — 10 multi-owners
@@ -265,4 +265,4 @@
 - **BELOIT** (A+): 16 — 6 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

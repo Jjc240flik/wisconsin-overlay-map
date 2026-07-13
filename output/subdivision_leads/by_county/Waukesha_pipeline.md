@@ -1,6 +1,6 @@
 # Waukesha County — Ag→Subdivision Rezoning Pipeline
 
-**336 parcels** | 10 off-market | 326 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**338 parcels** | 10 off-market | 328 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -206,7 +206,7 @@
 | **A-** | GENESEE | ? | SMITH STEVEN | GNT -1487-999-003 | 📞 |
 | **A-** | GENESEE | ? | GAYLORD MICAH 🔗| GNT -1489-983 | 📞 |
 | **A-** | GENESEE | ? | MUELLER BOBBI | GNT -1489-999 | 📞 |
-| ... | ... | ... (+136 more) | ... | ... |
+| ... | ... | ... (+138 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -237,11 +237,11 @@
 **MENOMONEE FALLS** (A): 46 parcels, ~3ac
   42 MLS — call first
   6 multi-owners
-**PEWAUKEE** (A-): 22 parcels, ~4ac
-  22 MLS — call first
+**PEWAUKEE** (A-): 23 parcels, ~4ac
+  23 MLS — call first
   6 multi-owners
-**SUSSEX** (A-): 16 parcels, ~4ac
-  16 MLS — call first
+**SUSSEX** (A-): 17 parcels, ~4ac
+  17 MLS — call first
   3 multi-owners
 **BROOKFIELD** (B): 15 parcels, ~1ac
   15 MLS — call first
@@ -255,8 +255,8 @@
 - **WAUKESHA** (B+): 76
 - **GENESEE** (A-): 59
 - **MENOMONEE FALLS** (A): 42
-- **PEWAUKEE** (A-): 22
-- **SUSSEX** (A-): 16
+- **PEWAUKEE** (A-): 23
+- **SUSSEX** (A-): 17
 - **BROOKFIELD** (B): 15
 - **LANNON** (B): 5
 
@@ -267,4 +267,4 @@
 - **WAUKESHA** (B+): 1
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

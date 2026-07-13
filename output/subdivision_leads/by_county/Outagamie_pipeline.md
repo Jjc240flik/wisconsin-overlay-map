@@ -1,6 +1,6 @@
 # Outagamie County — Ag→Subdivision Rezoning Pipeline
 
-**404 parcels** | 99 off-market | 305 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**407 parcels** | 98 off-market | 309 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -155,13 +155,11 @@
 | **A+** | GREENVILLE | ? | WEYERS SHERRY | 11-1-0805-11 | 📞 |
 | **A+** | GREENVILLE | ? | LARSON JESSICA R | 11-1-0042-00 | 📞 |
 | **A+** | GREENVILLE | ? | LEITZKE BRANDON 🔗| 11-1-0423-02 | 📞 |
-| **A** | GRAND CHUTE | 2.8 | VANEPEREN JASON JAMES | 10-1-0222-00 | 📞 |
 | **A** | GRAND CHUTE | 0.9 | SCHABO HERBERT 🔗| 10-1-0842-00 | 📞 |
 | **A** | GRAND CHUTE | 0.7 | HAWLEY KEVIN | 10-1-0077-00 | 📞 |
 | **A** | GRAND CHUTE | 0.5 | PLAMANN KEITH 🔗| 10-1-0239-00 | 📞 |
 | **A** | GRAND CHUTE | 0.5 | PLAMANN KEITH 🔗| 10-1-0241-00 | 📞 |
 | **A** | GRAND CHUTE | ? | VANHANDEL JULE 🔗| 10-1-0421-00 | 📬 |
-| **A** | GRAND CHUTE | ? | SCHROTH DAVID | 10-1-0847-00 | 📬 |
 | **A** | GRAND CHUTE | ? | VTAE DIST 12 🔗| 10-1-0870-00 | 📬 |
 | **A** | GRAND CHUTE | ? | VTAE DIST 12 🔗| 10-1-0871-00 | 📬 |
 | **A** | GRAND CHUTE | ? | DUERR GREG 🔗| 10-1-1311-09 | 📞 |
@@ -206,7 +204,9 @@
 | **A** | GRAND CHUTE | ? | PLAMANN LARRY J 🔗| 10-1-0275-00 | 📞 |
 | **A** | GRAND CHUTE | ? | KOHL FAMILY FARM LLC | 10-1-0302-00 | 📞 |
 | **A** | GRAND CHUTE | ? | VANHANDEL JULE 🔗| 10-1-0419-00 | 📞 |
-| ... | ... | ... (+204 more) | ... | ... |
+| **A** | GRAND CHUTE | ? | EVERS FAMILY LTD PARTNERSHIP 🔗| 10-1-1532-01 | 📞 |
+| **A** | GRAND CHUTE | ? | EVERS FAMILY LTD PARTNERSHIP 🔗| 10-1-1533-00 | 📞 |
+| ... | ... | ... (+207 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -231,27 +231,27 @@
 **FREEDOM** (B+): 131 parcels, ~0ac
   65 MLS — call first
   29 multi-owners
-**GRAND CHUTE** (A): 64 parcels, ~6ac
-  60 MLS — call first
-  18 multi-owners
-**BUCHANAN** (B+): 56 parcels, ~2ac
-  53 MLS — call first
-  9 multi-owners
-**LITTLE CHUTE** (B+): 4 parcels, ~1ac
+**GRAND CHUTE** (A): 64 parcels, ~3ac
+  61 MLS — call first
+  19 multi-owners
+**BUCHANAN** (B+): 59 parcels, ~2ac
+  56 MLS — call first
+  10 multi-owners
+**LITTLE CHUTE** (A-): 4 parcels, ~1ac
   4 MLS — call first
 
 ### 📞 For-Sale
 - **GREENVILLE** (A+): 123
 - **FREEDOM** (B+): 65
-- **GRAND CHUTE** (A): 60
-- **BUCHANAN** (B+): 53
-- **LITTLE CHUTE** (B+): 4
+- **GRAND CHUTE** (A): 61
+- **BUCHANAN** (B+): 56
+- **LITTLE CHUTE** (A-): 4
 
 ### 📬 Off-Market
 - **FREEDOM** (B+): 66 — 16 multi-owners
 - **GREENVILLE** (A+): 26 — 12 multi-owners
-- **GRAND CHUTE** (A): 4 — 2 multi-owners
+- **GRAND CHUTE** (A): 3 — 2 multi-owners
 - **BUCHANAN** (B+): 3 — 1 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

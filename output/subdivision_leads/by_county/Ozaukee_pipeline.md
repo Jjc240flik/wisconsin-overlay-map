@@ -1,6 +1,6 @@
 # Ozaukee County — Ag→Subdivision Rezoning Pipeline
 
-**474 parcels** | 5 off-market | 469 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**472 parcels** | 5 off-market | 467 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -56,7 +56,6 @@
 | **A** | CEDARBURG | 18.0 | MORSE WILLIAM W 🔗| 03-032-14-002.00 | 📞 |
 | **A** | CEDARBURG | 16.8 | HERKERT PATRICK | 03-020-04-003.00 | 📞 |
 | **A** | CEDARBURG | 16.2 | F C C PARTNERSHIP | 03-016-15-006.00 | 📞 |
-| **A** | CEDARBURG | 15.3 | LEWANDOWSKI CHRISTOPHER A | 03-019-14-008.00 | 📞 |
 | **A** | CEDARBURG | 15.2 | RINTELMAN WILLIAM H | 03-018-13-003.00 | 📞 |
 | **A** | CEDARBURG | 14.6 | OSTERMANN KENNETH G | 03-016-12-002.00 | 📞 |
 | **A** | CEDARBURG | 13.9 | LUEBBE JUDITH A 🔗| 03-007-14-003.00 | 📞 |
@@ -72,6 +71,7 @@
 | **A** | CEDARBURG | 8.0 | WITTE SUSAN | 03-030-02-001.00 | 📞 |
 | **A** | CEDARBURG | 7.9 | COOPER MARGARET L | 03-007-12-003.00 | 📞 |
 | **A** | SAUKVILLE | 7.5 | DIDIER NICK R | 11-030-10-036.00 | 📞 |
+| **A** | CEDARBURG | 7.3 | DREES KIRK H 🔗| 03-030-15-004.00 | 📞 |
 | **A** | CEDARBURG | 6.7 | GREVE KENNETH R | 03-007-13-005.00 | 📞 |
 | **A** | CEDARBURG | 6.6 | KISON DARWIN O | 03-008-06-020.00 | 📞 |
 | **A** | CEDARBURG | 6.1 | GALUSTYANTS VITAS | 03-006-16-015.00 | 📞 |
@@ -84,8 +84,6 @@
 | **A** | CEDARBURG | 5.0 | DEARING BRIAN | 03-009-02-009.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | RUDZINSKI SARAH | 03-005-02-003.00 | 📞 |
 | **A** | CEDARBURG | 4.9 | PIER JALISSA 🔗| 03-028-01-002.00 | 📞 |
-| **A** | CEDARBURG | 4.6 | GATLIN ZACHARY | 03-029-09-016.00 | 📞 |
-| **A** | CEDARBURG | 4.4 | LECHNER LAWRENCE A | 03-011-14-002.00 | 📞 |
 | **A** | CEDARBURG | 4.0 | LANGLOIS ROBIN W | 03-004-16-005.00 | 📞 |
 | **A** | GRAFTON | 3.1 | PINE RIDGE CONDOMINIUM | 10-026-03-033.00 | 📞 |
 | **A** | SAUKVILLE | 3.0 | KESSNER DELORES | 11-050-05-100.01 | 📞 |
@@ -120,6 +118,7 @@
 | **A** | CEDARBURG | 1.0 | MILWAUKEE METROPOLITAN SEWERAGE DISTRICT 🔗| 03-005-06-004.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | CARTER DOUGLAS E | 03-009-13-005.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | NORMAN JOHN J | 03-058-01-110.00 | 📞 |
+| **A** | CEDARBURG | 1.0 | KUCHARSKI PHILLIP J | 03-031-04-001.00 | 📞 |
 | **A** | CEDARBURG | 1.0 | JORGENSEN MICHAEL T | 03-069-00-270.00 | 📞 |
 | **A** | CEDARBURG | 0.9 | GREENWOOD MATTHEW D | 03-010-01-001.00 | 📞 |
 | **A** | CEDARBURG | 0.9 | CONGREGATION OF ST FRANCIS BORGIA 🔗| 03-016-13-002.00 | 📞 |
@@ -129,6 +128,7 @@
 | **A** | CEDARBURG | 0.8 | SCHOESSOW LARRY JAMES 🔗| 03-058-01-020.00 | 📞 |
 | **A** | GRAFTON | 0.8 | LUETTGEN MICHAEL J | 10-246-00-120.00 | 📞 |
 | **A** | GRAFTON | 0.7 | SMITH ROBERT F | 10-050-04-110.00 | 📞 |
+| **A** | CEDARBURG | 0.7 | KLEMM ROBERT | 03-058-01-140.00 | 📞 |
 | **A** | GRAFTON | 0.6 | HUDGINS NICHOLAS A | 10-050-01-030.01 | 📞 |
 | **A** | GRAFTON | 0.6 | RADTKE TIMOTHY S | 10-260-00-660.00 | 📞 |
 | **A** | GRAFTON | 0.5 | CHARMOLI SCOTT | 10-157-00-280.00 | 📞 |
@@ -142,6 +142,7 @@
 | **A** | CEDARBURG | 0.4 | EDMARCS PLACE | 03-008-05-008.00 | 📞 |
 | **A** | CEDARBURG | 0.4 | BARIKMO MICHAEL L | 03-008-06-021.00 | 📞 |
 | **A** | GRAFTON | 0.4 | ARENTZ JAMES K | 10-019-07-012.00 | 📞 |
+| **A** | CEDARBURG | 0.4 | DREES KIRK H 🔗| 03-030-14-009.00 | 📞 |
 | **A** | GRAFTON | 0.3 | CHANG LUKE K | 10-050-04-040.01 | 📞 |
 | **A** | GRAFTON | 0.3 | EREBOR PETER OMORUYI | 10-251-00-910.00 | 📞 |
 | **A** | SAUKVILLE | 0.3 | LARSON ALEX R | 11-123-00-140.00 | 📞 |
@@ -157,7 +158,6 @@
 | **A** | CEDARBURG | 0.2 | WALTERS KYLE R | 03-023-01-007.00 | 📞 |
 | **A** | CEDARBURG | 0.2 | SCHAEFER LUKE | 03-009-13-006.00 | 📞 |
 | **A** | CEDARBURG | 0.2 | BRONSON MARY J | 03-023-01-003.00 | 📞 |
-| **A** | CEDARBURG | 0.2 | OHRTMAN DANIEL | 03-008-12-002.00 | 📞 |
 | **A** | SAUKVILLE | 0.2 | SCHARNWEBER CHERYL A | 11-123-00-130.00 | 📞 |
 | **A** | SAUKVILLE | 0.2 | BRANDT CHRISTOPHER | 11-123-00-290.00 | 📞 |
 | **A** | CEDARBURG | 0.2 | CHESNEY ROBERT A | 03-010-10-007.00 | 📞 |
@@ -206,7 +206,7 @@
 | **A-** | MEQUON | 68.3 | GIERACH ROBERT J | 14-005-05-004.00 | 📞 |
 | **A-** | MEQUON | 65.6 | GIERACH FARMS LLC 🔗| 14-005-02-008.00 | 📞 |
 | **A-** | MEQUON | 62.9 | HILGENDORF MARK | 14-034-15-007.00 | 📞 |
-| ... | ... | ... (+274 more) | ... | ... |
+| ... | ... | ... (+272 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -225,14 +225,14 @@
 - **03-034-10-000.00** | 58.6ac | RASMUSSEN TIMOTHY P | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
 
 ### Clusters
-**CEDARBURG** (A): 171 parcels, ~2365ac
+**CEDARBURG** (A): 171 parcels, ~2350ac
   171 MLS — call first
-  18 multi-owners
-**GRAFTON** (A): 142 parcels, ~1270ac
-  141 MLS — call first
+  19 multi-owners
+**GRAFTON** (A): 141 parcels, ~1258ac
+  140 MLS — call first
   9 multi-owners
-**MEQUON** (A-): 122 parcels, ~2029ac
-  118 MLS — call first
+**MEQUON** (A-): 121 parcels, ~2014ac
+  117 MLS — call first
   18 multi-owners
 **SAUKVILLE** (A): 39 parcels, ~18ac
   39 MLS — call first
@@ -240,8 +240,8 @@
 
 ### 📞 For-Sale
 - **CEDARBURG** (A): 171
-- **GRAFTON** (A): 141
-- **MEQUON** (A-): 118
+- **GRAFTON** (A): 140
+- **MEQUON** (A-): 117
 - **SAUKVILLE** (A): 39
 
 ### 📬 Off-Market
@@ -249,4 +249,4 @@
 - **GRAFTON** (B+): 1
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

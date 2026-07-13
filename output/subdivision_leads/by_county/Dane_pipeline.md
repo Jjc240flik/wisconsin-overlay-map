@@ -1,6 +1,6 @@
 # Dane County — Ag→Subdivision Rezoning Pipeline
 
-**1256 parcels** | 464 off-market | 792 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**1252 parcels** | 462 off-market | 790 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -117,7 +117,6 @@
 | **A** | WESTPORT | 39.2 | KEVIN D STATZ AND MICHELE M STATZ LIVING TRUS | 0809-192-9000-7 | 📞 |
 | **A** | WESTPORT | 38.9 | BALLWEG FAMILY LTD PARTNERSHIP 🔗| 0809-011-9500-0 | 📞 |
 | **A** | SUN PRAIRIE | 38.7 | YELK LEO G 🔗| 0811-111-8010-0 | 📬 |
-| **A** | FITCHBURG | 38.5 | HAAS REV LIVING TR FRANCES C MEICHER | 0609-144-9500-4 | 📬 |
 | **A** | WESTPORT | 38.5 | RIPP LEON J 🔗| 0809-202-9000-4 | 📬 |
 | **A** | WESTPORT | 38.3 | KALTENBERG DANIEL J | 0809-032-9501-4 | 📬 |
 | **A** | FITCHBURG | 38.2 | MUCH KEVIN 🔗| 0609-292-8310-7 | 📞 |
@@ -141,7 +140,6 @@
 | **A** | FITCHBURG | 37.0 | FROSTWOOD FARM IV LLC 🔗| 0609-202-6384-2 | 📬 |
 | **A** | SUN PRAIRIE | 37.0 | MEIER STUART J 🔗| 0811-213-9500-1 | 📞 |
 | **A** | SUN PRAIRIE | 36.9 | RADEMACHER LIVING TR BRIAN K & NICHOLE R 🔗| 0811-103-9001-0 | 📬 |
-| **A** | FITCHBURG | 36.8 | MARKWARDT TR JOHN F & MARY G 🔗| 0609-324-8500-8 | 📞 |
 | **A** | FITCHBURG | 36.7 | TORHORST WILLIAM R 🔗| 0609-333-9501-4 | 📬 |
 | **A** | FITCHBURG | 36.5 | WOLF ROBERT L 🔗| 0609-311-9000-6 | 📞 |
 | **A** | SUN PRAIRIE | 36.5 | RIESOP FARMS LLC 🔗| 0811-354-9000-6 | 📞 |
@@ -202,11 +200,13 @@
 | **A** | SUN PRAIRIE | 28.0 | FREITAG BRAD L 🔗| 0811-302-8050-0 | 📬 |
 | **A** | FITCHBURG | 28.0 | MCGIBBON FREDERICK M 🔗| 0609-271-9000-5 | 📞 |
 | **A** | FITCHBURG | 27.9 | WOLF ROBERT L 🔗| 0609-311-8560-1 | 📞 |
-| **A** | SUN PRAIRIE | 27.9 | PASKEY KENNETH L 🔗| 0811-231-9350-0 | 📬 |
+| **A** | SUN PRAIRIE | 27.9 | PASKEY KENNETH L 🔗| 0811-231-9350-0 | 📞 |
 | **A** | WESTPORT | 27.8 | HELLENBRAND BRUCE ALLEN 🔗| 0809-291-8540-6 | 📞 |
 | **A** | FITCHBURG | 27.8 | HAGEMAN DARYL L 🔗| 0609-304-8045-4 | 📞 |
 | **A** | SUN PRAIRIE | 27.3 | FREITAG BRAD L 🔗| 0811-302-8550-0 | 📬 |
-| ... | ... | ... (+1056 more) | ... | ... |
+| **A** | FITCHBURG | 27.3 | BARRY STABLES FARMS LLC | 0609-331-9001-1 | 📞 |
+| **A** | WESTPORT | 26.6 | KOSTER JOANN | 0809-124-8500-6 | 📞 |
+| ... | ... | ... (+1052 more) | ... | ... |
 
 ## Rezoning Analysis
 
@@ -231,32 +231,32 @@
 **SPRINGFIELD** (A-): 151 parcels, ~4967ac
   75 MLS — call first
   43 multi-owners
-**SUN PRAIRIE** (A): 143 parcels, ~3843ac
+**SUN PRAIRIE** (A): 142 parcels, ~3830ac
   82 MLS — call first
   33 multi-owners
 **BRISTOL** (B+): 136 parcels, ~4115ac
   71 MLS — call first
   31 multi-owners
-**FITCHBURG** (A): 126 parcels, ~3982ac
-  87 MLS — call first
+**FITCHBURG** (A): 124 parcels, ~3907ac
+  86 MLS — call first
   23 multi-owners
-**WINDSOR** (B+): 118 parcels, ~3090ac
-  65 MLS — call first
-  23 multi-owners
+**WINDSOR** (B+): 117 parcels, ~3074ac
+  64 MLS — call first
+  24 multi-owners
 **MONTROSE** (B+): 112 parcels, ~2807ac
   52 MLS — call first
   28 multi-owners
 **DUNN** (B+): 101 parcels, ~2834ac
   69 MLS — call first
   20 multi-owners
-**WESTPORT** (A): 64 parcels, ~1772ac
-  50 MLS — call first
+**WESTPORT** (A): 63 parcels, ~1772ac
+  49 MLS — call first
   16 multi-owners
 **BURKE** (A-): 57 parcels, ~511ac
   54 MLS — call first
   7 multi-owners
-**DEFOREST** (A-): 37 parcels, ~798ac
-  37 MLS — call first
+**DEFOREST** (B+): 38 parcels, ~798ac
+  38 MLS — call first
   6 multi-owners
 **WAUNAKEE** (B+): 34 parcels, ~275ac
   32 MLS — call first
@@ -274,16 +274,16 @@
 
 ### 📞 For-Sale
 - **PLEASANT SPRINGS** (B+): 95
-- **FITCHBURG** (A): 87
+- **FITCHBURG** (A): 86
 - **SUN PRAIRIE** (A): 82
 - **SPRINGFIELD** (A-): 75
 - **BRISTOL** (B+): 71
 - **DUNN** (B+): 69
-- **WINDSOR** (B+): 65
+- **WINDSOR** (B+): 64
 - **BURKE** (A-): 54
 - **MONTROSE** (B+): 52
-- **WESTPORT** (A): 50
-- **DEFOREST** (A-): 37
+- **WESTPORT** (A): 49
+- **DEFOREST** (B+): 38
 - **WAUNAKEE** (B+): 32
 - **MCFARLAND** (B+): 13
 - **OREGON** (B+): 4
@@ -293,15 +293,15 @@
 ### 📬 Off-Market
 - **SPRINGFIELD** (A-): 76 — 29 multi-owners
 - **BRISTOL** (B+): 65 — 19 multi-owners
-- **SUN PRAIRIE** (A): 61 — 22 multi-owners
+- **SUN PRAIRIE** (A): 60 — 21 multi-owners
 - **MONTROSE** (B+): 60 — 19 multi-owners
 - **PLEASANT SPRINGS** (B+): 59 — 17 multi-owners
-- **WINDSOR** (B+): 53 — 15 multi-owners
-- **FITCHBURG** (A): 39 — 12 multi-owners
+- **WINDSOR** (B+): 53 — 16 multi-owners
+- **FITCHBURG** (A): 38 — 12 multi-owners
 - **DUNN** (B+): 32 — 6 multi-owners
 - **WESTPORT** (A): 14 — 5 multi-owners
 - **BURKE** (A-): 3 — 1 multi-owners
 - **WAUNAKEE** (B+): 2 — 1 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*

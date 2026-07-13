@@ -1,12 +1,11 @@
 # Milwaukee County — Ag→Subdivision Rezoning Pipeline
 
-**116 parcels** | 14 off-market | 102 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**116 parcels** | 13 off-market | 103 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **B+** | FRANKLIN | 15.5 | VANG CHIA | 938-9999-011 | 📞 |
 | **B+** | FRANKLIN | 1.0 | STEFANEC LYNETTE | 934-9992-008 | 📞 |
 | **B+** | FRANKLIN | 0.9 | SACRED HEART 🔗| 751-9984-000 | 📞 |
 | **B+** | FRANKLIN | 0.9 | PRUSINSKI RONALD | 891-9012-000 | 📞 |
@@ -19,7 +18,6 @@
 | **B+** | OAK CREEK | 0.0 | OAK CREEK INVESTMENT A GEN PARTNERSHIP 🔗| 871-9022-000 | 📞 |
 | **B+** | FRANKLIN | ? | HAACK KIM | 713-9999-001 | 📬 |
 | **B+** | FRANKLIN | ? | FRANKLIN PUBLIC SCHOOLS | 896-9996-001 | 📬 |
-| **B+** | FRANKLIN | ? | SCHAEFER JANET | 983-9998-000 | 📬 |
 | **B+** | FRANKLIN | ? | ACKER DOROTHY 🔗| 985-9996-000 | 📬 |
 | **B+** | FRANKLIN | ? | ACKER DOROTHY 🔗| 985-9997-003 | 📬 |
 | **B+** | FRANKLIN | ? | FANETTI MARILYN | 886-9986-000 | 📬 |
@@ -57,7 +55,7 @@
 | **B+** | FRANKLIN | ? | SHAWGO MICHAEL | 888-9998-002 | 📞 |
 | **B+** | FRANKLIN | ? | DURANSO RICHARD | 897-9997-000 | 📞 |
 | **B+** | FRANKLIN | ? | HOLTERMAN MARK | 932-9999-000 | 📞 |
-| **B+** | FRANKLIN | ? | HOLTERMAN JOSEPH | 934-9998-001 | 📞 |
+| **B+** | FRANKLIN | ? | HOLTERMAN JOSEPH 🔗| 934-9998-001 | 📞 |
 | **B+** | FRANKLIN | ? | PREDZIK BREANNA | 935-9999-007 | 📞 |
 | **B+** | FRANKLIN | ? | HINKEL WILLIAM | 936-9997-000 | 📞 |
 | **B+** | FRANKLIN | ? | BORZICK DIXIE K | 936-9998-003 | 📞 |
@@ -77,6 +75,8 @@
 | **B+** | FRANKLIN | ? | REHBERGER MADELYN 🔗| 981-9998-001 | 📞 |
 | **B+** | FRANKLIN | ? | RYAN BASIL | 981-9999-006 | 📞 |
 | **B+** | FRANKLIN | ? | RYAN JENNIFER | 982-9999-000 | 📞 |
+| **B+** | FRANKLIN | ? | HOLTERMAN JOSEPH 🔗| 983-9997-001 | 📞 |
+| **B+** | FRANKLIN | ? | SCHAEFER JANET | 983-9998-000 | 📞 |
 | **B+** | OAK CREEK | ? | WEBER JAIME LEE | 958-9002-001 | 📞 |
 | **B+** | OAK CREEK | ? | OAK CREEK INVESTMENT A GEN PARTNERSHIP 🔗| 871-9020-000 | 📞 |
 | **B+** | OAK CREEK | ? | BALLBACH KAREN | 780-9999-001 | 📞 |
@@ -126,20 +126,20 @@
 ## Rezoning Analysis
 
 ### Clusters
-**FRANKLIN** (B+): 63 parcels, ~19ac
-  55 MLS — call first
-  5 multi-owners
+**FRANKLIN** (B+): 63 parcels, ~4ac
+  56 MLS — call first
+  6 multi-owners
 **OAK CREEK** (B+): 53 parcels, ~1ac
   47 MLS — call first
   6 multi-owners
 
 ### 📞 For-Sale
-- **FRANKLIN** (B+): 55
+- **FRANKLIN** (B+): 56
 - **OAK CREEK** (B+): 47
 
 ### 📬 Off-Market
-- **FRANKLIN** (B+): 8 — 2 multi-owners
+- **FRANKLIN** (B+): 7 — 2 multi-owners
 - **OAK CREEK** (B+): 6 — 1 multi-owners
 
 ---
-*2026-07-12 14:29 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
