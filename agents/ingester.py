@@ -9,7 +9,7 @@ DB_USER = os.getenv("DB_USER", "postgres")
 DB_PASSWORD = os.getenv("DB_PASSWORD", "postgres")
 
 class DataIngester:
-    """Agent 2: Ingests raw GeoJSON layers, loads PostGIS, and runs spatial intersections."""
+    """Agent 2: Database Ingester + Spatial Intersection Engine"""
 
     def __init__(self, data_dir="data/raw"):
         self.data_dir = data_dir
@@ -17,13 +17,12 @@ class DataIngester:
             f"postgresql+psycopg2://{DB_USER}:{DB_PASSWORD}@{DB_HOST}:{DB_PORT}/{DB_NAME}"
         )
 
-    def _reproject_and_cast(self, gdf):
-        """Reprojects to EPSG:3071 and ensures MultiPolygon geometry."""
+    def _prepare_gdf(self, gdf):
+        """Reproject to EPSG:3071 and ensure MultiPolygon geometry."""
         if gdf.crs is None or gdf.crs.to_epsg() != 3071:
-            print("   -> Reprojecting to EPSG:3071...")
             gdf = gdf.to_crs(epsg=3071)
 
-        # Convert Polygons to MultiPolygons
+        # Convert to MultiPolygon if needed
         gdf["geometry"] = gdf["geometry"].apply(
             lambda geom: geom if geom.geom_type == "MultiPolygon" else gpd.GeoSeries([geom]).unary_union
         )
@@ -31,12 +30,12 @@ class DataIngester:
 
     def ingest_base_parcels(self):
         path = os.path.join(self.data_dir, "base_parcels.geojson")
-        print(f"[*] Ingesting Base Parcels from: {path}")
+        print(f"[Ingester] Loading parcels from {path}")
 
         gdf = gpd.read_file(path)
-        gdf = self._reproject_and_cast(gdf)
+        gdf = self._prepare_gdf(gdf)
 
-        df_to_load = gpd.GeoDataFrame({
+        df = gpd.GeoDataFrame({
             "parcel_id": gdf.get("PARCELID", gdf.get("parcel_id")),
             "owner_name": gdf.get("OWNERNME1", gdf.get("owner_name")),
             "owner_address": gdf.get("PSTADR", gdf.get("owner_address")),
@@ -48,46 +47,46 @@ class DataIngester:
             "geometry": gdf.geometry
         }, crs="EPSG:3071")
 
-        df_to_load["calculated_acres"] = df_to_load["calculated_acres"].fillna(0.0)
-        df_to_load["assessed_value"] = df_to_load["assessed_value"].fillna(0.0)
+        df["calculated_acres"] = df["calculated_acres"].fillna(0.0)
+        df["assessed_value"] = df["assessed_value"].fillna(0.0)
 
-        df_to_load.to_postgis("brown_county_parcels", con=self.engine, if_exists="replace", index=False)
-        print("[+] Base parcels uploaded.")
+        df.to_postgis("brown_county_parcels", con=self.engine, if_exists="replace", index=False)
+        print("[+] Parcels loaded.")
 
     def ingest_future_land_use(self):
         path = os.path.join(self.data_dir, "future_land_use.geojson")
-        print(f"[*] Ingesting Future Land Use from: {path}")
+        print(f"[Ingester] Loading Future Land Use from {path}")
 
         gdf = gpd.read_file(path)
-        gdf = self._reproject_and_cast(gdf)
+        gdf = self._prepare_gdf(gdf)
 
-        df_to_load = gpd.GeoDataFrame({
+        df = gpd.GeoDataFrame({
             "planned_use": gdf.get("Future_Land_Use", gdf.get("planned_use", "Unassigned")),
             "municipality": gdf.get("MUNICIPALITY", gdf.get("municipality", "Unknown")),
             "geometry": gdf.geometry
         }, crs="EPSG:3071")
 
-        df_to_load.to_postgis("future_land_use", con=self.engine, if_exists="replace", index=False)
-        print("[+] Future Land Use uploaded.")
+        df.to_postgis("future_land_use", con=self.engine, if_exists="replace", index=False)
+        print("[+] Future Land Use loaded.")
 
     def ingest_sewer_service_area(self):
         path = os.path.join(self.data_dir, "sewer_service_area.geojson")
-        print(f"[*] Ingesting Sewer Service Area from: {path}")
+        print(f"[Ingester] Loading Sewer Service Area from {path}")
 
         gdf = gpd.read_file(path)
-        gdf = self._reproject_and_cast(gdf)
+        gdf = self._prepare_gdf(gdf)
 
-        df_to_load = gpd.GeoDataFrame({
+        df = gpd.GeoDataFrame({
             "district_name": gdf.get("SSA_Name", gdf.get("district_name", "Primary District")),
             "is_serviceable": True,
             "geometry": gdf.geometry
         }, crs="EPSG:3071")
 
-        df_to_load.to_postgis("sewer_service_area", con=self.engine, if_exists="replace", index=False)
-        print("[+] Sewer Service Area uploaded.")
+        df.to_postgis("sewer_service_area", con=self.engine, if_exists="replace", index=False)
+        print("[+] Sewer Service Area loaded.")
 
     def execute_spatial_intersection(self):
-        print("[*] Running PostGIS intersection query...")
+        print("[Ingester] Running spatial intersection...")
 
         query = """
         DROP TABLE IF EXISTS pipeline_targets;
@@ -121,7 +120,7 @@ class DataIngester:
             conn.execute(text(query))
 
         with self.engine.connect() as conn:
-            count = conn.execute(text("SELECT COUNT(*) FROM pipeline_targets;")).fetchone()[0]
+            count = conn.execute(text("SELECT COUNT(*) FROM pipeline_targets")).fetchone()[0]
 
         print(f"[+] Found {count} target parcels.")
 

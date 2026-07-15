@@ -74,6 +74,12 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 [**Download the Rock County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Rock_County_Municipality_Map.html)
 *(Click → Save → Open in browser. Satellite/Map toggle available.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** I-39/90 Stateline corridor = dominant. Beloit Town (A+, Urban FLU, major sewer), Janesville Town (A, 6,318 new residents by 2040), Turtle (A, split: south in path, north AEA-preserved). Western townships = agricultural preservation.
+
 ## Sources
 - [Rock County Planning & Zoning](https://www.co.rock.wi.us/planning-development)
 - [Rock County GIS](https://rockgis.co.rock.wi.us/)

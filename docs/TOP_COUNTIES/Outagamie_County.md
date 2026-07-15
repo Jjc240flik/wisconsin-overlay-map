@@ -144,6 +144,12 @@ Greenville is the textbook example of the Cody Bjugan / North Star target profil
 
 This is the model for how every village and town should be evaluated.
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** NW along US 41 (Greenville 359% growth, Grand Chute 228%). E along US 10 (Harrison). From Kaukauna S along STH 55 (Buchanan) and W along Fox River (Combined Locks, Little Chute — Fox Cities core, limited ag).
+
 ## Sources
 
 ### Outagamie County

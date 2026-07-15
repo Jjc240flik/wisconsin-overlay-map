@@ -72,6 +72,12 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 [**Download the Calumet County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Calumet_County_Municipality_Map.html)
 *(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** Appleton southward expansion (US 41/10). Direct: Harrison Town (50% of county growth), Menasha Town (Fox Cities edge). Southern towns LOCKED by Farmland Preservation Zoning + 28,217-acre HALT AEA. Stockbridge/Brothertown downgraded B+→B (seasonal, NOT subdivision).
+
 ## Sources
 - [Calumet County Planning & Zoning](https://www.calumetcounty.org/210/Planning-Zoning)
 - [Calumet County GIS](https://www.calumetcounty.org/213/GIS-Mapping)

@@ -62,6 +62,12 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 [**Download the Ozaukee County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Ozaukee_County_Municipality_Map.html)
 *(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** I-43 corridor N from Milwaukee. Direct: Grafton, Saukville, Cedarburg Town (Five Corners utility study). Edge: Mequon (built-out north shore, infill only). Western townships = 35-acre minimums, agricultural preservation.
+
 ## Sources
 - [Ozaukee County Planning & Zoning](https://www.co.ozaukee.wi.us/143/Planning-Parks-and-Zoning)
 - [Ozaukee County GIS](https://www.co.ozaukee.wi.us/147/GIS-Mapping)

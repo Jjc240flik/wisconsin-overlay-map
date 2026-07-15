@@ -69,6 +69,12 @@ An interactive map showing **Zoning ↔ Parcel Overlays** with municipality labe
 [**Download the Door County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Door_County_Zoning_Map.html)
 *(Click → Save → Open in browser. Toggle between Zoning and Parcel views.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** Tourism/seasonal economy. NOT a subdivision play. Sister Bay = seasonal/second-home only. Strict environmental protections limit large-scale development.
+
 ## Sources
 - [Door County Planning](https://www.co.door.wi.gov/226/Planning)
 - [Door County Zoning](https://www.co.door.wi.gov/177/Zoning)

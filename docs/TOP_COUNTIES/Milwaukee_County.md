@@ -69,6 +69,12 @@ An interactive map showing **Zoning ↔ Overlay Zones** with municipality labels
 [**Download the Milwaukee County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Milwaukee_County_Zoning_Map.html)
 *(Click → Save → Open in browser. Toggle between Zoning and Overlay views.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** Infill/redevelopment dominates (96% of growth). Franklin = ONLY greenfield (sewer-gated). Oak Creek = winding down. Harbor District = brownfield, NOT subdivision.
+
 ## Sources
 - [Milwaukee County Planning](https://county.milwaukee.gov/EN/Infrastructure/Planning)
 - [Milwaukee County GIS](https://county.milwaukee.gov/EN/Infrastructure/Technology-GIS)

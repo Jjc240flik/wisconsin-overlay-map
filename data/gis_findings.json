@@ -1,0 +1,84 @@
+{
+  "Waukesha": [
+    [
+      "Business_Park_Suitability_Parcels",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/Business_Park_Suitability_Parcels/FeatureServer"
+    ],
+    [
+      "City_of_Oconomowoc_Wetland_Scrapes_For_Web",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/City_of_Oconomowoc_Wetland_Scrapes_For_Web/FeatureServer"
+    ],
+    [
+      "City_of_Oconomowoc_Wetland_Scrapes_For_Web_2",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/City_of_Oconomowoc_Wetland_Scrapes_For_Web_2/FeatureServer"
+    ],
+    [
+      "City_of_Oconomowoc_Wetland_Scrapes_With_Trail",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/City_of_Oconomowoc_Wetland_Scrapes_With_Trail/FeatureServer"
+    ],
+    [
+      "Composting_Survey_Muni_Summery",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/Composting_Survey_Muni_Summery/FeatureServer"
+    ],
+    [
+      "County_Cropland",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/County_Cropland/FeatureServer"
+    ],
+    [
+      "Mukwonago_Town_Zoning",
+      "https://services.arcgis.com/5mNcDbMaBDRgBsIc/arcgis/rest/services/Mukwonago_Town_Zoning/FeatureServer"
+    ]
+  ],
+  "Calumet": [
+    [
+      "Land_Use_2015",
+      "https://services6.arcgis.com/gI7hlABYSIIozaRg/arcgis/rest/services/Land_Use_2015"
+    ],
+    [
+      "WI_InvasiveWork_Parcels_2020_ViewPublic",
+      "https://services.arcgis.com/DN2fPfpggEPlLhP6/arcgis/rest/services/WI_InvasiveWork_Parcels_2020_ViewPublic/FeatureServer"
+    ],
+    [
+      "NSS Units By School District_WFL1",
+      "https://services4.arcgis.com/1mBR6RCuUie09WTc/arcgis/rest/services/NSS_Units_By_School_District_WFL1/FeatureServer"
+    ],
+    [
+      "NSS Units by School District 2025_12_16_WFL1",
+      "https://services4.arcgis.com/1mBR6RCuUie09WTc/arcgis/rest/services/NSS_Units_by_School_District_2025_12_16_WFL1/FeatureServer"
+    ]
+  ],
+  "Door": [
+    [
+      "Clay_Banks_Farmland_Preservation",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Clay_Banks_Farmland_Preservation/MapServer"
+    ],
+    [
+      "Lake_Michigan_and_Municipality",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Lake_Michigan_and_Municipality/MapServer"
+    ],
+    [
+      "Municipality",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Municipality/MapServer"
+    ],
+    [
+      "Parcel_Labels_Map_Image_2",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Parcel_Labels_Map_Image_2/MapServer"
+    ],
+    [
+      "Parcel_Map_Image",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Parcel_Map_Image/MapServer"
+    ],
+    [
+      "Shoreland_Zoning_Map_Image",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Shoreland_Zoning_Map_Image/MapServer"
+    ],
+    [
+      "Town_of_Union_Zoning",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Town_of_Union_Zoning/MapServer"
+    ],
+    [
+      "Zoning_Map_Image",
+      "https://gis.co.door.wi.us/arcgis/rest/services/Zoning_Map_Image/MapServer"
+    ]
+  ]
+}

@@ -111,6 +111,12 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 [**Download the Dane County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Dane_County_Municipality_Map.html)
 *(Click → Save → Open in browser. Satellite/Map toggle. Municipality labels color-coded by growth rating.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** SW (Epic/Verona) = highest priority. N (DeForest I-39/90/94, 4,000 acres planned corridors). S (Fitchburg, 2,383 acres FUDAs). E (Sun Prairie, FLU residential). DeForest upgraded B+→A- based on 2,200+1,800 acre corridor plans.
+
 ## Sources
 - [Dane County Planning & Development](https://plandev.countyofdane.com/)
 - [Dane County Comprehensive Plan](https://plandev.countyofdane.com/comprehensive-plan)

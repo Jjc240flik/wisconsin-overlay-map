@@ -69,6 +69,12 @@ An interactive map showing **Land Use 2022** with color-coded municipality label
 [**Download the Winnebago County Interactive Map**](https://github.com/Jjc240flik/wisconsin-overlay-map/raw/main/output/Winnebago_County_Land_Use_Map.html)
 *(Click → Save → Open in browser. Land Use 2022 data streaming from ArcGIS.)*
 
+
+
+## Growth Direction & FLU Analysis
+
+**Growth Direction:** US 41 spine (Appleton→Oshkosh). Direct: Neenah Town, Oshkosh Town, Algoma. Edge: Menasha Town removed (belongs to Calumet). Vinland/Clayton = peripheral. Fox Crossing = incorporated, limited land.
+
 ## Sources
 - [Winnebago County Planning & Zoning](https://www.winnebagocountywi.gov/Departments/Planning-and-Zoning)
 - [Winnebago County GIS](https://www.winnebagocountywi.gov/Departments/GIS)

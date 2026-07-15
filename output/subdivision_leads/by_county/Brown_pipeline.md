@@ -107,11 +107,11 @@
 | **A+** | LEDGEVIEW | 20-200† | TRIMBERGER MICHAEL | D-2237 | 📞 |
 | **A** | SUAMICO | 79.8 | OLSON KJELL E | SU-860 | 📞 |
 | **A** | LAWRENCE | 64.5 | GARSOW EUNICE M | L-423-2 | 📬 |
-| **A** | BELLEVUE | 63.1 | WATERMOLEN DENNIS F | B-306 | 📞 |
+| **A-** | BELLEVUE | 63.1 | WATERMOLEN DENNIS F | B-306 | 📞 |
 | **A** | HOWARD | 61.0 | MEACHAM DEBORAH L | VH-503 | 📞 |
-| **A** | BELLEVUE | 54.4 | PANSIER GLEN J 🔗| B-314-1 | 📬 |
+| **A-** | BELLEVUE | 54.4 | PANSIER GLEN J 🔗| B-314-1 | 📬 |
 | **A** | LAWRENCE | 52.1 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-110 | 📞 |
-| **A** | BELLEVUE | 49.4 | BUDI DESIRAE M | B-307 | 📞 |
+| **A-** | BELLEVUE | 49.4 | BUDI DESIRAE M | B-307 | 📞 |
 | **A** | SUAMICO | 49.0 | KACZMAREK JEAN | SU-128-1 | 📞 |
 | **A** | HOWARD | 45.9 | LANGER ERIC E | VH-43 | 📞 |
 | **A** | LAWRENCE | 44.0 | PHILCOX ERIN J | L-3 | 📞 |
@@ -120,8 +120,8 @@
 | **A** | SUAMICO | 40.8 | MCNEILL DOROTHY A 🔗| SU-310 | 📞 |
 | **A** | LAWRENCE | 40.6 | RODNEY GRACE HUTH | L-470 | 📬 |
 | **A** | LAWRENCE | 40.4 | DERUYTER MICHAEL | L-383 | 📞 |
-| **A** | BELLEVUE | 40.4 | VANDENAVOND CARL 🔗| B-183 | 📬 |
-| **A** | BELLEVUE | 40.4 | KROLL DEBRA A 🔗| B-212 | 📞 |
+| **A-** | BELLEVUE | 40.4 | VANDENAVOND CARL 🔗| B-183 | 📬 |
+| **A-** | BELLEVUE | 40.4 | KROLL DEBRA A 🔗| B-212 | 📞 |
 | **A** | LAWRENCE | 40.2 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-132 | 📞 |
 | **A** | SUAMICO | 40.2 | HEISEL MARK P 🔗| SU-217 | 📞 |
 | **A** | LAWRENCE | 40.2 | THOMAS N AND DEBRA A ERDMANN LIVING TRUS 🔗| L-128 | 📞 |
@@ -141,7 +141,7 @@
 | **A** | LAWRENCE | 39.0 | VANROSSUM PETER | L-92-1 | 📞 |
 | **A** | SUAMICO | 38.9 | CALEWARTS LAMAR W | SU-7 | 📞 |
 | **A** | SUAMICO | 38.9 | GAURA NANCY A 🔗| SU-212 | 📞 |
-| **A** | BELLEVUE | 38.7 | VANDEN AVOND CARL | B-213-1 | 📞 |
+| **A-** | BELLEVUE | 38.7 | VANDEN AVOND CARL | B-213-1 | 📞 |
 | **A** | LAWRENCE | 38.6 | KRAUTKRAMER JANET L 🔗| L-140 | 📞 |
 | **A** | SUAMICO | 38.4 | JUZA BONNIE L | SU-30 | 📞 |
 | **A** | SUAMICO | 38.3 | PACZKOWSKI WILLIAM F | SU-134 | 📞 |
@@ -176,31 +176,31 @@
 | **A** | HOWARD | 34.6 | ROSKOM JEFFREY N | VH-311 | 📞 |
 | **A** | LAWRENCE | 34.6 | GARRITY THOMAS 🔗| L-36 | 📞 |
 | **A** | LAWRENCE | 34.5 | VANGHEEM NICHOLAS 🔗| L-427 | 📬 |
-| **A** | BELLEVUE | 34.4 | KROLL DEBRA A 🔗| B-46 | 📞 |
+| **A-** | BELLEVUE | 34.4 | KROLL DEBRA A 🔗| B-46 | 📞 |
 | **A** | LAWRENCE | 34.4 | LAMERS FARM LLC 🔗| L-411 | 📬 |
 | **A** | SUAMICO | 34.3 | LENARDUZZI JULIE A | SU-175 | 📞 |
 | **A** | SUAMICO | 34.3 | BELSCHNER PAUL B | SU-202 | 📞 |
-| **A** | BELLEVUE | 34.2 | DEGRAVE KERRY P | B-216 | 📞 |
+| **A-** | BELLEVUE | 34.2 | DEGRAVE KERRY P | B-216 | 📞 |
 | **A** | HOWARD | 33.9 | HILLSIDE BROOK FARM LLC 🔗| VH-214 | 📞 |
 | **A** | SUAMICO | 33.7 | WHITE KEVIN J | SU-121 | 📞 |
 | **A** | HOWARD | 33.3 | RENN GORDON 🔗| VH-103 | 📞 |
 | **A** | SUAMICO | 33.2 | CHAMBERS LAND & INVESTMENT ENTERPRISES | SU-2966 | 📞 |
-| **A** | BELLEVUE | 33.1 | DAVID J VAN RITE 🔗| B-110 | 📞 |
-| **A** | BELLEVUE | 32.8 | KROLL DEBRA A 🔗| B-12-1 | 📬 |
+| **A-** | BELLEVUE | 33.1 | DAVID J VAN RITE 🔗| B-110 | 📞 |
+| **A-** | BELLEVUE | 32.8 | KROLL DEBRA A 🔗| B-12-1 | 📬 |
 | **A** | SUAMICO | 32.8 | MEULEMANS CHARMIANE 🔗| SU-10 | 📞 |
 | **A** | SUAMICO | 32.3 | VECCHIE JON D | SU-105 | 📞 |
 | **A** | SUAMICO | 32.1 | VELDEN ROBERT VANDER 🔗| SU-597 | 📞 |
 | **A** | LAWRENCE | 31.0 | SKOGEN WENDY D | L-401-1 | 📞 |
 | **A** | LAWRENCE | 31.0 | VANBEEK VERNON G | L-384 | 📞 |
 | **A** | SUAMICO | 30.8 | STYCZYNSKI RANDALL S 🔗| SU-622 | 📞 |
-| **A** | BELLEVUE | 30.6 | PEETERS LARRY | B-311-10 | 📞 |
+| **A-** | BELLEVUE | 30.6 | PEETERS LARRY | B-311-10 | 📞 |
 | **A** | SUAMICO | 30.5 | TOMCHEK JAMES R 🔗| SU-184 | 📞 |
 | **A** | SUAMICO | 30.5 | REVOLINSKI JOHN M | SU-31 | 📞 |
-| **A** | BELLEVUE | 29.7 | KROLL DEBRA A 🔗| B-11 | 📬 |
-| **A** | BELLEVUE | 29.6 | VANDERKELEN ROBERT J | B-D124 | 📬 |
+| **A-** | BELLEVUE | 29.7 | KROLL DEBRA A 🔗| B-11 | 📬 |
+| **A-** | BELLEVUE | 29.6 | VANDERKELEN ROBERT J | B-D124 | 📬 |
 | **A** | SUAMICO | 28.7 | STYCZYNSKI RANDALL S 🔗| SU-619 | 📞 |
 | **A** | LAWRENCE | 28.6 | GHEEM PAUL | L-61 | 📬 |
-| **A** | BELLEVUE | 28.4 | CLOVER VENTURE LTD PARTNERSHIP 🔗| B-109 | 📞 |
+| **A-** | BELLEVUE | 28.4 | CLOVER VENTURE LTD PARTNERSHIP 🔗| B-109 | 📞 |
 | **A** | SUAMICO | 28.3 | POSEY SHIRLEY | SU-675-4 | 📬 |
 | **A** | SUAMICO | 27.5 | BUTZ DENNIS J | SU-2 | 📞 |
 | **A** | LAWRENCE | 27.3 | VANROSSUM MICHAEL H | L-76-2 | 📞 |

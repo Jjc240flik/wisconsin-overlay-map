@@ -1,0 +1,1237 @@
+{
+  "Outagamie": {
+    "Appleton": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment/infill. Growth spills outward."
+    },
+    "Kaukauna": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment/infill."
+    },
+    "Seymour": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Smaller city, localized growth."
+    },
+    "New London": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Western edge, limited pressure."
+    },
+    "Greenville": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "PRIMARY. FLU + water/wastewater plans. 7 sub-area plans."
+    },
+    "Grand Chute": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Surrounds Appleton. US 41 corridor."
+    },
+    "Harrison": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "East of Appleton. US 10 corridor."
+    },
+    "Combined Locks": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "Adjacent to Kaukauna. Fox Cities core."
+    },
+    "Little Chute": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "Fox Cities core."
+    },
+    "Buchanan": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "Surrounds Kaukauna."
+    },
+    "Freedom": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "SW of Appleton, adjacent to city."
+    },
+    "Kimberly": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "Fox Cities core. Limited land."
+    },
+    "Vandenbroek": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Surrounds Little Chute/Kimberly."
+    },
+    "Hortonville": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "West of Appleton. Bedroom community."
+    },
+    "Wrightstown": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Southern edge. Cross-county."
+    },
+    "Center": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "West of Appleton. Agricultural."
+    },
+    "Ellington": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Near Greenville corridor."
+    },
+    "Bovina": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Near metro edge."
+    },
+    "Cicero": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Dale": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Deer Creek": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Hortonia": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Liberty": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Maine": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Maple Creek": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Rural."
+    },
+    "Osborn": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Near Seymour."
+    },
+    "Seymour Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Surrounding Seymour."
+    },
+    "Black Creek": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural. Agricultural."
+    },
+    "Oneida": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural preservation."
+    },
+    "Bear Creek": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far NE. Rural. No metro."
+    },
+    "Nichols": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far west. Rural."
+    },
+    "Shiocton": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far west. Rural."
+    }
+  },
+  "Brown": {
+    "Green Bay": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment/infill. Growth spills outward."
+    },
+    "De Pere": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment/infill."
+    },
+    "Ashwaubenon": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "Adjacent to Green Bay. I-41. Sewer/water."
+    },
+    "Howard": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "North of Green Bay. Residential expansion."
+    },
+    "Suamico": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "North of Howard. New subdivisions active."
+    },
+    "Bellevue": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "East of Green Bay. Steady growth."
+    },
+    "Ledgeview": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Fastest growing area. Near De Pere."
+    },
+    "Lawrence": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Strong growth. I-41/I-43 access."
+    },
+    "Allouez": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "Adjacent to Green Bay. Mostly built out."
+    },
+    "Humboldt": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "East of Green Bay. Edge growth."
+    },
+    "Scott": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "Near Howard. Growth along roads."
+    },
+    "Green Bay Town": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Growth near city limits."
+    },
+    "Wrightstown Town": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Southern edge. Localized."
+    },
+    "Hobart": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Bedroom community."
+    },
+    "Pulaski": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far NW. Limited metro."
+    },
+    "Denmark": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far east. Localized."
+    },
+    "Rockland": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural focus."
+    },
+    "Eaton": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural."
+    },
+    "Glenmore": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Strong agricultural. Very limited."
+    },
+    "Holland": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural preservation."
+    },
+    "Morrison": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural preservation priority."
+    },
+    "New Denmark": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural."
+    },
+    "Pittsfield": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural. Minimal growth."
+    },
+    "Greenleaf": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Small rural village."
+    }
+  },
+  "Dane": {
+    "Madison": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment/infill/transit-oriented."
+    },
+    "Middleton": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Redevelopment. Growth spills to Westport."
+    },
+    "Sun Prairie City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Fast-growing but mostly infill."
+    },
+    "Fitchburg": {
+      "type": "City",
+      "rating": "High",
+      "notes": "South of Madison. Major residential. Sewer/water."
+    },
+    "Verona": {
+      "type": "City",
+      "rating": "High",
+      "notes": "Epic Systems corridor. Massive demand."
+    },
+    "Sun Prairie Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Surrounds city. FLU shows residential."
+    },
+    "Westport": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Between Middleton and Lake Mendota."
+    },
+    "Springfield": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "North of Middleton. Edge growth."
+    },
+    "Burke": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Between Madison and Sun Prairie."
+    },
+    "Blooming Grove": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "East of Madison. Strong pressure."
+    },
+    "Pleasant Springs": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "South of Madison."
+    },
+    "Dunn": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "SW of Madison. Edge growth."
+    },
+    "Montrose": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "SE of Oregon."
+    },
+    "Oregon": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "SW metro. FLU + sewer."
+    },
+    "McFarland": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "SE of Madison. Lake Waubesa."
+    },
+    "Waunakee": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "NW metro. Strong pressure."
+    },
+    "DeForest": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "North metro. I-39/90/94."
+    },
+    "Windsor": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "North metro."
+    },
+    "Bristol": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "North of Sun Prairie."
+    },
+    "Cottage Grove": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "East metro."
+    },
+    "Stoughton": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "South metro."
+    },
+    "Cross Plains": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "West metro."
+    },
+    "Dane Village": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far NW. Limited."
+    },
+    "Black Earth": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far west."
+    },
+    "Mazomanie": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far west."
+    },
+    "Blue Mounds": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far west."
+    },
+    "Cambridge": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "SE edge."
+    },
+    "Deerfield": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far east."
+    },
+    "Marshall": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far NE."
+    },
+    "Brooklyn": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far south."
+    },
+    "Rutland": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "South of Oregon."
+    },
+    "York": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "NE."
+    },
+    "Berry": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far west."
+    },
+    "Christiana": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far NW."
+    },
+    "Dunkirk": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    },
+    "Albion": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far SE."
+    },
+    "Primrose": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Agricultural preservation."
+    },
+    "Perry": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far south."
+    },
+    "Vermont": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far south."
+    }
+  },
+  "Waukesha": {
+    "Waukesha City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Core city. Infill."
+    },
+    "Brookfield City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Built out. Infill."
+    },
+    "New Berlin": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Mix infill/edge."
+    },
+    "Muskego City": {
+      "type": "City",
+      "rating": "Moderate to High",
+      "notes": "SE edge near Milwaukee."
+    },
+    "Oconomowoc City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Lake country."
+    },
+    "Pewaukee City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "I-94 corridor."
+    },
+    "Delafield City": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Western edge."
+    },
+    "Menomonee Falls": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "NE edge near Milwaukee. Expansion."
+    },
+    "Lisbon": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Between Menomonee Falls and Pewaukee."
+    },
+    "Genesee": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Near Waukesha/Milwaukee edge."
+    },
+    "Pewaukee Village": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "I-94 corridor. Growing rapidly."
+    },
+    "Sussex": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "Between Waukesha and Menomonee Falls."
+    },
+    "Waukesha Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to city."
+    },
+    "Brookfield Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to both cities."
+    },
+    "Lannon": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "Near Menomonee Falls."
+    },
+    "Butler": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Mostly built out."
+    },
+    "Muskego Town": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Edge near Milwaukee."
+    },
+    "Elm Grove": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Built out. Infill."
+    },
+    "Dousman": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far west."
+    },
+    "Wales": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Lake country."
+    },
+    "Big Bend": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "South edge."
+    },
+    "North Prairie": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Far west."
+    },
+    "Delafield Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Lake country."
+    },
+    "Merton": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "North. Edge."
+    },
+    "Vernon": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "South."
+    },
+    "Summit": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Lake country."
+    },
+    "Oconomowoc Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Lake country."
+    },
+    "Mukwonago": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "South edge."
+    },
+    "Eagle": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far west."
+    },
+    "Ottawa": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far west."
+    }
+  },
+  "Ozaukee": {
+    "Mequon": {
+      "type": "City",
+      "rating": "High",
+      "notes": "Southern edge. Milwaukee north shore."
+    },
+    "Cedarburg City": {
+      "type": "City",
+      "rating": "Moderate to High",
+      "notes": "I-43 corridor. Bedroom community."
+    },
+    "Port Washington": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Lake Michigan. Tourism."
+    },
+    "Grafton Village": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "I-43 corridor. Growing."
+    },
+    "Saukville": {
+      "type": "Village",
+      "rating": "High",
+      "notes": "I-43 north. Expansion."
+    },
+    "Cedarburg Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to cities. FLU shows residential."
+    },
+    "Grafton Town": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "I-43 corridor edge."
+    },
+    "Port Washington Town": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Some edge growth."
+    },
+    "Belgium Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "North edge."
+    },
+    "Belgium Village": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "North."
+    },
+    "Fredonia Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "NW. Rural."
+    },
+    "Fredonia Village": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "NW."
+    },
+    "Holland": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural/agricultural."
+    }
+  },
+  "Milwaukee": {
+    "Milwaukee": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Infill/redevelopment/brownfield."
+    },
+    "Wauwatosa": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Built out. Infill."
+    },
+    "West Allis": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Built out."
+    },
+    "Greenfield": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "Built out."
+    },
+    "Franklin": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "MOST greenfield in county."
+    },
+    "Oak Creek": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "SE edge. Growth corridor."
+    },
+    "Greendale": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Mostly built out."
+    },
+    "Hales Corners": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "River Hills": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Low density."
+    },
+    "Shorewood": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "Whitefish Bay": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "Fox Point": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "Bayside": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "Brown Deer": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "North edge."
+    },
+    "Glendale": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "North."
+    },
+    "Cudahy": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "St Francis": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Built out."
+    },
+    "West Milwaukee": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Industrial. Built out."
+    }
+  },
+  "Rock": {
+    "Janesville": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Core city. Infill."
+    },
+    "Beloit": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Stateline. Infill."
+    },
+    "Beloit Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to city. Illinois line. Stateline."
+    },
+    "Janesville Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Surrounds city. FLU residential."
+    },
+    "Turtle": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Southern edge. Stateline corridor."
+    },
+    "Harmony": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "East of Janesville."
+    },
+    "Evansville": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "North metro. Bedroom."
+    },
+    "Milton Town": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "Near City of Milton."
+    },
+    "Fulton": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "NE of Janesville."
+    },
+    "Milton City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Localized growth."
+    },
+    "Clinton Village": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Stateline corridor."
+    },
+    "Rock Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Near Janesville edge."
+    },
+    "Spring Valley": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Near Beloit edge."
+    },
+    "Clinton Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Some edge."
+    },
+    "Orfordville": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "South."
+    },
+    "Footville": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Limited."
+    },
+    "Avon": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far west."
+    },
+    "Bradford": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "North."
+    },
+    "Center Town": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "NW."
+    },
+    "Johnstown": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    },
+    "La Prairie": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    },
+    "Lima": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    },
+    "Magnolia": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "NW."
+    },
+    "Newark": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    },
+    "Plymouth": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "East."
+    },
+    "Porter": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Far south."
+    }
+  },
+  "Winnebago": {
+    "Oshkosh": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Core city. Infill."
+    },
+    "Neenah City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Fox River corridor."
+    },
+    "Menasha City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Built out."
+    },
+    "Neenah Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to Neenah/Menasha. US 41."
+    },
+    "Menasha Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Surrounds Menasha."
+    },
+    "Oshkosh Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "South of Oshkosh. US 41."
+    },
+    "Algoma": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "North of Oshkosh. US 41."
+    },
+    "Vinland": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "North of Neenah."
+    },
+    "Clayton": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "SW of Neenah."
+    },
+    "Fox Crossing": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "Between Neenah and Menasha."
+    },
+    "Winneconne": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Lake Winnebago."
+    },
+    "Omro": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "West of Oshkosh."
+    },
+    "Wolf River": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "North."
+    },
+    "Rushford": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "West."
+    },
+    "Nekimi": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "South of Oshkosh."
+    },
+    "Black Wolf": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "South."
+    },
+    "Utica": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West. Agricultural."
+    },
+    "Poygan": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    },
+    "Winchester": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    },
+    "Larsen": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "West."
+    }
+  },
+  "Calumet": {
+    "Appleton Calumet": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Cross-county. Infill."
+    },
+    "Kaukauna Calumet": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Cross-county."
+    },
+    "Menasha Calumet City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Cross-county."
+    },
+    "Chilton": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "County seat."
+    },
+    "Brillion": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "Industrial base."
+    },
+    "New Holstein City": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "South edge."
+    },
+    "Kiel": {
+      "type": "City",
+      "rating": "Low to Moderate",
+      "notes": "South edge."
+    },
+    "Harrison Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "South of Appleton. US 41/10."
+    },
+    "Menasha Calumet Town": {
+      "type": "Town",
+      "rating": "High",
+      "notes": "Adjacent to Menasha/Appleton."
+    },
+    "Stockbridge": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "Lake Winnebago. Growing."
+    },
+    "Brothertown": {
+      "type": "Town",
+      "rating": "Moderate to High",
+      "notes": "Lakeshore."
+    },
+    "Hilbert": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Central."
+    },
+    "Sherwood": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Lakeshore."
+    },
+    "Chilton Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Surrounds city."
+    },
+    "Brillion Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Nearby."
+    },
+    "Potter": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Small."
+    },
+    "St Anna": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Very small."
+    },
+    "New Holstein Town": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural."
+    },
+    "Charlestown": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "SW."
+    },
+    "Rantoul": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "NW."
+    },
+    "Woodville": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    }
+  },
+  "Door": {
+    "Sturgeon Bay City": {
+      "type": "City",
+      "rating": "Moderate",
+      "notes": "County seat. Most growth."
+    },
+    "Sturgeon Bay Town": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Adjacent. Some residential."
+    },
+    "Nasewaupee": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Entry corridor."
+    },
+    "Sevastopol": {
+      "type": "Town",
+      "rating": "Moderate",
+      "notes": "Central. Some growth."
+    },
+    "Sister Bay": {
+      "type": "Village",
+      "rating": "Moderate to High",
+      "notes": "Tourism corridor. Seasonal."
+    },
+    "Egg Harbor Village": {
+      "type": "Village",
+      "rating": "Moderate",
+      "notes": "Tourism. Limited year-round."
+    },
+    "Ephraim": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Strict regulations."
+    },
+    "Fish Creek": {
+      "type": "Village",
+      "rating": "Low to Moderate",
+      "notes": "Tourism."
+    },
+    "Forestville Village": {
+      "type": "Village",
+      "rating": "Low",
+      "notes": "Far south."
+    },
+    "Baileys Harbor": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Lake Michigan. Seasonal."
+    },
+    "Egg Harbor Town": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Some edge."
+    },
+    "Gibraltar": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Fish Creek area."
+    },
+    "Jacksonport": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Lakeshore."
+    },
+    "Liberty Grove": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Northern end."
+    },
+    "Union": {
+      "type": "Town",
+      "rating": "Low to Moderate",
+      "notes": "Central."
+    },
+    "Brussels": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Rural."
+    },
+    "Clay Banks": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    },
+    "Forestville Town": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    },
+    "Gardner": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "South."
+    },
+    "Washington": {
+      "type": "Town",
+      "rating": "Low",
+      "notes": "Washington Island."
+    }
+  }
+}
