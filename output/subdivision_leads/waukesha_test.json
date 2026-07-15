@@ -1,0 +1,2099 @@
+{
+  "off_market": [
+    {
+      "fips": "55133",
+      "apn": "MNFV-0031-996",
+      "street_address": "LANNON RD",
+      "owner_full_name": "R & S HILLS FARM LLC",
+      "property_id": 150966780,
+      "_town": "MENOMONEE FALLS",
+      "lot_size_acres": 39.46
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0079-994-012",
+      "owner_full_name": "GROSS HERBERT",
+      "property_id": 150971999,
+      "_town": "MENOMONEE FALLS",
+      "lot_size_acres": 40
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0063-991-001",
+      "owner_full_name": "RIOJAS SARAH",
+      "property_id": 150999611,
+      "_town": "MENOMONEE FALLS",
+      "lot_size_acres": 21.62
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0015-997-004",
+      "street_address": "MAPLE RD",
+      "owner_full_name": "WEILAND ROBERT",
+      "property_id": 167758345,
+      "_town": "MENOMONEE FALLS",
+      "lot_size_acres": 41.47
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0145-996",
+      "owner_full_name": "BENES MEGAN",
+      "property_id": 150955382,
+      "_town": "LISBON",
+      "lot_size_acres": 70.08
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0146-998-002",
+      "owner_full_name": "BASTIAN RONALD",
+      "property_id": 150955429,
+      "_town": "LISBON",
+      "lot_size_acres": 25.63
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0214-997",
+      "owner_full_name": "MERTON COMMUNITY SCHOOL DIST",
+      "property_id": 150956479,
+      "_town": "LISBON",
+      "lot_size_acres": 36
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-049",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979227,
+      "_town": "LISBON",
+      "lot_size_acres": 31.91
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0168-996",
+      "owner_full_name": "ARTHUR G SCHLAFER FARM LLC",
+      "property_id": 150989313,
+      "_town": "LISBON",
+      "lot_size_acres": 29.92
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0287-998-006",
+      "owner_full_name": "WISCONSIN CENTRAL LTD",
+      "property_id": 151001433,
+      "_town": "LISBON",
+      "lot_size_acres": 33.79
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0220-995-003",
+      "street_address": "MORAINE DR",
+      "owner_full_name": "SPITZ FAMILY LIMITED PARTNERSHIP",
+      "property_id": 153422115,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0188-007",
+      "owner_full_name": "TOEBES MICHAEL",
+      "property_id": 153428230,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0223-997",
+      "owner_full_name": "SPITZ FAMILY LIMITED PARTNERSHIP",
+      "property_id": 153428617,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1555-999-004",
+      "owner_full_name": "NEUMANN ASHLEY",
+      "property_id": 150967471,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1570-995",
+      "street_address": "S56W31798 STATE ROAD 59",
+      "owner_full_name": "DIETRICH RICHARD",
+      "property_id": 150968831,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1527-990-001",
+      "street_address": "HIGHWAY 83",
+      "owner_full_name": "BUNDY MICHAEL",
+      "property_id": 156516905,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0877-995",
+      "owner_full_name": "BRANDT FARM LLC",
+      "property_id": 151025366,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0279-988-003",
+      "owner_full_name": "SCHELLIN STEVEN",
+      "property_id": 153428496,
+      "_town": "SUSSEX"
+    }
+  ],
+  "for_sale": [
+    {
+      "fips": "55133",
+      "apn": "MNFV-0058-999",
+      "street_address": "TAMARACK TRL",
+      "owner_full_name": "LANDVATTER MICHAEL",
+      "property_id": 150963619,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0011-220-001",
+      "owner_full_name": "ST PAULS UNITED CHURCH OF CHRIST",
+      "lot_size_acres": 0.41,
+      "property_id": 150966368,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0011-335-001",
+      "street_address": "N89W16278 MAIN ST",
+      "owner_full_name": "ST MARYS CONGREGATION",
+      "lot_size_acres": 0.23,
+      "property_id": 150966720,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0039-994",
+      "owner_full_name": "KOLBECK PAUL",
+      "property_id": 150968387,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0039-996",
+      "street_address": "N84W16707 MENOMONEE AVE",
+      "owner_full_name": "EMMANUEL EVANGELICAL CONGREGATION",
+      "property_id": 150968433,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0049-969-001",
+      "street_address": "FOND DU LAC AVE",
+      "owner_full_name": "GIBBONS JONATHAN",
+      "property_id": 150970682,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0084-993",
+      "owner_full_name": "DAQUISTO ANDRAE",
+      "property_id": 150972370,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0084-995",
+      "owner_full_name": "DACQUISTO ANDRAE",
+      "property_id": 150972392,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0084-999",
+      "owner_full_name": "DACQUISTO ANDRAE",
+      "property_id": 150972407,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0087-993",
+      "owner_full_name": "DACQUISTO ANDRAE",
+      "property_id": 150973137,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0142-002",
+      "street_address": "W137N5557 WILLIAMS PL",
+      "owner_full_name": "INTERNATIONAL BROTHERHOOD OF ELECTRICAL WORKERS",
+      "property_id": 150980147,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0012-219",
+      "street_address": "N89W16215 CLEVELAND AVE",
+      "owner_full_name": "ST MARYS CONGREGATION",
+      "property_id": 150981985,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0055-177",
+      "owner_full_name": "HIDDEN CROSSING HOMEOWNERS ASSOCATION",
+      "property_id": 150987655,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0001-999-007",
+      "owner_full_name": "WASTE MANAGEMENT OF WI",
+      "lot_size_acres": 0.03,
+      "property_id": 150991764,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0062-990-001",
+      "street_address": "W180N7863 TOWN HALL RD",
+      "owner_full_name": "GLORIA DEI LUTHERAN CHURCH",
+      "property_id": 150999502,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0136-188",
+      "owner_full_name": "GRAYSLAND HOME OWNERS ASSOCIATION",
+      "lot_size_acres": 0.98,
+      "property_id": 153421472,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0136-189",
+      "owner_full_name": "GRAYSLAND HOME OWNERS ASSOCIATION",
+      "property_id": 153421523,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0133-218",
+      "owner_full_name": "RAVENWOODS MF LTD",
+      "lot_size_acres": 0.5,
+      "property_id": 153429198,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0016-988",
+      "street_address": "N88W17658 CHRISTMAN RD",
+      "owner_full_name": "GOOD SHEPHERD",
+      "property_id": 150959204,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0016-988-001",
+      "street_address": "N88W17550 CHRISTMAN RD",
+      "owner_full_name": "CHILDRENS COMMUNITY CENTER",
+      "property_id": 150959212,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0017-994-003",
+      "street_address": "W188N9273 MAPLE RD",
+      "owner_full_name": "LENSER MELVIN",
+      "property_id": 150959359,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0019-993",
+      "street_address": "W204N8930 LANNON RD",
+      "owner_full_name": "HEBL MATTHEW",
+      "property_id": 150959957,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0021-987",
+      "street_address": "N94W20897 SCHLEI RD",
+      "owner_full_name": "WANK LEAH",
+      "property_id": 150959988,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0021-988",
+      "owner_full_name": "ARNDT MARTHA C",
+      "property_id": 150959990,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0022-986",
+      "street_address": "W220N9280 TOWN LINE RD",
+      "owner_full_name": "M-P INVESTMENT CO",
+      "property_id": 150960083,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0022-990",
+      "owner_full_name": "UNION CEMETERY ASSOCIATION MENOMONEE",
+      "property_id": 150960089,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0022-991",
+      "street_address": "N94W21825 SCHLEI RD",
+      "owner_full_name": "NIEBLER JOHN",
+      "property_id": 150960091,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0023-998",
+      "street_address": "W220N9018 TOWN LINE RD",
+      "owner_full_name": "THE AMENDED & RESTATED DALE J & LINDA K BOEDEKER",
+      "property_id": 150960193,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0023-999",
+      "street_address": "W220N9110 TOWN LINE RD",
+      "owner_full_name": "NIEBLER JOHN",
+      "property_id": 150960194,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0024-999-001",
+      "street_address": "W204N8929 LANNON RD",
+      "owner_full_name": "CHERTACK ELIOT",
+      "property_id": 150960315,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0024-999-002",
+      "street_address": "W204N8867 LANNON RD",
+      "owner_full_name": "GAY DAVID",
+      "property_id": 150960316,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0025-996",
+      "street_address": "N84W20828 MENOMONEE AVE",
+      "owner_full_name": "AMMENTORP ALAN",
+      "property_id": 150960319,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0025-997",
+      "street_address": "W204N8525 LANNON RD",
+      "owner_full_name": "THOMPSON GARY",
+      "property_id": 150960325,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0026-989",
+      "street_address": "W220N8578 TOWN LINE RD",
+      "owner_full_name": "APPLE SPRINGS",
+      "property_id": 150960352,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0026-994",
+      "street_address": "N84W21400 MENOMONEE AVE",
+      "owner_full_name": "CHAMBERS JUDITH",
+      "property_id": 150960386,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0026-995",
+      "street_address": "W220N8676 TOWN LINE RD",
+      "owner_full_name": "LATIKER JOE",
+      "property_id": 150960388,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0028-999-001",
+      "street_address": "W204N8291 LANNON RD",
+      "owner_full_name": "ZITZKE JOHN",
+      "property_id": 150960441,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0047-080",
+      "owner_full_name": "THE PRESERVE JBJ LIMITED PARTNERSHIP",
+      "property_id": 150962381,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0059-989",
+      "street_address": "N72W16730 GOOD HOPE RD",
+      "owner_full_name": "HAENSGEN GREGG",
+      "property_id": 150963624,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0059-994",
+      "street_address": "N72W16996 GOOD HOPE RD",
+      "owner_full_name": "VANG LAUJ-MATTHEW",
+      "property_id": 150963651,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0011-175-001",
+      "owner_full_name": "ST PAULS UNITED CHURCH OF CHRIST",
+      "lot_size_acres": 0.44,
+      "property_id": 150966141,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0011-208",
+      "street_address": "N88W16652 MAIN ST",
+      "owner_full_name": "FRED HENRIZI POST 382 AMERICAN LEGION",
+      "lot_size_acres": 0.08,
+      "property_id": 150966298,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "MNFV-0011-220-002",
+      "street_address": "N89W16856 APPLETON AVE",
+      "owner_full_name": "ST PAULS UNITED CHURCH OF CHRIST",
+      "property_id": 150966370,
+      "_town": "MENOMONEE FALLS"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0151-999-006",
+      "owner_full_name": "UNVERRICH GLORIA",
+      "lot_size_acres": 0.23,
+      "property_id": 150956155,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0214-997",
+      "owner_full_name": "MERTON COMMUNITY SCHOOL DIST",
+      "property_id": 150956479,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0216-067",
+      "owner_full_name": "LISBON & MERTON UNION CEMETERY ASSOCIATION",
+      "property_id": 150956701,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0217-996-002",
+      "owner_full_name": "LISBON",
+      "property_id": 150957092,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0178-991",
+      "owner_full_name": "BARTHEN LARRY",
+      "property_id": 150961308,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0178-992",
+      "owner_full_name": "WIESE MARIE",
+      "property_id": 150961310,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0178-997",
+      "owner_full_name": "MCLEAN-PETERSON SHARON",
+      "property_id": 150961345,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0183-992",
+      "owner_full_name": "MILLER ROBERT L",
+      "property_id": 150961637,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0184-995",
+      "owner_full_name": "FEEST RICHARD",
+      "property_id": 150961830,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0185-995",
+      "owner_full_name": "ZIEBELL EARL",
+      "property_id": 150961882,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0259-989-001",
+      "street_address": "N56W26530 RICHMOND RD",
+      "owner_full_name": "JT SCHOOL DIST NO 2",
+      "property_id": 150964939,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0267-115",
+      "owner_full_name": "NOVIK ALEXSEY",
+      "property_id": 150978284,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0161-999-006",
+      "owner_full_name": "SENNOTT DANIEL",
+      "lot_size_acres": 0.04,
+      "property_id": 150988461,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0225-995-007",
+      "street_address": "W250N7095 HILLSIDE RD",
+      "owner_full_name": "LISBON UNITED PRESBYTERIAN CHURCH",
+      "property_id": 150990540,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0248-977",
+      "owner_full_name": "ROSE HILL CEMETERY ASSOCIATION",
+      "property_id": 150991476,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0288-985-001",
+      "street_address": "W220N4915 TOWN LINE RD",
+      "owner_full_name": "REDEEMER UNITED CHURCH OF CHRIST",
+      "property_id": 150991667,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0207-997",
+      "owner_full_name": "QUINONEZ MIGUEL",
+      "property_id": 150998268,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0208-997",
+      "owner_full_name": "HOWARD DORIS",
+      "property_id": 150998410,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0212-995",
+      "owner_full_name": "HORNE MARY",
+      "property_id": 150998986,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0279-995",
+      "owner_full_name": "SCHUPPEL CATHERINE",
+      "property_id": 151000192,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0282-010",
+      "owner_full_name": "HALQUIST WILLIAM",
+      "lot_size_acres": 0.34,
+      "property_id": 151000403,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0282-025",
+      "owner_full_name": "REINHOLD LARRY EUGENE",
+      "lot_size_acres": 0.34,
+      "property_id": 151000518,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0282-031",
+      "street_address": "ERVIN PL",
+      "owner_full_name": "SAWALL PETER",
+      "lot_size_acres": 0.34,
+      "property_id": 151000558,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0284-994-002",
+      "street_address": "QUARRY CORNERS PKWY",
+      "owner_full_name": "HENNINGS BRIAN",
+      "property_id": 151000747,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0287-998-006",
+      "owner_full_name": "WISCONSIN CENTRAL LTD",
+      "property_id": 151001433,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-995-004",
+      "owner_full_name": "SPITZ FAMILY LIMITED PARTNERSHIP",
+      "property_id": 153417321,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0272-071",
+      "street_address": "BAYBERRY DR",
+      "owner_full_name": "PARR DANIEL",
+      "lot_size_acres": 0.71,
+      "property_id": 153418068,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0254-005",
+      "owner_full_name": "SCOTT DANIEL",
+      "lot_size_acres": 0.36,
+      "property_id": 153419173,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0254-006",
+      "street_address": "N61W25681 WALNUT RD",
+      "owner_full_name": "SCOTT DANIEL",
+      "lot_size_acres": 0.36,
+      "property_id": 153419174,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0254-007",
+      "owner_full_name": "SCOTT DANIEL",
+      "lot_size_acres": 0.36,
+      "property_id": 153419223,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0282-987",
+      "owner_full_name": "DRISCOLL WENDY",
+      "lot_size_acres": 0.5,
+      "property_id": 153420098,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0191-017",
+      "owner_full_name": "KWAPIL RYAN",
+      "lot_size_acres": 0.33,
+      "property_id": 153420952,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0267-100",
+      "street_address": "WILLOW CREEK DR",
+      "owner_full_name": "NOVIK ALEXSEY",
+      "lot_size_acres": 0.66,
+      "property_id": 153423575,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0154-997",
+      "street_address": "N95W24600 COUNTY ROAD Q",
+      "owner_full_name": "KNOPP SHEILA",
+      "property_id": 153424248,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0161-995",
+      "owner_full_name": "SCHMIDT GEORGE",
+      "lot_size_acres": 0.82,
+      "property_id": 153424570,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0161-999-012",
+      "owner_full_name": "SOMMER ROBERT",
+      "property_id": 153424778,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0261-999",
+      "street_address": "W270N6166 MORAINE DR",
+      "owner_full_name": "SPITZ FAMILY LIMITED PARTNERSHIP",
+      "property_id": 153425806,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0150-995",
+      "owner_full_name": "VILORIA ANTHONY",
+      "property_id": 153427986,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0151-999-003",
+      "owner_full_name": "KISTING JEFFERY",
+      "property_id": 153428177,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0223-997",
+      "owner_full_name": "SPITZ FAMILY LIMITED PARTNERSHIP",
+      "property_id": 153428617,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0145-996",
+      "owner_full_name": "BENES MEGAN",
+      "property_id": 150955382,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0146-998-002",
+      "owner_full_name": "BASTIAN RONALD",
+      "property_id": 150955429,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0148-999",
+      "street_address": "W220N8991 TOWN LINE RD",
+      "owner_full_name": "AUMUELLER CHAD",
+      "property_id": 150955712,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0149-990-001",
+      "street_address": "COUNTY LINE RD",
+      "owner_full_name": "BOBROWITZ PAUL",
+      "property_id": 150955773,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0152-995-001",
+      "street_address": "N88W23066 N LISBON RD",
+      "owner_full_name": "PFANNERSTILL PROSPER",
+      "property_id": 150956232,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0153-996",
+      "owner_full_name": "CONCRETE ACQUISITION CO",
+      "property_id": 150956278,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0214-995",
+      "street_address": "LAKE FIVE RD",
+      "owner_full_name": "BONK TIMOTHY",
+      "property_id": 150956419,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0220-014",
+      "street_address": "W272N6562 BATTERJOHN DR",
+      "owner_full_name": "STUHR SAMUEL",
+      "property_id": 150957171,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0220-016",
+      "street_address": "W272N6616 BATTERJOHN DR",
+      "owner_full_name": "HERDER LUKE A",
+      "property_id": 150957174,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0220-037",
+      "owner_full_name": "LISBON LAND PARTNERSHIP LLP",
+      "property_id": 150957262,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0220-038",
+      "owner_full_name": "LISBON LAND PARTNERSHIP LLP",
+      "property_id": 150957264,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0180-999",
+      "street_address": "W250N8243 HILLSIDE RD",
+      "owner_full_name": "FRYDA MICHAEL",
+      "property_id": 150961521,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0186-996",
+      "street_address": "N LISBON RD",
+      "owner_full_name": "UNVERRICH GLORIA",
+      "property_id": 150961987,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0186-998-001",
+      "owner_full_name": "WENZEL DOUGLAS",
+      "property_id": 150962022,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0189-995-003",
+      "street_address": "TOWN LINE RD",
+      "owner_full_name": "DOPERALSKI RICHARD",
+      "property_id": 150962414,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0190-997-002",
+      "owner_full_name": "GEHRKE MATTHEW",
+      "property_id": 150962436,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0190-999",
+      "street_address": "N88W22937 N LISBON RD",
+      "owner_full_name": "STEVENS JAMES",
+      "property_id": 150962447,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0255-998",
+      "street_address": "MARY HILL RD",
+      "owner_full_name": "GATZKE DERIK",
+      "property_id": 150963751,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-010",
+      "street_address": "W263N6143 RIDGE DR",
+      "owner_full_name": "STRADINGER DANE",
+      "property_id": 150963841,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-012",
+      "street_address": "W264N6093 RIDGE DR",
+      "owner_full_name": "HANSEN JAMES P",
+      "property_id": 150963845,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-013",
+      "street_address": "W264N6067 RIDGE DR",
+      "owner_full_name": "HANSEN JAMES P",
+      "property_id": 150963847,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-014",
+      "street_address": "W264N6039 RIDGE DR",
+      "owner_full_name": "DREWEK ROBERT J",
+      "property_id": 150963850,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-015",
+      "street_address": "W264N6011 RIDGE DR",
+      "owner_full_name": "ARMBRUSTER JAY",
+      "property_id": 150963852,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-016",
+      "street_address": "N60W26411 KATESBRIDGE DR",
+      "owner_full_name": "ROSENBERGER ERIC",
+      "property_id": 150963855,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-020",
+      "street_address": "N60W26390 KATESBRIDGE DR",
+      "owner_full_name": "DREWEK ROBERT",
+      "property_id": 150963869,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-031",
+      "street_address": "N62W26289 ADAMS CT",
+      "owner_full_name": "THOMPSON BRANDON",
+      "property_id": 150963952,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-032",
+      "street_address": "N62W26259 ADAMS CT",
+      "owner_full_name": "LISBON LAND PARTNERSHIP LLP",
+      "property_id": 150963954,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-065",
+      "street_address": "W260N6078 BRACKLYN DR",
+      "owner_full_name": "CONDON PROPERTIES LIMITED PARTNERSHIP",
+      "property_id": 150964082,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0257-069",
+      "street_address": "N60W26086 KATESBRIDGE DR",
+      "owner_full_name": "DANOWSKI SAMANTHA M",
+      "property_id": 150964122,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0265-025",
+      "street_address": "JESSICA DR",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150976976,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0265-029",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150977028,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0269-993-004",
+      "street_address": "N53W26301 LISBON RD",
+      "owner_full_name": "HURTGEN PAUL",
+      "property_id": 150978750,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0269-995",
+      "street_address": "N54W26455 LISBON RD",
+      "owner_full_name": "ROBINSON CLAIRE A",
+      "property_id": 150978768,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-001",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150978775,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-021",
+      "street_address": "1309 S WATERVILLE LAKE RD",
+      "owner_full_name": "SCHULTZ CARL",
+      "lot_size_acres": 0.92,
+      "property_id": 150978968,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-041",
+      "street_address": "W267N5501 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979186,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-042",
+      "street_address": "W267N5529 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979188,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-043",
+      "street_address": "W267N5555 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979190,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-044",
+      "street_address": "W267N5581 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979194,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-045",
+      "street_address": "W267N5574 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979197,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-046",
+      "street_address": "W267N5536 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979199,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-047",
+      "street_address": "W267N5500 GLADYS CT",
+      "owner_full_name": "SCHULTZ CARL",
+      "lot_size_acres": 0.95,
+      "property_id": 150979202,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-048",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979225,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0270-049",
+      "owner_full_name": "SCHULTZ CARL",
+      "property_id": 150979227,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0161-987-001",
+      "street_address": "COUNTY ROAD Q",
+      "owner_full_name": "SIMON ALEXANDER",
+      "property_id": 150988421,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0163-999-001",
+      "street_address": "N91W26629 HICKORY RD",
+      "owner_full_name": "KONS LLP",
+      "property_id": 150988611,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0165-997-001",
+      "street_address": "W274N9354 LAKE FIVE RD",
+      "owner_full_name": "LANDRY THOMAS",
+      "property_id": 150988632,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0165-997-002",
+      "street_address": "HICKORY RD",
+      "owner_full_name": "LANDRY THOMAS",
+      "property_id": 150988634,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0165-999",
+      "street_address": "N95W27039 COUNTY ROAD Q",
+      "owner_full_name": "STAUS LAKE FIVE FAMILY FARM LLC",
+      "property_id": 150988636,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0168-996",
+      "owner_full_name": "ARTHUR G SCHLAFER FARM LLC",
+      "property_id": 150989313,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "LSBT-0168-999-006",
+      "street_address": "N91W26949 HICKORY RD",
+      "owner_full_name": "RONALD SCHLAFER FARM LLC",
+      "property_id": 150989339,
+      "_town": "LISBON"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1490-998",
+      "street_address": "W287S3159 BETHESDA CHURCH RD",
+      "owner_full_name": "BETHESDA PRESBYTERIAN CHURCH",
+      "property_id": 150950270,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1491-039-001",
+      "owner_full_name": "SCHMITTINGER JEREMY",
+      "property_id": 150950402,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1491-061",
+      "owner_full_name": "LORENZ JOHNMARK J",
+      "lot_size_acres": 0.07,
+      "property_id": 150950439,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1580-997-001",
+      "street_address": "W299S6100 GENESEE PASS",
+      "owner_full_name": "JOHNS WILLIAM",
+      "property_id": 150952709,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1583-999",
+      "owner_full_name": "CHESEBRO JAMES",
+      "property_id": 150952732,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1518-008-001",
+      "street_address": "S39W32887 COUNTY ROAD D",
+      "owner_full_name": "REFORMATION EVANGELICAL LUTHERAN CHURCH",
+      "property_id": 150956022,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-043",
+      "street_address": "S42W31400 HIGHWAY 83",
+      "owner_full_name": "WALES GENESEE LIONS CLUB",
+      "lot_size_acres": 0.28,
+      "property_id": 150956605,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-984",
+      "street_address": "W313S4134 STATE ROAD 83",
+      "owner_full_name": "KETTLE MORAINE SCHOOL",
+      "property_id": 150956875,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1480-995-001",
+      "street_address": "S30W30032 CTH DE",
+      "owner_full_name": "ST PAULS CATHOLIC CHURCH",
+      "property_id": 150963927,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1525-999-005",
+      "street_address": "S36W29657 WERN WAY",
+      "owner_full_name": "WILLIAMS STEVEN",
+      "property_id": 150984046,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1541-999-001",
+      "owner_full_name": "MUREN ROBERT",
+      "property_id": 150984758,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1545-988-001",
+      "street_address": "W303S5078 SEVILLE LN",
+      "owner_full_name": "GENESEE CEMETERY ASSOCIATION",
+      "property_id": 150985140,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1546-009-001",
+      "street_address": "W306S5075 CHURCH ST",
+      "owner_full_name": "FIRST CONGREGATIONAL CHURCH OF GENESEE",
+      "property_id": 150985224,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1459-987",
+      "owner_full_name": "LUTERBACH JOSHUA",
+      "property_id": 150986559,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1459-988",
+      "owner_full_name": "LUTERBACH JOSHUA",
+      "property_id": 150986561,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1459-989",
+      "owner_full_name": "LUTERBACH JOSHUA",
+      "property_id": 150986563,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1503-981",
+      "street_address": "S38W31602 WERN WAY",
+      "owner_full_name": "ST PAULS CATHOLIC CHURCH",
+      "property_id": 150987063,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1541-997-002",
+      "owner_full_name": "MUREN ROBERT",
+      "property_id": 153424247,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1545-017",
+      "owner_full_name": "BOBROWITZ PAUL",
+      "lot_size_acres": 0.03,
+      "property_id": 153424421,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-091",
+      "owner_full_name": "VICTORIA POND HOMEOWNERS ASSOCIATION LTD",
+      "property_id": 153428061,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-092",
+      "owner_full_name": "VICTORIA POND HOMEOWNERS ASSOCIATION LTD",
+      "lot_size_acres": 0.25,
+      "property_id": 153428062,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-093",
+      "owner_full_name": "VICTORIA POND HOMEOWNERS ASSOCIATION LTD",
+      "lot_size_acres": 0.04,
+      "property_id": 153428063,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1521-094",
+      "owner_full_name": "VICTORIA POND HOMEOWNERS ASSOCIATION",
+      "lot_size_acres": 0.05,
+      "property_id": 153428120,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1536-992-002",
+      "owner_full_name": "EMPIRE OIL CO",
+      "property_id": 156516906,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1505-996-017",
+      "street_address": "CTH E DR",
+      "owner_full_name": "HARDIN VIRGIL",
+      "property_id": 173732653,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1493-999",
+      "street_address": "S31W29419 SUNSET DR",
+      "owner_full_name": "NORWICK ALEX",
+      "property_id": 150950600,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1498-999-003",
+      "street_address": "W305S3393 BROOKHILL RD",
+      "owner_full_name": "LOOMIS EDWARD",
+      "property_id": 150951045,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1499-998-003",
+      "owner_full_name": "VARELIS JAMES",
+      "property_id": 150951126,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1500-989-001",
+      "owner_full_name": "WILLIAMS STEVEN",
+      "property_id": 150951156,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1573-994",
+      "owner_full_name": "ROSS WILLIAM",
+      "property_id": 150951824,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1573-995",
+      "street_address": "W300S5807 STATE ROAD 83",
+      "owner_full_name": "ROSS WILLIAM",
+      "property_id": 150951834,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1579-996-002",
+      "street_address": "W299S6100 GENESEE PASS",
+      "owner_full_name": "JOHNS WILLIAM",
+      "property_id": 150952677,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1579-997-001",
+      "street_address": "W299S6370 STATE ROAD 83",
+      "owner_full_name": "SCHUETT ROBERT",
+      "property_id": 150952691,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1580-997",
+      "street_address": "W299S6100 GENESEE PASS",
+      "owner_full_name": "JOHNS WILLIAM",
+      "property_id": 150952708,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1580-999",
+      "street_address": "HOLIDAY RD",
+      "owner_full_name": "SKRZYPCHAK NATE",
+      "property_id": 150952712,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1582-996",
+      "street_address": "W289S5850 HOLIDAY RD",
+      "owner_full_name": "SPELLMAN WILLIAM",
+      "property_id": 150952719,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1582-997",
+      "street_address": "W289S5674 HOLIDAY RD",
+      "owner_full_name": "ODAY PATRICK",
+      "property_id": 150952720,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1582-999",
+      "street_address": "W285S5579 POINT DR",
+      "owner_full_name": "NETTESHEIM ALAN",
+      "property_id": 150952725,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1583-998",
+      "street_address": "W289S6196 HOLIDAY RD",
+      "owner_full_name": "MCCARTHY KEVIN",
+      "property_id": 150952729,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1485-990",
+      "owner_full_name": "JOHNSON JEFFREY R",
+      "property_id": 150965898,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1487-990-007",
+      "owner_full_name": "BARNES TREVOR",
+      "property_id": 150966055,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1487-990-010",
+      "street_address": "W289S2990 ROAD DT",
+      "owner_full_name": "HENDRICKSON-MOEN IZARI",
+      "lot_size_acres": 0.23,
+      "property_id": 150966061,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1487-999-003",
+      "owner_full_name": "SMITH STEVEN",
+      "property_id": 150966171,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1489-983",
+      "owner_full_name": "GAYLORD MICAH",
+      "property_id": 150966331,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1489-999",
+      "owner_full_name": "MUELLER BOBBI",
+      "property_id": 150966453,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1490-989",
+      "owner_full_name": "GAYLORD MICAH",
+      "property_id": 150966454,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1549-995",
+      "street_address": "NOT AVAILABLE",
+      "owner_full_name": "BUNDY MICHAEL",
+      "property_id": 150967208,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1555-999-005",
+      "street_address": "W329S5402 CTH E",
+      "owner_full_name": "KIPP THOMAS",
+      "property_id": 150967473,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1556-995-002",
+      "street_address": "S54W32510 COUNTY ROAD ZZ",
+      "owner_full_name": "GERRITS ANDREW",
+      "property_id": 150967542,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1559-992",
+      "owner_full_name": "KIPP RICHARD",
+      "property_id": 150968137,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1559-998-011",
+      "street_address": "S52W33998 ROAD GG",
+      "owner_full_name": "FIEDLER J BERNARD",
+      "property_id": 150968241,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1565-998",
+      "street_address": "1340 MAIN ST",
+      "owner_full_name": "NEUMANN ASHLEY",
+      "property_id": 150968660,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1569-998",
+      "street_address": "W312S5626 DABLE RD",
+      "owner_full_name": "ROGUTICH LAWRENCE",
+      "property_id": 150968790,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1570-999",
+      "street_address": "S55W31537 STATE ROAD 59",
+      "owner_full_name": "CONNELL MICHAEL",
+      "property_id": 150968903,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1465-999-013",
+      "owner_full_name": "MORRIS JAMES",
+      "property_id": 150982682,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1535-983-006",
+      "owner_full_name": "PERREN KENNETH",
+      "property_id": 150984290,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1536-993-001",
+      "owner_full_name": "EMPIRE OIL CO",
+      "property_id": 150984363,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1536-994-001",
+      "street_address": "S43W28495 HIGHWAY 59",
+      "owner_full_name": "PETERSON GREGORY",
+      "property_id": 150984365,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1537-997-003",
+      "street_address": "S50W28432 SAYLESVILLE RD",
+      "owner_full_name": "EMPIRE OIL CO",
+      "property_id": 150984401,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1537-998",
+      "owner_full_name": "EMPIRE OIL CO",
+      "property_id": 150984407,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1537-999-002",
+      "street_address": "S48W28180 SAYLESVILLE RD",
+      "owner_full_name": "EMPIRE OIL CO",
+      "property_id": 150984410,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1538-998-002",
+      "owner_full_name": "EMPIRE OIL",
+      "property_id": 150984572,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "GNT -1445-999",
+      "street_address": "S12W29771 SUMMIT AVE",
+      "owner_full_name": "EB DAVIES FAMILY FARM LLC",
+      "property_id": 150985353,
+      "_town": "GENESEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0896-009",
+      "street_address": "142 LAKE ST",
+      "owner_full_name": "ANGLICAN CHURCH OF THE APOSTLES",
+      "lot_size_acres": 0.2,
+      "property_id": 151020995,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0896-010",
+      "street_address": "142 LAKE ST",
+      "owner_full_name": "ANGLICAN CHURCH OF THE APOSTLES",
+      "lot_size_acres": 0.2,
+      "property_id": 151020999,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0900-968",
+      "street_address": "642 MAIN ST",
+      "owner_full_name": "THE GETHSEMANE UNITED METHODIST CHURCH",
+      "property_id": 151022602,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0900-995",
+      "owner_full_name": "WIS ELEC POWER CO",
+      "lot_size_acres": 0.91,
+      "property_id": 151022723,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0880-991",
+      "owner_full_name": "BRANDT FARM LLC",
+      "property_id": 151025394,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0898-195-065",
+      "owner_full_name": "PHASE TWO PEWAUKEE PARK HILLS CONDOMINIUM HOMES",
+      "property_id": 151026179,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0888-987",
+      "owner_full_name": "LAKE PEWAUKEE SANITARY DIST",
+      "property_id": 151051128,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0898-998",
+      "owner_full_name": "SAFRO JOHN",
+      "property_id": 151051261,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0899-056",
+      "owner_full_name": "PEWAUKEE MEMORIAL VFW",
+      "lot_size_acres": 0.16,
+      "property_id": 151051330,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0899-272",
+      "street_address": "LOOK OUT DR",
+      "owner_full_name": "JACQUES JOHN",
+      "lot_size_acres": 0.05,
+      "property_id": 151051686,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0899-965",
+      "street_address": "206 E WISCONSIN AVE",
+      "owner_full_name": "PEWAUKEE AREA HISTORICAL",
+      "lot_size_acres": 0.63,
+      "property_id": 151051851,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0899-981",
+      "street_address": "215 E WISCONSIN AVE",
+      "owner_full_name": "WISCONSIN TELEPHONE CO",
+      "property_id": 151051876,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0925-999",
+      "street_address": "800 MAIN ST",
+      "owner_full_name": "AREA BOARD OF VACATIONAL TECHNICAL & ADULT",
+      "property_id": 151052331,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0926-996",
+      "owner_full_name": "AREA BOARD OF VOCATIONAL TECHNICAL & ADULT",
+      "property_id": 151052333,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0926-997",
+      "owner_full_name": "WCTI",
+      "property_id": 151052334,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0926-997-001",
+      "owner_full_name": "WCTI",
+      "property_id": 151052335,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0928-981-004",
+      "owner_full_name": "VENTUREDYNE LTD",
+      "property_id": 151052338,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0875-021",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.55,
+      "property_id": 153418380,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-285",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.02,
+      "property_id": 153422122,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-286",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.26,
+      "property_id": 153422123,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-287",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "property_id": 153422124,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-288",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.43,
+      "property_id": 153422125,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-138",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.44,
+      "property_id": 153424166,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-139",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "property_id": 153424167,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-140",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.11,
+      "property_id": 153424220,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-141",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "property_id": 153424221,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-142",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.02,
+      "property_id": 153424222,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0877-053",
+      "owner_full_name": "LOTS OWNERS OF HAWTHORNE HILL",
+      "property_id": 153424404,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-281",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOCIATION",
+      "property_id": 153425439,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-282",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "property_id": 153425440,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-283",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.36,
+      "property_id": 153425441,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0874-284",
+      "owner_full_name": "LAKE PARK HOMEOWNERS ASSOC",
+      "lot_size_acres": 0.35,
+      "property_id": 153425442,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0893-013-003",
+      "street_address": "EVERGREEN LN",
+      "owner_full_name": "QUEEN OF APOSTLES CONGREGATION",
+      "property_id": 173735676,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0893-127",
+      "street_address": "SANDY CIR",
+      "owner_full_name": "WEBER JOHN H",
+      "property_id": 175979427,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0893-045",
+      "owner_full_name": "ABRAM RANDALL",
+      "lot_size_acres": 0.9,
+      "property_id": 151020195,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0893-043",
+      "street_address": "121 ISLE CT",
+      "owner_full_name": "ABRAM RANDALL",
+      "lot_size_acres": 0.9,
+      "property_id": 151051213,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "PWV -0877-995",
+      "owner_full_name": "BRANDT FARM LLC",
+      "property_id": 151025366,
+      "_town": "PEWAUKEE"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0244-993-001",
+      "street_address": "N59W22476 SILVER SPRING DR",
+      "owner_full_name": "CHRIST OUR SAVIOR LUTHERAN CHURCH",
+      "property_id": 151032033,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0245-912",
+      "street_address": "W232N6342 WAUKESHA AVE",
+      "owner_full_name": "HORNE-MUDLITZ POST NO 6377",
+      "lot_size_acres": 0.71,
+      "property_id": 151032396,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0203-018",
+      "owner_full_name": "LOT OWNERS STONEWOOD ESTATES OF SUSSEX",
+      "lot_size_acres": 0.59,
+      "property_id": 151032876,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0203-019",
+      "owner_full_name": "LOT OWNERS STONEWOOD ESTATES OF SUSSEX",
+      "lot_size_acres": 0.17,
+      "property_id": 151032879,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0252-130",
+      "owner_full_name": "BRANDON OAKS HOMEOWNERS ASSOCIATION",
+      "lot_size_acres": 0.75,
+      "property_id": 151033628,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0235-915",
+      "street_address": "W239N6680 MAPLE AVE",
+      "owner_full_name": "GERMAN EVANGELICAL ZION CHURCH OF SUSSEX",
+      "lot_size_acres": 0.25,
+      "property_id": 151035066,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0246-948",
+      "street_address": "N63W23523 MAIN ST",
+      "owner_full_name": "METHODIST EPISCOPAL CHURCH",
+      "property_id": 151054971,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0249-967",
+      "street_address": "W244N6349 WEAVER DR",
+      "owner_full_name": "FAITH EVANGELICAL LUTHERAN CHURCH",
+      "property_id": 151055475,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0249-971",
+      "street_address": "W240N6145 MAPLE AVE",
+      "owner_full_name": "PEACE LUTHERAN CHURCH",
+      "property_id": 151055477,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0249-971-002",
+      "owner_full_name": "PEACE LUTHERAN CHURCH",
+      "lot_size_acres": 0.6,
+      "property_id": 151055479,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0235-973",
+      "street_address": "W237N6541 ORCHARD DR",
+      "owner_full_name": "WIRTH EMILY",
+      "lot_size_acres": 0.17,
+      "property_id": 153417179,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0235-130",
+      "owner_full_name": "LOT OWNERS VILLAGE ESTATES",
+      "property_id": 153424756,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0245-911-001",
+      "street_address": "N61W23286 SILVER SPRING DR",
+      "owner_full_name": "WISCONSIN TELEPHONE CO",
+      "lot_size_acres": 0.86,
+      "property_id": 160336892,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0199-080",
+      "owner_full_name": "LOT OWNERS HIDDEN HILLS",
+      "lot_size_acres": 0.02,
+      "property_id": 162548222,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0232-977",
+      "street_address": "W240N6543 MAPLE AVE",
+      "owner_full_name": "STADLER MICHAEL",
+      "lot_size_acres": 0.26,
+      "property_id": 151031461,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0279-988-003",
+      "owner_full_name": "SCHELLIN STEVEN",
+      "property_id": 153428496,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0227-999-005",
+      "street_address": "MARY HILL RD",
+      "owner_full_name": "HICKORY VIEW FARMS LLC",
+      "property_id": 169675518,
+      "_town": "SUSSEX"
+    },
+    {
+      "fips": "55133",
+      "apn": "SUXV-0201-998-004",
+      "street_address": "N79W24255 PLAINVIEW RD",
+      "owner_full_name": "RITCHIE JEFFREY",
+      "property_id": 175979099,
+      "_town": "SUSSEX"
+    }
+  ]
+}
