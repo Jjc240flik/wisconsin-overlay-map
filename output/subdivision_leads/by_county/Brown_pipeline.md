@@ -1,6 +1,6 @@
-# Brown County — Ag→Subdivision Rezoning Pipeline
+# Brown County — Ag→Subdivision Rezoning Pipeline (HIGH Only)
 
-**812 parcels** | 103 off-market | 709 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**477 parcels** | 29 off-market | 448 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -96,15 +96,15 @@
 | **A+** | LEDGEVIEW | 1.1 | PANSIER DENNIS D 🔗| D-1453 | 📞 |
 | **A+** | LEDGEVIEW | 1.1 | PANSIER DENNIS D 🔗| D-1452 | 📞 |
 | **A+** | LEDGEVIEW | 0.5 | VANDREESE ROBERT | D-1020 | 📞 |
-| **A+** | LEDGEVIEW | ? | THOMPSON MATT | D-2202 | 📞 |
-| **A+** | LEDGEVIEW | ? | BOEKE ROB | D-2206 | 📞 |
-| **A+** | LEDGEVIEW | ? | ALBRECHT TERRY J | D-2213 | 📞 |
-| **A+** | LEDGEVIEW | ? | COISMAN GERALD | D-2216 | 📞 |
-| **A+** | LEDGEVIEW | ? | BARAN DEANN | D-2218 | 📞 |
-| **A+** | LEDGEVIEW | ? | LOFQUIST GARY | D-2224 | 📞 |
-| **A+** | LEDGEVIEW | ? | THE DEREK F ROBINSON AND ALISON A ROBINS | D-2228 | 📞 |
-| **A+** | LEDGEVIEW | ? | SIPES DONALD R | D-2235 | 📞 |
-| **A+** | LEDGEVIEW | ? | TRIMBERGER MICHAEL | D-2237 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | THOMPSON MATT | D-2202 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | BOEKE ROB | D-2206 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | ALBRECHT TERRY J | D-2213 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | COISMAN GERALD | D-2216 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | BARAN DEANN | D-2218 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | LOFQUIST GARY | D-2224 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | THE DEREK F ROBINSON AND ALISON A ROBINS | D-2228 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | SIPES DONALD R | D-2235 | 📞 |
+| **A+** | LEDGEVIEW | 20-200† | TRIMBERGER MICHAEL | D-2237 | 📞 |
 | **A** | SUAMICO | 79.8 | OLSON KJELL E | SU-860 | 📞 |
 | **A** | LAWRENCE | 64.5 | GARSOW EUNICE M | L-423-2 | 📬 |
 | **A** | BELLEVUE | 63.1 | WATERMOLEN DENNIS F | B-306 | 📞 |
@@ -206,31 +206,25 @@
 | **A** | LAWRENCE | 27.3 | VANROSSUM MICHAEL H | L-76-2 | 📞 |
 | **A** | SUAMICO | 27.3 | TERRIEN EILEEN 🔗| SU-607 | 📞 |
 | **A** | HOWARD | 27.2 | MCALLISTER KATHLEEN M | VH-53-1 | 📞 |
-| ... | ... | ... (+612 more) | ... | ... |
+| ... | ... | ... (+277 more) | ... | ... |
 
 ## Rezoning Analysis
 
 ### 🔥 A+/A — Prime Ag→Subdivision Targets
 *Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-- **D-149** | 41.1ac | KASTER ELROY | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-145** | 40.6ac | UMENTUM JAMES G | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-171** | 39.5ac | COATES DAVID J | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-304** | 38.9ac | LOTTO JOSEPH P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-144** | 38.9ac | UMENTUM JOSEPH E | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-129** | 38.9ac | LOTTO BERNARD P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-267** | 37.5ac | JASON R R | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-306** | 35.9ac | LOTTO JOSEPH P | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-128** | 34.9ac | LOTTO BERNARD | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
-- **D-172** | 34.2ac | ARENDT SANDRA M | LEDGEVIEW — PRIMARY. Fastest growing. Adjacent De Pere. Ag→residential active. FLU expansion.
+- **D-149** | 41.1ac | KASTER ELROY | LEDGEVIEW
+- **D-145** | 40.6ac | UMENTUM JAMES G | LEDGEVIEW
+- **D-171** | 39.5ac | COATES DAVID J | LEDGEVIEW
+- **D-304** | 38.9ac | LOTTO JOSEPH P | LEDGEVIEW
+- **D-144** | 38.9ac | UMENTUM JOSEPH E | LEDGEVIEW
+- **D-129** | 38.9ac | LOTTO BERNARD P | LEDGEVIEW
+- **D-267** | 37.5ac | JASON R R | LEDGEVIEW
+- **D-306** | 35.9ac | LOTTO JOSEPH P | LEDGEVIEW
+- **D-128** | 34.9ac | LOTTO BERNARD | LEDGEVIEW
+- **D-172** | 34.2ac | ARENDT SANDRA M | LEDGEVIEW
 
 ### Clusters
-**SCOTT** (B+): 180 parcels, ~2245ac
-  162 MLS — call first
-  23 multi-owners
-**HUMBOLDT** (B+): 153 parcels, ~4125ac
-  97 MLS — call first
-  29 multi-owners
 **SUAMICO** (A): 132 parcels, ~2567ac
   127 MLS — call first
   22 multi-owners
@@ -239,31 +233,26 @@
   19 multi-owners
 **LAWRENCE** (A): 91 parcels, ~1676ac
   79 MLS — call first
-  10 multi-owners
+  9 multi-owners
 **BELLEVUE** (A): 69 parcels, ~1035ac
   62 MLS — call first
-  11 multi-owners
+  10 multi-owners
 **HOWARD** (A): 61 parcels, ~866ac
   61 MLS — call first
-  12 multi-owners
+  11 multi-owners
 **ASHWAUBENON** (A-): 25 parcels, ~291ac
   24 MLS — call first
   4 multi-owners
 
 ### 📞 For-Sale
-- **SCOTT** (B+): 162
 - **SUAMICO** (A): 127
-- **HUMBOLDT** (B+): 97
 - **LEDGEVIEW** (A+): 95
 - **LAWRENCE** (A): 79
 - **BELLEVUE** (A): 62
 - **HOWARD** (A): 61
 - **ASHWAUBENON** (A-): 24
-- **ALLOUEZ** (B): 2
 
 ### 📬 Off-Market
-- **HUMBOLDT** (B+): 56 — 16 multi-owners
-- **SCOTT** (B+): 18 — 7 multi-owners
 - **LAWRENCE** (A): 12 — 3 multi-owners
 - **BELLEVUE** (A): 7 — 4 multi-owners
 - **SUAMICO** (A): 5 — 2 multi-owners
@@ -271,4 +260,5 @@
 - **ASHWAUBENON** (A-): 1 — 1 multi-owners
 
 ---
-*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-15 02:20 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. HIGH-rated towns only (A+, A, A-).*
+† Exact acreage not available from Land Portal filter-data for this county. Filter guarantees 20-200 acres.

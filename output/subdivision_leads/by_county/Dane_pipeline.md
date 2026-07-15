@@ -1,6 +1,6 @@
-# Dane County — Ag→Subdivision Rezoning Pipeline
+# Dane County — Ag→Subdivision Rezoning Pipeline (HIGH Only)
 
-**1252 parcels** | 462 off-market | 790 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**581 parcels** | 191 off-market | 390 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -92,7 +92,7 @@
 | **A** | SUN PRAIRIE | 39.9 | PASKEY LIVING TR AVIS ANN 🔗| 0811-252-9000-9 | 📬 |
 | **A** | SUN PRAIRIE | 39.9 | RAD FARMS LLC 🔗| 0811-163-8500-4 | 📬 |
 | **A** | SUN PRAIRIE | 39.9 | KREBS FAMILY TR ROBERT JOHN & AUDREY E 🔗| 0811-023-8000-8 | 📬 |
-| **A** | SUN PRAIRIE | 39.9 | WEISENSEL THOMAS R 🔗| 0811-031-9500-1 | 📬 |
+| **A** | SUN PRAIRIE | 39.9 | WEISENSEL THOMAS R | 0811-031-9500-1 | 📬 |
 | **A** | SUN PRAIRIE | 39.9 | ZIMMERMAN JEFFREY C | 0811-362-8000-8 | 📞 |
 | **A** | SUN PRAIRIE | 39.9 | RIESOP FARMS LLC 🔗| 0811-362-8500-3 | 📞 |
 | **A** | SUN PRAIRIE | 39.9 | RIESOP FARMS LLC 🔗| 0811-363-8000-7 | 📞 |
@@ -106,10 +106,10 @@
 | **A** | SUN PRAIRIE | 39.7 | STATZ WESLEY A 🔗| 0811-142-8000-4 | 📬 |
 | **A** | SUN PRAIRIE | 39.6 | YELK LIVING TR DOUGLAS J 🔗| 0811-233-9500-7 | 📬 |
 | **A** | FITCHBURG | 39.6 | HAGEMAN CLAYTON J 🔗| 0609-311-8000-8 | 📞 |
-| **A** | WESTPORT | 39.6 | ORCHARD VALLEY FARMS LLC 🔗| 0809-102-9800-0 | 📬 |
+| **A** | WESTPORT | 39.6 | ORCHARD VALLEY FARMS LLC | 0809-102-9800-0 | 📬 |
 | **A** | SUN PRAIRIE | 39.5 | YELK BETTY JANE C 🔗| 0811-233-8000-4 | 📬 |
 | **A** | SUN PRAIRIE | 39.5 | YELK LIVING TR DOUGLAS J 🔗| 0811-242-8000-3 | 📬 |
-| **A** | SUN PRAIRIE | 39.5 | PINE MEADOW FARMS LLC 🔗| 0811-083-9500-9 | 📞 |
+| **A** | SUN PRAIRIE | 39.5 | PINE MEADOW FARMS LLC | 0811-083-9500-9 | 📞 |
 | **A** | WESTPORT | 39.4 | KALTENBERG FARM PARTNERSHIP LLP 🔗| 0809-033-8000-1 | 📬 |
 | **A** | WESTPORT | 39.4 | SCHLECHT STEPHEN L 🔗| 0809-281-8010-9 | 📞 |
 | **A** | FITCHBURG | 39.3 | HAGEMAN CLAYTON J 🔗| 0609-304-9000-5 | 📞 |
@@ -206,66 +206,43 @@
 | **A** | SUN PRAIRIE | 27.3 | FREITAG BRAD L 🔗| 0811-302-8550-0 | 📬 |
 | **A** | FITCHBURG | 27.3 | BARRY STABLES FARMS LLC | 0609-331-9001-1 | 📞 |
 | **A** | WESTPORT | 26.6 | KOSTER JOANN | 0809-124-8500-6 | 📞 |
-| ... | ... | ... (+1052 more) | ... | ... |
+| ... | ... | ... (+381 more) | ... | ... |
 
 ## Rezoning Analysis
 
 ### 🔥 A+/A — Prime Ag→Subdivision Targets
 *Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-- **0608-054-8600-2** | 26.0ac | MARTY CENTURY FARM FAMILY LLP | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0608-223-8220-2** | 22.6ac | JONES CHERRY L | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0608-161-0401-3** | 0.0ac | CARPENTER & STOWE-CARPENTER LIVING TR DENIS D & BARBAR | VERONA — PRIMARY. Epic Systems. Massive demand. Ag→residential. FLU expansion.
-- **0609-212-8650-2** | 183.8ac | TAYLOR VIRGINIA A | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-131-8940-2** | 139.2ac | ROUSE FARMS LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-202-6273-2** | 120.1ac | FROSTWOOD FARM IV LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0811-221-9021-0** | 97.6ac | ERLOOM FARMS LLC | SUN PRAIRIE — Surrounds city. FLU residential. Ag in growth path.
-- **0811-013-8550-0** | 86.9ac | SCHLIMGEN ANTHONY J | SUN PRAIRIE — Surrounds city. FLU residential. Ag in growth path.
-- **0609-304-8400-3** | 85.0ac | HAGEMAN DARYL L | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
-- **0609-291-8700-2** | 80.4ac | FROSTWOOD FARMS III LLC | FITCHBURG — South Madison. Major residential. Sewer/water expanding. Ag converting.
+- **0608-054-8600-2** | 26.0ac | MARTY CENTURY FARM FAMILY LLP | VERONA
+- **0608-223-8220-2** | 22.6ac | JONES CHERRY L | VERONA
+- **0608-161-0401-3** | 0.0ac | CARPENTER & STOWE-CARPENTER LIVING TR DENIS D & BARBAR | VERONA
+- **0609-212-8650-2** | 183.8ac | TAYLOR VIRGINIA A | FITCHBURG
+- **0609-131-8940-2** | 139.2ac | ROUSE FARMS LLC | FITCHBURG
+- **0609-202-6273-2** | 120.1ac | FROSTWOOD FARM IV LLC | FITCHBURG
+- **0811-221-9021-0** | 97.6ac | ERLOOM FARMS LLC | SUN PRAIRIE
+- **0811-013-8550-0** | 86.9ac | SCHLIMGEN ANTHONY J | SUN PRAIRIE
+- **0609-304-8400-3** | 85.0ac | HAGEMAN DARYL L | FITCHBURG
+- **0609-291-8700-2** | 80.4ac | FROSTWOOD FARMS III LLC | FITCHBURG
 
 ### Clusters
-**PLEASANT SPRINGS** (B+): 154 parcels, ~3904ac
-  95 MLS — call first
-  35 multi-owners
 **SPRINGFIELD** (A-): 151 parcels, ~4967ac
   75 MLS — call first
   43 multi-owners
 **SUN PRAIRIE** (A): 142 parcels, ~3830ac
   82 MLS — call first
-  33 multi-owners
-**BRISTOL** (B+): 136 parcels, ~4115ac
-  71 MLS — call first
   31 multi-owners
 **FITCHBURG** (A): 124 parcels, ~3907ac
   86 MLS — call first
   23 multi-owners
-**WINDSOR** (B+): 117 parcels, ~3074ac
-  64 MLS — call first
-  24 multi-owners
-**MONTROSE** (B+): 112 parcels, ~2807ac
-  52 MLS — call first
-  28 multi-owners
-**DUNN** (B+): 101 parcels, ~2834ac
-  69 MLS — call first
-  20 multi-owners
 **WESTPORT** (A): 63 parcels, ~1772ac
   49 MLS — call first
-  16 multi-owners
+  15 multi-owners
 **BURKE** (A-): 57 parcels, ~511ac
   54 MLS — call first
   7 multi-owners
 **DEFOREST** (B+): 38 parcels, ~798ac
   38 MLS — call first
   6 multi-owners
-**WAUNAKEE** (B+): 34 parcels, ~275ac
-  32 MLS — call first
-  6 multi-owners
-**MCFARLAND** (B+): 13 parcels, ~247ac
-  13 MLS — call first
-  3 multi-owners
-**OREGON** (B+): 4 parcels, ~11ac
-  4 MLS — call first
 **VERONA** (A+): 3 parcels, ~49ac
   3 MLS — call first
 **BLOOMING GROVE** (A-): 3 parcels, ~73ac
@@ -273,35 +250,22 @@
   2 multi-owners
 
 ### 📞 For-Sale
-- **PLEASANT SPRINGS** (B+): 95
 - **FITCHBURG** (A): 86
 - **SUN PRAIRIE** (A): 82
 - **SPRINGFIELD** (A-): 75
-- **BRISTOL** (B+): 71
-- **DUNN** (B+): 69
-- **WINDSOR** (B+): 64
 - **BURKE** (A-): 54
-- **MONTROSE** (B+): 52
 - **WESTPORT** (A): 49
 - **DEFOREST** (B+): 38
-- **WAUNAKEE** (B+): 32
-- **MCFARLAND** (B+): 13
-- **OREGON** (B+): 4
 - **VERONA** (A+): 3
 - **BLOOMING GROVE** (A-): 3
 
 ### 📬 Off-Market
 - **SPRINGFIELD** (A-): 76 — 29 multi-owners
-- **BRISTOL** (B+): 65 — 19 multi-owners
-- **SUN PRAIRIE** (A): 60 — 21 multi-owners
-- **MONTROSE** (B+): 60 — 19 multi-owners
-- **PLEASANT SPRINGS** (B+): 59 — 17 multi-owners
-- **WINDSOR** (B+): 53 — 16 multi-owners
+- **SUN PRAIRIE** (A): 60 — 20 multi-owners
 - **FITCHBURG** (A): 38 — 12 multi-owners
-- **DUNN** (B+): 32 — 6 multi-owners
-- **WESTPORT** (A): 14 — 5 multi-owners
+- **WESTPORT** (A): 14 — 4 multi-owners
 - **BURKE** (A-): 3 — 1 multi-owners
-- **WAUNAKEE** (B+): 2 — 1 multi-owners
 
 ---
-*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-15 02:20 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. HIGH-rated towns only (A+, A, A-).*
+† Exact acreage not available from Land Portal filter-data for this county. Filter guarantees 20-200 acres.

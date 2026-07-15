@@ -1,6 +1,6 @@
-# Rock County — Ag→Subdivision Rezoning Pipeline
+# Rock County — Ag→Subdivision Rezoning Pipeline (HIGH Only)
 
-**939 parcels** | 170 off-market | 769 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**458 parcels** | 83 off-market | 375 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
@@ -133,7 +133,7 @@
 | **A** | TURTLE | 89.0 | BREWER ROBERT 🔗| 6-19-263A | 📬 |
 | **A** | TURTLE | 87.7 | KUTZ TWIN OAKS FARM LLC 🔗| 6-19-67B | 📬 |
 | **A** | TURTLE | 80.0 | HENSCHLER JASON 🔗| 6-19-251A | 📬 |
-| **A** | JANESVILLE | 80.0 | FARRINGTON SCOTT 🔗| 6-8-27 | 📞 |
+| **A** | JANESVILLE | 80.0 | FARRINGTON SCOTT | 6-8-27 | 📞 |
 | **A** | TURTLE | 80.0 | HILDEBRANDT DONALD 🔗| 6-19-371 | 📞 |
 | **A** | TURTLE | 80.0 | WAITE GREGORY 🔗| 6-19-153 | 📞 |
 | **A** | JANESVILLE | 78.1 | DIEHLS KENNETH | 6-8-57 | 📬 |
@@ -144,7 +144,7 @@
 | **A** | TURTLE | 68.4 | HICKORY GROVE FARM OF BE | 6-19-365 | 📬 |
 | **A** | TURTLE | 67.0 | BREWER ROBERT 🔗| 6-19-363A | 📬 |
 | **A** | TURTLE | 66.5 | BREWER ROBERT 🔗| 6-19-139A.1 | 📬 |
-| **A** | JANESVILLE | 64.4 | RIESTERER FARMS LLP 🔗| 6-8-3 | 📬 |
+| **A** | JANESVILLE | 64.4 | RIESTERER FARMS LLP | 6-8-3 | 📬 |
 | **A** | JANESVILLE | 61.9 | SAYRE JOINT FARMS LLC 🔗| 6-8-101G | 📞 |
 | **A** | TURTLE | 60.5 | KARSTAEDT STEPHEN | 6-19-361A | 📬 |
 | **A** | TURTLE | 60.3 | WISCONSIN AGGREGATE CO L 🔗| 6-19-88 | 📬 |
@@ -152,7 +152,7 @@
 | **A** | JANESVILLE | 57.2 | AL & ED FARRINGTON FARMS LLC 🔗| 6-8-104A | 📬 |
 | **A** | JANESVILLE | 57.0 | S & E PROPERTIES OF JANESV | 6-8-148A | 📬 |
 | **A** | TURTLE | 55.6 | R & R VENTURES LIMITED P | 6-19-256 | 📬 |
-| **A** | JANESVILLE | 55.2 | HOLMAN THOMAS 🔗| 6-8-4 | 📬 |
+| **A** | JANESVILLE | 55.2 | HOLMAN THOMAS | 6-8-4 | 📬 |
 | **A** | TURTLE | 53.6 | WI HAYNES FARMS LLC 🔗| 6-19-276.4 | 📞 |
 | **A** | JANESVILLE | 52.6 | CONNOR FARM LLC | 6-8-77 | 📬 |
 | **A** | TURTLE | 52.6 | HASSELER ANITA | 6-19-109 | 📬 |
@@ -206,63 +206,45 @@
 | **A** | JANESVILLE | 26.6 | SPIKE DOROTHY | 6-8-102.1 | 📬 |
 | **A** | TURTLE | 26.5 | NEWHOUSE MARTIN 🔗| 6-19-173.1 | 📬 |
 | **A** | TURTLE | 25.2 | WALSH BRENNAN | 6-19-359 | 📞 |
-| ... | ... | ... (+739 more) | ... | ... |
+| ... | ... | ... (+258 more) | ... | ... |
 
 ## Rezoning Analysis
 
 ### 🔥 A+/A — Prime Ag→Subdivision Targets
 *Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-- **6-2-368** | 117.0ac | MERLET FARMS #1 LLC | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-56** | 105.3ac | ALSETH PHILIP | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-360** | 80.0ac | KATTERHENRY DENNIS | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-75** | 80.0ac | WI HAYNES FARMS LLC | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-382.7** | 80.0ac | LENTELL YVONNE M | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-72** | 78.4ac | WI HAYNES FARMS LLC | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-351.3** | 76.8ac | MERLET FARMS #1 LLC | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-239.2** | 73.9ac | MERLET FARMS #2 LLC | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-382.1** | 72.7ac | BRYDEN ROGER | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
-- **6-2-25.02** | 65.8ac | DEVELOPME HENDRICKS | BELOIT — PRIMARY. Adjacent Beloit. IL line. I-39/90 Stateline. Ag→residential.
+- **6-2-368** | 117.0ac | MERLET FARMS #1 LLC | BELOIT
+- **6-2-56** | 105.3ac | ALSETH PHILIP | BELOIT
+- **6-2-360** | 80.0ac | KATTERHENRY DENNIS | BELOIT
+- **6-2-75** | 80.0ac | WI HAYNES FARMS LLC | BELOIT
+- **6-2-382.7** | 80.0ac | LENTELL YVONNE M | BELOIT
+- **6-2-72** | 78.4ac | WI HAYNES FARMS LLC | BELOIT
+- **6-2-351.3** | 76.8ac | MERLET FARMS #1 LLC | BELOIT
+- **6-2-239.2** | 73.9ac | MERLET FARMS #2 LLC | BELOIT
+- **6-2-382.1** | 72.7ac | BRYDEN ROGER | BELOIT
+- **6-2-25.02** | 65.8ac | DEVELOPME HENDRICKS | BELOIT
 
 ### Clusters
-**MILTON** (B+): 204 parcels, ~3485ac
-  175 MLS — call first
-  38 multi-owners
 **TURTLE** (A): 191 parcels, ~3043ac
   149 MLS — call first
-  23 multi-owners
+  22 multi-owners
 **JANESVILLE** (A): 151 parcels, ~2505ac
   126 MLS — call first
-  21 multi-owners
-**FULTON** (B+): 131 parcels, ~2256ac
-  101 MLS — call first
-  20 multi-owners
-**HARMONY** (B+): 119 parcels, ~2677ac
-  91 MLS — call first
-  14 multi-owners
+  17 multi-owners
 **BELOIT** (A+): 116 parcels, ~1459ac
   100 MLS — call first
   20 multi-owners
-**EVANSVILLE** (B+): 27 parcels, ~370ac
-  27 MLS — call first
-  2 multi-owners
 
 ### 📞 For-Sale
-- **MILTON** (B+): 175
 - **TURTLE** (A): 149
 - **JANESVILLE** (A): 126
-- **FULTON** (B+): 101
 - **BELOIT** (A+): 100
-- **HARMONY** (B+): 91
-- **EVANSVILLE** (B+): 27
 
 ### 📬 Off-Market
 - **TURTLE** (A): 42 — 10 multi-owners
-- **FULTON** (B+): 30 — 13 multi-owners
-- **MILTON** (B+): 29 — 9 multi-owners
-- **HARMONY** (B+): 28 — 7 multi-owners
-- **JANESVILLE** (A): 25 — 7 multi-owners
+- **JANESVILLE** (A): 25 — 5 multi-owners
 - **BELOIT** (A+): 16 — 6 multi-owners
 
 ---
-*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-15 02:20 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. HIGH-rated towns only (A+, A, A-).*
+† Exact acreage not available from Land Portal filter-data for this county. Filter guarantees 20-200 acres.

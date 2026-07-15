@@ -1,12 +1,12 @@
-# Ozaukee County — Ag→Subdivision Rezoning Pipeline
+# Ozaukee County — Ag→Subdivision Rezoning Pipeline (HIGH Only)
 
-**472 parcels** | 5 off-market | 467 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+**315 parcels** | 4 off-market | 311 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
 ## Parcels Ranked by Rezoning Potential
 
 | Rezoning | Town | Acres | Owner | APN | Status |
 |---|---|---|---|---|---|
-| **A** | CEDARBURG | 144.0 | STROEBEL S DUANE 🔗| 03-003-09-002.00 | 📞 |
+| **A** | CEDARBURG | 144.0 | STROEBEL S DUANE | 03-003-09-002.00 | 📞 |
 | **A** | CEDARBURG | 101.1 | TEALCO GROUP 🔗| 03-019-09-000.00 | 📞 |
 | **A** | CEDARBURG | 93.6 | RODEN PAUL F 🔗| 03-004-06-000.00 | 📞 |
 | **A** | CEDARBURG | 74.0 | TEALCO GROUP 🔗| 03-018-09-000.00 | 📞 |
@@ -27,7 +27,7 @@
 | **A** | CEDARBURG | 40.0 | TOMTER DAVID M | 03-033-09-001.00 | 📞 |
 | **A** | CEDARBURG | 38.7 | BEIMBORN EDWARD A | 03-004-14-000.00 | 📞 |
 | **A** | CEDARBURG | 38.6 | KISON FAMILY FARMS LLC 🔗| 03-007-09-000.00 | 📞 |
-| **A** | CEDARBURG | 37.5 | BEHRENS BRIAN S 🔗| 03-014-16-000.00 | 📞 |
+| **A** | CEDARBURG | 37.5 | BEHRENS BRIAN S | 03-014-16-000.00 | 📞 |
 | **A** | CEDARBURG | 37.0 | RODEN PAUL F 🔗| 03-004-08-000.00 | 📞 |
 | **A** | CEDARBURG | 36.5 | WITTE ROBERT S 🔗| 03-029-03-003.00 | 📞 |
 | **A** | CEDARBURG | 35.9 | PARADISE ROAD FARMS LLC | 03-005-04-000.00 | 📞 |
@@ -77,13 +77,13 @@
 | **A** | CEDARBURG | 6.1 | GALUSTYANTS VITAS | 03-006-16-015.00 | 📞 |
 | **A** | CEDARBURG | 6.1 | MANKE HOWARD F | 03-005-11-001.00 | 📞 |
 | **A** | CEDARBURG | 5.9 | SHEWCZYK THOMAS J | 03-009-01-001.00 | 📞 |
-| **A** | CEDARBURG | 5.4 | SIEVERS GLENN H 🔗| 03-009-01-002.00 | 📞 |
+| **A** | CEDARBURG | 5.4 | SIEVERS GLENN H | 03-009-01-002.00 | 📞 |
 | **A** | CEDARBURG | 5.3 | MORSE WILLIAM W 🔗| 03-032-14-004.00 | 📞 |
 | **A** | CEDARBURG | 5.1 | BARTELT JOSEPH | 03-019-01-005.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | ARGALL AMY L | 03-009-01-004.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | DEARING BRIAN | 03-009-02-009.00 | 📞 |
 | **A** | CEDARBURG | 5.0 | RUDZINSKI SARAH | 03-005-02-003.00 | 📞 |
-| **A** | CEDARBURG | 4.9 | PIER JALISSA 🔗| 03-028-01-002.00 | 📞 |
+| **A** | CEDARBURG | 4.9 | PIER JALISSA | 03-028-01-002.00 | 📞 |
 | **A** | CEDARBURG | 4.0 | LANGLOIS ROBIN W | 03-004-16-005.00 | 📞 |
 | **A** | GRAFTON | 3.1 | PINE RIDGE CONDOMINIUM | 10-026-03-033.00 | 📞 |
 | **A** | SAUKVILLE | 3.0 | KESSNER DELORES | 11-050-05-100.01 | 📞 |
@@ -188,65 +188,65 @@
 | **A** | GRAFTON | 0.0 | WARANKA DAVID J | 10-050-01-100.03 | 📞 |
 | **A** | GRAFTON | 0.0 | DOEMEL LORI | 10-108-01-130.01 | 📞 |
 | **A** | GRAFTON | 0.0 | SMITH ANNE L | 10-096-06-080.01 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-010.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-020.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-030.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-040.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-050.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-04-060.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-010.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-020.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-030.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-040.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-050.00 | 📞 |
-| **A** | SAUKVILLE | ? | JBJDEVELOP LP 🔗| 11-102-05-060.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-010.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-020.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-030.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-040.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-050.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-04-060.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-010.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-020.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-030.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-040.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-050.00 | 📞 |
+| **A** | SAUKVILLE | 20-200† | JBJDEVELOP LP 🔗| 11-102-05-060.00 | 📞 |
 | **A-** | MEQUON | 76.3 | ESCHRICH FAMILY LTD PTSH 🔗| 14-034-09-000.00 | 📞 |
 | **A-** | MEQUON | 72.1 | MILWAUKEE METROPOLITAN SEWERAGE DISTRICT 🔗| 14-029-09-002.00 | 📬 |
 | **A-** | MEQUON | 71.7 | HILGENDORF MARK J | 14-030-06-006.00 | 📞 |
 | **A-** | MEQUON | 68.3 | GIERACH ROBERT J | 14-005-05-004.00 | 📞 |
 | **A-** | MEQUON | 65.6 | GIERACH FARMS LLC 🔗| 14-005-02-008.00 | 📞 |
 | **A-** | MEQUON | 62.9 | HILGENDORF MARK | 14-034-15-007.00 | 📞 |
-| ... | ... | ... (+272 more) | ... | ... |
+| ... | ... | ... (+115 more) | ... | ... |
 
 ## Rezoning Analysis
 
 ### 🔥 A+/A — Prime Ag→Subdivision Targets
 *Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active. Highest rezoning likelihood.*
 
-- **03-003-09-002.00** | 144.0ac | STROEBEL S DUANE | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-019-09-000.00** | 101.1ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-004-06-000.00** | 93.6ac | RODEN PAUL F | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-018-09-000.00** | 74.0ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-002-08-002.00** | 73.8ac | WINTER CLYDE A | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-018-14-001.00** | 73.4ac | HELNORE JERRY | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-004-03-001.00** | 72.2ac | PROEFROCK HEIDI L | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-019-02-002.00** | 66.3ac | TEALCO GROUP | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-005-01-001.00** | 63.1ac | GALL JEFFREY C | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
-- **03-034-10-000.00** | 58.6ac | RASMUSSEN TIMOTHY P | CEDARBURG — Adjacent cities. FLU residential. Ag growth path.
+- **03-003-09-002.00** | 144.0ac | STROEBEL S DUANE | CEDARBURG
+- **03-019-09-000.00** | 101.1ac | TEALCO GROUP | CEDARBURG
+- **03-004-06-000.00** | 93.6ac | RODEN PAUL F | CEDARBURG
+- **03-018-09-000.00** | 74.0ac | TEALCO GROUP | CEDARBURG
+- **03-002-08-002.00** | 73.8ac | WINTER CLYDE A | CEDARBURG
+- **03-018-14-001.00** | 73.4ac | HELNORE JERRY | CEDARBURG
+- **03-004-03-001.00** | 72.2ac | PROEFROCK HEIDI L | CEDARBURG
+- **03-019-02-002.00** | 66.3ac | TEALCO GROUP | CEDARBURG
+- **03-005-01-001.00** | 63.1ac | GALL JEFFREY C | CEDARBURG
+- **03-034-10-000.00** | 58.6ac | RASMUSSEN TIMOTHY P | CEDARBURG
 
 ### Clusters
-**CEDARBURG** (A): 171 parcels, ~2350ac
-  171 MLS — call first
-  19 multi-owners
-**GRAFTON** (A): 141 parcels, ~1258ac
-  140 MLS — call first
-  9 multi-owners
+**CEDARBURG** (A): 123 parcels, ~2315ac
+  123 MLS — call first
+  14 multi-owners
 **MEQUON** (A-): 121 parcels, ~2014ac
   117 MLS — call first
   18 multi-owners
 **SAUKVILLE** (A): 39 parcels, ~18ac
   39 MLS — call first
   2 multi-owners
+**GRAFTON** (A): 32 parcels, ~46ac
+  32 MLS — call first
+  1 multi-owners
 
 ### 📞 For-Sale
-- **CEDARBURG** (A): 171
-- **GRAFTON** (A): 140
+- **CEDARBURG** (A): 123
 - **MEQUON** (A-): 117
 - **SAUKVILLE** (A): 39
+- **GRAFTON** (A): 32
 
 ### 📬 Off-Market
 - **MEQUON** (A-): 4 — 1 multi-owners
-- **GRAFTON** (B+): 1
 
 ---
-*2026-07-13 01:17 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. County 2040 comp plan cross-reference.*
+*2026-07-15 02:20 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. HIGH-rated towns only (A+, A, A-).*
+† Exact acreage not available from Land Portal filter-data for this county. Filter guarantees 20-200 acres.

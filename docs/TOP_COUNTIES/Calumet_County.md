@@ -86,14 +86,6 @@ An interactive map showing **color-coded municipality labels by growth rating** 
 
 
 ## Subdivision Pipeline
-# Calumet County — North Star Subdivision Pipeline
-**0 total parcels** | 0 HIGH-rated towns | 0 off-market (📬) | 0 for-sale (📞)
-*No qualifying parcels found in HIGH-rated towns.*
 
-## North Star Takeaway
-
-### 📞 For-Sale Priority Targets
-
-### 📬 Off-Market Priority Targets
-
-*Generated: 2026-07-13 | North Star / Cody Bjugan criteria. Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°. Town-level queries via municipality filter. Rezoning grades from county 2040 comprehensive plans.*
+No parcels found for HIGH-rated towns (A+, A, A-) in this county.
+*Generated: 2026-07-15 | North Star / Cody Bjugan criteria. Search Filters doc v1.0.*

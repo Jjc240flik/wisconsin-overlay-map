@@ -29,14 +29,16 @@ All ratings follow the **Cody Bjugan / North Star framework**:
 ## Map Status
 - Outagamie County has a fully interactive toggle map (Current Zoning ↔ Future Land Use)
 - Other counties will get maps as GIS data is researched (Phase B)
-## Pipeline Status (as of 2026-07-13)
+## Pipeline Status (as of 2026-07-15)
+
 
 Live Land Portal query results for HIGH-rated towns (A+, A, A-):
-  - Outagamie: 401 parcels (32 off-market, 369 for-sale)
-  - Brown: 714 parcels (75 off-market, 639 for-sale)
-  - Dane: 1147 parcels (227 off-market, 920 for-sale)
-  - Waukesha: 407 parcels (18 off-market, 389 for-sale)
-  - Ozaukee: 454 parcels (43 off-market, 411 for-sale)
-  - Rock: 873 parcels (99 off-market, 774 for-sale)
-  - Winnebago: 204 parcels (29 off-market, 175 for-sale)
-  - Calumet: 0 parcels (0 off-market, 0 for-sale)
+
+  - **Outagamie**: 213 parcels (29 off-market, 184 for-sale)
+  - **Brown**: 477 parcels (29 off-market, 448 for-sale)
+  - **Dane**: 581 parcels (191 off-market, 390 for-sale)
+  - **Waukesha**: 241 parcels (9 off-market, 232 for-sale)
+  - **Ozaukee**: 315 parcels (4 off-market, 311 for-sale)
+  - **Rock**: 458 parcels (83 off-market, 375 for-sale)
+  - **Winnebago**: 204 parcels (3 off-market, 201 for-sale)
+  - **Calumet**: 0 parcels (0 off-market, 0 for-sale)
