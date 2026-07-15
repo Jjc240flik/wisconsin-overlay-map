@@ -152,35 +152,296 @@ The Farmland Preservation Plan update (2025) is the primary check on Washington 
 
 ## Subdivision Pipeline
 
-# Washington County — Ag→Subdivision Rezoning Pipeline (HIGH Only)
+**247 parcels** | 75 off-market | 172 for-sale | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
 
-**Parcels TBD** | Category 1 filters: 20-200ac, 300ft road, ≤25% wetlands, ≤50% FEMA, ≥50% slope <15°
+## Parcels Ranked by Rezoning Potential
 
-### Priority Target Areas
+| Rezoning | Town | Acres | Owner | APN | Status |
+|---|---|---|---|---|---|
+| **A** | GERMANTOWN | 37 | STEINHAGEN ALLEN L | T5  -0139 | 📬 |
+| **A** | GERMANTOWN | 10.57 | PROST MARY LYNN | T5  -0090 | 📞 |
+| **A** | GERMANTOWN | 8 | PROST MARY LYNN | T5  -0092 | 📞 |
+| **A** | GERMANTOWN | 8 | BRAUN JEFFREY R | T5  -0107 | 📞 |
+| **A** | GERMANTOWN | 1.84 | EVERS RICHARD D | T5  -013700A | 📞 |
+| **A** | GERMANTOWN | 48.53 | STEINHAGEN ALLEN L | T5  -013800Z | 📞 |
+| **A** | GERMANTOWN | 37 | STEINHAGEN ALLEN L | T5  -0139 | 📞 |
+| **A** | GERMANTOWN | 7.52 | FLEISNER GENE | T5  -0141 | 📞 |
+| **A** | GERMANTOWN | 6.36 | PAUR MARGARET M | T5  -0167001 | 📞 |
+| **A** | GERMANTOWN | 14 | PAUR MARGARET M | T5  -016700A | 📞 |
+| **A** | GERMANTOWN | 33.92 | DHEIN DALE | T5  -0222 | 📞 |
+| **A** | GERMANTOWN | 39 | DHEIN DALE | T5  -0256 | 📞 |
+| **A** | GERMANTOWN | 17.37 | THOMAS S HAPKA AND DEANNE R HA | T5  -0280 | 📞 |
+| **A** | GERMANTOWN | 19 | TROY A WETTERAU A | T5  -0281 | 📞 |
+| **A** | GERMANTOWN | 16.79 | TROY A WETTERAU A | T5  -028200Z | 📞 |
+| **A** | GERMANTOWN | 17.51 | BAST FAMILY LTD PARTNERSHIP | T5  -014500Z | 📞 |
+| **A** | GERMANTOWN | 18.61 | BAST FAMILY LTD PARTNERSHIP | T5  -021000Z | 📞 |
+| **A** | GERMANTOWN | 25.91 | BAST FAMILY LTD PARTNERSHIP | T5  -014400Y | 📞 |
+| **A+** | JACKSON | 20 | RUSCH ROBB R | T7  -022700C | 📬 |
+| **A+** | JACKSON | 40 | BRANDT FAMILY FARMS LLC | T7  -0330 | 📬 |
+| **A+** | JACKSON | 40 | DAVIDS STAR CONG TREASURER | T7  -0873 | 📬 |
+| **A+** | JACKSON | 25.55 | MCLAUGHLIN THOMAS | T7  -092600Y | 📬 |
+| **A+** | JACKSON | 28.28 | BEDER BROTHERS | T7  -0168 | 📬 |
+| **A+** | JACKSON | 34.86 | ROEMBKE RICHARD J | T7  -063300Z | 📬 |
+| **A+** | JACKSON | 29.68 | ZIEMER PAUL | T7  -067100Z | 📬 |
+| **A+** | JACKSON | 33.34 | KAZMIERCZAK BRIAN A | T7  -0684 | 📬 |
+| **A+** | JACKSON | 28 | MUTZ THOMAS M | T7  -0714 | 📬 |
+| **A+** | JACKSON | 20 | TOD MELVIN | T7  -0733 | 📬 |
+| **A+** | JACKSON | 20 | KAZMIERCZAK KEVIN | T7  -0735 | 📬 |
+| **A+** | JACKSON | 40 | MCLELLAN KATHLEEN | T7  -0570 | 📬 |
+| **A+** | JACKSON | 20 | KOWALSKE GLEN | T7  -0592 | 📬 |
+| **A+** | JACKSON | 40 | MISKE DOLORES | T7  -0614 | 📬 |
+| **A+** | JACKSON | 20 | LOYAS JENNIFER A | T7  -0009 | 📬 |
+| **A+** | JACKSON | 20 | SCHMIDT RENEE | T7  -0033 | 📬 |
+| **A+** | JACKSON | 20 | NICKERSON CINDY A | T7  -0058 | 📬 |
+| **A+** | JACKSON | 39.93 | BUTLER THOMAS J | T7  -0063 | 📬 |
+| **A+** | JACKSON | 38.6 | NN RENTALS LLP | T7  -006900Z | 📬 |
+| **A+** | JACKSON | 31.47 | STONEY CREEK HOMEOWNERS ASSOC | T7  -0083029 | 📬 |
+| **A+** | JACKSON | 32.76 | FIES BARRY | T7  -010200Z | 📬 |
+| **A+** | JACKSON | 40 | FIES BARRY | T7  -0105 | 📬 |
+| **A+** | JACKSON | 27.66 | BAST FAMILY LTD PARTNERSHIP | T7  -0126 | 📬 |
+| **A+** | JACKSON | 30.34 | BAST FAMILY LTD PARTNERSHIP | T7  -0131 | 📬 |
+| **A+** | JACKSON | 30 | SPRING VALLEY PROP | T7  -0842 | 📬 |
+| **A+** | JACKSON | 24.05 | PUESTOW STEVEN M | T7  -010600E | 📬 |
+| **A+** | JACKSON | 34.28 | BASTIAN ANDREW R | T7  -009100C | 📬 |
+| **A+** | JACKSON | 24.52 | RAYMOND W FISCHER | T7  -092800Z | 📬 |
+| **A+** | JACKSON | 28.31 | WESTERN MAPLE FARMS LLC | T7  -073900G | 📬 |
+| **A+** | JACKSON | 5 | PRIBYL VICTOR J | T7  -0263 | 📞 |
+| **A+** | JACKSON | 5 | MISKE DOLORES | T7  -0267 | 📞 |
+| **A+** | JACKSON | 1.97 | STANK KARTER | T7  -0301 | 📞 |
+| **A+** | JACKSON | 1.6 | WERNI DOLORES L | T7  -030100A | 📞 |
+| **A+** | JACKSON | 1.43 | PAEGELOW TIMOTHY | T7  -030100B | 📞 |
+| **A+** | JACKSON | 1.5 | ZURBUCHEN CANDICE R | T7  -0858 | 📞 |
+| **A+** | JACKSON | 20.54 | WEYKER TODD | T7  -086000Z | 📞 |
+| **A+** | JACKSON | 20.76 | NEW HOPE UNITED CHURCH OF CHRI | T7  -0161 | 📞 |
+| **A+** | JACKSON | 0.5 | FINCO SCOTT A | T7  -0944 | 📞 |
+| **A+** | JACKSON | 1 | SEMRAD GREGORY S | T7  -067300D | 📞 |
+| **A+** | JACKSON | 20.04 | FUEHRER MILTON | T7  -0678 | 📞 |
+| **A+** | JACKSON | 1 | BAUMGARTNER LINDA A | T7  -045400A | 📞 |
+| **A+** | JACKSON | 38.58 | KOWALSKE PAUL | T7  -0594 | 📞 |
+| **A+** | JACKSON | 14.92 | KNETTER PATRICK D | T7  -0604 | 📞 |
+| **A+** | JACKSON | 7.65 | TEALCO GROUP | T7  -062400A | 📞 |
+| **A+** | JACKSON | 20.3 | COLLINS KEITH L | T7  -000100A | 📞 |
+| **A+** | JACKSON | 40 | FIES BARRY | T7  -0090 | 📞 |
+| **A+** | JACKSON | 4.5 | ORLOFSKI KARL E | T7  -077400A | 📞 |
+| **A+** | JACKSON | 15 | MANEY SHAWN R | T7  -065300Z | 📞 |
+| **A+** | JACKSON | 2.7 | EHLKE MIKE J | T7  -077500D | 📞 |
+| **A+** | JACKSON | 7.86 | FOX BRETT A | T7  -064900A | 📞 |
+| **A+** | JACKSON | 5 | WANK JODI | T7  -080400C | 📞 |
+| **A+** | JACKSON | 2.44 | LANZA RICARDO | T7  -066600I | 📞 |
+| **A+** | JACKSON | 20 | RUSCH ROBB R | T7  -022700C | 📞 |
+| **A+** | JACKSON | 3.79 | TROUTT TIMOTHY | T7  -022800B | 📞 |
+| **A+** | JACKSON | 30.12 | TROUTT TIMOTHY L | T7  -022800Z | 📞 |
+| **A+** | JACKSON | 20 | WERNI PETER | T7  -0232 | 📞 |
+| **A+** | JACKSON | 19.34 | THE MILWAUKEE METROPOLITAN SEW | T7  -0233 | 📞 |
+| **A+** | JACKSON | 20 | WERNI PETER | T7  -0235 | 📞 |
+| **A+** | JACKSON | 40 | BRANDT FAMILY FARMS LLC | T7  -0330 | 📞 |
+| **A+** | JACKSON | 38.85 | BRANDT FAMILY FARMS LLC | T7  -0332 | 📞 |
+| **A+** | JACKSON | 40 | BRANDT FAMILY FARMS LLC | T7  -0335 | 📞 |
+| **A+** | JACKSON | 35.34 | CARL O MILLER | T7  -033700A | 📞 |
+| **A+** | JACKSON | 38.26 | CARL O MILLER | T7  -0338 | 📞 |
+| **A+** | JACKSON | 33.56 | MILLER WALTER A | T7  -0344 | 📞 |
+| **A+** | JACKSON | 7.07 | KLUG CHRISTOPHER | T7  -0354 | 📞 |
+| **A+** | JACKSON | 20 | KRUSE JOHN N | T7  -0358 | 📞 |
+| **A+** | JACKSON | 9.75 | GUSLICK MICHAEL M | T7  -036800B | 📞 |
+| **A+** | JACKSON | 27.85 | PUESTOW PAUL | T7  -037100Z | 📞 |
+| **A+** | JACKSON | 22 | MISKE DOLORES | T7  -0382 | 📞 |
+| **A+** | JACKSON | 11.29 | SPRING VALLEY PROP | T7  -084300Y | 📞 |
+| **A+** | JACKSON | 16 | SPRING VALLEY PROP | T7  -0845 | 📞 |
+| **A+** | JACKSON | 9.55 | KAZMIERCZAK BRIAN A | T7  -084700B | 📞 |
+| **A+** | JACKSON | 10.1 | KAZMIERCZAK BRIAN A | T7  -085300B | 📞 |
+| **A+** | JACKSON | 7 | SPRING VALLEY PROP | T7  -0864 | 📞 |
+| **A+** | JACKSON | 25.48 | SPRING VALLEY PROP | T7  -086500Z | 📞 |
+| **A+** | JACKSON | 40 | DAVIDS STAR CONG TREASURER | T7  -0873 | 📞 |
+| **A+** | JACKSON | 8.53 | SPOTTED T FARMS LLC | T7  -087400F | 📞 |
+| **A+** | JACKSON | 12.93 | SPOTTED T FARMS LLC | T7  -087600Z | 📞 |
+| **A+** | JACKSON | 7.5 | SPOTTED T FARMS LLC | T7  -0877 | 📞 |
+| **A+** | JACKSON | 10.48 | SPOTTED T FARMS LLC | T7  -087800Z | 📞 |
+| **A+** | JACKSON | 4.66 | RUSCH DALE | T7  -087900E | 📞 |
+| **A+** | JACKSON | 40 | DAVIDS STAR CONG | T7  -0880 | 📞 |
+| **A+** | JACKSON | 23.5 | ENEVOLD MATTHEW | T7  -0886 | 📞 |
+| **A+** | JACKSON | 8 | PETERS GERALD E | T7  -0904 | 📞 |
+| **A+** | JACKSON | 14.62 | BLOCH RANDALL W | T7  -091100C | 📞 |
+| **A+** | JACKSON | 4 | RUSCH ANDREW | T7  -0919 | 📞 |
+| **A+** | JACKSON | 16.03 | MCLAUGHLIN THOMAS | T7  -0920 | 📞 |
+| **A+** | JACKSON | 13.19 | RUSCH ANDREW | T7  -092100Z | 📞 |
+| **A+** | JACKSON | 13.97 | RUSCH ANDREW C | T7  -0922 | 📞 |
+| **A+** | JACKSON | 15.07 | RUSCH ANDREW C | T7  -092200A | 📞 |
+| **A+** | JACKSON | 13.96 | RUSCH ANDREW C | T7  -0923 | 📞 |
+| **A+** | JACKSON | 12.07 | MENG THAO | T7  -092400Z | 📞 |
+| **A** | RICHFIELD | 24 | BARTEL RALPH L | V10 -0123 | 📬 |
+| **A** | RICHFIELD | 30 | LOOSEN PAUL | V10 -0128 | 📬 |
+| **A** | RICHFIELD | 20.3 | SMITH ERIC J | V10 -0154 | 📬 |
+| **A** | RICHFIELD | 36.75 | KAZMIERCZAK BRIAN A | V10 -0249 | 📬 |
+| **A** | RICHFIELD | 20.64 | KAZMIERCZAK BRIAN A | V10 -025200Z | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📬 |
+| **A** | RICHFIELD | 20.5 | RAR FARMS LLC | V10 -0038 | 📬 |
+| **A** | RICHFIELD | 44.94 | RAR FARMS LLC | V10 -0042 | 📬 |
+| **A** | RICHFIELD | 38.35 | SCHULTEIS GARY T | V10 -0050 | 📬 |
+| **A** | RICHFIELD | 48.36 | OLD FARM LANE LLC | V10 -0067 | 📬 |
+| **A** | RICHFIELD | 24.3 | KRATZ FARMS HOLDINGS LLP | V10 -1176 | 📬 |
+| **A** | RICHFIELD | 47.6 | HENNES MICHAEL P | V10 -0869 | 📬 |
+| **A** | RICHFIELD | 24.32 | DIEBALL CHARLES | V10 -120400A | 📬 |
+| **A** | RICHFIELD | 32 | WEYER ALI | V10 -1228 | 📬 |
+| **A** | RICHFIELD | 39.14 | MARVIN | V10 -123400B | 📬 |
+| **A** | RICHFIELD | 40 | MARVIN | V10 -1237 | 📬 |
+| **A** | RICHFIELD | 40 | MARVIN | V10 -1239 | 📬 |
+| **A** | RICHFIELD | 38.7 | MARVIN | V10 -1240 | 📬 |
+| **A** | RICHFIELD | 28.42 | BERNICE M LOFY | V10 -007300Z | 📬 |
+| **A** | RICHFIELD | 39 | SCHMIDT KENNETH | V10 -008800K | 📬 |
+| **A** | RICHFIELD | 34.72 | OLD FARM LANE LLC | V10 -006600Z | 📬 |
+| **A** | RICHFIELD | 55.35 | OLD FARM LANE LLC | V10 -008400D | 📬 |
+| **A** | RICHFIELD | 1.3 | JUNG MARGARET C | V10 -019900B | 📞 |
+| **A** | RICHFIELD | 30.89 | SCHATZ JEROME H | V10 -0453 | 📞 |
+| **A** | RICHFIELD | 3.95 | CHILSON ZACHERY | V10 -0969 | 📞 |
+| **A** | RICHFIELD | 20 | TOD MELISSA | V10 -1352 | 📞 |
+| **A** | RICHFIELD | 1 | SUCHLA ERNEST | V10 -1354 | 📞 |
+| **A** | RICHFIELD | 0.98 | SUCHLA ERNEST | V10 -1359 | 📞 |
+| **A** | RICHFIELD | 20 | SUCHLA ERNEST | V10 -1362 | 📞 |
+| **A** | RICHFIELD | 40 | BROOKS RYAN K | V10 -0661 | 📞 |
+| **A** | RICHFIELD | 8.5 | ZAKRZEWSKI LUKE T | V10 -0670 | 📞 |
+| **A** | RICHFIELD | 10 | KEPES MONICA H | V10 -0873 | 📞 |
+| **A** | RICHFIELD | 10 | KEPES MONICA H | V10 -0874 | 📞 |
+| **A** | RICHFIELD | 20 | HENNES WILLIAM E | V10 -0875 | 📞 |
+| **A** | RICHFIELD | 9.22 | KEPES MONICA H | V10 -085900A | 📞 |
+| **A** | RICHFIELD | 10.64 | HENNES MARK G | V10 -086000A | 📞 |
+| **A** | RICHFIELD | 19.87 | NOWACKI DAVID H | V10 -004500D | 📞 |
+| **A** | RICHFIELD | 7.29 | KETTERHAGEN TERRENCE J | V10 -004500E | 📞 |
+| **A** | RICHFIELD | 10 | LOFY HERBERT G | V10 -0076 | 📞 |
+| **A** | RICHFIELD | 40 | LOFY HERBERT G | V10 -0077 | 📞 |
+| **A** | RICHFIELD | 36.38 | FRYKLUND MALINDA | V10 -0083 | 📞 |
+| **A** | RICHFIELD | 46.39 | DWIGHT DAVID E MAYER | V10 -009500Z | 📞 |
+| **A** | RICHFIELD | 40 | WITTENBERGER FARMS LLC | V10 -0109 | 📞 |
+| **A** | RICHFIELD | 20 | BARTEL RALPH L | V10 -0118 | 📞 |
+| **A** | RICHFIELD | 24 | BARTEL RALPH L | V10 -0123 | 📞 |
+| **A** | RICHFIELD | 30 | LOOSEN PAUL | V10 -0128 | 📞 |
+| **A** | RICHFIELD | 20 | SMITH ERIC J | V10 -0137 | 📞 |
+| **A** | RICHFIELD | 40 | ANDERSON MARY | V10 -0152 | 📞 |
+| **A** | RICHFIELD | 19.96 | SMITH ERIC J | V10 -0153 | 📞 |
+| **A** | RICHFIELD | 20.3 | SMITH ERIC J | V10 -0154 | 📞 |
+| **A** | RICHFIELD | 29.49 | ANDERSON MARY | V10 -0155 | 📞 |
+| **A** | RICHFIELD | 30 | WITTENBERGER FARMS LLC | V10 -0158 | 📞 |
+| **A** | RICHFIELD | 30 | WITTENBERGER FARMS LLC | V10 -0161 | 📞 |
+| **A** | RICHFIELD | 7.55 | LOFY JOHN R | V10 -0165 | 📞 |
+| **A** | RICHFIELD | 40 | FRYKLUND MALINDA | V10 -0183 | 📞 |
+| **A** | RICHFIELD | 12.67 | MULLINS DANIELLE | V10 -018700M | 📞 |
+| **A** | RICHFIELD | 40 | JUNG MARGARET C | V10 -0200 | 📞 |
+| **A** | RICHFIELD | 20.48 | TOD PETER L SKAALEN JR | V10 -0413 | 📞 |
+| **A** | RICHFIELD | 13.33 | SCHMITT DARRYL | V10 -041400F | 📞 |
+| **A** | RICHFIELD | 1.3 | LEVENDUSKY DAVE | V10 -0424012 | 📞 |
+| **A** | RICHFIELD | 8.3 | BERGEN PATRICK J | V10 -098800G | 📞 |
+| **A** | RICHFIELD | 31.69 | CHURCH NORTHBROOK | V10 -0217 | 📞 |
+| **A** | RICHFIELD | 58.67 | TOD MELISSA | V10 -135300A | 📞 |
+| **A** | RICHFIELD | 10 | PEPPROCK DANNY L | V10 -0228 | 📞 |
+| **A** | RICHFIELD | 16.5 | SCHREINER CHAD J | V10 -0229 | 📞 |
+| **A** | RICHFIELD | 39.85 | MAURER WILLIAM J | V10 -0236 | 📞 |
+| **A** | RICHFIELD | 19.02 | SCHNEIDER CALVIN L | V10 -0240 | 📞 |
+| **A** | RICHFIELD | 10.95 | SCHNEIDER CALVIN L | V10 -024100Z | 📞 |
+| **A** | RICHFIELD | 36.75 | KAZMIERCZAK BRIAN A | V10 -0249 | 📞 |
+| **A** | RICHFIELD | 20.64 | KAZMIERCZAK BRIAN A | V10 -025200Z | 📞 |
+| **A** | RICHFIELD | 40 | KAZMIERCZAK BRIAN A | V10 -0254 | 📞 |
+| **A** | RICHFIELD | 18.99 | DESMOND RYAN J | V10 -0275 | 📞 |
+| **A** | RICHFIELD | 13.36 | KOEFERL DEBRA | V10 -139300Z | 📞 |
+| **A** | RICHFIELD | 38.33 | NEITZEL WILLIAM A | V10 -139500Z | 📞 |
+| **A** | RICHFIELD | 37.68 | KOEFERL DEBRA | V10 -139600D | 📞 |
+| **A** | RICHFIELD | 2.66 | HUSCHITT FRANK | V10 -0008010 | 📞 |
+| **A** | RICHFIELD | 3.9 | BROWN-CAMPBELL CO | V10 -0008021 | 📞 |
+| **A** | RICHFIELD | 5.63 | HEINRITZ JAMES | V10 -0008027 | 📞 |
+| **A** | RICHFIELD | 3.75 | SCHMITT PAMELA | V10 -079900K | 📞 |
+| **A** | RICHFIELD | 156.8 | CANNON PATRICK | V10 -079900L | 📞 |
+| **A** | SLINGER | 33.07 | HANKE RICHARD S | V5  -029700E001 | 📬 |
+| **A** | SLINGER | 5 | STEGER JOHN | V5  -029700C | 📞 |
+| **A** | SLINGER | 6.65 | HANKE RICHARD S | V5  -029700U | 📞 |
+| **A** | SLINGER | 3 | GEOFFREY JULIE A | V5  -019700M | 📞 |
+| **A** | SLINGER | 5.51 | ROETHLE HAROLD | V5  -0611000001 | 📞 |
+| **A** | SLINGER | 3.66 | ROETHLE HAROLD F | V5  -031400K | 📞 |
+| **A** | SLINGER | 5.89 | ROETHLE HAROLD F | V5  -031700F | 📞 |
+| **A** | SLINGER | 0.01 | PINKOWSKY ALAN | V5  -067500I | 📞 |
+| **A** | SLINGER | 40.1 | HANKE WILLIAM FREDRICK | V5  -025800A | 📞 |
+| **A** | SLINGER | 33.07 | HANKE RICHARD S | V5  -029700E001 | 📞 |
+| **A** | SLINGER | 44.99 | HAMILTON RYAN | V5  -076000B | 📞 |
+| **A** | SLINGER | 19.32 | HANKE WILLIAM FREDRICK | V5  -076200A | 📞 |
+| **A** | SLINGER | 20.55 | NICHOLS PETER A | V5  -0766 | 📞 |
+| **A** | SLINGER | 0.75 | STAUS JODI L | V5  -074500Z | 📞 |
+| **A-** | HARTFORD | 23.16 | WOLSKI JUDY A | 36  -2901004026 | 📞 |
+| **A-** | HARTFORD | 38.03 | JOHNSTON AARON | 36  -2703001005 | 📞 |
+| **A-** | HARTFORD | 9.64 | ROSKOPF RONALD A | 36  -1804001001 | 📞 |
+| **A-** | HARTFORD | 2.9 | GHANBARI REZA NAMDAR | 36  -2802002015 | 📞 |
+| **A-** | HARTFORD | 27.14 | SCHWECHEL MATTHEW A | 36  -1603002076 | 📞 |
+| **A-** | HARTFORD | 12.17 | MCCUNE MARK T | 36  -2803002013 | 📞 |
+| **A-** | HARTFORD | 32.1 | GHANBARI REZA NAMDAR | 36  -2803003018 | 📞 |
+| **A-** | HARTFORD | 1.05 | THOMA DONALD J | 36  -2201008060 | 📞 |
+| **A-** | HARTFORD | 5 | GROTH SHARON C | 36  -1803002004 | 📞 |
+| **A-** | HARTFORD | 9.15 | GROTH SHARON C | 36  -1803002009 | 📞 |
+| **A-** | HARTFORD | 21.94 | RETTLER ALLAN | 36  -1804002003 | 📞 |
+| **A-** | HARTFORD | 10 | HOME PATH FINANCIAL LP | 36  -1504002019 | 📞 |
+| **A-** | HARTFORD | 20 | HOME PATH FINANCIAL LP | 36  -1504002020 | 📞 |
+| **A-** | HARTFORD | 20 | HOME PATH FINANCIAL LP | 36  -1504002021 | 📞 |
+| **A-** | HARTFORD | 1.09 | RETTLER ALLAN | 36  -1801003003 | 📞 |
 
-| Priority | Area | Rationale |
-|---|---|---|
-| **A+** | Village of Germantown (south edge) | Direct Milwaukee adjacency. I-41/US-45 frontage. Strongest FLU residential designations. |
-| **A+** | Village of Jackson (I-41 corridor) | The Oaks sold out. Proven demand. Next Generation Housing priority zone. |
-| **A** | Village of Richfield (I-41 corridor) | Between Germantown and Slinger. Converting from town to village. Rapid residential growth. |
-| **A** | Village of Slinger (I-41 corridor) | +1,538 residents. Railroad-to-bedroom community transition. I-41 access. |
-| **A** | City of Hartford (north I-41) | +1,667 residents. Northern corridor anchor. Industrial + residential growth. |
-| **A-** | Town of Polk | Between Richfield and Slinger. FLU residential expansion. I-41 access. |
-| **A-** | Town of West Bend | Surrounds county seat. Edge growth. Sewer/water expansion likely. |
-| **A-** | Town of Erin | Southern end near Hartford. I-41 access. Development pressure building. |
+## Rezoning Analysis
 
-### Rezoning Analysis
+### 🔥 A+/A — Prime Ag→Subdivision Targets
+*Directly adjacent to city limits. FLU maps show ag→residential. Sewer/water planned or active.*
 
-Washington County's pro-development government makes it one of the most favorable counties in southeastern Wisconsin for ag→residential rezoning. Key advantages:
-- County government actively supports subdivision
-- Next Generation Housing program provides political cover for rezoning approvals
-- I-41/US-45 corridor infrastructure already supports growth
-- Farmland Preservation Plan focuses constraints on western townships, not the growth corridor
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
+- **V10 -079900L** | 156.8ac | CANNON PATRICK | RICHFIELD
 
-### Key Multi-Owner Targets
-Focus on large agricultural parcels along I-41/US-45 in the Towns of Polk, Erin, and West Bend where FLU maps show residential transition areas. The county's Community Development department can provide GIS parcel data and FLU overlay maps for due diligence.
+### Clusters
+**GERMANTOWN** (A): 18 parcels, ~37ac
+  17 MLS — call first
+**JACKSON** (A+): 92 parcels, ~862ac
+  63 MLS — call first
+  2 multi-owners
+**RICHFIELD** (A): 102 parcels, ~4334ac
+  58 MLS — call first
+  29 multi-owners
+**SLINGER** (A): 14 parcels, ~33ac
+  13 MLS — call first
+**HARTFORD** (A-): 15 parcels, ~0ac
+  15 MLS — call first
+
+### 📞 For-Sale
+- **GERMANTOWN** (A): 17
+- **JACKSON** (A+): 63
+- **RICHFIELD** (A): 58
+- **SLINGER** (A): 13
+- **HARTFORD** (A-): 15
+
+### 📬 Off-Market
+- **GERMANTOWN** (A): 1
+- **JACKSON** (A+): 29 — 2 multi-owners
+- **RICHFIELD** (A): 44 — 29 multi-owners
+- **SLINGER** (A): 1
 
 ---
-
-*2026-07-15 | North Star / Cody Bjugan criteria. Search Filters doc v1.0. HIGH-rated municipalities only (A+, A, A-).*
-*FIPS: 55131 | Population: ~139,504 (2025) | County Seat: West Bend*
+*"2026-07-15T20:48" | North Star / Cody Bjugan criteria. HIGH-rated towns only. Category 1 filters.*

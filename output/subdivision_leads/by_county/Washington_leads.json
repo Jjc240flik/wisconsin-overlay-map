@@ -1,0 +1,2431 @@
+{
+  "county": "Washington",
+  "towns": [
+    {
+      "town": "GERMANTOWN",
+      "lp_name": "TOWN OF GERMANTOWN",
+      "off_market": [
+        {
+          "fips": "55131",
+          "apn": "T5  -0139",
+          "street_address": "N140W20200 CEDAR LN",
+          "owner_full_name": "STEINHAGEN ALLEN L",
+          "lot_size_acres": 37,
+          "property_id": 150908050,
+          "_town": "GERMANTOWN"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55131",
+          "apn": "T5  -0090",
+          "street_address": "DIVISION RD",
+          "owner_full_name": "PROST MARY LYNN",
+          "lot_size_acres": 10.57,
+          "property_id": 150907988,
+          "_town": "GERMANTOWN",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0092",
+          "street_address": "DIVISION RD",
+          "owner_full_name": "PROST MARY LYNN",
+          "lot_size_acres": 8,
+          "property_id": 150907990,
+          "_town": "GERMANTOWN",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0107",
+          "street_address": "CEDAR LN",
+          "owner_full_name": "BRAUN JEFFREY R",
+          "lot_size_acres": 8,
+          "property_id": 150908045,
+          "_town": "GERMANTOWN",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -013700A",
+          "owner_full_name": "EVERS RICHARD D",
+          "lot_size_acres": 1.84,
+          "property_id": 156421202,
+          "_town": "GERMANTOWN",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -013800Z",
+          "street_address": "ROCKY LN",
+          "owner_full_name": "STEINHAGEN ALLEN L",
+          "lot_size_acres": 48.53,
+          "property_id": 150908049,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0139",
+          "street_address": "N140W20200 CEDAR LN",
+          "owner_full_name": "STEINHAGEN ALLEN L",
+          "lot_size_acres": 37,
+          "property_id": 150908050,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0141",
+          "street_address": "CEDAR LN",
+          "owner_full_name": "FLEISNER GENE",
+          "lot_size_acres": 7.52,
+          "property_id": 150908053,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0167001",
+          "street_address": "W220N14070 SHADOW LN",
+          "owner_full_name": "PAUR MARGARET M",
+          "lot_size_acres": 6.36,
+          "property_id": 150908309,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -016700A",
+          "street_address": "SHADOW LN",
+          "owner_full_name": "PAUR MARGARET M",
+          "lot_size_acres": 14,
+          "property_id": 150908310,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0222",
+          "street_address": "ROCKFIELD RD",
+          "owner_full_name": "DHEIN DALE",
+          "lot_size_acres": 33.92,
+          "property_id": 150908365,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0256",
+          "street_address": "W188N13102 MAPLE RD",
+          "owner_full_name": "DHEIN DALE",
+          "lot_size_acres": 39,
+          "property_id": 150928597,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0280",
+          "street_address": "ROCKFIELD RD",
+          "owner_full_name": "THOMAS S HAPKA AND DEANNE R HAPKA FAMILY",
+          "lot_size_acres": 17.37,
+          "property_id": 150928611,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -0281",
+          "street_address": "ROCKFIELD RD",
+          "owner_full_name": "TROY A WETTERAU A",
+          "lot_size_acres": 19,
+          "property_id": 150928617,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -028200Z",
+          "street_address": "HOLY HILL RD",
+          "owner_full_name": "TROY A WETTERAU A",
+          "lot_size_acres": 16.79,
+          "property_id": 150928627,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -014500Z",
+          "street_address": "GOLDENDALE RD",
+          "owner_full_name": "BAST FAMILY LTD PARTNERSHIP",
+          "lot_size_acres": 17.51,
+          "property_id": 169557970,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -021000Z",
+          "street_address": "W204N13636 GOLDENDALE RD",
+          "owner_full_name": "BAST FAMILY LTD PARTNERSHIP",
+          "lot_size_acres": 18.61,
+          "property_id": 169557971,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T5  -014400Y",
+          "street_address": "GOLDENDALE RD",
+          "owner_full_name": "BAST FAMILY LTD PARTNERSHIP",
+          "lot_size_acres": 25.91,
+          "property_id": 177754332,
+          "_town": "GERMANTOWN",
+          "_code": "7001"
+        }
+      ]
+    },
+    {
+      "town": "JACKSON",
+      "lp_name": "TOWN OF JACKSON",
+      "off_market": [
+        {
+          "fips": "55131",
+          "apn": "T7  -022700C",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "RUSCH ROBB R",
+          "lot_size_acres": 20,
+          "property_id": 150906142,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0330",
+          "street_address": "CEDAR CREEK RD",
+          "owner_full_name": "BRANDT FAMILY FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 150906580,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0873",
+          "street_address": "2825 CHURCH RD",
+          "owner_full_name": "DAVIDS STAR CONG TREASURER",
+          "lot_size_acres": 40,
+          "property_id": 150907367,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -092600Y",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "MCLAUGHLIN THOMAS",
+          "lot_size_acres": 25.55,
+          "property_id": 150907683,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0168",
+          "street_address": "4074 JACKSON DR",
+          "owner_full_name": "BEDER BROTHERS",
+          "lot_size_acres": 28.28,
+          "property_id": 150908003,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -063300Z",
+          "street_address": "COUNTRY AIRE DR",
+          "owner_full_name": "ROEMBKE RICHARD J",
+          "lot_size_acres": 34.86,
+          "property_id": 150910639,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -067100Z",
+          "street_address": "ELM RD",
+          "owner_full_name": "ZIEMER PAUL",
+          "lot_size_acres": 29.68,
+          "property_id": 150911094,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0684",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 33.34,
+          "property_id": 150911171,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0714",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "MUTZ THOMAS M",
+          "lot_size_acres": 28,
+          "property_id": 150911500,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0733",
+          "street_address": "MILL RD",
+          "owner_full_name": "TOD MELVIN",
+          "lot_size_acres": 20,
+          "property_id": 150911919,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0735",
+          "street_address": "MILL RD",
+          "owner_full_name": "KAZMIERCZAK KEVIN",
+          "lot_size_acres": 20,
+          "property_id": 150911978,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0570",
+          "street_address": "MAPLE RD",
+          "owner_full_name": "MCLELLAN KATHLEEN",
+          "lot_size_acres": 40,
+          "property_id": 150926431,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0592",
+          "street_address": "CENTER RD",
+          "owner_full_name": "KOWALSKE GLEN",
+          "lot_size_acres": 20,
+          "property_id": 150926832,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0614",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "MISKE DOLORES",
+          "lot_size_acres": 40,
+          "property_id": 150926965,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0009",
+          "street_address": "4720 COUNTRY AIRE DR",
+          "owner_full_name": "LOYAS JENNIFER A",
+          "lot_size_acres": 20,
+          "property_id": 150929424,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0033",
+          "street_address": "4631 S CHURCH RD",
+          "owner_full_name": "SCHMIDT RENEE",
+          "lot_size_acres": 20,
+          "property_id": 150929550,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0058",
+          "street_address": "PLEASANT VALLEY RD",
+          "owner_full_name": "NICKERSON CINDY A",
+          "lot_size_acres": 20,
+          "property_id": 150929589,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0063",
+          "street_address": "PLEASANT VALLEY RD",
+          "owner_full_name": "BUTLER THOMAS J",
+          "lot_size_acres": 39.93,
+          "property_id": 150929601,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -006900Z",
+          "street_address": "4721 DIVISION RD",
+          "owner_full_name": "NN RENTALS LLP",
+          "lot_size_acres": 38.6,
+          "property_id": 150929611,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0083029",
+          "street_address": "LIME RIDGE RD",
+          "owner_full_name": "STONEY CREEK HOMEOWNERS ASSOC",
+          "lot_size_acres": 31.47,
+          "property_id": 150929701,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -010200Z",
+          "street_address": "DIVISION RD",
+          "owner_full_name": "FIES BARRY",
+          "lot_size_acres": 32.76,
+          "property_id": 150929771,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0105",
+          "street_address": "PLEASANT VALLEY RD",
+          "owner_full_name": "FIES BARRY",
+          "lot_size_acres": 40,
+          "property_id": 150929777,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0126",
+          "street_address": "JACKSON DR",
+          "owner_full_name": "BAST FAMILY LTD PARTNERSHIP",
+          "lot_size_acres": 27.66,
+          "property_id": 150929863,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0131",
+          "street_address": "JACKSON DR",
+          "owner_full_name": "BAST FAMILY LTD PARTNERSHIP",
+          "lot_size_acres": 30.34,
+          "property_id": 150929877,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0842",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "SPRING VALLEY PROP",
+          "lot_size_acres": 30,
+          "property_id": 150930462,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -010600E",
+          "street_address": "JACKSON DR",
+          "owner_full_name": "PUESTOW STEVEN M",
+          "lot_size_acres": 24.05,
+          "property_id": 159561878,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -009100C",
+          "street_address": "MAPLE RD",
+          "owner_full_name": "BASTIAN ANDREW R",
+          "lot_size_acres": 34.28,
+          "property_id": 161606766,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -092800Z",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "RAYMOND W FISCHER",
+          "lot_size_acres": 24.52,
+          "property_id": 161607025,
+          "_town": "JACKSON"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -073900G",
+          "street_address": "MAPLE RD",
+          "owner_full_name": "WESTERN MAPLE FARMS LLC",
+          "lot_size_acres": 28.31,
+          "property_id": 161607093,
+          "_town": "JACKSON"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55131",
+          "apn": "T7  -0263",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "PRIBYL VICTOR J",
+          "lot_size_acres": 5,
+          "property_id": 150906201,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0267",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "MISKE DOLORES",
+          "lot_size_acres": 5,
+          "property_id": 150906248,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0301",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "STANK KARTER",
+          "lot_size_acres": 1.97,
+          "property_id": 150906389,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -030100A",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "WERNI DOLORES L",
+          "lot_size_acres": 1.6,
+          "property_id": 150906390,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -030100B",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "PAEGELOW TIMOTHY",
+          "lot_size_acres": 1.43,
+          "property_id": 150906391,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0858",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "ZURBUCHEN CANDICE R",
+          "lot_size_acres": 1.5,
+          "property_id": 150907288,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -086000Z",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "WEYKER TODD",
+          "lot_size_acres": 20.54,
+          "property_id": 150907290,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0161",
+          "street_address": "4360 JACKSON DR",
+          "owner_full_name": "NEW HOPE UNITED CHURCH OF CHRIST",
+          "lot_size_acres": 20.76,
+          "property_id": 150907862,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0944",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "FINCO SCOTT A",
+          "lot_size_acres": 0.5,
+          "property_id": 150907945,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -067300D",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "SEMRAD GREGORY S",
+          "lot_size_acres": 1,
+          "property_id": 150911136,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0678",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "FUEHRER MILTON",
+          "lot_size_acres": 20.04,
+          "property_id": 150911164,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -045400A",
+          "street_address": "HIGHLAND DR",
+          "owner_full_name": "BAUMGARTNER LINDA A",
+          "lot_size_acres": 1,
+          "property_id": 150926227,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0594",
+          "street_address": "DIVISION RD",
+          "owner_full_name": "KOWALSKE PAUL",
+          "lot_size_acres": 38.58,
+          "property_id": 150926836,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0604",
+          "street_address": "1364 SHERMAN RD",
+          "owner_full_name": "KNETTER PATRICK D",
+          "lot_size_acres": 14.92,
+          "property_id": 150926867,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -062400A",
+          "street_address": "STATE HIGHWAY 60",
+          "owner_full_name": "TEALCO GROUP",
+          "lot_size_acres": 7.65,
+          "property_id": 150927087,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -000100A",
+          "street_address": "COUNTY HIGHWAY NN",
+          "owner_full_name": "COLLINS KEITH L",
+          "lot_size_acres": 20.3,
+          "property_id": 150929393,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0090",
+          "street_address": "MAPLE RD",
+          "owner_full_name": "FIES BARRY",
+          "lot_size_acres": 40,
+          "property_id": 150929726,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -077400A",
+          "street_address": "2539 SHERMAN RD",
+          "owner_full_name": "ORLOFSKI KARL E",
+          "lot_size_acres": 4.5,
+          "property_id": 150930299,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -065300Z",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "MANEY SHAWN R",
+          "lot_size_acres": 15,
+          "property_id": 155694527,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -077500D",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "EHLKE MIKE J",
+          "lot_size_acres": 2.7,
+          "property_id": 161607003,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -064900A",
+          "owner_full_name": "FOX BRETT A",
+          "lot_size_acres": 7.86,
+          "property_id": 163544522,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -080400C",
+          "street_address": "STATE HIGHWAY 145",
+          "owner_full_name": "WANK JODI",
+          "lot_size_acres": 5,
+          "property_id": 163544542,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -066600I",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "LANZA RICARDO",
+          "lot_size_acres": 2.44,
+          "property_id": 166711813,
+          "_town": "JACKSON",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -022700C",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "RUSCH ROBB R",
+          "lot_size_acres": 20,
+          "property_id": 150906142,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -022800B",
+          "street_address": "PLEASANT VALLEY RD",
+          "owner_full_name": "TROUTT TIMOTHY",
+          "lot_size_acres": 3.79,
+          "property_id": 150906143,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -022800Z",
+          "street_address": "PLEASANT VALLEY RD",
+          "owner_full_name": "TROUTT TIMOTHY L",
+          "lot_size_acres": 30.12,
+          "property_id": 150906146,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0232",
+          "street_address": "1631 PLEASANT VALLEY RD",
+          "owner_full_name": "WERNI PETER",
+          "lot_size_acres": 20,
+          "property_id": 150906150,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0233",
+          "street_address": "COUNTY HIGHWAY G",
+          "owner_full_name": "THE MILWAUKEE METROPOLITAN SEWERAGE DIST",
+          "lot_size_acres": 19.34,
+          "property_id": 150906151,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0235",
+          "street_address": "COUNTY HIGHWAY G",
+          "owner_full_name": "WERNI PETER",
+          "lot_size_acres": 20,
+          "property_id": 150906153,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0330",
+          "street_address": "CEDAR CREEK RD",
+          "owner_full_name": "BRANDT FAMILY FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 150906580,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0332",
+          "street_address": "535 CEDAR CREEK RD",
+          "owner_full_name": "BRANDT FAMILY FARMS LLC",
+          "lot_size_acres": 38.85,
+          "property_id": 150906583,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0335",
+          "street_address": "CEDAR CREEK RD",
+          "owner_full_name": "BRANDT FAMILY FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 150906588,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -033700A",
+          "street_address": "3998 COUNTRY AIRE DR",
+          "owner_full_name": "CARL O MILLER",
+          "lot_size_acres": 35.34,
+          "property_id": 150906672,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0338",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "CARL O MILLER",
+          "lot_size_acres": 38.26,
+          "property_id": 150906673,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0344",
+          "street_address": "STATE HIGHWAY 60",
+          "owner_full_name": "MILLER WALTER A",
+          "lot_size_acres": 33.56,
+          "property_id": 150906777,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0354",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "KLUG CHRISTOPHER",
+          "lot_size_acres": 7.07,
+          "property_id": 150906866,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0358",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "KRUSE JOHN N",
+          "lot_size_acres": 20,
+          "property_id": 150906872,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -036800B",
+          "street_address": "COUNTY HIGHWAY M",
+          "owner_full_name": "GUSLICK MICHAEL M",
+          "lot_size_acres": 9.75,
+          "property_id": 150906906,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -037100Z",
+          "street_address": "STATE HIGHWAY 60",
+          "owner_full_name": "PUESTOW PAUL",
+          "lot_size_acres": 27.85,
+          "property_id": 150906929,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0382",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "MISKE DOLORES",
+          "lot_size_acres": 22,
+          "property_id": 150906991,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -084300Y",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPRING VALLEY PROP",
+          "lot_size_acres": 11.29,
+          "property_id": 150907152,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0845",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPRING VALLEY PROP",
+          "lot_size_acres": 16,
+          "property_id": 150907155,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -084700B",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 9.55,
+          "property_id": 150907159,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -085300B",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 10.1,
+          "property_id": 150907259,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0864",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPRING VALLEY PROP",
+          "lot_size_acres": 7,
+          "property_id": 150907294,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -086500Z",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPRING VALLEY PROP",
+          "lot_size_acres": 25.48,
+          "property_id": 150907297,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0873",
+          "street_address": "2825 CHURCH RD",
+          "owner_full_name": "DAVIDS STAR CONG TREASURER",
+          "lot_size_acres": 40,
+          "property_id": 150907367,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -087400F",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "SPOTTED T FARMS LLC",
+          "lot_size_acres": 8.53,
+          "property_id": 150907371,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -087600Z",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "SPOTTED T FARMS LLC",
+          "lot_size_acres": 12.93,
+          "property_id": 150907374,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0877",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPOTTED T FARMS LLC",
+          "lot_size_acres": 7.5,
+          "property_id": 150907375,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -087800Z",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "SPOTTED T FARMS LLC",
+          "lot_size_acres": 10.48,
+          "property_id": 150907378,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -087900E",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "RUSCH DALE",
+          "lot_size_acres": 4.66,
+          "property_id": 150907384,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0880",
+          "street_address": "2740 DAVIDS STAR DR",
+          "owner_full_name": "DAVIDS STAR CONG",
+          "lot_size_acres": 40,
+          "property_id": 150907385,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0886",
+          "street_address": "1555 SPRING VALLEY RD",
+          "owner_full_name": "ENEVOLD MATTHEW",
+          "lot_size_acres": 23.5,
+          "property_id": 150907402,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0904",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "PETERS GERALD E",
+          "lot_size_acres": 8,
+          "property_id": 150907509,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -091100C",
+          "street_address": "WESTERN AVE",
+          "owner_full_name": "BLOCH RANDALL W",
+          "lot_size_acres": 14.62,
+          "property_id": 150907533,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0919",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "RUSCH ANDREW",
+          "lot_size_acres": 4,
+          "property_id": 150907619,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0920",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "MCLAUGHLIN THOMAS",
+          "lot_size_acres": 16.03,
+          "property_id": 150907620,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -092100Z",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "RUSCH ANDREW",
+          "lot_size_acres": 13.19,
+          "property_id": 150907622,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0922",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "RUSCH ANDREW C",
+          "lot_size_acres": 13.97,
+          "property_id": 150907637,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -092200A",
+          "street_address": "SPRING VALLEY RD",
+          "owner_full_name": "RUSCH ANDREW C",
+          "lot_size_acres": 15.07,
+          "property_id": 150907638,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -0923",
+          "street_address": "CHURCH RD",
+          "owner_full_name": "RUSCH ANDREW C",
+          "lot_size_acres": 13.96,
+          "property_id": 150907639,
+          "_town": "JACKSON",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "T7  -092400Z",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "MENG THAO",
+          "lot_size_acres": 12.07,
+          "property_id": 150907642,
+          "_town": "JACKSON",
+          "_code": "7001"
+        }
+      ]
+    },
+    {
+      "town": "RICHFIELD",
+      "lp_name": "VILLAGE OF RICHFIELD",
+      "off_market": [
+        {
+          "fips": "55131",
+          "apn": "V10 -0123",
+          "street_address": "COUNTY HIGHWAY CC",
+          "owner_full_name": "BARTEL RALPH L",
+          "lot_size_acres": 24,
+          "property_id": 150909792,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0128",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "LOOSEN PAUL",
+          "lot_size_acres": 30,
+          "property_id": 150909867,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0154",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SMITH ERIC J",
+          "lot_size_acres": 20.3,
+          "property_id": 150910063,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0249",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 36.75,
+          "property_id": 150913429,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -025200Z",
+          "street_address": "POLK ST",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 20.64,
+          "property_id": 150913441,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0038",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "RAR FARMS LLC",
+          "lot_size_acres": 20.5,
+          "property_id": 150915341,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0042",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "RAR FARMS LLC",
+          "lot_size_acres": 44.94,
+          "property_id": 150915412,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0050",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "SCHULTEIS GARY T",
+          "lot_size_acres": 38.35,
+          "property_id": 150915675,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0067",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "OLD FARM LANE LLC",
+          "lot_size_acres": 48.36,
+          "property_id": 150916093,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1176",
+          "street_address": "4316 MONCHES RD",
+          "owner_full_name": "KRATZ FARMS HOLDINGS LLP",
+          "lot_size_acres": 24.3,
+          "property_id": 150918502,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0869",
+          "street_address": "BARK LAKE RD",
+          "owner_full_name": "HENNES MICHAEL P",
+          "lot_size_acres": 47.6,
+          "property_id": 150930014,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -120400A",
+          "street_address": "PLAT RD",
+          "owner_full_name": "DIEBALL CHARLES",
+          "lot_size_acres": 24.32,
+          "property_id": 150933063,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1228",
+          "street_address": "FOX KNOLL LN",
+          "owner_full_name": "WEYER ALI",
+          "lot_size_acres": 32,
+          "property_id": 150933352,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -123400B",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "MARVIN",
+          "lot_size_acres": 39.14,
+          "property_id": 150933409,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1237",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "MARVIN",
+          "lot_size_acres": 40,
+          "property_id": 150933442,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1239",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "MARVIN",
+          "lot_size_acres": 40,
+          "property_id": 150933444,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1240",
+          "street_address": "SHERMAN RD",
+          "owner_full_name": "MARVIN",
+          "lot_size_acres": 38.7,
+          "property_id": 150933445,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -007300Z",
+          "street_address": "164 W STATE ST",
+          "owner_full_name": "BERNICE M LOFY",
+          "lot_size_acres": 28.42,
+          "property_id": 159561886,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -008800K",
+          "street_address": "2495 STATE ROAD 164",
+          "owner_full_name": "SCHMIDT KENNETH",
+          "lot_size_acres": 39,
+          "property_id": 166711896,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -006600Z",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "OLD FARM LANE LLC",
+          "lot_size_acres": 34.72,
+          "property_id": 169558269,
+          "_town": "RICHFIELD"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -008400D",
+          "street_address": "HILLSIDE RD",
+          "owner_full_name": "OLD FARM LANE LLC",
+          "lot_size_acres": 55.35,
+          "property_id": 169558272,
+          "_town": "RICHFIELD"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55131",
+          "apn": "V10 -019900B",
+          "street_address": "HILLSIDE RD",
+          "owner_full_name": "JUNG MARGARET C",
+          "lot_size_acres": 1.3,
+          "property_id": 150910321,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0453",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SCHATZ JEROME H",
+          "lot_size_acres": 30.89,
+          "property_id": 150911199,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0969",
+          "street_address": "LAKEVIEW RD",
+          "owner_full_name": "CHILSON ZACHERY",
+          "lot_size_acres": 3.95,
+          "property_id": 150911875,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1352",
+          "street_address": "COLGATE RD",
+          "owner_full_name": "TOD MELISSA",
+          "lot_size_acres": 20,
+          "property_id": 150913146,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1354",
+          "street_address": "COUNTY LINE RD",
+          "owner_full_name": "SUCHLA ERNEST",
+          "lot_size_acres": 1,
+          "property_id": 150913148,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1359",
+          "street_address": "COUNTY LINE RD",
+          "owner_full_name": "SUCHLA ERNEST",
+          "lot_size_acres": 0.98,
+          "property_id": 150913182,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -1362",
+          "street_address": "COUNTY LINE RD",
+          "owner_full_name": "SUCHLA ERNEST",
+          "lot_size_acres": 20,
+          "property_id": 150913185,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0661",
+          "street_address": "ST AUGUSTINE RD",
+          "owner_full_name": "BROOKS RYAN K",
+          "lot_size_acres": 40,
+          "property_id": 150917508,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0670",
+          "street_address": "FRIESS LAKE RD",
+          "owner_full_name": "ZAKRZEWSKI LUKE T",
+          "lot_size_acres": 8.5,
+          "property_id": 150917605,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0873",
+          "street_address": "BARK LAKE RD",
+          "owner_full_name": "KEPES MONICA H",
+          "lot_size_acres": 10,
+          "property_id": 150930117,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0874",
+          "street_address": "BARK LAKE RD",
+          "owner_full_name": "KEPES MONICA H",
+          "lot_size_acres": 10,
+          "property_id": 150930119,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0875",
+          "street_address": "BARK LAKE RD",
+          "owner_full_name": "HENNES WILLIAM E",
+          "lot_size_acres": 20,
+          "property_id": 150930121,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -085900A",
+          "street_address": "HUBERTUS RD",
+          "owner_full_name": "KEPES MONICA H",
+          "lot_size_acres": 9.22,
+          "property_id": 151939967,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -086000A",
+          "street_address": "HUBERTUS RD",
+          "owner_full_name": "HENNES MARK G",
+          "lot_size_acres": 10.64,
+          "property_id": 151941876,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -004500D",
+          "street_address": "PIONEER RD",
+          "owner_full_name": "NOWACKI DAVID H",
+          "lot_size_acres": 19.87,
+          "property_id": 159561760,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -004500E",
+          "street_address": "SCENIC RD",
+          "owner_full_name": "KETTERHAGEN TERRENCE J",
+          "lot_size_acres": 7.29,
+          "property_id": 159561761,
+          "_town": "RICHFIELD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0076",
+          "street_address": "164 W STATE ST",
+          "owner_full_name": "LOFY HERBERT G",
+          "lot_size_acres": 10,
+          "property_id": 150909400,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0077",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "LOFY HERBERT G",
+          "lot_size_acres": 40,
+          "property_id": 150909401,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0083",
+          "street_address": "4388 PLEASANT HILL RD",
+          "owner_full_name": "FRYKLUND MALINDA",
+          "lot_size_acres": 36.38,
+          "property_id": 150909429,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -009500Z",
+          "street_address": "4811 PIONEER RD",
+          "owner_full_name": "DWIGHT DAVID E MAYER",
+          "lot_size_acres": 46.39,
+          "property_id": 150909650,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0109",
+          "street_address": "4658 PLEASANT HILL RD",
+          "owner_full_name": "WITTENBERGER FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 150909736,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0118",
+          "street_address": "COUNTY HIGHWAY CC",
+          "owner_full_name": "BARTEL RALPH L",
+          "lot_size_acres": 20,
+          "property_id": 150909779,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0123",
+          "street_address": "COUNTY HIGHWAY CC",
+          "owner_full_name": "BARTEL RALPH L",
+          "lot_size_acres": 24,
+          "property_id": 150909792,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0128",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "LOOSEN PAUL",
+          "lot_size_acres": 30,
+          "property_id": 150909867,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0137",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "SMITH ERIC J",
+          "lot_size_acres": 20,
+          "property_id": 150909911,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0152",
+          "street_address": "4958 STATE ROAD 167",
+          "owner_full_name": "ANDERSON MARY",
+          "lot_size_acres": 40,
+          "property_id": 150910060,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0153",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SMITH ERIC J",
+          "lot_size_acres": 19.96,
+          "property_id": 150910061,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0154",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SMITH ERIC J",
+          "lot_size_acres": 20.3,
+          "property_id": 150910063,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0155",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "ANDERSON MARY",
+          "lot_size_acres": 29.49,
+          "property_id": 150910065,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0158",
+          "street_address": "4615 PLEASANT HILL RD",
+          "owner_full_name": "WITTENBERGER FARMS LLC",
+          "lot_size_acres": 30,
+          "property_id": 150910105,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0161",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "WITTENBERGER FARMS LLC",
+          "lot_size_acres": 30,
+          "property_id": 150910113,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0165",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "LOFY JOHN R",
+          "lot_size_acres": 7.55,
+          "property_id": 150910160,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0183",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "FRYKLUND MALINDA",
+          "lot_size_acres": 40,
+          "property_id": 150910212,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -018700M",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "MULLINS DANIELLE",
+          "lot_size_acres": 12.67,
+          "property_id": 150910231,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0200",
+          "street_address": "HILLSIDE RD",
+          "owner_full_name": "JUNG MARGARET C",
+          "lot_size_acres": 40,
+          "property_id": 150910325,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0413",
+          "street_address": "4020 HUBERTUS RD",
+          "owner_full_name": "TOD PETER L SKAALEN JR",
+          "lot_size_acres": 20.48,
+          "property_id": 150910390,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -041400F",
+          "street_address": "HUBERTUS RD",
+          "owner_full_name": "SCHMITT DARRYL",
+          "lot_size_acres": 13.33,
+          "property_id": 150910392,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0424012",
+          "street_address": "MARIA LN",
+          "owner_full_name": "LEVENDUSKY DAVE",
+          "lot_size_acres": 1.3,
+          "property_id": 150910695,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -098800G",
+          "street_address": "PATRICK LN",
+          "owner_full_name": "BERGEN PATRICK J",
+          "lot_size_acres": 8.3,
+          "property_id": 150912135,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0217",
+          "street_address": "4014 STATE ROAD 167",
+          "owner_full_name": "CHURCH NORTHBROOK",
+          "lot_size_acres": 31.69,
+          "property_id": 150912661,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -135300A",
+          "street_address": "COUNTY LINE RD",
+          "owner_full_name": "TOD MELISSA",
+          "lot_size_acres": 58.67,
+          "property_id": 150913147,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0228",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "PEPPROCK DANNY L",
+          "lot_size_acres": 10,
+          "property_id": 150913226,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0229",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "SCHREINER CHAD J",
+          "lot_size_acres": 16.5,
+          "property_id": 150913228,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0236",
+          "street_address": "1886 SCENIC RD",
+          "owner_full_name": "MAURER WILLIAM J",
+          "lot_size_acres": 39.85,
+          "property_id": 150913345,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0240",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SCHNEIDER CALVIN L",
+          "lot_size_acres": 19.02,
+          "property_id": 150913356,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -024100Z",
+          "street_address": "STATE HIGHWAY 167",
+          "owner_full_name": "SCHNEIDER CALVIN L",
+          "lot_size_acres": 10.95,
+          "property_id": 150913369,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0249",
+          "street_address": "PLEASANT HILL RD",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 36.75,
+          "property_id": 150913429,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -025200Z",
+          "street_address": "POLK ST",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 20.64,
+          "property_id": 150913441,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0254",
+          "street_address": "2875 POLK ST",
+          "owner_full_name": "KAZMIERCZAK BRIAN A",
+          "lot_size_acres": 40,
+          "property_id": 150913443,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0275",
+          "street_address": "3278 STATE ROAD 167",
+          "owner_full_name": "DESMOND RYAN J",
+          "lot_size_acres": 18.99,
+          "property_id": 150913692,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -139300Z",
+          "street_address": "AMY BELLE RD",
+          "owner_full_name": "KOEFERL DEBRA",
+          "lot_size_acres": 13.36,
+          "property_id": 150913732,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -139500Z",
+          "street_address": "3080 COUNTY ROAD Q",
+          "owner_full_name": "NEITZEL WILLIAM A",
+          "lot_size_acres": 38.33,
+          "property_id": 150913736,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -139600D",
+          "street_address": "2908 COUNTY ROAD Q",
+          "owner_full_name": "KOEFERL DEBRA",
+          "lot_size_acres": 37.68,
+          "property_id": 150913760,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0008010",
+          "street_address": "ENDEAVOR DR",
+          "owner_full_name": "HUSCHITT FRANK",
+          "lot_size_acres": 2.66,
+          "property_id": 150914429,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0008021",
+          "street_address": "RICHFIELD PKWY",
+          "owner_full_name": "BROWN-CAMPBELL CO",
+          "lot_size_acres": 3.9,
+          "property_id": 150914540,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -0008027",
+          "street_address": "RICHFIELD PKWY",
+          "owner_full_name": "HEINRITZ JAMES",
+          "lot_size_acres": 5.63,
+          "property_id": 150914544,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900K",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "SCHMITT PAMELA",
+          "lot_size_acres": 3.75,
+          "property_id": 150914653,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V10 -079900L",
+          "street_address": "ELMWOOD RD",
+          "owner_full_name": "CANNON PATRICK",
+          "lot_size_acres": 156.8,
+          "property_id": 150914672,
+          "_town": "RICHFIELD",
+          "_code": "7001"
+        }
+      ]
+    },
+    {
+      "town": "SLINGER",
+      "lp_name": "VILLAGE OF SLINGER",
+      "off_market": [
+        {
+          "fips": "55131",
+          "apn": "V5  -029700E001",
+          "street_address": "W COMMERCE BLVD",
+          "owner_full_name": "HANKE RICHARD S",
+          "lot_size_acres": 33.07,
+          "property_id": 150916536,
+          "_town": "SLINGER"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55131",
+          "apn": "V5  -029700C",
+          "street_address": "370 HARTFORD RD",
+          "owner_full_name": "STEGER JOHN",
+          "lot_size_acres": 5,
+          "property_id": 150916535,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -029700U",
+          "street_address": "HILLDALE DR",
+          "owner_full_name": "HANKE RICHARD S",
+          "lot_size_acres": 6.65,
+          "property_id": 150916573,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -019700M",
+          "street_address": "175 W STATE ST",
+          "owner_full_name": "GEOFFREY JULIE A",
+          "lot_size_acres": 3,
+          "property_id": 150921176,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -0611000001",
+          "street_address": "GLEN VIEW LN",
+          "owner_full_name": "ROETHLE HAROLD",
+          "lot_size_acres": 5.51,
+          "property_id": 150933640,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -031400K",
+          "owner_full_name": "ROETHLE HAROLD F",
+          "lot_size_acres": 3.66,
+          "property_id": 174491573,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -031700F",
+          "owner_full_name": "ROETHLE HAROLD F",
+          "lot_size_acres": 5.89,
+          "property_id": 174491575,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -067500I",
+          "street_address": "STATE HIGHWAY 60",
+          "owner_full_name": "PINKOWSKY ALAN",
+          "lot_size_acres": 0.01,
+          "property_id": 177754631,
+          "_town": "SLINGER",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -025800A",
+          "street_address": "471 W WASHINGTON ST",
+          "owner_full_name": "HANKE WILLIAM FREDRICK",
+          "lot_size_acres": 40.1,
+          "property_id": 150916159,
+          "_town": "SLINGER",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -029700E001",
+          "street_address": "W COMMERCE BLVD",
+          "owner_full_name": "HANKE RICHARD S",
+          "lot_size_acres": 33.07,
+          "property_id": 150916536,
+          "_town": "SLINGER",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -076000B",
+          "street_address": "BONMAUR TER",
+          "owner_full_name": "HAMILTON RYAN",
+          "lot_size_acres": 44.99,
+          "property_id": 150917429,
+          "_town": "SLINGER",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -076200A",
+          "street_address": "491 W WASHINGTON ST",
+          "owner_full_name": "HANKE WILLIAM FREDRICK",
+          "lot_size_acres": 19.32,
+          "property_id": 150917433,
+          "_town": "SLINGER",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -0766",
+          "street_address": "455 SPUR RD",
+          "owner_full_name": "NICHOLS PETER A",
+          "lot_size_acres": 20.55,
+          "property_id": 150917435,
+          "_town": "SLINGER",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "V5  -074500Z",
+          "street_address": "ARTHUR RD",
+          "owner_full_name": "STAUS JODI L",
+          "lot_size_acres": 0.75,
+          "property_id": 150922106,
+          "_town": "SLINGER",
+          "_code": "7001"
+        }
+      ]
+    },
+    {
+      "town": "HARTFORD",
+      "lp_name": "CITY OF HARTFORD",
+      "off_market": [],
+      "for_sale": [
+        {
+          "fips": "55131",
+          "apn": "36  -2901004026",
+          "street_address": "330 SUNSET DR",
+          "owner_full_name": "WOLSKI JUDY A",
+          "lot_size_acres": 23.16,
+          "property_id": 150881728,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -2703001005",
+          "street_address": "1059 HALL RD",
+          "owner_full_name": "JOHNSTON AARON",
+          "lot_size_acres": 38.03,
+          "property_id": 150885447,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1804001001",
+          "owner_full_name": "ROSKOPF RONALD A",
+          "lot_size_acres": 9.64,
+          "property_id": 150889053,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -2802002015",
+          "street_address": "955 S WILSON AVE",
+          "owner_full_name": "GHANBARI REZA NAMDAR",
+          "lot_size_acres": 2.9,
+          "property_id": 150891567,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1603002076",
+          "street_address": "COUNTY HIGHWAY K",
+          "owner_full_name": "SCHWECHEL MATTHEW A",
+          "lot_size_acres": 27.14,
+          "property_id": 150905320,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -2803002013",
+          "street_address": "1235 GRAND AVE",
+          "owner_full_name": "MCCUNE MARK T",
+          "lot_size_acres": 12.17,
+          "property_id": 150912044,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -2803003018",
+          "street_address": "1025 S WILSON AVE",
+          "owner_full_name": "GHANBARI REZA NAMDAR",
+          "lot_size_acres": 32.1,
+          "property_id": 150912228,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -2201008060",
+          "street_address": "1828 E SUMNER ST",
+          "owner_full_name": "THOMA DONALD J",
+          "lot_size_acres": 1.05,
+          "property_id": 169561167,
+          "_town": "HARTFORD",
+          "_code": "8000"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1803002004",
+          "street_address": "1640 LIBERTY AVE",
+          "owner_full_name": "GROTH SHARON C",
+          "lot_size_acres": 5,
+          "property_id": 150889047,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1803002009",
+          "street_address": "1611 LIBERTY AVE",
+          "owner_full_name": "GROTH SHARON C",
+          "lot_size_acres": 9.15,
+          "property_id": 150889052,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1804002003",
+          "street_address": "1199 WESTERN DR",
+          "owner_full_name": "RETTLER ALLAN",
+          "lot_size_acres": 21.94,
+          "property_id": 150889055,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1504002019",
+          "owner_full_name": "HOME PATH FINANCIAL LP",
+          "lot_size_acres": 10,
+          "property_id": 174494714,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1504002020",
+          "owner_full_name": "HOME PATH FINANCIAL LP",
+          "lot_size_acres": 20,
+          "property_id": 174494715,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1504002021",
+          "owner_full_name": "HOME PATH FINANCIAL LP",
+          "lot_size_acres": 20,
+          "property_id": 174494716,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        },
+        {
+          "fips": "55131",
+          "apn": "36  -1801003003",
+          "street_address": "W STATE ST",
+          "owner_full_name": "RETTLER ALLAN",
+          "lot_size_acres": 1.09,
+          "property_id": 177753986,
+          "_town": "HARTFORD",
+          "_code": "7001"
+        }
+      ]
+    }
+  ]
+}

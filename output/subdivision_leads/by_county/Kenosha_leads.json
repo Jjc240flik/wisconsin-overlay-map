@@ -1,0 +1,5809 @@
+{
+  "county": "Kenosha",
+  "towns": [
+    {
+      "town": "PLEASANT PRAIRIE",
+      "lp_name": "VILLAGE OF PLEASANT PRAIRIE",
+      "off_market": [
+        {
+          "fips": "55059",
+          "apn": "92-4-122-273-0073",
+          "street_address": "OLD GREEN BAY RD",
+          "owner_full_name": "MI CASA FARMS LLC A WISCONSIN LIMITED L",
+          "lot_size_acres": 21.88,
+          "property_id": 149117747,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-364-0107",
+          "street_address": "2722 128TH ST",
+          "owner_full_name": "NELLIE MAC LP",
+          "lot_size_acres": 89.88,
+          "property_id": 149123414,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-352-0050",
+          "street_address": "116TH ST",
+          "owner_full_name": "SORENSEN JAY R",
+          "lot_size_acres": 39.34,
+          "property_id": 149130518,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-093-1045",
+          "street_address": "85TH AVE",
+          "owner_full_name": "HOME PATH FINANCIAL LIMITED PARTNERSHIP",
+          "lot_size_acres": 26.25,
+          "property_id": 149137401,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-093-1045",
+          "street_address": "85TH AVE",
+          "owner_full_name": "HOME PATH FINANCIAL LIMITED PARTNERSHIP",
+          "lot_size_acres": 26.25,
+          "property_id": 149137401,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-303-0300",
+          "street_address": "116TH ST",
+          "owner_full_name": "RIES PARTNERS LP",
+          "lot_size_acres": 31.08,
+          "property_id": 149139036,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-324-0300",
+          "street_address": "88TH AVE",
+          "owner_full_name": "ESTES YOUNG S",
+          "lot_size_acres": 55.31,
+          "property_id": 149139135,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0120",
+          "street_address": "SPRINGBROOK RD",
+          "owner_full_name": "EXCELSIOR PROPERTIES LTD",
+          "lot_size_acres": 25.5,
+          "property_id": 149139312,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0120",
+          "street_address": "SPRINGBROOK RD",
+          "owner_full_name": "EXCELSIOR PROPERTIES LTD",
+          "lot_size_acres": 25.5,
+          "property_id": 149139312,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0300",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "VPX FARM LLC",
+          "lot_size_acres": 34.07,
+          "property_id": 149139348,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-311-0070",
+          "street_address": "SHERIDAN RD",
+          "owner_full_name": "THE NATURE CONSERVANCY",
+          "lot_size_acres": 30.84,
+          "property_id": 149144542,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-312-0200",
+          "street_address": "116TH ST",
+          "owner_full_name": "RLSR ENTERPRISES LLP",
+          "lot_size_acres": 90.2,
+          "property_id": 149144558,
+          "_town": "PLEASANT PRAIRIE"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-094-5000",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "UNION PACIFIC RAILROAD",
+          "lot_size_acres": 23.78,
+          "property_id": 157431634,
+          "_town": "PLEASANT PRAIRIE"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55059",
+          "apn": "92-4-122-163-0010",
+          "street_address": "88TH AVE",
+          "owner_full_name": "HOGAN LAWRENCE R",
+          "lot_size_acres": 6.01,
+          "property_id": 149120761,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-181-0200",
+          "street_address": "84TH ST",
+          "owner_full_name": "PUD RIVER OAKS",
+          "lot_size_acres": 1.55,
+          "property_id": 149121127,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-254-0500",
+          "street_address": "116TH ST",
+          "owner_full_name": "WAKEFIELD MAVIS",
+          "lot_size_acres": 1.06,
+          "property_id": 149122021,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-322-0125",
+          "street_address": "LAKESHORE DR",
+          "owner_full_name": "POST JAMES W",
+          "lot_size_acres": 0.05,
+          "property_id": 149123487,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-323-0020",
+          "street_address": "LAKESHORE DR",
+          "owner_full_name": "KWIATKOWSKI TAMI",
+          "lot_size_acres": 0.02,
+          "property_id": 149123642,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-092-0100",
+          "street_address": "75TH ST",
+          "owner_full_name": "CROW GORDON L",
+          "lot_size_acres": 19.8,
+          "property_id": 149128634,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-143-0315",
+          "street_address": "89TH PL",
+          "owner_full_name": "WINTERS TODD R",
+          "lot_size_acres": 0.11,
+          "property_id": 149128801,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-143-0316",
+          "street_address": "89TH PL",
+          "owner_full_name": "MEACHUM BRIAN M",
+          "lot_size_acres": 0.19,
+          "property_id": 149128804,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-143-0317",
+          "street_address": "89TH PL",
+          "owner_full_name": "COSNER SANDRA",
+          "lot_size_acres": 0.45,
+          "property_id": 149128807,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-354-0750",
+          "street_address": "47TH AVE",
+          "owner_full_name": "PRODROMOS CHADWICK C",
+          "lot_size_acres": 1.56,
+          "property_id": 149130921,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-142-0352",
+          "street_address": "56TH AVE",
+          "owner_full_name": "STEINBRINK LIMITED PARTNERSHIP",
+          "lot_size_acres": 0.62,
+          "property_id": 149138174,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-142-0386",
+          "street_address": "88TH ST",
+          "owner_full_name": "STEINBRINK LIMITED PARTNERSHIP",
+          "lot_size_acres": 0.36,
+          "property_id": 149138224,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-142-0387",
+          "street_address": "88TH ST",
+          "owner_full_name": "STEINBRINK LIMITED PARTNERSHIP",
+          "lot_size_acres": 0.64,
+          "property_id": 149138225,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-143-0016",
+          "street_address": "8963 COOPER RD",
+          "owner_full_name": "BENITEZ ARNOLDO",
+          "lot_size_acres": 1.25,
+          "property_id": 149138321,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-343-0130",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "VPX FARM LLC",
+          "lot_size_acres": 2.24,
+          "property_id": 149139353,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-182-0025",
+          "street_address": "120TH AVE",
+          "owner_full_name": "JORIE LP",
+          "lot_size_acres": 20.54,
+          "property_id": 149143428,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-182-0030",
+          "street_address": "120TH AVE",
+          "owner_full_name": "NILES TODD J",
+          "lot_size_acres": 4,
+          "property_id": 149143429,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-182-0042",
+          "street_address": "120TH AVE",
+          "owner_full_name": "NILES TODD J",
+          "lot_size_acres": 0.33,
+          "property_id": 149143430,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-182-0043",
+          "street_address": "120TH AVE",
+          "owner_full_name": "NILES TODD J",
+          "lot_size_acres": 5.58,
+          "property_id": 149143431,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-191-0028",
+          "street_address": "RIVER RD",
+          "owner_full_name": "MARLOTTY DONALD J",
+          "lot_size_acres": 2.87,
+          "property_id": 149143469,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-191-0060",
+          "street_address": "9441 RIVER RD",
+          "owner_full_name": "EHRLICH DANIEL",
+          "lot_size_acres": 4.76,
+          "property_id": 149143473,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-192-0050",
+          "street_address": "120TH AVE",
+          "owner_full_name": "TIRABASSI INVESTMENTS LLP",
+          "lot_size_acres": 2,
+          "property_id": 149143478,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-264-0137",
+          "street_address": "39TH AVE",
+          "owner_full_name": "HARTNELL PHILIP H",
+          "lot_size_acres": 0.49,
+          "property_id": 177701908,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-054-0300",
+          "street_address": "91ST AVE",
+          "owner_full_name": "WESTFIELD HEIGHTS COMMERCIAL ASSOCIATION",
+          "lot_size_acres": 5.05,
+          "property_id": 149113683,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-054-0401",
+          "street_address": "88TH AVE",
+          "owner_full_name": "DURBIN JOSEPH R",
+          "lot_size_acres": 1.1,
+          "property_id": 149113759,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0295",
+          "street_address": "105TH AVE",
+          "owner_full_name": "FOLKERS CLIFFORD",
+          "lot_size_acres": 0.44,
+          "property_id": 149113947,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0300",
+          "street_address": "105TH AVE",
+          "owner_full_name": "FOLKERS CLIFFORD",
+          "lot_size_acres": 0.44,
+          "property_id": 149113949,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0305",
+          "street_address": "105TH AVE",
+          "owner_full_name": "FOLKERS CLIFFORD",
+          "lot_size_acres": 0.44,
+          "property_id": 149113950,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0310",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.49,
+          "property_id": 149113952,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0315",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.44,
+          "property_id": 149113954,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0320",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.45,
+          "property_id": 149113956,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0325",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.6,
+          "property_id": 149113957,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0330",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.62,
+          "property_id": 149113959,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0335",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.5,
+          "property_id": 149113960,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0340",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.48,
+          "property_id": 149113962,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0345",
+          "street_address": "79TH PL",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.5,
+          "property_id": 149113964,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0350",
+          "street_address": "105TH AVE",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.41,
+          "property_id": 149113965,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0355",
+          "street_address": "105TH AVE",
+          "owner_full_name": "FOLKERS CLIFFORD N",
+          "lot_size_acres": 0.34,
+          "property_id": 149113966,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0655",
+          "street_address": "115TH AVE",
+          "owner_full_name": "PINTER DENNIS K",
+          "lot_size_acres": 0.42,
+          "property_id": 149114198,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0660",
+          "street_address": "115TH AVE",
+          "owner_full_name": "CHATTERTON GERALD",
+          "lot_size_acres": 0.37,
+          "property_id": 149114200,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0665",
+          "street_address": "115TH AVE",
+          "owner_full_name": "CHATTERTON CHADD",
+          "lot_size_acres": 0.37,
+          "property_id": 149114202,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-0670",
+          "street_address": "115TH AVE",
+          "owner_full_name": "CHATTERTON CHADD",
+          "lot_size_acres": 0.54,
+          "property_id": 149114204,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-1125",
+          "street_address": "78TH ST",
+          "owner_full_name": "PINTER RICHARD S",
+          "lot_size_acres": 0.43,
+          "property_id": 149114584,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-071-1160",
+          "street_address": "78TH ST",
+          "owner_full_name": "PINTER RICHARD S",
+          "lot_size_acres": 0.43,
+          "property_id": 149114603,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-114-0216",
+          "street_address": "83RD PL",
+          "owner_full_name": "HOWARD NICHOLAS R",
+          "lot_size_acres": 0.66,
+          "property_id": 149114768,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-132-0150",
+          "street_address": "88TH ST",
+          "owner_full_name": "ARMSTRONG MARI ANNE",
+          "lot_size_acres": 0.31,
+          "property_id": 149114777,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-132-0171",
+          "street_address": "8811 39TH AVE",
+          "owner_full_name": "ARMSTRONG MARI ANNE",
+          "lot_size_acres": 0.44,
+          "property_id": 149114781,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-133-0515",
+          "street_address": "32ND AVE",
+          "owner_full_name": "HICKS COREY S",
+          "lot_size_acres": 0.69,
+          "property_id": 149114978,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-133-0560",
+          "street_address": "32ND AVE",
+          "owner_full_name": "MONTGOMERY JILL",
+          "lot_size_acres": 0.26,
+          "property_id": 149115003,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0057",
+          "street_address": "22ND AVE",
+          "owner_full_name": "TULIK JOY M",
+          "lot_size_acres": 0.03,
+          "property_id": 149115039,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0222",
+          "street_address": "24TH AVE",
+          "owner_full_name": "DEZOMA MICHAEL F",
+          "lot_size_acres": 0.03,
+          "property_id": 149115179,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0227",
+          "street_address": "8941 24TH AVE",
+          "owner_full_name": "KABELIS DAVID T",
+          "lot_size_acres": 0.03,
+          "property_id": 149115182,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0230",
+          "street_address": "24TH AVE",
+          "owner_full_name": "KABELIS DAVID T",
+          "lot_size_acres": 0.36,
+          "property_id": 149115183,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0242",
+          "street_address": "24TH AVE",
+          "owner_full_name": "HANSON ERIK H",
+          "lot_size_acres": 0.03,
+          "property_id": 149115186,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0435",
+          "street_address": "26TH AVE",
+          "owner_full_name": "BIRKHOLZ DANNY L",
+          "lot_size_acres": 0.38,
+          "property_id": 149115300,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0685",
+          "street_address": "SPRINGBROOK RD",
+          "owner_full_name": "HUNT CRAIG",
+          "lot_size_acres": 0.23,
+          "property_id": 149115542,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0830",
+          "street_address": "9149 29TH AVE",
+          "owner_full_name": "BAILIE MICHAEL",
+          "lot_size_acres": 1.68,
+          "property_id": 149115625,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0874",
+          "street_address": "27TH AVE",
+          "owner_full_name": "HABEL BERTHOLD",
+          "lot_size_acres": 0.7,
+          "property_id": 149115646,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-134-0955",
+          "street_address": "8930 29TH AVE",
+          "owner_full_name": "SKRZYPCHAK WAYNE J",
+          "lot_size_acres": 0.85,
+          "property_id": 149115798,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-141-0004",
+          "street_address": "85TH ST",
+          "owner_full_name": "CRITER DUWAYNE D",
+          "lot_size_acres": 4.18,
+          "property_id": 149115801,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-141-0005",
+          "street_address": "4717 85TH ST",
+          "owner_full_name": "CRITER DUWAYNE D",
+          "lot_size_acres": 0.61,
+          "property_id": 149115803,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-141-0039",
+          "street_address": "86TH PL",
+          "owner_full_name": "TIRABASSI DOMENICK",
+          "lot_size_acres": 0.41,
+          "property_id": 149115853,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-141-0041",
+          "street_address": "86TH PL",
+          "owner_full_name": "TIRABASSI DOMENICK",
+          "lot_size_acres": 0.63,
+          "property_id": 149115855,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0430",
+          "street_address": "42ND CT",
+          "owner_full_name": "PRIOVOLOS EMILIA PRIOVOLOS",
+          "lot_size_acres": 0.6,
+          "property_id": 149116712,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0431",
+          "street_address": "95TH ST",
+          "owner_full_name": "KUSTERS BENJAMIN E",
+          "lot_size_acres": 0.67,
+          "property_id": 149116715,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0468",
+          "street_address": "97TH ST",
+          "owner_full_name": "HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 4.82,
+          "property_id": 149116856,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0471",
+          "street_address": "43RD AVE",
+          "owner_full_name": "HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 1.47,
+          "property_id": 149116858,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0473",
+          "street_address": "42ND AVE",
+          "owner_full_name": "CARRAVETTA AMY J",
+          "lot_size_acres": 0.75,
+          "property_id": 149116861,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0477",
+          "street_address": "43RD AVE",
+          "owner_full_name": "MEADOWDALE ESTATES HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 3.69,
+          "property_id": 149116871,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0593",
+          "street_address": "43RD AVE",
+          "owner_full_name": "HAMM THOMAS R",
+          "lot_size_acres": 0.51,
+          "property_id": 149117023,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-231-0595",
+          "street_address": "97TH ST",
+          "owner_full_name": "CHAUDHARI SARAH",
+          "lot_size_acres": 0.74,
+          "property_id": 149117026,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-264-0504",
+          "street_address": "113TH ST",
+          "owner_full_name": "MISSION HILLS HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 0.41,
+          "property_id": 149117135,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-264-0505",
+          "street_address": "113TH ST",
+          "owner_full_name": "MISSION HILLS HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 0.83,
+          "property_id": 149117136,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-264-0506",
+          "street_address": "113TH ST",
+          "owner_full_name": "MISSION HILLS HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 2.21,
+          "property_id": 149117139,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-264-0600",
+          "street_address": "40TH AVE",
+          "owner_full_name": "WOODFIELD ESTATES HOMEOWNERS ASSOCIATION",
+          "lot_size_acres": 0.59,
+          "property_id": 149117141,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-271-0090",
+          "street_address": "106TH ST",
+          "owner_full_name": "WOLLER PATRICK J",
+          "lot_size_acres": 0.71,
+          "property_id": 149117217,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-272-0026",
+          "street_address": "104TH ST",
+          "owner_full_name": "SCALZO STEVEN P",
+          "lot_size_acres": 2.78,
+          "property_id": 149117343,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-272-0267",
+          "street_address": "109TH ST",
+          "owner_full_name": "INGRAM THOMAS S",
+          "lot_size_acres": 0.79,
+          "property_id": 149117429,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-272-0295",
+          "street_address": "OLD GREEN BAY RD",
+          "owner_full_name": "BROWN KAREN M",
+          "lot_size_acres": 1.12,
+          "property_id": 149117437,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-273-0085",
+          "street_address": "6726 116TH ST",
+          "owner_full_name": "CARVER STEVEN",
+          "lot_size_acres": 0.54,
+          "property_id": 149117755,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-274-0360",
+          "street_address": "111TH ST",
+          "owner_full_name": "KING THOMAS L",
+          "lot_size_acres": 0.24,
+          "property_id": 149117864,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1215",
+          "street_address": "93RD ST",
+          "owner_full_name": "MOLLEDA SHAZAY",
+          "lot_size_acres": 0.19,
+          "property_id": 149118502,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1365",
+          "street_address": "SHERIDAN RD",
+          "owner_full_name": "ELST JEFFERY",
+          "lot_size_acres": 0.21,
+          "property_id": 149118578,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1375",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "GLASS ALBERT C",
+          "lot_size_acres": 0.21,
+          "property_id": 149118601,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1380",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "SHAW ANNETTE HOWARD",
+          "lot_size_acres": 0.21,
+          "property_id": 149118639,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1385",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "NICHOLS BRENT",
+          "lot_size_acres": 0.21,
+          "property_id": 149118641,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1390",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "ZAMUDIO LEONEL",
+          "lot_size_acres": 0.21,
+          "property_id": 149118642,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1395",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "FREISE ANGELA M",
+          "lot_size_acres": 0.21,
+          "property_id": 149118643,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1405",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "SANCHA GONZALEZ RENE",
+          "lot_size_acres": 0.21,
+          "property_id": 149118645,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1410",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "SANCHA GONZALEZ RENE",
+          "lot_size_acres": 0.21,
+          "property_id": 149118646,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1415",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "DISCALCED CARMELITE FRIARS OF HOLY HILL",
+          "lot_size_acres": 0.21,
+          "property_id": 149118651,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1420",
+          "street_address": "SHERIDAN CT",
+          "owner_full_name": "KRAUSE HARRY J",
+          "lot_size_acres": 0.2,
+          "property_id": 149118656,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1425",
+          "street_address": "91ST ST",
+          "owner_full_name": "KRAUSE HARRY J",
+          "lot_size_acres": 0.25,
+          "property_id": 149118661,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-023-0370",
+          "street_address": "7109 52ND AVE",
+          "owner_full_name": "WILLIAMS GERALD D",
+          "lot_size_acres": 0.94,
+          "property_id": 149118699,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-023-0374",
+          "street_address": "7205 52ND AVE",
+          "owner_full_name": "WILLIAMS GERALD D",
+          "lot_size_acres": 0.77,
+          "property_id": 149118701,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-184-1435",
+          "street_address": "11TH AVE",
+          "owner_full_name": "CASSARELLA MICHAEL",
+          "lot_size_acres": 0.21,
+          "property_id": 149118711,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0100",
+          "street_address": "833 93RD ST",
+          "owner_full_name": "IWEN RONALD D",
+          "lot_size_acres": 0.19,
+          "property_id": 149118750,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0105",
+          "street_address": "93RD ST",
+          "owner_full_name": "BERGNACH MICHAEL J",
+          "lot_size_acres": 0.19,
+          "property_id": 149118757,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0110",
+          "street_address": "93RD ST",
+          "owner_full_name": "BERGNACH MICHAEL J",
+          "lot_size_acres": 0.19,
+          "property_id": 149118758,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0115",
+          "street_address": "93RD ST",
+          "owner_full_name": "BERGNACH MICHAEL J",
+          "lot_size_acres": 0.19,
+          "property_id": 149118760,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0120",
+          "street_address": "93RD ST",
+          "owner_full_name": "BERGNACH MICHAEL J",
+          "lot_size_acres": 0.19,
+          "property_id": 149118762,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0220",
+          "street_address": "94TH ST",
+          "owner_full_name": "IWEN RONALD D",
+          "lot_size_acres": 0.19,
+          "property_id": 149118811,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0410",
+          "street_address": "8TH AVE",
+          "owner_full_name": "CONOSCENTI CARLENE A",
+          "lot_size_acres": 0.25,
+          "property_id": 149118865,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0415",
+          "street_address": "8TH AVE",
+          "owner_full_name": "CONOSCENTI CARLENE A",
+          "lot_size_acres": 0.25,
+          "property_id": 149118887,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0435",
+          "street_address": "8TH AVE",
+          "owner_full_name": "CONOSCENTI CARLENE A",
+          "lot_size_acres": 0.25,
+          "property_id": 149118895,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-023-0568",
+          "street_address": "73RD ST",
+          "owner_full_name": "RUFFOLO VINCENT",
+          "lot_size_acres": 1.5,
+          "property_id": 149118934,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-122-023-0570",
+          "street_address": "5407 73RD ST",
+          "owner_full_name": "RUFFOLO VINCENT",
+          "lot_size_acres": 1.36,
+          "property_id": 149118935,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0485",
+          "street_address": "95TH ST",
+          "owner_full_name": "CARREL PATRICIA M",
+          "lot_size_acres": 0.3,
+          "property_id": 149118947,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0500",
+          "street_address": "95TH ST",
+          "owner_full_name": "TYNAN TIMOTHY J",
+          "lot_size_acres": 0.3,
+          "property_id": 149118957,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "93-4-123-191-0500",
+          "street_address": "95TH ST",
+          "owner_full_name": "TYNAN TIMOTHY J",
+          "lot_size_acres": 0.3,
+          "property_id": 149118957,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-271-0160",
+          "street_address": "107TH ST",
+          "owner_full_name": "SANDOVAL EDGARDO",
+          "lot_size_acres": 1.97,
+          "property_id": 149117243,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-272-0105",
+          "street_address": "OLD GREEN BAY RD",
+          "owner_full_name": "ONE-HALF INTEREST OF DECEDENT'S OWNERSHI",
+          "lot_size_acres": 17.82,
+          "property_id": 149117345,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-273-0073",
+          "street_address": "OLD GREEN BAY RD",
+          "owner_full_name": "MI CASA FARMS LLC A WISCONSIN LIMITED L",
+          "lot_size_acres": 21.88,
+          "property_id": 149117747,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "91-4-121-254-0301",
+          "street_address": "116TH ST",
+          "owner_full_name": "RIES PARTNERS LP",
+          "lot_size_acres": 39.3,
+          "property_id": 149118690,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-171-0200",
+          "owner_full_name": "KEVEK ENTERPRISES LLP",
+          "lot_size_acres": 40.06,
+          "property_id": 149120775,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-172-0301",
+          "street_address": "104TH AVE",
+          "owner_full_name": "KEVEK ENTERPRISES LLP",
+          "lot_size_acres": 38,
+          "property_id": 149120853,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-364-0120",
+          "street_address": "2722 128TH ST",
+          "owner_full_name": "NELLIE MAC LP",
+          "lot_size_acres": 27.68,
+          "property_id": 149123418,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-151-0011",
+          "street_address": "85TH ST",
+          "owner_full_name": "STEINBRINK LIMITED PARTNERSHIP",
+          "lot_size_acres": 12.89,
+          "property_id": 149129131,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-352-0100",
+          "street_address": "116TH ST",
+          "owner_full_name": "SORENSEN JAY R",
+          "lot_size_acres": 42.42,
+          "property_id": 149130520,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-303-0300",
+          "street_address": "116TH ST",
+          "owner_full_name": "RIES PARTNERS LP",
+          "lot_size_acres": 31.08,
+          "property_id": 149139036,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-323-0100",
+          "street_address": "122ND ST",
+          "owner_full_name": "LEKI ROBERT",
+          "lot_size_acres": 40,
+          "property_id": 149139129,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-324-0300",
+          "street_address": "88TH AVE",
+          "owner_full_name": "ESTES YOUNG S",
+          "lot_size_acres": 55.31,
+          "property_id": 149139135,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-332-0102",
+          "street_address": "122ND ST",
+          "owner_full_name": "GAR FARMS LLC",
+          "lot_size_acres": 65.09,
+          "property_id": 149139141,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-334-0200",
+          "street_address": "128TH ST",
+          "owner_full_name": "VPX FARM LLC",
+          "lot_size_acres": 38.79,
+          "property_id": 149139240,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0120",
+          "street_address": "SPRINGBROOK RD",
+          "owner_full_name": "EXCELSIOR PROPERTIES LTD",
+          "lot_size_acres": 25.5,
+          "property_id": 149139312,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0120",
+          "street_address": "SPRINGBROOK RD",
+          "owner_full_name": "EXCELSIOR PROPERTIES LTD",
+          "lot_size_acres": 25.5,
+          "property_id": 149139312,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-342-0300",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "VPX FARM LLC",
+          "lot_size_acres": 34.07,
+          "property_id": 149139348,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-343-0250",
+          "street_address": "128TH ST",
+          "owner_full_name": "VPX FARM LLC",
+          "lot_size_acres": 19.34,
+          "property_id": 149139360,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-184-0400",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "MEHTA LP",
+          "lot_size_acres": 39.02,
+          "property_id": 149143465,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-222-0205",
+          "street_address": "OLD GREEN BAY RD",
+          "owner_full_name": "KATRES PETER",
+          "lot_size_acres": 5.08,
+          "property_id": 149143543,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-263-0465",
+          "street_address": "47TH AVE",
+          "owner_full_name": "SORENSEN JAY R",
+          "lot_size_acres": 8.23,
+          "property_id": 149143901,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-263-0475",
+          "street_address": "116TH ST",
+          "owner_full_name": "SORENSEN JAY R",
+          "lot_size_acres": 13.86,
+          "property_id": 149143903,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-172-0392",
+          "street_address": "10115 WILMOT RD",
+          "owner_full_name": "KEVEK ENTERPRISES LLP",
+          "lot_size_acres": 166.1,
+          "property_id": 149120855,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "92-4-122-333-0165",
+          "street_address": "88TH AVE",
+          "owner_full_name": "BROWN STEVEN H",
+          "lot_size_acres": 5.11,
+          "property_id": 149139171,
+          "_town": "PLEASANT PRAIRIE",
+          "_code": "7000"
+        }
+      ]
+    },
+    {
+      "town": "SOMERS",
+      "lp_name": "TOWN OF SOMERS",
+      "off_market": [],
+      "for_sale": [
+        {
+          "fips": "55059",
+          "apn": "80-4-122-052-0045",
+          "street_address": "60TH ST",
+          "owner_full_name": "INGEBRITSON PETERSON HERITAGE FARM",
+          "lot_size_acres": 1.15,
+          "property_id": 149141179,
+          "_town": "SOMERS",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-131-0241",
+          "street_address": "25TH AVE",
+          "owner_full_name": "OLSEN CATHY A",
+          "lot_size_acres": 0.01,
+          "property_id": 149109788,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-131-0301",
+          "street_address": "30TH AVE",
+          "owner_full_name": "THOMPSON FAMILY LIMITED PARTNERSHIP",
+          "lot_size_acres": 0.07,
+          "property_id": 149109801,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0271",
+          "street_address": "4522 47TH AVE",
+          "owner_full_name": "CASTILLO JIMMY G",
+          "lot_size_acres": 0.07,
+          "property_id": 149110465,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0281",
+          "street_address": "47TH AVE",
+          "owner_full_name": "GROVER JERRIL M",
+          "lot_size_acres": 0.01,
+          "property_id": 149110467,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0291",
+          "street_address": "47TH AVE",
+          "owner_full_name": "GROVER JERRIL M",
+          "lot_size_acres": 0.01,
+          "property_id": 149110469,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0382",
+          "street_address": "47TH AVE",
+          "owner_full_name": "SPENCER GLEN",
+          "lot_size_acres": 0.07,
+          "property_id": 149110509,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0610",
+          "street_address": "52ND ST",
+          "owner_full_name": "MAERZKE WILLIAM J",
+          "lot_size_acres": 0.3,
+          "property_id": 149110531,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0620",
+          "street_address": "52ND ST",
+          "owner_full_name": "MAERZKE WILLIAM J",
+          "lot_size_acres": 0.4,
+          "property_id": 149110533,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-352-0630",
+          "street_address": "52ND ST",
+          "owner_full_name": "FLORES LUIS D",
+          "lot_size_acres": 0.9,
+          "property_id": 149110534,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-224-0164",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "PADEK SANDRA D",
+          "lot_size_acres": 0.55,
+          "property_id": 149114667,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-231-0250",
+          "street_address": "18TH ST",
+          "owner_full_name": "SALCEDO CARLOS",
+          "lot_size_acres": 1.24,
+          "property_id": 149114830,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-231-0430",
+          "street_address": "47TH AVE",
+          "owner_full_name": "DENNIS MICHAEL P",
+          "lot_size_acres": 0.04,
+          "property_id": 149114907,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-234-0540",
+          "street_address": "2507 47TH AVE",
+          "owner_full_name": "BRANDALISE ROBERT",
+          "lot_size_acres": 0.89,
+          "property_id": 149115116,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0034",
+          "street_address": "3819 29TH ST",
+          "owner_full_name": "JURGENS ERIC S",
+          "lot_size_acres": 0.01,
+          "property_id": 149115156,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0035",
+          "street_address": "3811 29TH ST",
+          "owner_full_name": "NELSON ANN M",
+          "lot_size_acres": 0.01,
+          "property_id": 149115158,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0036",
+          "street_address": "3805 29TH ST",
+          "owner_full_name": "KONTNEY DAVID D",
+          "lot_size_acres": 0.01,
+          "property_id": 149115160,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0037",
+          "street_address": "3723 29TH ST",
+          "owner_full_name": "NELSON CLYDE A",
+          "lot_size_acres": 0.01,
+          "property_id": 149115162,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0039",
+          "street_address": "3709 29TH ST",
+          "owner_full_name": "KIM YEON IM",
+          "lot_size_acres": 0.01,
+          "property_id": 149115166,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0040",
+          "street_address": "3703 29TH ST",
+          "owner_full_name": "STAUCHE CHARLES",
+          "lot_size_acres": 0.01,
+          "property_id": 149115168,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0041",
+          "street_address": "3631 29TH ST",
+          "owner_full_name": "HOST SHELLEY",
+          "lot_size_acres": 0.01,
+          "property_id": 149115170,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0042",
+          "street_address": "3625 29TH ST",
+          "owner_full_name": "MARGETSON CHRIS",
+          "lot_size_acres": 0.01,
+          "property_id": 149115172,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0043",
+          "street_address": "3613 29TH ST",
+          "owner_full_name": "FISCHER KIM M",
+          "lot_size_acres": 0.01,
+          "property_id": 149115174,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0044",
+          "street_address": "3605 29TH ST",
+          "owner_full_name": "PETERSON TERRANCE R",
+          "lot_size_acres": 0.01,
+          "property_id": 149115196,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0045",
+          "street_address": "3517 29TH ST",
+          "owner_full_name": "RODRIGUEZ REBECCA J",
+          "lot_size_acres": 0.01,
+          "property_id": 149115250,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0046",
+          "street_address": "3513 29TH ST",
+          "owner_full_name": "CRABTREE REAL ESTATE PARTNERSHIP",
+          "lot_size_acres": 0.01,
+          "property_id": 149115252,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0047",
+          "street_address": "3507 29TH ST",
+          "owner_full_name": "BLATNIK DENNIS M",
+          "lot_size_acres": 0.01,
+          "property_id": 149115253,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0430",
+          "street_address": "3415 27TH ST",
+          "owner_full_name": "SLAGLE ORVILLE D",
+          "lot_size_acres": 0.24,
+          "property_id": 149115322,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0460",
+          "street_address": "27TH ST",
+          "owner_full_name": "TEUNAS WILLIAM V",
+          "lot_size_acres": 0.49,
+          "property_id": 149115331,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0460",
+          "street_address": "27TH ST",
+          "owner_full_name": "TEUNAS WILLIAM V",
+          "lot_size_acres": 0.49,
+          "property_id": 149115331,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0505",
+          "street_address": "3605 27TH ST",
+          "owner_full_name": "TEUNAS JOAN",
+          "lot_size_acres": 0.5,
+          "property_id": 149115340,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0775",
+          "street_address": "30TH ST",
+          "owner_full_name": "BEDNAR JAMES E",
+          "lot_size_acres": 0.3,
+          "property_id": 149115343,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0830",
+          "street_address": "30TH ST",
+          "owner_full_name": "PELAFAS PETER G",
+          "lot_size_acres": 0.3,
+          "property_id": 149115345,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0840",
+          "street_address": "30TH ST",
+          "owner_full_name": "ESSER JOANN",
+          "lot_size_acres": 0.3,
+          "property_id": 149115346,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-243-0850",
+          "street_address": "30TH ST",
+          "owner_full_name": "MLECZKO GARY W",
+          "lot_size_acres": 0.3,
+          "property_id": 149115359,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-261-0220",
+          "street_address": "3409 47TH AVE",
+          "owner_full_name": "TOVAR EMETERIO SOLAIS",
+          "lot_size_acres": 0.55,
+          "property_id": 149115367,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-261-0260",
+          "street_address": "47TH AVE",
+          "owner_full_name": "ALDRICH JASMINE L",
+          "lot_size_acres": 0.55,
+          "property_id": 149115371,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-261-0340",
+          "street_address": "WASHINGTON RD",
+          "owner_full_name": "DORECE DANIEL W",
+          "lot_size_acres": 0.44,
+          "property_id": 149115377,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0169",
+          "street_address": "5113 34TH ST",
+          "owner_full_name": "HISEL TUYEN THI",
+          "lot_size_acres": 0.01,
+          "property_id": 149115387,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0170",
+          "street_address": "5121 34TH ST",
+          "owner_full_name": "PONTILLO JOHN E",
+          "lot_size_acres": 0.01,
+          "property_id": 149115390,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0171",
+          "street_address": "5207 34TH ST",
+          "owner_full_name": "ADAMS THELMA ANN",
+          "lot_size_acres": 0.01,
+          "property_id": 149115393,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0172",
+          "street_address": "5215 34TH ST",
+          "owner_full_name": "PETERSON KYLE",
+          "lot_size_acres": 0.01,
+          "property_id": 149115395,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0173",
+          "street_address": "5305 34TH ST",
+          "owner_full_name": "WISMAN CHERYL L",
+          "lot_size_acres": 0.01,
+          "property_id": 149115397,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0174",
+          "street_address": "5313 34TH ST",
+          "owner_full_name": "FIBISH NICHOLAS D",
+          "lot_size_acres": 0.01,
+          "property_id": 149115400,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0175",
+          "street_address": "5403 34TH ST",
+          "owner_full_name": "PIERCE STEVEN A",
+          "lot_size_acres": 0.01,
+          "property_id": 149115404,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0176",
+          "street_address": "5415 34TH ST",
+          "owner_full_name": "DEBARTOLO FRANK",
+          "lot_size_acres": 0.01,
+          "property_id": 149115407,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0177",
+          "street_address": "5421 34TH ST",
+          "owner_full_name": "MUNDEN ROZINSKI MARGARET J",
+          "lot_size_acres": 0.01,
+          "property_id": 149115409,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-262-0178",
+          "street_address": "3406 55TH AVE",
+          "owner_full_name": "NEAVE ADRIANA",
+          "lot_size_acres": 0.01,
+          "property_id": 149115412,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-263-0600",
+          "street_address": "45TH ST",
+          "owner_full_name": "EIDSOR THOMAS",
+          "lot_size_acres": 0.42,
+          "property_id": 149115468,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "81-4-223-181-0900",
+          "street_address": "13TH ST",
+          "owner_full_name": "C AND NW TRANSPORTATION CO",
+          "lot_size_acres": 0.48,
+          "property_id": 149125688,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "81-4-223-182-0352",
+          "street_address": "BIRCH RD",
+          "owner_full_name": "MORALES ISRAEL",
+          "lot_size_acres": 0.15,
+          "property_id": 149125710,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "81-4-223-183-0131",
+          "street_address": "BIRCH RD",
+          "owner_full_name": "ARIAS JUAN",
+          "lot_size_acres": 0.45,
+          "property_id": 149125735,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-301-0450",
+          "street_address": "10700 38TH ST",
+          "owner_full_name": "MORAVEC RAYMOND",
+          "lot_size_acres": 0.42,
+          "property_id": 149134990,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-333-0100",
+          "street_address": "52ND ST",
+          "owner_full_name": "ALIU DRITON",
+          "lot_size_acres": 1.14,
+          "property_id": 149135029,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-333-0130",
+          "street_address": "52ND ST",
+          "owner_full_name": "OLSEN JACQUELYN M",
+          "lot_size_acres": 0.74,
+          "property_id": 149135031,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-333-0150",
+          "street_address": "52ND ST",
+          "owner_full_name": "OLSEN JACQUELYN M",
+          "lot_size_acres": 0.15,
+          "property_id": 149135033,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-031-0491",
+          "street_address": "62ND AVE",
+          "owner_full_name": "WEYAND CHRISTINA",
+          "lot_size_acres": 0.19,
+          "property_id": 149141084,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-031-0506",
+          "owner_full_name": "RIESCHL MICHAEL J",
+          "lot_size_acres": 0.21,
+          "property_id": 149141092,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-031-0508",
+          "owner_full_name": "WILSCHANSKI BETZALEL",
+          "lot_size_acres": 0.21,
+          "property_id": 149141093,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-061-0154",
+          "street_address": "104TH AVE",
+          "owner_full_name": "METZGER PATRICK D",
+          "lot_size_acres": 0.55,
+          "property_id": 149141187,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-061-0170",
+          "street_address": "60TH ST",
+          "owner_full_name": "BENDA JAMES G",
+          "lot_size_acres": 0.5,
+          "property_id": 149141189,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-061-0190",
+          "street_address": "60TH ST",
+          "owner_full_name": "HOUGHTON DANIEL P",
+          "lot_size_acres": 1.09,
+          "property_id": 149141191,
+          "_town": "SOMERS",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-224-0100",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "DESRIS JOSEPH J",
+          "lot_size_acres": 2.98,
+          "property_id": 149114632,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-224-0112",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "DESRIS JOSEPH",
+          "lot_size_acres": 1.67,
+          "property_id": 149114633,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-224-0120",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "DESRIS JOSEPH J",
+          "lot_size_acres": 2.2,
+          "property_id": 149114642,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-224-0130",
+          "street_address": "GREEN BAY RD",
+          "owner_full_name": "DESRIS JOSEPH",
+          "lot_size_acres": 2.99,
+          "property_id": 149114643,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-232-0500",
+          "street_address": "22ND ST",
+          "owner_full_name": "PALMER JOHN",
+          "lot_size_acres": 9.72,
+          "property_id": 149114941,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-052-0035",
+          "street_address": "60TH ST",
+          "owner_full_name": "INGEBRITSON PETERSON HERITAGE FARM",
+          "lot_size_acres": 3.34,
+          "property_id": 149141177,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-122-052-0040",
+          "street_address": "60TH ST",
+          "owner_full_name": "INGEBRITSON PETERSON HERITAGE FARM",
+          "lot_size_acres": 2.64,
+          "property_id": 149141178,
+          "_town": "SOMERS",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "80-4-222-284-0300",
+          "street_address": "38TH ST",
+          "owner_full_name": "ROSSI INVESTMENTS LLP",
+          "lot_size_acres": 74,
+          "property_id": 163740620,
+          "_town": "SOMERS",
+          "_code": "8008"
+        }
+      ]
+    },
+    {
+      "town": "BRISTOL",
+      "lp_name": "VILLAGE OF BRISTOL",
+      "off_market": [
+        {
+          "fips": "55059",
+          "apn": "37-4-121-171-0300",
+          "street_address": "184TH AVE",
+          "owner_full_name": "WEILER PHAEDRA",
+          "lot_size_acres": 40.5,
+          "property_id": 149099620,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-184-0400",
+          "street_address": "93RD ST",
+          "owner_full_name": "ROGER JAMES",
+          "lot_size_acres": 74.4,
+          "property_id": 149099905,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-191-0204",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "MULDER RICHARD",
+          "lot_size_acres": 48.83,
+          "property_id": 149099911,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-192-0205",
+          "street_address": "21200 WILMOT RD",
+          "owner_full_name": "ROGERS JAMES W",
+          "lot_size_acres": 40,
+          "property_id": 149099931,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-313-0200",
+          "street_address": "210TH AVE",
+          "owner_full_name": "BENEDICTINE FATHERS",
+          "lot_size_acres": 117.18,
+          "property_id": 149103950,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-321-1210",
+          "street_address": "116TH ST",
+          "owner_full_name": "HAWKINS FAMILY FARM LLC",
+          "lot_size_acres": 34.5,
+          "property_id": 149104251,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-282-0110",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "SCHROEDER STEWART",
+          "lot_size_acres": 35.7,
+          "property_id": 149107957,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-302-0300",
+          "street_address": "107TH ST",
+          "owner_full_name": "F & F BRISTOL FARM LLC",
+          "lot_size_acres": 96,
+          "property_id": 149108788,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-133-0206",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "B C M INVESTMENTS LLP",
+          "lot_size_acres": 40.26,
+          "property_id": 149126527,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-042-0102",
+          "street_address": "13912 60TH ST",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 100.07,
+          "property_id": 149134896,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-043-0206",
+          "street_address": "75TH ST",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 41.28,
+          "property_id": 149134930,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-051-0101",
+          "street_address": "184TH AVE",
+          "owner_full_name": "BURGESS HAROLD D",
+          "lot_size_acres": 79.29,
+          "property_id": 149134959,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-054-0120",
+          "street_address": "184TH AVE",
+          "owner_full_name": "B AND J NELSON FARMS LLC",
+          "lot_size_acres": 33.47,
+          "property_id": 149135012,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-221-0300",
+          "street_address": "93RD ST",
+          "owner_full_name": "WEIDMAN DANIEL",
+          "lot_size_acres": 63.77,
+          "property_id": 149135879,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-143-0121",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "JACKSON THOMAS C",
+          "lot_size_acres": 37.52,
+          "property_id": 157347818,
+          "_town": "BRISTOL"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-133-0115",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "NELSON MICHAEL A",
+          "lot_size_acres": 32.02,
+          "property_id": 157433386,
+          "_town": "BRISTOL"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55059",
+          "apn": "37-4-121-314-0200",
+          "street_address": "208TH AVE",
+          "owner_full_name": "LOURIGAN JOSEPH ALAN",
+          "lot_size_acres": 5,
+          "property_id": 149103955,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-322-0400",
+          "street_address": "116TH ST",
+          "owner_full_name": "SHANKS JAMES R",
+          "lot_size_acres": 60,
+          "property_id": 149104299,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-324-0100",
+          "street_address": "122ND ST",
+          "owner_full_name": "LINDSTROM BRADLEY E",
+          "lot_size_acres": 24.8,
+          "property_id": 149104337,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-332-0120",
+          "street_address": "182ND AVE",
+          "owner_full_name": "BUTTERBRODT JAMES A",
+          "lot_size_acres": 4,
+          "property_id": 149104367,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-332-0125",
+          "street_address": "182ND AVE",
+          "owner_full_name": "BUTTERBRODT JAMES A",
+          "lot_size_acres": 2.38,
+          "property_id": 149104369,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-341-0201",
+          "street_address": "HORTON RD",
+          "owner_full_name": "ELFERING FARMS LLC",
+          "lot_size_acres": 10,
+          "property_id": 149104585,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-084-0430",
+          "street_address": "184TH AVE",
+          "owner_full_name": "LOVE LOREN",
+          "lot_size_acres": 8.42,
+          "property_id": 149125969,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-093-0100",
+          "street_address": "184TH AVE",
+          "owner_full_name": "ROSSI INVESTMENTS LLP",
+          "lot_size_acres": 5.47,
+          "property_id": 149126034,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-131-0401",
+          "street_address": "120TH AVE",
+          "owner_full_name": "HELFAND SEYMOUR",
+          "lot_size_acres": 23.07,
+          "property_id": 149126516,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-131-0402",
+          "street_address": "120TH AVE",
+          "owner_full_name": "HELFAND SEYMOUR",
+          "lot_size_acres": 1.43,
+          "property_id": 149126517,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-133-0305",
+          "street_address": "13211 WILMOT RD",
+          "owner_full_name": "WEDDEL KEVIN J",
+          "lot_size_acres": 1.96,
+          "property_id": 149126549,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-053-0330",
+          "street_address": "BRISTOL RD",
+          "owner_full_name": "SHEEN MARY",
+          "lot_size_acres": 3.32,
+          "property_id": 149135006,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-073-0085",
+          "street_address": "82ND ST",
+          "owner_full_name": "TIMKO CRAIG J",
+          "lot_size_acres": 2.98,
+          "property_id": 149135221,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-073-0140",
+          "street_address": "81ST ST",
+          "owner_full_name": "ANDERSON ROY",
+          "lot_size_acres": 5.25,
+          "property_id": 149135242,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-122-0627",
+          "street_address": "130TH AVE",
+          "owner_full_name": "ESTATES OF BRISTOL RIDGE HOMEOWNERS",
+          "lot_size_acres": 1.91,
+          "property_id": 157347558,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-122-0632",
+          "street_address": "80TH ST",
+          "owner_full_name": "ESTATES OF BRISTOL RIDGE HOMEOWNERS",
+          "lot_size_acres": 0.98,
+          "property_id": 157347562,
+          "_town": "BRISTOL",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-163-0305",
+          "street_address": "184TH AVE",
+          "owner_full_name": "ATWOOD RUTH E",
+          "lot_size_acres": 4.04,
+          "property_id": 149099528,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-163-0410",
+          "street_address": "17700 91ST PL",
+          "owner_full_name": "DRAGAN WALTER G",
+          "lot_size_acres": 2.32,
+          "property_id": 149099548,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-201-0310",
+          "street_address": "9757 192ND AVE",
+          "owner_full_name": "GRAF ANGELA",
+          "lot_size_acres": 1.26,
+          "property_id": 149099986,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0303",
+          "street_address": "196TH AVE",
+          "owner_full_name": "HAMM RANDY",
+          "lot_size_acres": 0.24,
+          "property_id": 149100124,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0404",
+          "street_address": "101ST ST",
+          "owner_full_name": "ADAMSKI CLARA T",
+          "lot_size_acres": 0.19,
+          "property_id": 149100170,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0406",
+          "street_address": "101ST ST",
+          "owner_full_name": "ADAMSKI CLARA T",
+          "lot_size_acres": 0.19,
+          "property_id": 149100175,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0408",
+          "street_address": "101ST ST",
+          "owner_full_name": "ADAMSKI CLARA T",
+          "lot_size_acres": 0.19,
+          "property_id": 149100177,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0436",
+          "street_address": "102ND ST",
+          "owner_full_name": "MIZWICKI MIKE",
+          "lot_size_acres": 0.16,
+          "property_id": 149100255,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0452",
+          "street_address": "101ST ST",
+          "owner_full_name": "MERTEN WILLIAM",
+          "lot_size_acres": 0.04,
+          "property_id": 149100265,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0838",
+          "street_address": "195TH AVE",
+          "owner_full_name": "KRELL KERRY G",
+          "lot_size_acres": 0.22,
+          "property_id": 149100337,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-0846",
+          "street_address": "102ND ST",
+          "owner_full_name": "KESSEL BENJAMIN A",
+          "lot_size_acres": 0.24,
+          "property_id": 149100342,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-1226",
+          "street_address": "104TH ST",
+          "owner_full_name": "JOHNSON RUSSEL J",
+          "lot_size_acres": 0.19,
+          "property_id": 149100373,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-203-1228",
+          "street_address": "104TH ST",
+          "owner_full_name": "OCHSNER JENNIFER",
+          "lot_size_acres": 0.13,
+          "property_id": 149100374,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-074-1025",
+          "street_address": "204TH CT",
+          "owner_full_name": "BRISTOLWOOD COMMUNITY ASSOCIATION",
+          "lot_size_acres": 0.03,
+          "property_id": 149102852,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0325",
+          "street_address": "83RD ST",
+          "owner_full_name": "MYNOR STEVEN F",
+          "lot_size_acres": 0.12,
+          "property_id": 149103526,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0602",
+          "street_address": "198TH AVE",
+          "owner_full_name": "GAUGER JONAH",
+          "lot_size_acres": 0.2,
+          "property_id": 149103678,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0608",
+          "street_address": "81ST ST",
+          "owner_full_name": "JOHNSON JOSEPH W",
+          "lot_size_acres": 0.59,
+          "property_id": 149103688,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0624",
+          "street_address": "81ST ST",
+          "owner_full_name": "FRANK ARLENE A",
+          "lot_size_acres": 0.19,
+          "property_id": 149103700,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0648",
+          "street_address": "8206 199TH AVE",
+          "owner_full_name": "NELSON GLEN E",
+          "lot_size_acres": 0.18,
+          "property_id": 149103770,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0730",
+          "street_address": "199TH AVE",
+          "owner_full_name": "RAU CLAUDETTE",
+          "lot_size_acres": 0.2,
+          "property_id": 149103858,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-321-0100",
+          "street_address": "119TH ST",
+          "owner_full_name": "JOHNSON THOMAS A",
+          "lot_size_acres": 0.83,
+          "property_id": 149103971,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-321-0122",
+          "street_address": "187TH AVE",
+          "owner_full_name": "STACY THOMAS A",
+          "lot_size_acres": 0.86,
+          "property_id": 149103988,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-332-0298",
+          "street_address": "122ND ST",
+          "owner_full_name": "SCHWENN TERRY W",
+          "lot_size_acres": 0.83,
+          "property_id": 149104462,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-341-0315",
+          "street_address": "HORTON RD",
+          "owner_full_name": "DEROO TYLER W",
+          "lot_size_acres": 2.55,
+          "property_id": 149104623,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-362-0301",
+          "street_address": "136TH AVE",
+          "owner_full_name": "EBERHARDT MARK J",
+          "lot_size_acres": 9.82,
+          "property_id": 149104765,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-362-0303",
+          "street_address": "136TH AVE",
+          "owner_full_name": "EBERHARDT MARK J",
+          "lot_size_acres": 9.82,
+          "property_id": 149104768,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-363-0322",
+          "street_address": "128TH ST",
+          "owner_full_name": "BARASSI-JACKSON CHRISTINE G",
+          "lot_size_acres": 4.83,
+          "property_id": 149104831,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-363-0422",
+          "street_address": "13144 128TH ST",
+          "owner_full_name": "WILDT CHARLES ALAN",
+          "lot_size_acres": 11.58,
+          "property_id": 149104849,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-293-0404",
+          "street_address": "116TH ST",
+          "owner_full_name": "RUCKEBEIL ZACHARY",
+          "lot_size_acres": 3,
+          "property_id": 149108539,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0200",
+          "street_address": "214TH AVE",
+          "owner_full_name": "LEE NICHOLAS",
+          "lot_size_acres": 0.19,
+          "property_id": 149108923,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0203",
+          "street_address": "214TH AVE",
+          "owner_full_name": "LEE NICHOLAS",
+          "lot_size_acres": 0.17,
+          "property_id": 149108926,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0212",
+          "street_address": "116TH ST",
+          "owner_full_name": "DANIELSON DOUGLAS",
+          "lot_size_acres": 0.17,
+          "property_id": 149108948,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0221",
+          "street_address": "117TH ST",
+          "owner_full_name": "SHEPPERACK ANDREW M",
+          "lot_size_acres": 0.17,
+          "property_id": 149108959,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0311",
+          "street_address": "213TH AVE",
+          "owner_full_name": "JOSELLIS ROBERT",
+          "lot_size_acres": 0.17,
+          "property_id": 149109118,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0326",
+          "street_address": "212TH AVE",
+          "owner_full_name": "WEISS MICHAEL",
+          "lot_size_acres": 0.17,
+          "property_id": 149109152,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0329",
+          "street_address": "212TH AVE",
+          "owner_full_name": "WEISS MICHAEL",
+          "lot_size_acres": 0.17,
+          "property_id": 149109156,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0353",
+          "street_address": "214TH AVE",
+          "owner_full_name": "KELLER STEVEN T",
+          "lot_size_acres": 0.21,
+          "property_id": 149109188,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0359",
+          "street_address": "213TH AVE",
+          "owner_full_name": "KELLER STEVEN T",
+          "lot_size_acres": 0.16,
+          "property_id": 149109197,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0377",
+          "street_address": "214TH AVE",
+          "owner_full_name": "PARENTEAU SUNNY M",
+          "lot_size_acres": 0.18,
+          "property_id": 149109215,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0383",
+          "street_address": "214TH AVE",
+          "owner_full_name": "PARENTEAU SUNNY M",
+          "lot_size_acres": 0.18,
+          "property_id": 149109219,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0499",
+          "street_address": "12008 214TH AVE",
+          "owner_full_name": "TARDIN RUDOLPH H",
+          "lot_size_acres": 0.18,
+          "property_id": 149109490,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0499",
+          "street_address": "12008 214TH AVE",
+          "owner_full_name": "TARDIN RUDOLPH H",
+          "lot_size_acres": 0.18,
+          "property_id": 149109490,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0505",
+          "street_address": "214TH AVE",
+          "owner_full_name": "WALICZEK WLADYSLAW",
+          "lot_size_acres": 0.16,
+          "property_id": 149109495,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0508",
+          "street_address": "119TH ST",
+          "owner_full_name": "FLESCH WILLIAM J",
+          "lot_size_acres": 0.14,
+          "property_id": 149109497,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0541",
+          "street_address": "120TH ST",
+          "owner_full_name": "KERN PETER M",
+          "lot_size_acres": 0.19,
+          "property_id": 149109616,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0550",
+          "street_address": "21110 120TH ST",
+          "owner_full_name": "NOWAK JERZY",
+          "lot_size_acres": 0.17,
+          "property_id": 149109622,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0769",
+          "street_address": "121ST ST",
+          "owner_full_name": "LOOSE TIMOTHY C",
+          "lot_size_acres": 0.2,
+          "property_id": 149109805,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0781",
+          "street_address": "213TH AVE",
+          "owner_full_name": "TUREK ROBERT J",
+          "lot_size_acres": 0.2,
+          "property_id": 149109815,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-312-0796",
+          "street_address": "213TH AVE",
+          "owner_full_name": "TUREK",
+          "lot_size_acres": 0.17,
+          "property_id": 149109837,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-083-0788",
+          "street_address": "200TH AVE",
+          "owner_full_name": "HARTWIG MADISON",
+          "lot_size_acres": 0.2,
+          "property_id": 149125729,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-021-0210",
+          "street_address": "60TH ST",
+          "owner_full_name": "BLAIR MARGARET",
+          "lot_size_acres": 2.99,
+          "property_id": 149134767,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-074-0188",
+          "street_address": "201ST AVE",
+          "owner_full_name": "SASGEN VICKI L",
+          "lot_size_acres": 0.6,
+          "property_id": 149135363,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-074-0188",
+          "street_address": "201ST AVE",
+          "owner_full_name": "SASGEN VICKI L",
+          "lot_size_acres": 0.6,
+          "property_id": 149135363,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0212",
+          "street_address": "192ND AVE",
+          "owner_full_name": "GRUENER DOUGLAS W",
+          "lot_size_acres": 0.16,
+          "property_id": 149135415,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0214",
+          "street_address": "192ND AVE",
+          "owner_full_name": "GRUENER DOUGLAS W",
+          "lot_size_acres": 0.16,
+          "property_id": 149135416,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0262",
+          "street_address": "192ND AVE",
+          "owner_full_name": "SHIRLEY CHARITY A",
+          "lot_size_acres": 0.16,
+          "property_id": 149135449,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0268",
+          "street_address": "192ND AVE",
+          "owner_full_name": "SMITH CODY",
+          "lot_size_acres": 0.16,
+          "property_id": 149135452,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0277",
+          "street_address": "191ST AVE",
+          "owner_full_name": "HOYLE MICHAEL D",
+          "lot_size_acres": 0.24,
+          "property_id": 149135456,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0283",
+          "street_address": "191ST AVE",
+          "owner_full_name": "HOYLE MICHAEL D",
+          "lot_size_acres": 0.24,
+          "property_id": 149135457,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0284",
+          "street_address": "191ST AVE",
+          "owner_full_name": "HOYLE MICHAEL D",
+          "lot_size_acres": 0.24,
+          "property_id": 149135474,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0292",
+          "street_address": "191ST AVE",
+          "owner_full_name": "KNOLL AARON",
+          "lot_size_acres": 0.16,
+          "property_id": 149135477,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0294",
+          "street_address": "9912 191ST AVE",
+          "owner_full_name": "KNOLL AARON",
+          "lot_size_acres": 0.16,
+          "property_id": 149135478,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0362",
+          "street_address": "190TH AVE",
+          "owner_full_name": "KERNAN NICHOLAS F",
+          "lot_size_acres": 0.16,
+          "property_id": 149135536,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0364",
+          "street_address": "190TH AVE",
+          "owner_full_name": "KERNAN NICHOLAS F",
+          "lot_size_acres": 0.16,
+          "property_id": 149135537,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0432",
+          "street_address": "189TH AVE",
+          "owner_full_name": "MALLMANN GERALD P",
+          "lot_size_acres": 0.16,
+          "property_id": 149135585,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0482",
+          "street_address": "189TH AVE",
+          "owner_full_name": "GIACINTO MILDRED M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135594,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0484",
+          "street_address": "189TH AVE",
+          "owner_full_name": "GIACINTO MILDRED M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135595,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0488",
+          "street_address": "189TH AVE",
+          "owner_full_name": "KENNEDY MARK M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135597,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0490",
+          "street_address": "189TH AVE",
+          "owner_full_name": "KENNEDY MARK M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135611,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0492",
+          "street_address": "189TH AVE",
+          "owner_full_name": "KENNEDY MARK M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135612,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0494",
+          "street_address": "189TH AVE",
+          "owner_full_name": "KENNEDY MARK M",
+          "lot_size_acres": 0.16,
+          "property_id": 149135613,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0498",
+          "street_address": "189TH AVE",
+          "owner_full_name": "KENNEDY MARK M",
+          "lot_size_acres": 0.25,
+          "property_id": 149135615,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0762",
+          "street_address": "187TH AVE",
+          "owner_full_name": "CZAHOR ANDREW",
+          "lot_size_acres": 0.31,
+          "property_id": 149135680,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0864",
+          "street_address": "187TH AVE",
+          "owner_full_name": "NOLAN TIMOTHY S",
+          "lot_size_acres": 0.17,
+          "property_id": 149135760,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0872",
+          "street_address": "186TH AVE",
+          "owner_full_name": "NOBLE LENARD G",
+          "lot_size_acres": 0.17,
+          "property_id": 149135777,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0875",
+          "street_address": "186TH AVE",
+          "owner_full_name": "MATTSON KURT",
+          "lot_size_acres": 0.34,
+          "property_id": 149135778,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0882",
+          "street_address": "186TH AVE",
+          "owner_full_name": "SINAGRA DAVID T",
+          "lot_size_acres": 0.17,
+          "property_id": 149135781,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0900",
+          "street_address": "186TH AVE",
+          "owner_full_name": "SUNDQUIST JOHN R",
+          "lot_size_acres": 0.17,
+          "property_id": 149135783,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-204-0906",
+          "street_address": "186TH AVE",
+          "owner_full_name": "BAKER WILLIAM R",
+          "lot_size_acres": 0.17,
+          "property_id": 149135786,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-223-0420",
+          "street_address": "104TH ST",
+          "owner_full_name": "VANSLOCHTEREN JOHN",
+          "lot_size_acres": 7.68,
+          "property_id": 149135919,
+          "_town": "BRISTOL",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-151-0402",
+          "street_address": "15500 88TH ST",
+          "owner_full_name": "PERRY DEWEY",
+          "lot_size_acres": 5.01,
+          "property_id": 149099355,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-152-0120",
+          "street_address": "8600 160TH AVE",
+          "owner_full_name": "NAROLEWSKI GRZEGORZ",
+          "lot_size_acres": 5.04,
+          "property_id": 149099360,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-152-0401",
+          "street_address": "8650 160TH AVE",
+          "owner_full_name": "NELSON PEARL JENSEN",
+          "lot_size_acres": 150.24,
+          "property_id": 149099362,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-162-0100",
+          "street_address": "184TH AVE",
+          "owner_full_name": "PESCHMAN DONALD L",
+          "lot_size_acres": 69.89,
+          "property_id": 149099438,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-163-0201",
+          "street_address": "184TH AVE",
+          "owner_full_name": "FARDOUX KEVIN R",
+          "lot_size_acres": 9.85,
+          "property_id": 149099495,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-163-0202",
+          "street_address": "184TH AVE",
+          "owner_full_name": "BISHOP CHARLOTTE E",
+          "lot_size_acres": 9.85,
+          "property_id": 149099503,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-171-0300",
+          "street_address": "184TH AVE",
+          "owner_full_name": "WEILER PHAEDRA",
+          "lot_size_acres": 40.5,
+          "property_id": 149099620,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-173-0410",
+          "street_address": "87TH ST",
+          "owner_full_name": "WEILER ARTHUR",
+          "lot_size_acres": 58.23,
+          "property_id": 149099675,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-182-0120",
+          "street_address": "85TH ST",
+          "owner_full_name": "BOLTON JOANN R",
+          "lot_size_acres": 10.4,
+          "property_id": 149099896,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-182-0300",
+          "street_address": "85TH ST",
+          "owner_full_name": "CONSERVATION CLUB OF KENOSHA",
+          "lot_size_acres": 71.6,
+          "property_id": 149099900,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-184-0400",
+          "street_address": "93RD ST",
+          "owner_full_name": "ROGER JAMES",
+          "lot_size_acres": 74.4,
+          "property_id": 149099905,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-191-0204",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "MULDER RICHARD",
+          "lot_size_acres": 48.83,
+          "property_id": 149099911,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-192-0100",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "R & C HAWKINS FARM",
+          "lot_size_acres": 6.09,
+          "property_id": 149099922,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-192-0205",
+          "street_address": "21200 WILMOT RD",
+          "owner_full_name": "ROGERS JAMES W",
+          "lot_size_acres": 40,
+          "property_id": 149099931,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-313-0200",
+          "street_address": "210TH AVE",
+          "owner_full_name": "BENEDICTINE FATHERS",
+          "lot_size_acres": 117.18,
+          "property_id": 149103950,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-321-1210",
+          "street_address": "116TH ST",
+          "owner_full_name": "HAWKINS FAMILY FARM LLC",
+          "lot_size_acres": 34.5,
+          "property_id": 149104251,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-323-0400",
+          "street_address": "19000 128TH ST",
+          "owner_full_name": "SIEBERT FARMS LLC",
+          "lot_size_acres": 40.8,
+          "property_id": 149104332,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-331-0410",
+          "street_address": "HORTON RD",
+          "owner_full_name": "RENWICK JAMES L",
+          "lot_size_acres": 17.09,
+          "property_id": 149104357,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-332-0100",
+          "street_address": "11303 BRISTOL RD",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 24.4,
+          "property_id": 149104362,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-333-0235",
+          "street_address": "BRISTOL RD",
+          "owner_full_name": "WEBBER JOYCE",
+          "lot_size_acres": 10.6,
+          "property_id": 149104541,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-333-0245",
+          "street_address": "18101 128TH ST",
+          "owner_full_name": "ELFERING FARMS LLC",
+          "lot_size_acres": 1.07,
+          "property_id": 149104543,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-341-0411",
+          "street_address": "HORTON RD",
+          "owner_full_name": "SKORA PAUL",
+          "lot_size_acres": 12.79,
+          "property_id": 149104645,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-343-0300",
+          "street_address": "128TH ST",
+          "owner_full_name": "JNJ FAMILY FARMS LLC Y",
+          "lot_size_acres": 36.6,
+          "property_id": 149104653,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-344-0120",
+          "street_address": "152ND AVE",
+          "owner_full_name": "NELSON LINDA G",
+          "lot_size_acres": 9.77,
+          "property_id": 149104660,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-344-0400",
+          "street_address": "15800 128TH ST",
+          "owner_full_name": "TAYLOR-BELL CHERYL",
+          "lot_size_acres": 35.7,
+          "property_id": 149104672,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-352-0125",
+          "street_address": "152ND AVE",
+          "owner_full_name": "SPENCER STEVEN C",
+          "lot_size_acres": 12.06,
+          "property_id": 149104728,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-363-0100",
+          "street_address": "128TH ST",
+          "owner_full_name": "KIEFER DAVID B",
+          "lot_size_acres": 40,
+          "property_id": 149104796,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-273-0100",
+          "owner_full_name": "VANSLOCHTEREN JOHN C",
+          "lot_size_acres": 40,
+          "property_id": 149107824,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-274-0401",
+          "street_address": "152ND AVE",
+          "owner_full_name": "KOLOMAYETS ANDREW G",
+          "lot_size_acres": 9.75,
+          "property_id": 149107834,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-274-0402",
+          "street_address": "152ND AVE",
+          "owner_full_name": "ELFERING FARMS LLC",
+          "lot_size_acres": 9.75,
+          "property_id": 149107839,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-282-0110",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "SCHROEDER STEWART",
+          "lot_size_acres": 35.7,
+          "property_id": 149107957,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-283-0105",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "SIKORSKY HAROLD",
+          "lot_size_acres": 8.5,
+          "property_id": 149108161,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-283-0305",
+          "street_address": "BRISTOL RD",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 1.81,
+          "property_id": 149108174,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-283-0400",
+          "street_address": "BRISTOL RD",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 36.5,
+          "property_id": 149108189,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-283-0405",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "SIKORSKY HAROLD",
+          "lot_size_acres": 3.62,
+          "property_id": 149108220,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-284-0300",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 149108247,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-284-0400",
+          "street_address": "WINFIELD RD",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 149108252,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-292-0405",
+          "street_address": "BRISTOL RD",
+          "owner_full_name": "TRBOVIC MILICA",
+          "lot_size_acres": 5.4,
+          "property_id": 149108407,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-302-0300",
+          "street_address": "107TH ST",
+          "owner_full_name": "F & F BRISTOL FARM LLC",
+          "lot_size_acres": 96,
+          "property_id": 149108788,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-092-0300",
+          "street_address": "184TH AVE",
+          "owner_full_name": "SNELLBACK THOMAS",
+          "lot_size_acres": 19.75,
+          "property_id": 149126015,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-092-0400",
+          "street_address": "8009 184TH AVE",
+          "owner_full_name": "ROSSI INVESTMENTS LLP",
+          "lot_size_acres": 77.5,
+          "property_id": 149126031,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-112-0220",
+          "street_address": "75TH ST",
+          "owner_full_name": "BRZOZOWSKI EUGENE",
+          "lot_size_acres": 4.2,
+          "property_id": 149126374,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-112-0402",
+          "street_address": "144TH AVE",
+          "owner_full_name": "VEDDER JOHN O",
+          "lot_size_acres": 19.93,
+          "property_id": 149126377,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-113-0200",
+          "street_address": "75TH ST",
+          "owner_full_name": "STN FARMS LLC",
+          "lot_size_acres": 112.84,
+          "property_id": 149126393,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-114-0201",
+          "street_address": "144TH AVE",
+          "owner_full_name": "THOMPSON SCOTT R",
+          "lot_size_acres": 6.88,
+          "property_id": 149126397,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-114-0300",
+          "street_address": "144TH AVE",
+          "owner_full_name": "THOMPSON SCOTT R",
+          "lot_size_acres": 40,
+          "property_id": 149126423,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-133-0206",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "B C M INVESTMENTS LLP",
+          "lot_size_acres": 40.26,
+          "property_id": 149126527,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-133-0211",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "NELSON MICHAEL A",
+          "lot_size_acres": 6.57,
+          "property_id": 149126530,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-142-0100",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "STN FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 149126652,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-142-0400",
+          "street_address": "93RD ST",
+          "owner_full_name": "B AND J NELSON FARMS LLC",
+          "lot_size_acres": 40,
+          "property_id": 149126689,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-144-0145",
+          "street_address": "93RD ST",
+          "owner_full_name": "SMITH TRAVIS",
+          "lot_size_acres": 26.66,
+          "property_id": 149126739,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-144-0200",
+          "street_address": "93RD ST",
+          "owner_full_name": "SMITH TRAVIS",
+          "lot_size_acres": 78,
+          "property_id": 149126753,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-042-0102",
+          "street_address": "13912 60TH ST",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 100.07,
+          "property_id": 149134896,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-043-0100",
+          "street_address": "75TH ST",
+          "owner_full_name": "QURESHI MAGBOOL",
+          "lot_size_acres": 38.77,
+          "property_id": 149134928,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-043-0206",
+          "street_address": "75TH ST",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 41.28,
+          "property_id": 149134930,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-043-0311",
+          "street_address": "75TH ST",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 15.11,
+          "property_id": 149134953,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-051-0101",
+          "street_address": "184TH AVE",
+          "owner_full_name": "BURGESS HAROLD D",
+          "lot_size_acres": 79.29,
+          "property_id": 149134959,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-054-0114",
+          "street_address": "67TH ST",
+          "owner_full_name": "BRZOZOWSKI EUGENE",
+          "lot_size_acres": 2.98,
+          "property_id": 149135011,
+          "_town": "BRISTOL",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-163-0210",
+          "street_address": "184TH AVE",
+          "owner_full_name": "BISHOP CHARLOTTE E",
+          "lot_size_acres": 17.25,
+          "property_id": 149099504,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-174-0100",
+          "street_address": "184TH AVE",
+          "owner_full_name": "WEILER PHAEDRA",
+          "lot_size_acres": 152.9,
+          "property_id": 149099676,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-331-0100",
+          "street_address": "121ST ST",
+          "owner_full_name": "JNJ FAMILY FARMS LLC",
+          "lot_size_acres": 41.5,
+          "property_id": 149104351,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-363-0401",
+          "street_address": "128TH ST",
+          "owner_full_name": "KIEFER DAVID B",
+          "lot_size_acres": 20.79,
+          "property_id": 149104842,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-284-0120",
+          "street_address": "16801 WINFIELD RD",
+          "owner_full_name": "CHAPMAN LINDA M",
+          "lot_size_acres": 18.1,
+          "property_id": 149108237,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-114-0401",
+          "street_address": "144TH AVE",
+          "owner_full_name": "THOMPSON SCOTT R",
+          "lot_size_acres": 70.33,
+          "property_id": 149126425,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-044-0200",
+          "street_address": "17520 75TH ST",
+          "owner_full_name": "BOGOJEL AVRAM",
+          "lot_size_acres": 35,
+          "property_id": 149134958,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-053-0100",
+          "street_address": "6891 BRISTOL RD",
+          "owner_full_name": "SETO EMILY",
+          "lot_size_acres": 21,
+          "property_id": 149134982,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-221-0200",
+          "street_address": "93RD ST",
+          "owner_full_name": "WADE DONALD R",
+          "lot_size_acres": 15,
+          "property_id": 149135878,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-143-0102",
+          "street_address": "14410 WILMOT RD",
+          "owner_full_name": "JACKSON THOMAS C",
+          "lot_size_acres": 36.91,
+          "property_id": 157347817,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "37-4-121-192-0103",
+          "street_address": "20811 WILMOT RD",
+          "owner_full_name": "R & C HAWKINS FARM",
+          "lot_size_acres": 40.73,
+          "property_id": 157432389,
+          "_town": "BRISTOL",
+          "_code": "7000"
+        }
+      ]
+    },
+    {
+      "town": "SALEM LAKES",
+      "lp_name": "VILLAGE OF SALEM LAKES",
+      "off_market": [
+        {
+          "fips": "55059",
+          "apn": "70-4-120-232-0300",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "SALEM FARMS LLC",
+          "lot_size_acres": 82.7,
+          "property_id": 149106339,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-234-0200",
+          "street_address": "98TH ST",
+          "owner_full_name": "STRAUSE KERI L",
+          "lot_size_acres": 123.63,
+          "property_id": 149106376,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-241-0101",
+          "street_address": "98TH ST",
+          "owner_full_name": "ROGERS JAMES W",
+          "lot_size_acres": 70.6,
+          "property_id": 149106378,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-253-0100",
+          "street_address": "2830 240TH AVE",
+          "owner_full_name": "CAMERER HELEN J",
+          "lot_size_acres": 37,
+          "property_id": 149106573,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-032-0102",
+          "street_address": "60TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 154,
+          "property_id": 149115913,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-033-0202",
+          "street_address": "25920 75TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 93.75,
+          "property_id": 149115919,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-163-0550",
+          "street_address": "CAMP LAKE RD",
+          "owner_full_name": "SALVATION ARMY",
+          "lot_size_acres": 54.7,
+          "property_id": 149117726,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-281-2501",
+          "street_address": "264TH AVE",
+          "owner_full_name": "MARK RONALD K",
+          "lot_size_acres": 29.38,
+          "property_id": 149119842,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-064-0101",
+          "street_address": "75TH ST",
+          "owner_full_name": "KRUPINSKI JOSEPH B",
+          "lot_size_acres": 58.02,
+          "property_id": 149129756,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-144-0200",
+          "street_address": "23509 89TH ST",
+          "owner_full_name": "STRAUSE KERI",
+          "lot_size_acres": 69,
+          "property_id": 149131008,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-272-0100",
+          "street_address": "264TH AVE",
+          "owner_full_name": "BECK MICHAEL A",
+          "lot_size_acres": 76.26,
+          "property_id": 149132036,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-351-0100",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "THEODORE LEO",
+          "lot_size_acres": 61.4,
+          "property_id": 149132934,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-362-0700",
+          "street_address": "224TH AVE",
+          "owner_full_name": "BENEDICTINE FATHERS",
+          "lot_size_acres": 60.06,
+          "property_id": 149140776,
+          "_town": "SALEM LAKES"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-134-0247",
+          "street_address": "224TH WAY",
+          "owner_full_name": "WOODHAVEN MEADOWS HOMEOWNERS ASSN",
+          "lot_size_acres": 116.47,
+          "property_id": 157347647,
+          "_town": "SALEM LAKES"
+        }
+      ],
+      "for_sale": [
+        {
+          "fips": "55059",
+          "apn": "70-4-120-241-0103",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "ROGERS JAMES W",
+          "lot_size_acres": 0.86,
+          "property_id": 149106384,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-321-1105",
+          "street_address": "116TH ST",
+          "owner_full_name": "DERENGOWSKI GLORIA",
+          "lot_size_acres": 0.1,
+          "property_id": 149106927,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-321-1110",
+          "street_address": "116TH ST",
+          "owner_full_name": "DERENGOWSKI GLORIA",
+          "lot_size_acres": 0.1,
+          "property_id": 149106929,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-074-3040",
+          "street_address": "OAK ST",
+          "owner_full_name": "MAZURKIEWICZ ELZBIETA",
+          "lot_size_acres": 0.14,
+          "property_id": 149107837,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-074-3045",
+          "street_address": "OAK ST",
+          "owner_full_name": "MAZURKIEWICZ ELZBIETA",
+          "lot_size_acres": 0.14,
+          "property_id": 149107840,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-111-1010",
+          "street_address": "75TH ST",
+          "owner_full_name": "OVERMYER FAMILY FARM LLC",
+          "lot_size_acres": 26,
+          "property_id": 149108393,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-182-0400",
+          "street_address": "8910 FOX RIVER RD",
+          "owner_full_name": "BRUENNING RON",
+          "lot_size_acres": 0.03,
+          "property_id": 149109214,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-193-0225",
+          "street_address": "304TH AVE",
+          "owner_full_name": "KUNZ RANDY L",
+          "lot_size_acres": 7,
+          "property_id": 149109333,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-194-0411",
+          "street_address": "304TH AVE",
+          "owner_full_name": "HORAK PAUL L",
+          "lot_size_acres": 26.19,
+          "property_id": 149109393,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-203-0590",
+          "street_address": "294TH AVE",
+          "owner_full_name": "LOTH VAN WAGNER BARBARA",
+          "lot_size_acres": 1.77,
+          "property_id": 149109575,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-284-1120",
+          "street_address": "112TH ST",
+          "owner_full_name": "WROBEL CHARLES J",
+          "lot_size_acres": 0.34,
+          "property_id": 149110871,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0240",
+          "street_address": "104TH ST",
+          "owner_full_name": "PAGNI JOSEPH M",
+          "lot_size_acres": 0.09,
+          "property_id": 149111122,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0605",
+          "street_address": "105TH PL",
+          "owner_full_name": "DUNN DANIEL W",
+          "lot_size_acres": 0.12,
+          "property_id": 149111178,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0610",
+          "street_address": "105TH PL",
+          "owner_full_name": "DUNN DANIEL W",
+          "lot_size_acres": 0.12,
+          "property_id": 149111179,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0895",
+          "street_address": "107TH ST",
+          "owner_full_name": "LUX HEATHER",
+          "lot_size_acres": 0.12,
+          "property_id": 149111225,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0900",
+          "street_address": "107TH ST",
+          "owner_full_name": "HORTON ADAM C",
+          "lot_size_acres": 0.13,
+          "property_id": 149111258,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-1185",
+          "street_address": "109TH ST",
+          "owner_full_name": "COUNTERMAN BEN",
+          "lot_size_acres": 0.14,
+          "property_id": 149111297,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-1190",
+          "street_address": "108TH ST",
+          "owner_full_name": "COUNTERMAN BENJAMIN J",
+          "lot_size_acres": 0.19,
+          "property_id": 149111300,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-1220",
+          "street_address": "108TH ST",
+          "owner_full_name": "ORVIS ROBERT E",
+          "lot_size_acres": 0.17,
+          "property_id": 149111304,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-1300",
+          "street_address": "110TH ST",
+          "owner_full_name": "COUNTERMAN BEN",
+          "lot_size_acres": 0.13,
+          "property_id": 149111312,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-1555",
+          "street_address": "109TH ST",
+          "owner_full_name": "DUVAL JUSTIN J",
+          "lot_size_acres": 0.13,
+          "property_id": 149111324,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-354-2340",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "BESSETTE GEORGE V",
+          "lot_size_acres": 0.23,
+          "property_id": 149111682,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-354-2345",
+          "street_address": "127TH ST",
+          "owner_full_name": "BESSETTE GEORGE V",
+          "lot_size_acres": 0.13,
+          "property_id": 149111683,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-353-0310",
+          "street_address": "HIGHWAY 83",
+          "owner_full_name": "GRIGAS GREGG",
+          "lot_size_acres": 1.58,
+          "property_id": 149120841,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-353-0320",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "GRIGAS GREGG",
+          "lot_size_acres": 2.5,
+          "property_id": 149120843,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-181-2070",
+          "street_address": "S 6TH ST",
+          "owner_full_name": "TACKETT ELIZABETH",
+          "lot_size_acres": 0.05,
+          "property_id": 149122376,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-181-3025",
+          "street_address": "WISCONSIN AVE",
+          "owner_full_name": "VITEK SUSAN J",
+          "lot_size_acres": 0.16,
+          "property_id": 149122990,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-181-3030",
+          "street_address": "WISCONSIN AVE",
+          "owner_full_name": "VITEK SUSAN J",
+          "lot_size_acres": 0.17,
+          "property_id": 149122992,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-181-3050",
+          "street_address": "ARBOR PL",
+          "owner_full_name": "WARD CHARLES R",
+          "lot_size_acres": 0.19,
+          "property_id": 149123003,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-183-1065",
+          "street_address": "WISCONSIN AVE",
+          "owner_full_name": "SULLIVAN STEPHEN D",
+          "lot_size_acres": 0.21,
+          "property_id": 149123050,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-183-1075",
+          "street_address": "WISCONSIN AVE",
+          "owner_full_name": "IMBURGIA DOUGLAS",
+          "lot_size_acres": 0.15,
+          "property_id": 149123056,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-184-4020",
+          "street_address": "S 6TH ST",
+          "owner_full_name": "REICHWEIN THOMAS J",
+          "lot_size_acres": 0.98,
+          "property_id": 149123690,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-063-0655",
+          "street_address": "73RD ST",
+          "owner_full_name": "TESINE ALLAN",
+          "lot_size_acres": 0.14,
+          "property_id": 149129748,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-063-0670",
+          "street_address": "73RD ST",
+          "owner_full_name": "TESINE ALAN",
+          "lot_size_acres": 0.17,
+          "property_id": 149129749,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-172-2305",
+          "street_address": "NORTHWATER ST",
+          "owner_full_name": "SCHNEIDERMAN CAROL L",
+          "lot_size_acres": 0.19,
+          "property_id": 149133175,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-172-2310",
+          "street_address": "NORTHWATER ST",
+          "owner_full_name": "SCHNEIDERMAN CAROL L",
+          "lot_size_acres": 0.16,
+          "property_id": 149133176,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-212-0475",
+          "street_address": "95TH ST",
+          "owner_full_name": "MAGNET GEORGE C",
+          "lot_size_acres": 0.2,
+          "property_id": 149139147,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0155",
+          "street_address": "CAMP LAKE RD",
+          "owner_full_name": "ADER MICHAEL L",
+          "lot_size_acres": 1.43,
+          "property_id": 149139485,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2100",
+          "street_address": "105TH ST",
+          "owner_full_name": "GRUBER WILLIAM",
+          "lot_size_acres": 0.16,
+          "property_id": 149139664,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2105",
+          "street_address": "105TH ST",
+          "owner_full_name": "KOSACZ ADAM",
+          "lot_size_acres": 0.12,
+          "property_id": 149139665,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2455",
+          "street_address": "104TH ST",
+          "owner_full_name": "BROWN GLENN R",
+          "lot_size_acres": 0.1,
+          "property_id": 149139671,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2695",
+          "street_address": "109TH ST",
+          "owner_full_name": "STEFAN PETER A",
+          "lot_size_acres": 0.12,
+          "property_id": 149139724,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2700",
+          "street_address": "109TH ST",
+          "owner_full_name": "STEFAN PETER A",
+          "lot_size_acres": 0.12,
+          "property_id": 149139725,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-2705",
+          "street_address": "109TH ST",
+          "owner_full_name": "STEFAN PETER A",
+          "lot_size_acres": 0.12,
+          "property_id": 149139726,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-293-0595",
+          "street_address": "111TH ST",
+          "owner_full_name": "KULAWIAK ANIELA",
+          "lot_size_acres": 0.19,
+          "property_id": 149139774,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-293-0870",
+          "street_address": "113TH ST",
+          "owner_full_name": "SANTI RAYMOND J",
+          "lot_size_acres": 0.12,
+          "property_id": 149139834,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-293-0880",
+          "street_address": "113TH ST",
+          "owner_full_name": "FIEBELKORN MARIA C",
+          "lot_size_acres": 0.12,
+          "property_id": 149139835,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-293-1410",
+          "street_address": "110TH PL",
+          "owner_full_name": "HARALAMBOUS ALEXANDROS",
+          "lot_size_acres": 1.02,
+          "property_id": 149139860,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0255",
+          "street_address": "286TH AVE",
+          "owner_full_name": "SCHULTZ WM",
+          "lot_size_acres": 0.15,
+          "property_id": 149139861,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0285",
+          "street_address": "112TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.12,
+          "property_id": 149139862,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0290",
+          "street_address": "112TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.12,
+          "property_id": 149139863,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0295",
+          "street_address": "112TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.2,
+          "property_id": 149139864,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0300",
+          "street_address": "111TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.2,
+          "property_id": 149139865,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0305",
+          "street_address": "111TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.12,
+          "property_id": 149139866,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0310",
+          "street_address": "111TH ST",
+          "owner_full_name": "SOFUS EMANUEL",
+          "lot_size_acres": 0.12,
+          "property_id": 149139867,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-294-0410",
+          "street_address": "112TH ST",
+          "owner_full_name": "PETERSON KEVIN M",
+          "lot_size_acres": 0.12,
+          "property_id": 149139872,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-303-0575",
+          "street_address": "112TH ST",
+          "owner_full_name": "LAKE BRANCE W",
+          "lot_size_acres": 0.7,
+          "property_id": 149140095,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-304-0210",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "BROWN BERNICE L",
+          "lot_size_acres": 3.1,
+          "property_id": 149140278,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-361-2521",
+          "street_address": "118TH ST",
+          "owner_full_name": "THOMSON NICOLE",
+          "lot_size_acres": 1.18,
+          "property_id": 149140623,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-333-0210",
+          "street_address": "280TH AVE",
+          "owner_full_name": "KELLER RICHARD A",
+          "lot_size_acres": 0.3,
+          "property_id": 157347681,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-291-0581",
+          "street_address": "105TH PL",
+          "owner_full_name": "SOLHEIM DOUGLAS A",
+          "lot_size_acres": 0.48,
+          "property_id": 157347709,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-181-3061",
+          "street_address": "ARBOR PL",
+          "owner_full_name": "DUNSKI ALLEN M",
+          "lot_size_acres": 0.39,
+          "property_id": 166459744,
+          "_town": "SALEM LAKES",
+          "_code": "8000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-131-1012",
+          "street_address": "88TH ST",
+          "owner_full_name": "WOODKE JAMES",
+          "lot_size_acres": 1.55,
+          "property_id": 149104275,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0225",
+          "street_address": "85TH PL",
+          "owner_full_name": "JARKE WAYNE",
+          "lot_size_acres": 0.33,
+          "property_id": 149104382,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0230",
+          "street_address": "85TH PL",
+          "owner_full_name": "JARKE WAYNE",
+          "lot_size_acres": 0.69,
+          "property_id": 149104415,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0520",
+          "street_address": "226TH AVE",
+          "owner_full_name": "OTTO THOMAS",
+          "lot_size_acres": 0.27,
+          "property_id": 149104566,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0540",
+          "street_address": "226TH AVE",
+          "owner_full_name": "CLARK A LEE A",
+          "lot_size_acres": 0.57,
+          "property_id": 149104570,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0595",
+          "street_address": "226TH AVE",
+          "owner_full_name": "SPROUT SCOTT A",
+          "lot_size_acres": 0.39,
+          "property_id": 149104581,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0595",
+          "street_address": "226TH AVE",
+          "owner_full_name": "SPROUT SCOTT A",
+          "lot_size_acres": 0.39,
+          "property_id": 149104581,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0640",
+          "street_address": "89TH ST",
+          "owner_full_name": "HARRIS JACOB",
+          "lot_size_acres": 0.52,
+          "property_id": 149104601,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0640",
+          "street_address": "89TH ST",
+          "owner_full_name": "HARRIS JACOB",
+          "lot_size_acres": 0.52,
+          "property_id": 149104601,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-132-0705",
+          "street_address": "86TH PL",
+          "owner_full_name": "TARCHALA THADDEUS J",
+          "lot_size_acres": 0.5,
+          "property_id": 149104616,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-134-0248",
+          "street_address": "224TH WAY",
+          "owner_full_name": "WOODHAVEN MEADOWS HOMEOWNERS ASSN",
+          "lot_size_acres": 0.59,
+          "property_id": 149105064,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-134-0250",
+          "street_address": "222ND AVE",
+          "owner_full_name": "WOODHAVEN MEADOWS HOMEOWNERS ASSN",
+          "lot_size_acres": 0.65,
+          "property_id": 149105067,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-134-0252",
+          "street_address": "224TH WAY",
+          "owner_full_name": "WOODHAVEN MEADOWS HOMEOWNERS ASSN",
+          "lot_size_acres": 0.34,
+          "property_id": 149105069,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-141-0450",
+          "street_address": "234TH AVE",
+          "owner_full_name": "WAGNER SPENCE",
+          "lot_size_acres": 0.31,
+          "property_id": 149105216,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-141-0465",
+          "street_address": "233RD AVE",
+          "owner_full_name": "HANNAH CHRISTOPHER B",
+          "lot_size_acres": 0.31,
+          "property_id": 149105221,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-141-0525",
+          "street_address": "233RD AVE",
+          "owner_full_name": "STYPULA ANDRZEJ",
+          "lot_size_acres": 0.42,
+          "property_id": 149105243,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-142-0340",
+          "street_address": "89TH ST",
+          "owner_full_name": "MCCORMACK CHARLES",
+          "lot_size_acres": 1.25,
+          "property_id": 149105316,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0905",
+          "street_address": "99TH ST",
+          "owner_full_name": "GODZIC MARIA",
+          "lot_size_acres": 0.17,
+          "property_id": 149105324,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0910",
+          "street_address": "99TH ST",
+          "owner_full_name": "MARIAN GLIWA",
+          "lot_size_acres": 0.17,
+          "property_id": 149105326,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0925",
+          "street_address": "99TH ST",
+          "owner_full_name": "SLAWOMIR GRUDZIEN",
+          "lot_size_acres": 0.16,
+          "property_id": 149105350,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0930",
+          "street_address": "99TH ST",
+          "owner_full_name": "SLAWOMIR GRUDZIEN",
+          "lot_size_acres": 0.3,
+          "property_id": 149105367,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0935",
+          "street_address": "99TH ST",
+          "owner_full_name": "SLAWOMIR GRUDZIEN",
+          "lot_size_acres": 0.72,
+          "property_id": 149105378,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-0995",
+          "street_address": "103RD PL",
+          "owner_full_name": "FOSTER WILLIAM",
+          "lot_size_acres": 0.17,
+          "property_id": 149105408,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1020",
+          "street_address": "103RD PL",
+          "owner_full_name": "EIBL COREY L",
+          "lot_size_acres": 0.17,
+          "property_id": 149105413,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1025",
+          "street_address": "103RD PL",
+          "owner_full_name": "EIBL COREY L",
+          "lot_size_acres": 0.17,
+          "property_id": 149105414,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1050",
+          "street_address": "103RD PL",
+          "owner_full_name": "FARACA THOMAS A",
+          "lot_size_acres": 0.17,
+          "property_id": 149105417,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1055",
+          "street_address": "103RD PL",
+          "owner_full_name": "FARACA THOMAS A",
+          "lot_size_acres": 0.17,
+          "property_id": 149105418,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1165",
+          "street_address": "27300 101ST ST",
+          "owner_full_name": "CAMP LAKE OAKS IMPROVEMENT ASSOCIATION",
+          "lot_size_acres": 1.4,
+          "property_id": 149105518,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1240",
+          "street_address": "272ND AVE",
+          "owner_full_name": "ZUREK JOHN",
+          "lot_size_acres": 0.42,
+          "property_id": 149105551,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1255",
+          "street_address": "272ND AVE",
+          "owner_full_name": "MORGAN ROBERT",
+          "lot_size_acres": 0.4,
+          "property_id": 149105576,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1295",
+          "street_address": "272ND AVE",
+          "owner_full_name": "PETROW ANNE L",
+          "lot_size_acres": 0.45,
+          "property_id": 149105619,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1305",
+          "street_address": "272ND AVE",
+          "owner_full_name": "PETROW ANNE L",
+          "lot_size_acres": 0.5,
+          "property_id": 149105624,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1325",
+          "street_address": "272ND AVE",
+          "owner_full_name": "STAGG RICHARD",
+          "lot_size_acres": 0.62,
+          "property_id": 149105637,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1395",
+          "street_address": "271ST CT",
+          "owner_full_name": "GREISEN HANNAH",
+          "lot_size_acres": 0.17,
+          "property_id": 149105649,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1395",
+          "street_address": "271ST CT",
+          "owner_full_name": "GREISEN HANNAH",
+          "lot_size_acres": 0.17,
+          "property_id": 149105649,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1395",
+          "street_address": "271ST CT",
+          "owner_full_name": "GREISEN HANNAH",
+          "lot_size_acres": 0.17,
+          "property_id": 149105649,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1525",
+          "street_address": "272ND AVE",
+          "owner_full_name": "OCONNELL KEVIN B",
+          "lot_size_acres": 0.2,
+          "property_id": 149105697,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1820",
+          "street_address": "270TH AVE",
+          "owner_full_name": "TOJZA ROBERT W",
+          "lot_size_acres": 0.19,
+          "property_id": 149105890,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1825",
+          "street_address": "270TH AVE",
+          "owner_full_name": "TOJZA ROBERT W",
+          "lot_size_acres": 0.19,
+          "property_id": 149105892,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1830",
+          "street_address": "270TH AVE",
+          "owner_full_name": "TOJZA ROBERT W",
+          "lot_size_acres": 0.19,
+          "property_id": 149105894,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1845",
+          "street_address": "270TH AVE",
+          "owner_full_name": "LINDSTRAND TODD K",
+          "lot_size_acres": 0.19,
+          "property_id": 149105902,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-1920",
+          "street_address": "103RD PL",
+          "owner_full_name": "GARWOOD JAKE",
+          "lot_size_acres": 0.19,
+          "property_id": 149105935,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2020",
+          "street_address": "103RD PL",
+          "owner_full_name": "OBUCHOWSKI LORRAINE F",
+          "lot_size_acres": 0.17,
+          "property_id": 149106011,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2025",
+          "street_address": "103RD PL",
+          "owner_full_name": "OBUCHOWSKI LORRAINE F",
+          "lot_size_acres": 0.17,
+          "property_id": 149106014,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2050",
+          "street_address": "103RD PL",
+          "owner_full_name": "LUCASSEN TODD J",
+          "lot_size_acres": 0.17,
+          "property_id": 149106020,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2055",
+          "street_address": "103RD PL",
+          "owner_full_name": "LUCASSEN TODD J",
+          "lot_size_acres": 0.17,
+          "property_id": 149106022,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2060",
+          "street_address": "103RD PL",
+          "owner_full_name": "LUCASSEN TODD J",
+          "lot_size_acres": 0.17,
+          "property_id": 149106024,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2065",
+          "street_address": "103RD PL",
+          "owner_full_name": "LUCASSEN TODD J",
+          "lot_size_acres": 0.17,
+          "property_id": 149106027,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2075",
+          "street_address": "99TH ST",
+          "owner_full_name": "STATEMA JULIE A",
+          "lot_size_acres": 0.31,
+          "property_id": 149106033,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-214-2075",
+          "street_address": "99TH ST",
+          "owner_full_name": "STATEMA JULIE A",
+          "lot_size_acres": 0.31,
+          "property_id": 149106033,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-224-0260",
+          "street_address": "256TH AVE",
+          "owner_full_name": "BOHATKIEWICZ KAREN",
+          "lot_size_acres": 0.92,
+          "property_id": 149106281,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-233-0100",
+          "street_address": "9925 ANTIOCH RD",
+          "owner_full_name": "SWERBENSKI STEVE",
+          "lot_size_acres": 20.7,
+          "property_id": 149106346,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-241-0247",
+          "street_address": "223RD AVE",
+          "owner_full_name": "WOODHAVEN MEADOWS HOMEOWNERS ASSN",
+          "lot_size_acres": 0.53,
+          "property_id": 149106508,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-253-0198",
+          "street_address": "233RD AVE",
+          "owner_full_name": "ARBORETUM WOODS OF SALEM",
+          "lot_size_acres": 23.6,
+          "property_id": 149106588,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-312-0370",
+          "street_address": "118TH ST",
+          "owner_full_name": "MEYER WARREN L",
+          "lot_size_acres": 0.2,
+          "property_id": 149106637,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-312-0410",
+          "street_address": "119TH ST",
+          "owner_full_name": "BURNS KENNETH W",
+          "lot_size_acres": 0.23,
+          "property_id": 149106654,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-312-0465",
+          "street_address": "306TH CT",
+          "owner_full_name": "BECK BRUCE E",
+          "lot_size_acres": 0.09,
+          "property_id": 149106687,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-312-0485",
+          "street_address": "306TH CT",
+          "owner_full_name": "PRIVATE PARK",
+          "lot_size_acres": 0.21,
+          "property_id": 149106696,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-321-0676",
+          "street_address": "28722 WILMOT RD",
+          "owner_full_name": "PHILLIPS STACY E",
+          "lot_size_acres": 0.43,
+          "property_id": 149106796,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-322-0132",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "HOGAN MELINDA",
+          "lot_size_acres": 2.65,
+          "property_id": 149106941,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-322-0134",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "MATHES WILLIAM CORT",
+          "lot_size_acres": 7.27,
+          "property_id": 149106949,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-333-0103",
+          "street_address": "122ND ST",
+          "owner_full_name": "TIMMONS BRYON J",
+          "lot_size_acres": 19.57,
+          "property_id": 149107020,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-0426",
+          "street_address": "121ST ST",
+          "owner_full_name": "DICKOW JEFFERY",
+          "lot_size_acres": 2.76,
+          "property_id": 149107224,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-0710",
+          "street_address": "121ST ST",
+          "owner_full_name": "ROCK LAKE HIGHLANDS",
+          "lot_size_acres": 0.12,
+          "property_id": 149107356,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-0880",
+          "street_address": "253RD AVE",
+          "owner_full_name": "BURNS JOHN O",
+          "lot_size_acres": 0.13,
+          "property_id": 149107444,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-0895",
+          "street_address": "253RD AVE",
+          "owner_full_name": "ERICKSON DALE A",
+          "lot_size_acres": 0.13,
+          "property_id": 149107450,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-0960",
+          "street_address": "252ND AVE",
+          "owner_full_name": "GOMOLL GREGG W",
+          "lot_size_acres": 0.14,
+          "property_id": 149107497,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-1100",
+          "street_address": "121ST ST",
+          "owner_full_name": "TEITZ BERNARD R",
+          "lot_size_acres": 0.19,
+          "property_id": 149107538,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-341-2000",
+          "street_address": "119TH ST",
+          "owner_full_name": "HAWKS RUN HOMEOWNERS ASSN",
+          "lot_size_acres": 52.39,
+          "property_id": 149107590,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-103-0202",
+          "street_address": "26306 SILVER LAKE RD",
+          "owner_full_name": "KLUENDER JUANITA A",
+          "lot_size_acres": 7,
+          "property_id": 149107655,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-342-0480",
+          "street_address": "122ND ST",
+          "owner_full_name": "DZIKI ANDREW J",
+          "lot_size_acres": 5.01,
+          "property_id": 149107670,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-342-0491",
+          "street_address": "122ND ST",
+          "owner_full_name": "GIFFORD DANIEL J",
+          "lot_size_acres": 1.66,
+          "property_id": 149107671,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-342-0795",
+          "street_address": "257TH AVE",
+          "owner_full_name": "CLARK MICHAEL L",
+          "lot_size_acres": 0.14,
+          "property_id": 149107771,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-342-0800",
+          "street_address": "257TH AVE",
+          "owner_full_name": "CLARK MICHAEL L",
+          "lot_size_acres": 0.14,
+          "property_id": 149107773,
+          "_town": "SALEM LAKES",
+          "_code": "8001"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-223-0400",
+          "street_address": "103RD ST",
+          "owner_full_name": "BRZOZOWSKI EUGENE",
+          "lot_size_acres": 5.07,
+          "property_id": 149106217,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-232-0101",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "SALEM FARMS LLC",
+          "lot_size_acres": 68.34,
+          "property_id": 149106321,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-232-0300",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "SALEM FARMS LLC",
+          "lot_size_acres": 82.7,
+          "property_id": 149106339,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-234-0200",
+          "street_address": "98TH ST",
+          "owner_full_name": "STRAUSE KERI L",
+          "lot_size_acres": 123.63,
+          "property_id": 149106376,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-241-0300",
+          "street_address": "WILMOT RD",
+          "owner_full_name": "THALMANN FARMS LLC",
+          "lot_size_acres": 5.73,
+          "property_id": 149106510,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-242-0101",
+          "street_address": "23100 98TH ST",
+          "owner_full_name": "KRAHN FARMS LLC",
+          "lot_size_acres": 50.07,
+          "property_id": 149106512,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-242-0200",
+          "street_address": "98TH ST",
+          "owner_full_name": "R & C HAWKINS FARMS",
+          "lot_size_acres": 10,
+          "property_id": 149106514,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-251-0300",
+          "street_address": "224TH AVE",
+          "owner_full_name": "KEULMAN-RESS JODY A",
+          "lot_size_acres": 18.77,
+          "property_id": 149106554,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-323-0200",
+          "street_address": "304TH AVE",
+          "owner_full_name": "HUCKER WADE",
+          "lot_size_acres": 71.69,
+          "property_id": 149106958,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-324-0120",
+          "street_address": "280TH AVE",
+          "owner_full_name": "EATON ROBERT T",
+          "lot_size_acres": 1,
+          "property_id": 149106960,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-331-0140",
+          "street_address": "116TH ST",
+          "owner_full_name": "HOLST ROBERT A",
+          "lot_size_acres": 7.6,
+          "property_id": 149106964,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-331-0410",
+          "street_address": "116TH ST",
+          "owner_full_name": "HOLST ROBERT",
+          "lot_size_acres": 12.61,
+          "property_id": 149106986,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-333-0340",
+          "street_address": "122ND ST",
+          "owner_full_name": "ULIZIO DEAN",
+          "lot_size_acres": 13.2,
+          "property_id": 149107030,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-032-0102",
+          "street_address": "60TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 154,
+          "property_id": 149115913,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-033-0111",
+          "street_address": "75TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 57.62,
+          "property_id": 149115916,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-033-0202",
+          "street_address": "25920 75TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 93.75,
+          "property_id": 149115919,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-051-0115",
+          "street_address": "60TH ST",
+          "owner_full_name": "SWIATEK RICHARD",
+          "lot_size_acres": 1.7,
+          "property_id": 149116217,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-051-0116",
+          "street_address": "60TH ST",
+          "owner_full_name": "SWIATEK RICHARD",
+          "lot_size_acres": 4.62,
+          "property_id": 149116221,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-053-0520",
+          "street_address": "28818 75TH ST",
+          "owner_full_name": "ATHANASOPOULOS TINA",
+          "lot_size_acres": 2.53,
+          "property_id": 149116302,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-353-0200",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "PHILLIPS LORRAINE J",
+          "lot_size_acres": 40,
+          "property_id": 149120835,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-353-0302",
+          "street_address": "240TH AVE",
+          "owner_full_name": "MATTHIAS ACADEMY",
+          "lot_size_acres": 51.23,
+          "property_id": 149120838,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-063-0230",
+          "street_address": "GENEVA RD",
+          "owner_full_name": "BORA BENJAMIN",
+          "lot_size_acres": 14.86,
+          "property_id": 149129704,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-064-0101",
+          "street_address": "75TH ST",
+          "owner_full_name": "KRUPINSKI JOSEPH B",
+          "lot_size_acres": 58.02,
+          "property_id": 149129756,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-064-0300",
+          "street_address": "75TH ST",
+          "owner_full_name": "KRUPINSKI JOSEPH B",
+          "lot_size_acres": 36.16,
+          "property_id": 149129777,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-144-0200",
+          "street_address": "23509 89TH ST",
+          "owner_full_name": "STRAUSE KERI",
+          "lot_size_acres": 69,
+          "property_id": 149131008,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-351-0100",
+          "street_address": "ANTIOCH RD",
+          "owner_full_name": "THEODORE LEO",
+          "lot_size_acres": 61.4,
+          "property_id": 149132934,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-304-0200",
+          "street_address": "30100 WILMOT RD",
+          "owner_full_name": "HOLY CROSS PARISH",
+          "lot_size_acres": 15.04,
+          "property_id": 149140277,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-362-0700",
+          "street_address": "224TH AVE",
+          "owner_full_name": "BENEDICTINE FATHERS",
+          "lot_size_acres": 60.06,
+          "property_id": 149140776,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-133-0203",
+          "street_address": "22801 SALEM RD",
+          "owner_full_name": "ANTHONY ROSSI & SONS LLP",
+          "lot_size_acres": 64.62,
+          "property_id": 173329267,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-063-0302",
+          "street_address": "GENEVA RD",
+          "owner_full_name": "PRATT STEVEN",
+          "lot_size_acres": 28.99,
+          "property_id": 177701767,
+          "_town": "SALEM LAKES",
+          "_code": "8008"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-242-0302",
+          "street_address": "23100 98TH ST",
+          "owner_full_name": "KRAHN FARMS LLC",
+          "lot_size_acres": 59.79,
+          "property_id": 149106515,
+          "_town": "SALEM LAKES",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-244-0120",
+          "street_address": "22381 98TH ST",
+          "owner_full_name": "SALEM ORCHARD FARM LLC",
+          "lot_size_acres": 15.83,
+          "property_id": 149106527,
+          "_town": "SALEM LAKES",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-041-0100",
+          "street_address": "60TH ST",
+          "owner_full_name": "PARK CHUNG HWE",
+          "lot_size_acres": 78,
+          "property_id": 149116024,
+          "_town": "SALEM LAKES",
+          "_code": "7000"
+        },
+        {
+          "fips": "55059",
+          "apn": "70-4-120-043-0302",
+          "street_address": "27646 75TH ST",
+          "owner_full_name": "QUIDAYAN FRANZ",
+          "lot_size_acres": 60.84,
+          "property_id": 149116084,
+          "_town": "SALEM LAKES",
+          "_code": "7000"
+        }
+      ]
+    }
+  ]
+}
