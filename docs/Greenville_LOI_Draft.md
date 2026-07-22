@@ -3,7 +3,10 @@
 
 ---
 
-**PURCHASER LETTERHEAD**
+**JASON CHRISTIANSEN**
+[ADDRESS]
+[PHONE]
+[EMAIL]
 
 [DATE]
 
@@ -18,7 +21,7 @@ Kevin [LAST NAME]
 
 Dear Kevin,
 
-This letter of intent, effective as of [DATE] (the "Effective Date"), constitutes an expression of interest by **TLG Andon LLC** ("Purchaser") in purchasing certain property owned by the Estler/Barbara family ("Seller") on the general terms and conditions described herein. This LOI serves as the basis for negotiating a definitive Purchase Agreement.
+This letter of intent, effective as of [DATE] (the "Effective Date"), constitutes an expression of interest by **Jason Christiansen** ("Purchaser") in purchasing certain property owned by the Estler/Barbara family ("Seller") on the general terms and conditions described herein. This LOI serves as the basis for negotiating a definitive Purchase Agreement.
 
 ---
 
@@ -35,31 +38,31 @@ Two contiguous parcels totaling approximately **62 acres**, located on **N Mayfl
 
 ### 2. Purchase Price
 
-**$975,000** (Nine Hundred Seventy-Five Thousand and 00/100 Dollars), structured as:
+**$900,000** (Nine Hundred Thousand and 00/100 Dollars), structured as:
 
 | Component | Amount | Timing |
 |-----------|:------:|--------|
-| Earnest Money Deposit | $50,000 | Upon execution of Purchase Agreement |
-| Seller Carry Note | $925,000 | Paid at closing |
-| **Total** | **$975,000** | |
+| Earnest Money Deposit | $40,000 | Upon execution of Purchase Agreement |
+| Seller Carry Note | $860,000 | Paid at closing |
+| **Total** | **$900,000** | |
 
 ---
 
 ### 3. Earnest Money Deposit
 
-- **$50,000** deposited within 5 business days after full execution of the Purchase Agreement
+- **$40,000** deposited within 5 business days after full execution of the Purchase Agreement
 - Held in a mutually acceptable interest-bearing escrow account
 - **Refundable** to Purchaser prior to expiration of the Due Diligence Period
 - **Non-refundable** after expiration of the Due Diligence Period, except in the event of:
   - (a) Seller default
-  - (b) Failure of entitlement contingency
-  - (c) Failure of conditions to closing
+  - (b) Failure of the entitlement contingency
+  - (c) Failure of any condition to closing
 
 ---
 
 ### 4. Seller Financing
 
-Seller shall carry a promissory note in the amount of **$925,000** bearing interest at **[4-5]% per annum**, with the following terms:
+Seller shall carry a promissory note in the amount of **$860,000** bearing interest at **[4-5]% per annum**, with the following terms:
 
 - **Interest-only payments** annually, commencing 12 months from closing
 - **Principal due** at the earlier of:
@@ -68,7 +71,7 @@ Seller shall carry a promissory note in the amount of **$925,000** bearing inter
   - (c) 24 months from the Closing Date
 - **No prepayment penalty**
 - **Security:** Purchase money mortgage or deed of trust on the Property
-- **Subordination:** Seller agrees to subordinate the note to any construction or development financing obtained by Purchaser, subject to customary subordination terms
+- **Subordination:** Seller agrees to subordinate the note to any construction or development financing obtained by Purchaser, subject to customary subordination terms. In the event Purchaser obtains construction financing, the seller's note shall be subordinated to such financing provided the aggregate principal amount of such financing does not exceed 65% of the approved development value of the Property.
 
 ---
 
@@ -112,12 +115,13 @@ During the 90-day Due Diligence Period, Purchaser shall have access to the Prope
 
 ### 8. Entitlement Contingency
 
-Purchaser's obligation to close is expressly conditioned upon:
+Purchaser's obligation to close is expressly conditioned upon the Village of Greenville approving a subdivision plat, rezoning, or development plan for the Property that is commercially viable in Purchaser's reasonable discretion, including without limitation:
 
-- (a) Approval of a subdivision plat or certified survey map by the Village of Greenville Plan Commission and Village Board
-- (b) Approval of a minimum of **40 residential lots** with lot sizes of **0.5 acre minimum**
-- (c) Verification that municipal sewer and water can serve the development at commercially reasonable costs
-- (d) No material adverse change in zoning, future land use designation, or Sub-Area Plan applicable to the Property
+- (a) Approval of a subdivision layout with lot sizes and densities consistent with the Village's Sub-Area Plan C and applicable zoning
+- (b) Reasonable assurance that municipal sewer and water can serve the development at commercially feasible costs
+- (c) No material adverse change in zoning, future land use designation, or Sub-Area Plan applicable to the Property
+
+The final lot yield shall be determined through the engineer's concept plan and the Village's approval process. The purchase price set forth in Section 2 shall be subject to adjustment based on the final approved lot count, to be negotiated in good faith between the parties at that time.
 
 If the entitlement contingency is not satisfied within 24 months (plus extensions), Purchaser may terminate the Purchase Agreement and receive return of the Earnest Money Deposit.
 
@@ -180,7 +184,7 @@ Purchaser and its consultants may enter the Property for due diligence upon 24 h
 
 ### 14. Exclusive Negotiations
 
-For a period of **60 days** from the Effective Date, Seller agrees not to solicit, entertain, or negotiate with any third party regarding the sale or development of the Property.
+Seller agrees not to solicit, entertain, or negotiate with any third party regarding the sale, option, or development of the Property for the entire duration that this Agreement is in effect, including any extension periods. This exclusivity obligation shall terminate only upon the earlier of: (a) mutual written agreement of the parties; or (b) termination of this Agreement in accordance with its terms.
 
 ---
 
@@ -202,11 +206,9 @@ If the foregoing terms are acceptable, please execute and return the counter-sig
 
 Very truly yours,
 
-**TLG Andon LLC**
-
 __________________________
-Jason Christiansen
-Managing Member
+**Jason Christiansen**
+Individually
 Date: _______________
 
 ---
