@@ -71,8 +71,6 @@ Seller shall carry a promissory note in the amount of **$860,000** bearing inter
   - (c) 24 months from the Closing Date
 - **No prepayment penalty**
 - **Security:** Purchase money mortgage or deed of trust on the Property
-- **Subordination:** Seller agrees to subordinate the note to any construction or development financing obtained by Purchaser, subject to customary subordination terms. In the event Purchaser obtains construction financing, the seller's note shall be subordinated to such financing provided the aggregate principal amount of such financing does not exceed 65% of the approved development value of the Property.
-
 ---
 
 ### 5. No Financing Contingency
