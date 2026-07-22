@@ -52,8 +52,8 @@ Two contiguous parcels totaling approximately **62 acres**, located on **N Mayfl
 
 - **$40,000** deposited within 5 business days after full execution of the Purchase Agreement
 - Held in a mutually acceptable interest-bearing escrow account
-- **Refundable** to Purchaser prior to expiration of the Due Diligence Period
-- **Non-refundable** after expiration of the Due Diligence Period, except in the event of:
+- **Refundable** to Purchaser prior to Purchaser's election to proceed following initial due diligence and satisfaction of the entitlement contingency conditions
+- **Non-refundable** thereafter, except in the event of:
   - (a) Seller default
   - (b) Failure of the entitlement contingency
   - (c) Failure of any condition to closing
@@ -83,8 +83,7 @@ Purchaser is prepared to pay **all cash** at closing using the seller carry stru
 
 | Milestone | Timeline |
 |-----------|----------|
-| Due Diligence Period | **90 days** from Purchase Agreement execution |
-| Entitlement Period | **18 months** from expiration of Due Diligence Period |
+| Entitlement Period | **24 months** from Purchase Agreement execution — due diligence and entitlement process run concurrently throughout |
 | Closing Date | Upon the earlier of: entitlement approval, builder simultaneous close, or **24 months** from Purchase Agreement execution |
 | Extension Rights | Purchaser may extend closing by **two (2) additional 6-month periods** upon payment of **$25,000 per extension** to Seller, credited to Purchase Price at closing |
 
@@ -92,7 +91,7 @@ Purchaser is prepared to pay **all cash** at closing using the seller carry stru
 
 ### 7. Due Diligence Investigation
 
-During the 90-day Due Diligence Period, Purchaser shall have access to the Property to investigate (at Purchaser's sole cost):
+Purchaser shall have access to the Property to investigate (at Purchaser's sole cost) throughout the Entitlement Period:
 
 **Planned Diligence Items:**
 - [ ] Civil engineer concept plan / lot yield study
@@ -107,7 +106,7 @@ During the 90-day Due Diligence Period, Purchaser shall have access to the Prope
 - [ ] Review of Sub-Area Plan C documents
 - [ ] Review of Greenville Water & Wastewater Master Plans
 
-**Termination Right:** Purchaser may terminate for any reason prior to expiration of the Due Diligence Period, with full return of Earnest Money Deposit.
+Purchaser may terminate the Agreement for any reason prior to electing to proceed with the entitlement process, with full return of the Earnest Money Deposit.
 
 ---
 
