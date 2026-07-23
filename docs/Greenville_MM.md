@@ -84,23 +84,54 @@ This meeting should be the **first one you read** — it likely contains the mos
 
 ## 4. PLANNING COMMISSION MEETINGS
 
-The Planning Commission meets on the **4th Monday of each month**. Application deadlines are the **1st Monday**.
+### Schedule
+- **Regular meeting:** 4th Monday of each month
+- **Application deadline:** 1st Monday of each month
+- **Concept plan review:** 30-60 days from submission
+- **Concept plan fee:** $200-250
 
-From Mark Mommaerts:
-- *"They meet the 4th Monday of the month. Our application deadline is the 1st Monday of the month."*
-- Concept plan review takes approximately **30-60 days** from submission
-- The concept plan application fee is **$200-250**
+### 2026 Meetings (8 meetings)
 
-**To access Planning Commission archives:**
-1. Go to the Granicus page
-2. Under "Available Archives", click "+ PLANNING COMMISSION"
-3. Year tabs appear — select 2025 and 2026
-4. Look specifically for meetings that mention:
-   - **Sub-Area Plan C** (governs the subject property)
-   - **Dustin Skiba** (previous subdivision denial that shaped current regulations)
-   - **Doug Gunderson / Whispering Winds** (adjacent development, 2 years of history)
-   - **Everglade Road** (sewer extension, lift station planning)
-   - **Mayflower Drive** (road frontage of subject property)
+| Date | Agenda | Minutes |
+|------|:------:|:-------:|
+| July 27, 2026 *(upcoming)* | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&event_id=1381) | *(not yet available)* |
+| June 22, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=917) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=917&doc_id=7b4336f1-7000-11f1-9494-005056a89546) |
+| May 18, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=908) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=908&doc_id=8b6b74e3-5463-11f1-9b4d-005056a89546) |
+| April 27, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=903) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=903&doc_id=543bb30f-4498-11f1-bb28-005056a89546) |
+| April 13, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=897) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=897&doc_id=2ad1276b-3998-11f1-bb28-005056a89546) |
+| March 9, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=890) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=890&doc_id=c06eb96e-2223-11f1-bb28-005056a89546) |
+| February 9, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=884) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=884&doc_id=176d9b92-069f-11f1-bb28-005056a89546) |
+| January 12, 2026 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=880) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=880&doc_id=ceda54c7-f179-11f0-bb28-005056a89546) |
+
+### 2025 Meetings (17 meetings)
+
+| Date | Agenda | Minutes |
+|------|:------:|:-------:|
+| December 8, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=875) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=875&doc_id=fe739c72-df46-11f0-bb28-005056a89546) |
+| November 10, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=871) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=871&doc_id=c2aa2620-c008-11f0-a7da-005056a89546) |
+| October 13, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=852) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=852&doc_id=22607a08-a9e3-11f0-8df7-005056a89546) |
+| September 8, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=844) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=844&doc_id=77d0f7f0-926c-11f0-8df7-005056a89546) |
+| August 11, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=841) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=841&doc_id=d3c26fb5-77a3-11f0-a766-005056a89546) |
+| July 28, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=839) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=839&doc_id=0e48ff69-6ef0-11f0-a766-005056a89546) |
+| July 14, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=835) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=835&doc_id=089a4f66-6242-11f0-b7f5-005056a89546) |
+| June 23, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=830) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=830&doc_id=7ded0aa3-536d-11f0-b7f5-005056a89546) |
+| May 19, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=823) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=823&doc_id=c6d9d1a3-359f-11f0-856f-005056a89546) |
+| May 12, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=821) | *(no Minutes)* |
+| April 28, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=818) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=818&doc_id=363a882b-251b-11f0-9f54-005056a89546) |
+| April 14, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=811) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=811&doc_id=a6d3c687-1a33-11f0-955d-005056a89546) |
+| March 24, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=809) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=809&doc_id=f0c2412e-0a4e-11f0-ab6a-005056a89546) |
+| March 10, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=802) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=802&doc_id=a0d77d02-fe94-11ef-ab6a-005056a89546) |
+| February 24, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=799) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=799&doc_id=e9b11be1-f397-11ef-ab6a-005056a89546) |
+| February 10, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=797) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=797&doc_id=76792185-ea51-11ef-a9e2-005056a89546) |
+| January 8, 2025 | [Agenda](https://greenvillewi.granicus.com/AgendaViewer.php?view_id=1&clip_id=778) | [Minutes](https://greenvillewi.granicus.com/MinutesViewer.php?view_id=1&clip_id=778&doc_id=1d3a77ce-cecf-11ef-a9e2-005056a89546) |
+
+### Key Meetings to Read (Priority Order)
+
+1. **May 2026 PC meetings** (May 18) — likely where Doug's revised plan was discussed
+2. **November 10, 2025 PC** — concurrent with the 6-hour Village Board meeting
+3. **All meetings from April-July 2025** — Doug was actively submitting during this period
+4. **Meetings referencing "Whispering Winds"** — Doug's project name
+5. **Meetings referencing "Sub-Area Plan C"** — directly relevant to our property
 
 ---
 
