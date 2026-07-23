@@ -263,16 +263,91 @@ This meeting should be the **first one you read** — it likely contains the mos
 
 ---
 
-## 9. QUESTIONS TO ANSWER FROM MINUTES
+## 10. KEY INTELLIGENCE FROM PLANNING COMMISSION MINUTES (47 PDFs Analyzed)
 
-1. Which Village Board members voted FOR and AGAINST Doug's subdivision?
-2. What specific reasons were given for the denial? (If no code-based reason was provided, that's significant.)
-3. Which board members are considered pro-development vs. slow-growth?
-4. What conditions did the Planning Commission attach to Doug's approval?
-5. How did the neighborhood opposition organize? What specific concerns did they raise?
-6. Is there a pattern of the Board overruling the Planning Commission, or was Doug's case unique?
-7. What is the Village Board's stated position on Sub-Area Plan C implementation?
-8. Has there been any discussion of future sewer extension funding or cost-sharing mechanisms?
+### Sub-Area C — The Organized Opposition
+
+The most significant finding: **Sandra Lenz (W6351 Everglade Road)** has been a consistent and vocal opponent of development in Sub-Area C for over a year. She lives directly on Everglade Road adjacent to the subject property.
+
+- **March 24, 2025 PC:** Sandra Lenz "opposed to development in Sub-Area C"
+- **April 28, 2025 PC:** Chris Saggert (W6208 Everglade) "development in Sub-Area C" — Tim Harrikula (W6132 Everglade) "development in Sub-Area C, role of..."
+- **May 19, 2025 PC:** Kristine Sagert (W6208 Everglade) — Sub-Area C
+- **June 23, 2025 PC:** Doug Lenz and Sandra Lenz — "development in Sub-Area C"
+- **January 12, 2026 PC:** Sandra and Doug Lenz — spoke about "official mapping of CTH CB" (not opposing this time)
+
+**Other organized neighbors:**
+- **Sue Datta (N2005 Mayflower Road)** — consistently appeared about lot sizes in Sub-Area C
+- **Al Grall (N2185 Mayflower Drive)** — opposed to development in Sub-Area C
+- **Nathan Puetz (W6258 Everglade Road)** — transition lots
+- **Elliott Luker (N967 Mayflower Rd)** — concerns about green space
+- **Lynn Dahlen (N961 Mayflower Rd)** — concerns about exit road
+
+### Elevation-Based Lot Size Rules (CONFIRMED)
+
+The PC minutes confirm exactly what Mark Mommaerts told us:
+
+| Elevation | Lot Size |
+|-----------|----------|
+| Below 820 ft | No subdivision, CSM only |
+| **820-835 ft** | **Not less than 1 acre lots** |
+| **835-850 ft** | **Half acre lots (0.5 ac)** |
+
+This was explicitly discussed in the **May 19, 2025 PC meeting**.
+
+### Sub-Area C Final Plan
+
+The **Sub-Area C Final Plan** was approved by the Planning Commission in **July 2025** (July 28 meeting). The vote was **7-0**. This plan established:
+- Transition lots for the 5-acre parcel (likely the conservation area)
+- Lot sizes based on elevation tiers
+- Requirements for green space, trails, safe routes to schools
+- Sewer extension planning
+
+### Lift Station & Sewer Planning
+
+The **April 28, 2025 PC meeting** included review of:
+- "Sub Area C Sewer Plan" — a specific sewer development plan for our area
+- The **June 23, 2025 PC meeting** discussed whether a lift station would be needed "if water/sewer extended out to All World Ford and potential partnership with Hortonville"
+- The **May 19, 2025 PC meeting** discussed "locations of lift stations and mandatory sewer/water hook-up"
+
+### PC Voting Members (Regular Attendees)
+
+| Member | Meetings Attended | Notes |
+|--------|:----------------:|-------|
+| **Jack Anderson** | 22 of 23 | Chair — consistently present, leads motions |
+| **Leanne Meidam-Wincentsen** | 21 of 23 | Vice Chair — second most consistent |
+| **Fred Rose** | 18 of 23 | Regular attendee |
+| **Brittany Helf** | 13 of 23 | Sometimes abstains (consent agenda) |
+| **Jay Plemon** | 6 of 23 | Less frequent |
+| **Michael Simonds** | 5 of 23 | Less frequent |
+| **Daniel Dibbs** | 5 of 23 | Less frequent |
+| **Nathan Treadwell** | 3 of 23 | Less frequent |
+
+**Key Observation:** Jack Anderson and Leanne Meidam-Wincentsen are the most influential members — they make almost every motion and second.
+
+### Doug Gunderson — NOT Found in PC Minutes
+
+The search for "Gunderson" and "Whispering Winds" across all 47 PC PDFs returned **zero results**. This means:
+- Doug's project was discussed at the **Village Board level**, not the Planning Commission
+- OR his project is known by a different name
+- The Planning Commission approved his original plan (as Doug stated), so it's surprising there's no PC record
+- This may mean the PC discussion of Doug's plan happened **before January 2025** (our earliest PC meeting is January 8, 2025)
+
+### Rezoning Patterns Observed
+
+Greenville regularly processes zoning map amendments (rezonings). In 2026 alone:
+- AGD to AIR (Airport) — Ordinance 2-26
+- AGDFP to RR (Rural Residential) — multiple parcels
+- AGD to R1 (Single Family Residential) — Ordinance 14-26
+
+This confirms that **AGD (General Agricultural District) to residential rezoning is a standard, routine process** in Greenville. Our property being AGD with a rezoning to residential is not unusual.
+
+### Key Public Comment Themes
+
+1. **Traffic concerns** — repeatedly raised by neighbors
+2. **Drainage/stormwater** — consistently a concern
+3. **Lot sizes** — neighbors want larger lots, developers want smaller
+4. **Green space preservation** — a major theme
+5. **School capacity** — mentioned in later meetings
 
 ---
 
