@@ -265,7 +265,38 @@ This meeting should be the **first one you read** — it likely contains the mos
 
 ## 10. KEY INTELLIGENCE FROM PLANNING COMMISSION MINUTES (47 PDFs Analyzed)
 
-### Sub-Area C — The Organized Opposition
+### Village Board — Doug Gunderson's Whispering Winds
+
+The most critical Village Board meetings for our project:
+
+**July 13, 2026 Village Board — Item 9b:**
+- Doug Gunderson presented on infrastructure and park/pond request for Whispering Winds
+- Agenda shows: "Subdivision Layout with park and pond sites.pdf" and "Gravity sewer route.pdf"
+- Doug "looking for direction on water/sewer, a park, stormwater features"
+- "He suggested the developer would pay for the easement"
+- **"Lift station concerns"** were raised
+- **Dean Culbertson** (board member) "had park and lift station concerns and stated the four parcels on the private road will be impacted"
+- This is the meeting Doug referenced where he "felt better than he had in a long time"
+
+**December 8, 2025 Village Board:**
+- **Sandra Lenz (W6351 Everglade Road)** spoke about "Gunderson lawsuit/Whispering Winds proposed subdivision"
+- This confirms the lawsuit has been public knowledge since at least December 2025
+
+**Village Board Members (from July 13, 2026 meeting):**
+| Member | Position | Notes |
+|--------|----------|-------|
+| **Jack Anderson** | Present | Also serves on Planning Commission — key swing vote |
+| **Andy Peters** | Present | Board member |
+| **Mark Strobel** | Present | Board member |
+| **Dean Culbertson** | Present | **Raised concerns about lift station** and park impact on private road parcels |
+| **Brittany Helf** | Excused/arrived late | Also serves on Planning Commission |
+
+### Neighbor Opposition Pattern (Everglade Road)
+
+Residents speaking at the July 13, 2026 VB meeting:
+- **Tim Harikkala, W6132 Everglade Rd** — "concerns about subdivision plans"
+- **Stella (no last name), 3291 Winnegamie Dr** — "speed limit issues on Everglade Rd"
+- This is consistent with the PC meeting pattern where Everglade Road residents consistently oppose development in Sub-Area C
 
 The most significant finding: **Sandra Lenz (W6351 Everglade Road)** has been a consistent and vocal opponent of development in Sub-Area C for over a year. She lives directly on Everglade Road adjacent to the subject property.
 
