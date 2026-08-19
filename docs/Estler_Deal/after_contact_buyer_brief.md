@@ -27,3 +27,21 @@ Paste the FULL verbatim content (transcript/text/screenshot) into `full_raw_cont
 | **⚠️ PRICE INTERPRETATION — OPEN FLAG (Jason's read, 08/19/26)** | The "$50–75K... sell all day long" line may be MORE ambiguous than the transcript shows. **Jason's interpretation of the live call: Tom was saying there's NO MARGIN FOR HIM at $50–75K if we're trying to get that price** — i.e., paper at $50–75K + horizontals leaves no profit for the BUYER-builder. That reads as a potential price pushback, not pure validation. **Keep this as a tab for future conversations** — test whether builders see $50–75K as cheap (validation) or too rich for their margin (pushback). This is exactly the kind of signal that decides the reprice-or-walk rule. Do NOT treat Entry 01 as clean price validation. |
 | **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 01** (verbatim transcript, no summarizing) |
 | **Linked files** | `calls/01_tom_mchugh_2026-08-19.md` (same content, kept for the numbered call-log series) |
+
+
+---
+
+# ENTRY 02 — Cypress Homes (2026-08-19, via text)
+
+| Field | Value |
+|---|---|
+| **Date** | 2026-08-19 |
+| **Company** | Cypress Homes, Inc. (1500 W College Ave, Appleton) |
+| **Contact #** | (920) 734-2324 · **email: shannon@cypresshomes.com** |
+| **Contact name** | Shannon (sales) — via text |
+| **Type** | Volume builder (40–60+/yr) — Greenville's #1 active builder (Encore exclusive build-to-suit, SH6, Finale Condos) |
+| **FINDING** | ✅ **WARM LEAD — "Yes I would be interested."** Shannon confirmed interest in seeing the approved-lot paper deal once ready: "I would be interested in seeing that." She asked which municipality; Jason deflected per location-framing rule (did not name Greenville — she knows Cypress builds there, but the text stays vague). |
+| **IMPACT** | First direct buyer interest from a top Greenville builder. **Cypress goes to TOP of follow-up list.** They already know Greenville lots sell ($84.9–169.9K retail) and they're the exclusive builder on Encore — they'd understand the paper model faster than most. Follow up when under contract with lot count/size/location; she asked to see it. |
+| **OTHER VALUABLE INFO** | 1) Shannon confirmed the paper-sell framing in her own words: "looking to sell the full development for us to finish putting in the infrastructure" — she understood the model immediately. 2) She asked "Are these lots already developed or are you calling to sell the raw land?" → she was expecting either finished lots or raw — the APPROVED-PAPER middle ground is a fit she recognized. 3) Jason disclosed "finalizing getting this under contract" — transparency was well received (no pushback). 4) Cypress's exact lot appetite still unknown (lot count she'd take) — next question in follow-up. |
+| **⚠️ OPEN FLAGS** | None major. Watch: Shannon is sales — confirm she can route lot-purchase interest to ownership (Cypress's decision-maker for takedowns). |
+| **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 02** (verbatim texts, no summarizing) |

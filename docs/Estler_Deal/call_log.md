@@ -14,13 +14,13 @@
 | 3 | North Appleton Properties | 920-213-4550 | Owner | — | ⏳ | — | Same Everglade corridor |
 | 4 | Apple Tree LLC | 920-659-0096 | Jason Mroz | — | ⏳ | — | Active land buyer |
 | 5 | Van's Realty & Construction | 920-734-1845 | Front office | — | ⏳ | — | 60–110 homes/yr |
-| 6 | Cypress Homes | 920-734-2324 | Sales | — | ⏳ | — | Greenville #1 active |
+| 6 | Cypress Homes | 920-734-2324 | Shannon | 08/19/26 (text) | ✅ WARM — "Yes I would be interested" | ✅ interested in approved-paper deal | See Entry 02 — top of follow-up list |
 | 7 | Forward Development Group | 608-848-9050 | Jenkins/team | — | ⏳ | — | Out-of-region, FV track record |
 | 8 | Meacham Realty & Development | 920-494-4557 | Office | — | ⏳ | — | Brown Co master dev |
 | 9 | VW Homes LLC | 920-944-6633 | Owner | — | ⏳ | — | 9 SH6 lots proven taker |
 | 10 | Bob Romenesko Construction | erika@romenesko.com | Erika | — | ⏳ | — | Owns land next to Estler |
 
-**Scorecard:** 0 confirmed buyers / 0 confirmed non-buyers (1 intel-only) / 9 pending
+**Scorecard:** 1 warm lead (Cypress) / 0 confirmed buyers / 1 non-buyer (McHugh) / 8 pending
 
 ---
 
@@ -40,7 +40,7 @@
 
 ## RUNNING FINDINGS (cumulative)
 
-1. **Price band $50–75K/lot (approved, pre-horizontal) is REAL** — validated by a 100-home/yr builder ("sell all day long"). Confirmed 08/19/26.
+1. **FIRST WARM LEAD (08/19/26): Cypress Homes — "Yes I would be interested."** Shannon understood the approved-paper model immediately and asked to see it. Top follow-up priority. See Entry 02 in after_contact_buyer_brief.md. **Price band $50–75K/lot (approved, pre-horizontal) is REAL** — validated by a 100-home/yr builder ("sell all day long"). Confirmed 08/19/26.
 2. **Buyer pool reality:** volume builders 50–100 homes/yr want plotting input; custom builders take 2–5 lots; few have capital for 50 lots. → Phase the exit (batches of 5–15 lots to multiple builders) rather than one whole-subdivision sale.
 3. **Educate on the paper model:** most builders won't know "entitled land" — lead with "we've done the entitlement so you don't deal with the town board."
 4. **Greenville reputation confirmed** (board arbitrary, neighbor-driven) — the risk is political, not market. Sub-Area C is the board's lot-size compromise after the Gunderson fight.
