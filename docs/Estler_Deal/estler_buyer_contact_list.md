@@ -2,6 +2,14 @@
 **For Module 1 builder/developer interviews (Cody method). Compiled 2026-08-19 from 3 research agents.**
 **Use with:** /root/estler_builder_interview_framework.md (the call script)
 
+> ## 📞 CALL STATUS (updated 08/19/26)
+> | # | Company | Status | Signal |
+> |---|---|---|---|
+> | 1 | Tom McHugh Construction | ❌ OUT for Greenville (competing 240-lot Hortonville) — but ✅ validated our $50-75K/lot price | See call_log.md |
+> | 2-10 | All others | ⏳ Not yet called | — |
+> **Full live tracker + transcripts: `docs/Estler_Deal/call_log.md` and `docs/Estler_Deal/calls/`**
+
+
 ## ⭐ TOP PRIORITY — MASTER DEVELOPERS (whole-subdivision buyers)
 | # | Company | Evidence of 40+ lot scale | Contact | Why them |
 |---|---|---|---|---|
