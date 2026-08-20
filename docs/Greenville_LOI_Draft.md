@@ -1,6 +1,8 @@
 # Letter of Intent — Greenville Property (ESTLER)
 ## Approval Path / Seller Financing Structure — UPDATED 08/19/26 (verified facts + deal structure fixes)
 
+> **✅ DEAL-STATUS NOTE (08/19/26): Kevin Evers confirmed via text — NO option, NO agreement, NO claim on the property. The 78-lot concept (Nine Twenty Realty) is old and holds no legal position. Deal path CLEAN — LOI goes through Evers as listing agent (Real Broker, LLC) to the Essler family seller.**
+
 ---
 
 **JASON CHRISTIANSEN**
