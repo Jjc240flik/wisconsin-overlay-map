@@ -40,3 +40,58 @@ Don't ask "does the developer pay" (documented answer: yes). Ask instead:
 - PC 4/28/2025 Agenda Packet (299 pages): https://d3n9y02raazwpg.cloudfront.net/greenvillewi/2677d761-1fa8-11f0-955d-005056a89546-0bedf9e8-adfe-47e1-bc83-87f2291d1e23-1745506998.pdf
 - Memo: "Sub Area C Plan," Mark Mommaerts AICP, March 24, 2025 (inside the packet)
 - Cedar Corp. Wastewater System Master Plan Dec 2021, §4.2.4.3 (Lift Station No. 4), §4.2.4.4 (Lift Station No. 5)
+
+---
+
+## THE FULL COST PICTURE (from the village's own master plan, Ch. 5 Table 5-1)
+
+**LIFT STATION NO. 4: $2,000,000 – $2,100,000** (2021 construction cost estimate, complete station)
+
+What's included in the estimate (Cedar Corp. master plan §5):
+- Above-grade masonry/concrete building (control panels, odor removal, valve vault, metering, instrumentation)
+- Below-grade concrete wet well
+- **Two submersible pumps, 10–20 HP each**
+- Magnetic in-line flow meter
+- Chemical feed + storage for odor removal
+- Control panels
+- **Standby emergency generator**
+- Force main installation at **$65/linear foot** unit price
+- Air relief manholes, backfill, restoration, erosion/traffic control
+- Engineering/admin fees + contingency
+
+Other lift station cost estimates (same table):
+| Station | Cost |
+|---|---|
+| LS No. 3 | $1.6–1.7M |
+| **LS No. 4 (OURS)** | **$2.0–2.1M** |
+| LS No. 5 | $1.4–1.5M |
+| LS No. 6 | $1.6–1.7M |
+| LS No. 7 | $1.75–1.85M |
+| LS No. 8 | $2.4–2.5M |
+| LS No. 9 | $3.25–3.35M |
+
+Also: Highway 76 8"→12" sewer replacement = $850–900K (a related capacity project).
+
+## THE CRITICAL IMPLICATION FOR OUR NUMBERS
+
+**The FULL area-scale Lift Station No. 4 is a $2.0–2.1M facility** — NOT the $200–500K we had in our estimates. Our $250K-shared / $500K-unshared numbers assumed a SMALL subdivision pump station, not the village's planned area station.
+
+**But here's the nuance that matters:**
+1. The $2.0–2.1M is the FULL station for the WHOLE 320-acre Sub-Area C (1,032 residents). Our 44-lot subdivision is ONE part of that service area.
+2. The station will be built once and serve everyone — **the first developer to plat likely builds it, then later developers reimburse** (or the village CIPs it and developers pay connection fees).
+3. **Doug Gunderson's adjacent Whispering Winds would share it** — his project needs the same station.
+4. **Our realistic share is NOT $2M.** It's:
+   - Our proportional share as first mover (could be $500K–$1M if we fund the whole station and get reimbursed), OR
+   - A negotiated joint build (Doug + us + maybe village), OR
+   - Village CIP + connection fees (if we can push the "area infrastructure" argument)
+5. **This is a $250K–$1M+ swing in our profit model** — THE single biggest unknown cost item. It MUST be resolved before concept-plan spend.
+
+## REVISED EMAIL TO MARK (v2 — now with full context)
+The email questions change again — now we know the station is $2M+:
+1. **For Lift Station No. 4 ($2.0–2.1M per the 2021 master plan), what's the village's expectation for funding — does the first developer build it with later developers reimbursing, is it CIP'd, or is there a connection-fee structure?**
+2. **Can adjacent developments (ours + the property north) jointly construct and share the station, with the village taking ownership after acceptance?**
+3. **Is the "R - Sub Area C Sewer Plan.pdf" attachment available?** (referenced in the 4/28 + 5/19 packets)
+4. **Has the $2.0–2.1M estimate been updated since 2021?** (construction inflation)
+
+## SOURCE
+Cedar Corp. Wastewater System Master Plan, Dec 2021, Ch. 5 "Cost Estimates for Future Sewer Construction" — Table 5-1 (Lift Station Cost Estimates), embedded in the PC 4/28/2025 agenda packet.
