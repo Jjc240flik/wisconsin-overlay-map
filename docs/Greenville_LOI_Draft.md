@@ -71,6 +71,8 @@ The Purchase Price shall be **adjusted based on the final approved lot count** p
 
 ### 4. Seller Financing (Seller Carry Note)
 
+> **NOTE (why interest):** The interest compensates Seller for deferring receipt of the purchase price until the entitlement exit. At 4–5%, this is below typical commercial financing on raw land (7–9%) and reflects the short, defined hold period. The rate is negotiable; Seller may alternatively accrue interest to maturity (no annual payments).
+
 Seller shall carry a promissory note in the amount of **$873,000** bearing interest at **[4-5]% per annum**, with the following terms:
 
 - **Interest-only payments** annually, commencing 12 months from closing (≈ $34,920–$43,650/yr at $873,000)
@@ -81,6 +83,7 @@ Seller shall carry a promissory note in the amount of **$873,000** bearing inter
 - **No prepayment penalty**
 - **Security:** Purchase money mortgage or deed of trust on the Property
 - **Installment sale:** Seller may elect to report the gain on the installment method (their tax advisor to confirm)
+- **PARTIAL RELEASE / LOT RELEASES (batch-sale provision):** Seller shall execute partial releases of the mortgage as Purchaser sells lots or parcels, whether in batches or individually. Each release shall be issued upon payment to Seller of a release price of **$20,000 per released lot** (representing Purchaser's per-lot land cost basis), applied against the principal of the Note. The Note's maturity shall extend to the later of (i) the final lot sale, or (ii) the applicable deadline under Section 6; **no single partial sale shall trigger full principal.** This provision enables Purchaser to sell lots to multiple builders in phases without triggering the entire note.
 
 ---
 
@@ -94,7 +97,7 @@ Purchaser is prepared to pay **all cash** at closing using the seller carry stru
 
 | Milestone | Timeline |
 |-----------|----------|
-| Entitlement Period | **24 months** from Purchase Agreement execution — due diligence and entitlement process run concurrently throughout |
+| Entitlement Period | **24 months from the date the Village of Greenville formally accepts Purchaser's first application** (concept plan review or application filing, whichever first) — due diligence and entitlement run concurrently throughout; **in no event later than 30 months** from Purchase Agreement execution |
 | Closing Date | Upon the earlier of: entitlement approval, builder simultaneous close, or **24 months** from Purchase Agreement execution |
 | Extension Rights | Purchaser may extend closing by **two (2) additional 6-month periods** upon payment of **$25,000 per extension** to Seller, credited to Purchase Price at closing |
 
@@ -134,25 +137,25 @@ If the entitlement contingency is not satisfied within 24 months (plus extension
 
 **8.2 Lot-Yield Price Adjustment (the formula).** The Base Price shall be adjusted at closing based on the **final number of approved residential lots** (the "Approved Lot Count"), as follows:
 
+**Formula: Purchase Price = $900,000 + ($12,500 × (Approved Lot Count − 44))**
+
 | Approved Lot Count | Purchase Price |
 |:------:|:------:|
+| 34 | $775,000 |
+| 36 | $800,000 |
+| 38 | $825,000 |
 | 40 | $850,000 |
-| 41 | $862,500 |
 | 42 | $875,000 |
-| 43 | $887,500 |
 | **44 (baseline)** | **$900,000** |
-| 45 | $912,500 |
 | 46 | $925,000 |
-| 47 | $937,500 |
 | 48 | $950,000 |
-| 49 | $962,500 |
 | 50 | $975,000 |
-| 51 | $987,500 |
 | 52 | $1,000,000 |
-| 53 | $1,012,500 |
 | 54 | $1,025,000 |
+| 56 | $1,050,000 |
+| 58 | $1,075,000 |
 
-**Formula:** Purchase Price = $900,000 + ($12,500 × (Approved Lot Count − 44)). Each approved residential lot counts equally toward the Approved Lot Count, including larger lots (e.g., 1.5+ acre lots). The Approved Lot Count shall be determined at final plat approval and reflected in the closing statement. For counts outside the table, the formula governs. **No price below $850,000 or above $1,025,000** (the collar).
+Each approved residential lot counts equally toward the Approved Lot Count, including larger lots (e.g., 1.5+ acre lots). The Approved Lot Count shall be determined at final plat approval and reflected in the closing statement. The formula is linear and applies at any count (no floor, no ceiling).
 
 ---
 
