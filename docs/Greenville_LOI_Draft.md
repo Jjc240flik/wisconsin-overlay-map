@@ -259,3 +259,42 @@ Date: _______________
 
 cc: Seller's Counsel
     Purchaser's Counsel
+
+
+---
+
+## ANNEX A — PRICING SUMMARY (per-acre translation)
+
+*Presented for clarity in the Seller's pricing language (price per acre). The operative pricing mechanism remains Section 8.2 (lot-count formula).*
+
+### Market context (verified comps, Outagamie County)
+
+| Land type | Value per acre | Source |
+|---|---|---|
+| Agricultural land (Outagamie Co) | **$7,000–$10,000** | County/comps |
+| **This Property (raw, unentitled)** | **→ our offer below** | — |
+| Serviced residential land | **$25,000–$30,000** | Village staff / comps |
+| Seller's current listing | **$20,189/ac** ($1,280,000 ÷ 63.40 ac) | MLS #50280408 |
+
+### Our offer in per-acre terms (at 63.40 deed acres)
+
+| Approved Lots | Total Price | **Price per acre** | Note |
+|:---:|:---:|:---:|---|
+| 34 | $775,000 | **$12,224** | Board holds 1-acre min |
+| 38 | $825,000 | **$13,013** | |
+| 40 | $850,000 | **$13,407** | |
+| **44 (baseline)** | **$900,000** | **$14,196** | Our target (4 large + ~40 @ 0.75-ac avg) |
+| 48 | $950,000 | **$14,984** | |
+| 51 | $987,500 | **$15,575** | |
+| 54 | $1,025,000 | **$16,167** | |
+| 58 | $1,075,000 | **$16,956** | Maximum |
+
+### How to read this
+
+- Our offer starts at **$12,224/acre** — approximately **1.4–2.0×** current agricultural land value, reflecting the growth potential of the Property.
+- The price **increases with every lot approved** — the Seller shares in the upside of density. At 54+ lots, the price reaches **$16,000–$17,000/acre**.
+- The listing price of **$20,189/acre** reflects serviced, developed-land pricing; this Property is raw agricultural land with **no approvals, no infrastructure, and no entitlement risk taken to date**. The Purchaser carries the full entitlement risk (Village approvals, sewer service area, engineering, and all related costs).
+- **The lot-count formula (Section 8.2) is the binding mechanism**; this annex is provided for clarity only.
+
+---
+
