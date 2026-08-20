@@ -10,7 +10,7 @@
 | # | Company | Phone | Person | Date | Verdict | Price signal | Notes |
 |---|---|---|---|---|---|---|---|
 | 1 | Tom McHugh Construction | 920-475-2236 | Tom McHugh | 08/19/26 | ❌ NOT A BUYER (competing 240-lot Hortonville) | ✅ "$50–75K/lot... you'd sell all day long" | Gold intel — see Call 01 |
-| 2 | DeWitt Development | 920-740-6660 | Scott | — | ⏳ | — | Solicits land — warmest lead |
+| 2 | DeWitt Development | 920-740-6660 | Scott | 08/20/26 | ✅ WARM — "potentially, because of location" | Raw-land comps $19–32K/ac; they normally buy RAW + self-entitle | Key: test approved-paper premium vs raw — see Entry 03 |
 | 3 | North Appleton Properties | 920-213-4550 | Owner | — | ⏳ | — | Same Everglade corridor |
 | 4 | Apple Tree LLC | 920-659-0096 | Jason Mroz | — | ⏳ | — | Active land buyer |
 | 5 | Van's Realty & Construction | 920-734-1845 | Front office | — | ⏳ | — | 60–110 homes/yr |
@@ -20,7 +20,7 @@
 | 9 | VW Homes LLC | 920-944-6633 | Owner | — | ⏳ | — | 9 SH6 lots proven taker |
 | 10 | Bob Romenesko Construction | erika@romenesko.com | Erika | — | ⏳ | — | Owns land next to Estler |
 
-**Scorecard:** 1 warm lead (Cypress) / 0 confirmed buyers / 1 non-buyer (McHugh) / 8 pending
+**Scorecard:** 2 warm leads (Cypress, DeWitt) / 0 confirmed buyers / 1 non-buyer (McHugh) / 7 pending
 
 ---
 

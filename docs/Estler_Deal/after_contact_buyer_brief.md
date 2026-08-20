@@ -47,3 +47,21 @@ Paste the FULL verbatim content (transcript/text/screenshot) into `full_raw_cont
 | **OTHER VALUABLE INFO** | 1) Shannon confirmed the paper-sell framing in her own words: "looking to sell the full development for us to finish putting in the infrastructure" — she understood the model immediately. 2) She asked "Are these lots already developed or are you calling to sell the raw land?" → she was expecting either finished lots or raw — the APPROVED-PAPER middle ground is a fit she recognized. 3) Jason disclosed "finalizing getting this under contract" — transparency was well received (no pushback). 4) Cypress's exact lot appetite still unknown (lot count she'd take) — next question in follow-up. |
 | **⚠️ OPEN FLAGS** | None major. Watch: Shannon is sales — confirm she can route lot-purchase interest to ownership (Cypress's decision-maker for takedowns). |
 | **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 02** (verbatim texts, no summarizing) |
+
+
+---
+
+# ENTRY 03 — DeWitt Development / Dercks DeWitt (2026-08-20, call)
+
+| Field | Value |
+|---|---|
+| **Date** | 2026-08-20 |
+| **Company** | DeWitt Development / Dercks DeWitt LLC (valleyhomelots.com) |
+| **Contact #** | (920) 740-6660 |
+| **Contact name** | Scott (principal) |
+| **Type** | Master developer (800+ lots created, 11 communities; Savannah Heights 7 phases + North; explicitly solicits land) |
+| **FINDING** | ✅ **WARM — "Yeah, potentially, because of the location."** 50-lot range fits them ("we do 100, 110, 120... smaller ones 60 or 70"). Fox Valley region = "something we normally be looking at." Sewer/water in location = "one big checkbox for us." Willing to continue conversation after we're under contract. |
+| **IMPACT** | First master-developer validation at our scale. BUT the model mismatch is real: **they normally buy RAW LAND and entitle themselves** ("we aren't buying undeveloped lots in theory") — they may not pay an approved-paper premium since they can do entitlement cheaper. Their raw-land price comps: **$19K/ac Appleton, $19–32K/ac Harrison**. Our land = $14.2K/ac at baseline → we buy cheaper than they do, but their interest is in RAW, not approved. **Key tension to resolve: would they pay more for APPROVED paper than raw?** |
+| **OTHER VALUABLE INFO** | 1) **Price comps (raw land):** Appleton $19K/ac; Harrison $19–32K/ac (max). They buy by the acre for raw. 2) **Engineering warning (validates Cody):** "don't spend much engineering fees... most developers are gonna want to do it their own way... you kind of wasted a bunch of money." → DON'T spend $5–8K on concept plan until a buyer wants input. 3) They price lots "towards the end" — no advance per-lot number. 4) Finished-lot retail "80s and 90s" for their current projects. 5) Wetlands/DNR credits + "a ton of stuff" go into cost — entitlement prep is real value. 6) **Scott is doing the SAME MODEL himself on a Green Bay deal** ("I'm actually gonna slap somebody else, let them do it") — he's a peer who understands flipping land. 7) Location reveal held correctly (Outagamie County only; no Greenville named). 8) He suggests we don't over-design; approach buyers with parameters and let them have layout input. |
+| **⚠️ OPEN FLAGS** | **The raw-vs-approved question:** Scott's comps are RAW land prices ($19–32K/ac). We need to test whether DeWitt (or any developer) will pay MORE for APPROVED paper — that's the entire thesis. His "$19K/ac" raw comp vs our $14.2K/ac land cost means: if we can sell the approved subdivision at $50–75K/lot, the spread is the entitlement value. But if developers think like Scott (raw + self-entitle), the approved premium may be thin. **Follow-up: after contract, present as approved paper and ask directly what premium over raw they'd pay.** |
+| **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 03** (verbatim call, no summarizing) |
