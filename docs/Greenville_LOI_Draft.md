@@ -1,5 +1,5 @@
-# Letter of Intent — Greenville Property
-## Price 2: Approval Path / Seller Financing Structure
+# Letter of Intent — Greenville Property (ESTLER)
+## Approval Path / Seller Financing Structure — UPDATED 08/19/26 (verified facts + deal structure fixes)
 
 ---
 
@@ -10,27 +10,27 @@
 
 [DATE]
 
-**VIA EMAIL**
+**VIA EMAIL / TEXT**
 
-Kevin [LAST NAME]
-[COMPANY NAME]
+Kevin R. Evers
+Real Broker, LLC
 [ADDRESS]
 [EMAIL]
 
-**Re: Letter of Intent for Purchase and Sale of ±62 Acres, N Mayflower Drive, Greenville, WI 54942**
+**Re: Letter of Intent for Purchase and Sale of ±63.4 Acres, N Mayflower Drive, Greenville, WI 54942**
 
 Dear Kevin,
 
-This letter of intent, effective as of [DATE] (the "Effective Date"), constitutes an expression of interest by **Jason Christiansen** ("Purchaser") in purchasing certain property owned by the Estler/Barbara family ("Seller") on the general terms and conditions described herein. This LOI serves as the basis for negotiating a definitive Purchase Agreement.
+This letter of intent, effective as of [DATE] (the "Effective Date"), constitutes an expression of interest by **Jason Christiansen** ("Purchaser") in purchasing certain property owned by the Essler family (the "Seller") on the general terms and conditions described herein. This LOI serves as the basis for negotiating a definitive Purchase Agreement.
 
 ---
 
 ### 1. The Property
 
-Two contiguous parcels totaling approximately **62 acres**, located on **N Mayflower Drive, Greenville, Outagamie County, WI 54942**, further identified by Outagamie County parcel numbers:
+Two contiguous parcels totaling approximately **63.40 deed acres (62.62 GIS acres)**, located on **N Mayflower Drive, Greenville, Outagamie County, WI 54942**, further identified by Outagamie County parcel numbers:
 
-- **Parcel 1:** [APN] — [± acres]
-- **Parcel 2:** [APN] — [± acres]
+- **Parcel 1:** APN **111041000** — 23.40 deed ac (22.18 GIS ac)
+- **Parcel 2:** APN **111041200** — 40.00 deed ac (40.45 GIS ac)
 
 (The "Property")
 
@@ -38,39 +38,48 @@ Two contiguous parcels totaling approximately **62 acres**, located on **N Mayfl
 
 ### 2. Purchase Price
 
-**$900,000** (Nine Hundred Thousand and 00/100 Dollars), structured as:
+**$900,000** (Nine Hundred Thousand and 00/100 Dollars) as the Base Price, structured as:
 
 | Component | Amount | Timing |
 |-----------|:------:|--------|
-| Earnest Money Deposit | $40,000 | Upon execution of Purchase Agreement |
-| Seller Carry Note | $860,000 | Paid at closing |
-| **Total** | **$900,000** | |
+| Earnest Money Deposit | $27,000 (3% of Base Price) | Upon execution of Purchase Agreement |
+| Seller Carry Note | $873,000 | Paid at closing (per Section 4) |
+| **Total Base Price** | **$900,000** | |
+
+The Purchase Price shall be **adjusted based on the final approved lot count** pursuant to Section 8.
 
 ---
 
-### 3. Earnest Money Deposit
+### 3. Earnest Money Deposit — STAGED
 
-- **$40,000** deposited within 5 business days after full execution of the Purchase Agreement
+- **Total EM: $27,000 (3% of Base Price)**, deposited within 5 business days after full execution of the Purchase Agreement
 - Held in a mutually acceptable interest-bearing escrow account
-- **Refundable** to Purchaser prior to Purchaser's election to proceed following initial due diligence and satisfaction of the entitlement contingency conditions
-- **Non-refundable** thereafter, except in the event of:
-  - (a) Seller default
-  - (b) Failure of the entitlement contingency
-  - (c) Failure of any condition to closing
+- **Refundability ladder (EM becomes non-refundable in stages as the entitlement advances):**
+
+| Stage | EM Amount Non-Refundable | Trigger |
+|-------|:------:|--------|
+| 1 | $0 (full $27,000 refundable) | Through initial due diligence / concept plan — Purchaser may terminate for any reason, full return |
+| 2 | $10,000 | Upon filing of the preliminary plat / CSM application with the Village |
+| 3 | +$10,000 ($20,000 cumulative) | Upon Planning Commission recommendation of approval |
+| 4 | +$7,000 ($27,000 cumulative) | Upon Village Board final approval of the plat / rezoning |
+
+- EM **fully refundable** at any stage if: (a) Seller default; (b) failure of the entitlement contingency (Section 8); (c) failure of any condition to closing; (d) Purchaser termination during Stage 1.
 
 ---
 
-### 4. Seller Financing
+### 4. Seller Financing (Seller Carry Note)
 
-Seller shall carry a promissory note in the amount of **$860,000** bearing interest at **[4-5]% per annum**, with the following terms:
+Seller shall carry a promissory note in the amount of **$873,000** bearing interest at **[4-5]% per annum**, with the following terms:
 
-- **Interest-only payments** annually, commencing 12 months from closing
+- **Interest-only payments** annually, commencing 12 months from closing (≈ $34,920–$43,650/yr at $873,000)
 - **Principal due** at the earlier of:
   - (a) Simultaneous close with a builder/developer buyer
   - (b) Sale of the Property or any portion thereof
   - (c) 24 months from the Closing Date
 - **No prepayment penalty**
 - **Security:** Purchase money mortgage or deed of trust on the Property
+- **Installment sale:** Seller may elect to report the gain on the installment method (their tax advisor to confirm)
+
 ---
 
 ### 5. No Financing Contingency
@@ -95,10 +104,11 @@ Purchaser shall have access to the Property to investigate (at Purchaser's sole 
 
 **Planned Diligence Items:**
 - [ ] Civil engineer concept plan / lot yield study
-- [ ] Wetland delineation
+- [ ] Wetland delineation (preliminary work exists — confirm current status)
 - [ ] Topographic survey
 - [ ] Geotechnical evaluation
-- [ ] Utility feasibility (sewer, water, lift station)
+- [ ] Utility feasibility (sewer, water, lift station — lift station approved and planned to serve the area; confirm route/cost sharing)
+- [ ] **Sewer Service Area (SSA) confirmation — whether the Property is within or can be added to the certified Fox West SSA (amendment/expansion path, timing, cost)**
 - [ ] Phase I environmental assessment
 - [ ] Title commitment / survey review
 - [ ] Zoning and future land use verification
@@ -110,17 +120,37 @@ Purchaser may terminate the Agreement for any reason prior to electing to procee
 
 ---
 
-### 8. Entitlement Contingency
+### 8. Entitlement Contingency AND Lot-Yield Price Adjustment
 
-Purchaser's obligation to close is expressly conditioned upon the Village of Greenville approving a subdivision plat, rezoning, or development plan for the Property that is commercially viable in Purchaser's reasonable discretion, including without limitation:
+**8.1 Entitlement Contingency.** Purchaser's obligation to close is expressly conditioned upon the Village of Greenville approving a subdivision plat, rezoning, or development plan for the Property that is commercially viable in Purchaser's reasonable discretion, including without limitation:
 
 - (a) Approval of a subdivision layout with lot sizes and densities consistent with the Village's Sub-Area Plan C and applicable zoning
-- (b) Reasonable assurance that municipal sewer and water can serve the development at commercially feasible costs
+- (b) **Reasonable assurance that municipal sewer and water can serve the development at commercially feasible costs, including confirmation that the Property is within, or can be added to, the certified sewer service area (SSA) on acceptable timing and cost terms**
 - (c) No material adverse change in zoning, future land use designation, or Sub-Area Plan applicable to the Property
 
-The final lot yield shall be determined through the engineer's concept plan and the Village's approval process. The purchase price set forth in Section 2 shall be subject to adjustment based on the final approved lot count, to be negotiated in good faith between the parties at that time.
-
 If the entitlement contingency is not satisfied within 24 months (plus extensions), Purchaser may terminate the Purchase Agreement and receive return of the Earnest Money Deposit.
+
+**8.2 Lot-Yield Price Adjustment (the formula).** The Base Price shall be adjusted at closing based on the **final number of approved residential lots** (the "Approved Lot Count"), as follows:
+
+| Approved Lot Count | Purchase Price |
+|:------:|:------:|
+| 40 | $850,000 |
+| 41 | $862,500 |
+| 42 | $875,000 |
+| 43 | $887,500 |
+| **44 (baseline)** | **$900,000** |
+| 45 | $912,500 |
+| 46 | $925,000 |
+| 47 | $937,500 |
+| 48 | $950,000 |
+| 49 | $962,500 |
+| 50 | $975,000 |
+| 51 | $987,500 |
+| 52 | $1,000,000 |
+| 53 | $1,012,500 |
+| 54 | $1,025,000 |
+
+**Formula:** Purchase Price = $900,000 + ($12,500 × (Approved Lot Count − 44)). Each approved residential lot counts equally toward the Approved Lot Count, including larger lots (e.g., 1.5+ acre lots). The Approved Lot Count shall be determined at final plat approval and reflected in the closing statement. For counts outside the table, the formula governs. **No price below $850,000 or above $1,025,000** (the collar).
 
 ---
 
@@ -170,6 +200,8 @@ Seller shall represent and warrant in the Purchase Agreement:
 - (d) No environmental contamination known to Seller
 - (e) All real estate taxes are current
 - (f) Seller has authority to sell the Property and execute the Agreement
+- **(g) NO THIRD-PARTY INTERESTS: There are no outstanding options, rights of first refusal, purchase agreements, letters of intent, listing agreements (other than the listing with Real Broker, LLC), or other agreements or claims of any kind — recorded or unrecorded, formal or informal — by any person or entity to purchase, option, or acquire any interest in the Property. Seller shall not enter into any such agreement during the term of this Agreement. Seller shall indemnify and hold Purchaser harmless from any claim by any third party asserting an interest in the Property.**
+- **(h) CLEAN DELIVERY: Seller shall deliver the Property free and clear of all liens, encumbrances, options, and claims at closing, except as expressly permitted in the Purchase Agreement.**
 
 ---
 
@@ -212,7 +244,7 @@ Date: _______________
 
 **AGREED AND ACCEPTED:**
 
-**Estler/Barbara Family Trust (or Seller Entity)**
+**Essler Family (Barbara J Essler, et al.)**
 
 __________________________
 Authorized Signatory
@@ -220,5 +252,5 @@ Date: _______________
 
 ---
 
-cc: Kevin [LAST NAME], [BROKERAGE]
+cc: Seller's Counsel
     Purchaser's Counsel
