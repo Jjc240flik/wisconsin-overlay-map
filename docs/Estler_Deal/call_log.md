@@ -16,11 +16,11 @@
 | 5 | Van's Realty & Construction | 920-734-1845 | Front office | — | ⏳ | — | 60–110 homes/yr |
 | 6 | Cypress Homes | 920-734-2324 | Shannon | 08/19/26 (text) | ✅ WARM — "Yes I would be interested" | ✅ interested in approved-paper deal | See Entry 02 — top of follow-up list |
 | 7 | Forward Development Group | 608-848-9050 | Jenkins/team | — | ⏳ | — | Out-of-region, FV track record |
-| 8 | Meacham Realty & Development | 920-494-4557 | Office | — | ⏳ | — | Brown Co master dev |
+| 8 | Meacham Realty & Development | 920-494-4557 | Peyton | 08/20/26 | ✅ WARM — "definitely" + meeting about land TOMORROW, wants email | Info pre-contract accepted | Send info email today — see Entry 04 |
 | 9 | VW Homes LLC | 920-944-6633 | Owner | — | ⏳ | — | 9 SH6 lots proven taker |
 | 10 | Bob Romenesko Construction | erika@romenesko.com | Erika | — | ⏳ | — | Owns land next to Estler |
 
-**Scorecard:** 2 warm leads (Cypress, DeWitt) / 0 confirmed buyers / 1 non-buyer (McHugh) / 7 pending
+**Scorecard:** 3 warm leads (Cypress, DeWitt, Meacham) / 0 confirmed buyers / 1 non-buyer (McHugh) / 6 pending
 
 ---
 

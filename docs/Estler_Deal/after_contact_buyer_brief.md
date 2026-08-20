@@ -65,3 +65,21 @@ Paste the FULL verbatim content (transcript/text/screenshot) into `full_raw_cont
 | **OTHER VALUABLE INFO** | 1) **Price comps (raw land):** Appleton $19K/ac; Harrison $19–32K/ac (max). They buy by the acre for raw. 2) **Engineering warning (validates Cody):** "don't spend much engineering fees... most developers are gonna want to do it their own way... you kind of wasted a bunch of money." → DON'T spend $5–8K on concept plan until a buyer wants input. 3) They price lots "towards the end" — no advance per-lot number. 4) Finished-lot retail "80s and 90s" for their current projects. 5) Wetlands/DNR credits + "a ton of stuff" go into cost — entitlement prep is real value. 6) **Scott is doing the SAME MODEL himself on a Green Bay deal** ("I'm actually gonna slap somebody else, let them do it") — he's a peer who understands flipping land. 7) Location reveal held correctly (Outagamie County only; no Greenville named). 8) He suggests we don't over-design; approach buyers with parameters and let them have layout input. |
 | **⚠️ OPEN FLAGS** | **The raw-vs-approved question:** Scott's comps are RAW land prices ($19–32K/ac). We need to test whether DeWitt (or any developer) will pay MORE for APPROVED paper — that's the entire thesis. His "$19K/ac" raw comp vs our $14.2K/ac land cost means: if we can sell the approved subdivision at $50–75K/lot, the spread is the entitlement value. But if developers think like Scott (raw + self-entitle), the approved premium may be thin. **Follow-up: after contract, present as approved paper and ask directly what premium over raw they'd pay.** |
 | **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 03** (verbatim call, no summarizing) |
+
+
+---
+
+# ENTRY 04 — Meacham Realty & Development (2026-08-20, call)
+
+| Field | Value |
+|---|---|
+| **Date** | 2026-08-20 |
+| **Company** | Meacham Realty & Development (Green Bay/Howard, 4 generations) |
+| **Contact #** | (920) 494-4557 |
+| **Contact name** | Peyton |
+| **Type** | Master developer (Red Leaf subdivision 179 units Howard 2025; SF spec homes; Brown County) |
+| **FINDING** | ✅ **WARM — actively engaging.** "Yeah, definitely" (interested in selling). Asked for emailed info even though we're pre-contract. **They have a land meeting TOMORROW** and Peyton will bring our info to the team — "we could still contact you for further." |
+| **IMPACT** | Third warm lead (Cypress, DeWitt, Meacham). **Action: send the info email TODAY so it's in front of their team tomorrow.** Keep it high-level (Fox Valley, ~50 lots, pre-contract, no location specifics) — enough for them to say "interested, keep us posted." |
+| **OTHER VALUABLE INFO** | 1) **They take info pre-contract** — receptive to early outreach, will track a deal in progress. 2) Phases vs whole subdivision: "**depending on what it is**" — flexible, need to see specifics. 3) **Jason shared his number: 262-309-0653** — personal disclosure, intentional to keep the thread live. 4) Note: reception answered "Major Realty" but the entity is Meacham Realty & Development. 5) They're meeting about land tomorrow — timing means our email could land in an active review cycle. |
+| **⚠️ OPEN FLAGS** | None major. Email must respect the location-framing rule (no Greenville/municipality yet) — Peyton didn't push on location, keep it that way. |
+| **FULL RAW CONTENT** | → See `full_raw_content.md` → **ENTRY 04** (verbatim call, no summarizing) |
