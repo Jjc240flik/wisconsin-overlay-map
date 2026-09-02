@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Estler Concept Plan v2 — Review</title>
+<style>
+  body { margin:0; background:#222; font-family:Arial, Helvetica, sans-serif; }
+  .toolbar { position:fixed; top:0; left:0; right:0; z-index:100; background:#333; color:#eee;
+             padding:10px 16px; display:flex; align-items:center; gap:14px; box-shadow:0 2px 8px rgba(0,0,0,.5); }
+  .toolbar h1 { font-size:16px; margin:0; font-weight:600; }
+  .toolbar .note { font-size:12px; color:#bbb; }
+  .toolbar button { background:#4a6fa5; color:#fff; border:none; padding:6px 14px; border-radius:4px;
+                    cursor:pointer; font-size:13px; }
+  .toolbar button:hover { background:#5d82ba; }
+  .viewer { position:fixed; top:52px; left:0; right:0; bottom:0; overflow:auto; background:#2a2a2a;
+            cursor:grab; }
+  .viewer.dragging { cursor:grabbing; }
+  .viewer img { display:block; margin:20px auto; transform-origin:center; transition:transform .1s;
+                box-shadow:0 0 30px rgba(0,0,0,.6); background:#fff; }
+  .zoomctl { position:fixed; bottom:20px; right:20px; background:#333; border-radius:8px;
+             padding:8px; display:flex; flex-direction:column; gap:6px; z-index:100; box-shadow:0 2px 10px rgba(0,0,0,.5);}
+  .zoomctl button { width:38px; height:38px; font-size:20px; border:none; background:#4a6fa5; color:#fff;
+                    border-radius:6px; cursor:pointer; }
+  .zoomctl button:hover { background:#5d82ba; }
+  .zoomctl .pct { color:#eee; font-size:12px; text-align:center; }
+</style>
+</head>
+<body>
+<div class="toolbar">
+  <h1>ESTLER PROPERTY — SUB-AREA C CONCEPT PLAN (Rev 2)</h1>
+  <span class="note">Concept only — not engineered · Follows Mayflower CP layout with NW corner redesign</span>
+  <button onclick="window.print()">Print / PDF</button>
+</div>
+
+<div class="viewer" id="viewer">
+  <img id="plan" src="estler_concept_plan_v2.png" alt="Estler Concept Plan v2">
+</div>
+
+<div class="zoomctl">
+  <button onclick="zoom(1.25)">+</button>
+  <div class="pct" id="pct">100%</div>
+  <button onclick="zoom(0.8)">−</button>
+  <button onclick="zoomTo(1)">1:1</button>
+</div>
+
+<script>
+  const img = document.getElementById('plan');
+  const viewer = document.getElementById('viewer');
+  const pct = document.getElementById('pct');
+  let scale = 1;
+  let isDown = false, startX, startY, scrollL, scrollT;
+
+  function zoom(f) {
+    scale = Math.min(6, Math.max(0.2, scale * f));
+    img.style.transform = `scale(${scale})`;
+    pct.textContent = Math.round(scale * 100) + '%';
+  }
+  function zoomTo(s) { scale = s; img.style.transform = `scale(${scale})`; pct.textContent = Math.round(scale*100)+'%'; }
+
+  viewer.addEventListener('mousedown', e => {
+    isDown = true; viewer.classList.add('dragging');
+    startX = e.clientX; startY = e.clientY;
+    scrollL = viewer.scrollLeft; scrollT = viewer.scrollTop;
+  });
+  window.addEventListener('mouseup', () => { isDown = false; viewer.classList.remove('dragging'); });
+  viewer.addEventListener('mousemove', e => {
+    if (!isDown) return;
+    e.preventDefault();
+    viewer.scrollLeft = scrollL - (e.clientX - startX);
+    viewer.scrollTop  = scrollT - (e.clientY - startY);
+  });
+  viewer.addEventListener('wheel', e => {
+    e.preventDefault();
+    zoom(e.deltaY < 0 ? 1.1 : 0.9);
+  }, {passive:false});
+</script>
+</body>
+</html>
