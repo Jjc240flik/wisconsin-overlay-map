@@ -382,4 +382,52 @@ This confirms that **AGD (General Agricultural District) to residential rezoning
 
 ---
 
+## 11. VILLAGE BOARD VOTING PATTERNS — DEFINITIVE ANALYSIS
+
+*Analyzed from all 2025-2026 VB minutes. Every split vote identified.*
+
+### Board Member Profiles
+
+| Member | Role | Attendance | Pattern |
+|--------|------|:----------:|---------|
+| **Jack Anderson** | VB + PC | 9 of 9 meetings | **Reliable yes.** Made 14 motions, 7 seconds. Leads the PC. Generally pro-development but voted to deny airport SSA initially. Power center — if he's on board, you likely have 3 votes. |
+| **Andy Peters** | VB only | 8 of 9 meetings | **Reliable yes.** Made 12 motions, 12 seconds. Voted for airport SSA. Consistent on development items. |
+| **Dean Culbertson** | VB only | 9 of 9 meetings | **Leaning yes.** Made 13 motions, 10 seconds. Asks tough questions (lift station, park impact) but votes yes. Voted for airport SSA. |
+| **Mark Strobel** | VB only | 9 of 9 meetings | **SWING VOTE.** Made 11 motions, 11 seconds. **Voted to deny airport SSA** (Dec 8), then **seconded the reconsideration** (Dec 15). **Voted NO on New Creations** (Jul 13, 2026 — the only development vote with a split). Unpredictable — needs direct engagement. |
+| **Brian Mulroy** | VB only | 6 of 9 meetings | **MOST CONSERVATIVE.** Made 5 motions, 8 seconds. **Led the airport SSA denial** (made the motion). Voted no on routine sewer engineering. Missing from Dec 15 meeting (4-0 approval happened in his absence). Most likely "no" vote on any development. |
+| **Brittany Helf** | VB + PC | 4 of 9 meetings | **Wildcard.** Also serves on PC. Attends irregularly. Votes with majority when present. |
+
+### Split Votes Recorded
+
+| Date | Item | Vote | Nos | Dynamics |
+|:----:|------|:----:|:---:|----------|
+| Dec 8, 2025 | **Airport SSA** (to deny) | **3-2 CARRIED** | Peters, Culbertson | Mulroy motion, Strobel seconded. Anderson voted to deny. Peters and Culbertson voted no (pro-airport). |
+| Dec 15, 2025 | **Airport SSA** (reconsider + approve) | **4-0 APPROVED** | — | Mulroy absent. Anderson motion, Strobel seconded. Unanimous without Mulroy. |
+| Jul 13, 2026 | **New Creations PUD** | **4-1 APPROVED** | Strobel | Only Strobel voted no. Anderson motion, Peters seconded. **Strobel was the lone dissenter on a development project.** |
+| Oct 13, 2025 | LOA #5-63 Sewer Extension | **4-1 APPROVED** | Mulroy | Mulroy voted no on routine sewer engineering — pattern of skepticism. |
+| Nov 10, 2025 | Employee Handbook §3.10 | **2-3 FAILED** | Anderson, Peters, Culbertson | Mulroy motion, Strobel seconded. **Anderson, Peters, and Culbertson voted together as a unified block.** |
+| Nov 17, 2025 | Tax Levy | **4-1 APPROVED** | Anderson | Anderson sole dissenter on budget. |
+| Apr 13, 2026 | Final payment to contractor | **4-1 APPROVED** | Strobel | Strobel voted no on routine payment. |
+| Jun 8, 2026 | Payment to architect | **3-1 APPROVED** | Strobel | Strobel sole dissenter. |
+
+### What This Means for Our Project
+
+**Vote Count Estimate:**
+
+| Member | Likely Vote | Notes |
+|--------|:-----------:|-------|
+| Jack Anderson | ✅ YES | Pro-development. Need to keep him on board. |
+| Andy Peters | ✅ YES | Reliable yes on development. |
+| Dean Culbertson | ✅ YES / ⚠️ | Will ask tough questions (lift station, park impact on private road) but votes yes. |
+| Mark Strobel | ❓ **SWING** | Voted no on New Creations. Need to understand his objection. |
+| Brian Mulroy | ❌ NO | Most likely no. Plan for it — the vote is 4-1 without him. |
+
+**The math:** Anderson + Peters = 2 reliable yeses. Culbertson = likely 3rd yes. That's a majority (3 of 5). Strobel puts it at 4-1 if he's on board, or keeps it at 3-2 if not. Mulroy is a likely no regardless.
+
+**The critical relationship:** Jack Anderson is on both the Planning Commission (where he'll vote on our concept plan) and the Village Board (where he'll vote on final approval). He makes almost every motion. Engaging him early is the highest-leverage action.
+
+**What we still don't know:** How each member voted on **Whispering Winds (Doug's project)** — the VB minutes for that discussion (which happened across multiple meetings in 2024-2025 before our data starts in January 2025) are not in this archive. The Village has archived meeting data back to 2019 but the 2024-2025 VB minutes with Doug's full voting record are not available through the Granicus system.
+
+---
+
 *To access the actual PDFs for each meeting: click the Agenda or Minutes link on the Granicus page. Each PDF contains the full meeting packet including supporting documents, staff reports, and public comments.*
