@@ -24,8 +24,9 @@
 - Exact tier polygon for the Estler acreage: verify via county `FutureLandUse2020_OpenData` FeatureServer (data-ocgis.opendata.arcgis.com) or the 2025 village FLU map (townofgreenville.com `Map 2-1 Year 2040 Land Use_2025.pdf`).
 - Implication: FLU must support residential before rezoning; Jul-2025 denial of Ord 9-25 shows PC enforces FLU conformance + stormwater.
 
-## 4. Sewer / water service area — CONFIRMED: OUTSIDE 2040 sewer SSA; water planned
-- Fox West Sewer Service Area Map (PC 3/24/2025 packet; ECWRPC 2023; WDNR cert. 3/22/2024): the 2040 Fox West SSA boundary runs south of Everglade Rd & Mayflower Dr — Sub-Area C is OUTSIDE the certified 2040 SSA but inside the 2040 SSA Planning Area (dashed). **Sewer entitlement requires SSA expansion/amendment** — the key feasibility gate.
+## 4. Sewer / water service area — REVISED 2026-10-16: INSIDE 2040 certified SSA (verified via ECWRPC GIS)
+- **UPDATE:** Live ECWRPC GIS point-in-polygon (services1.arcgis.com/Osi6nedbad6tbPn5/.../SSA/FeatureServer/0 — certified SSA layer, 2040 Fox West plan, WDNR cert.) shows the Estler parcel is **INSIDE the certified Fox West SSA** — 57/57 proposed lots + lift station/park/pond zone "In Service Area"; only the extreme north tip at Mayflower frontage pokes outside. The earlier "OUTSIDE but in Planning Area" finding (from the PC 3/24/2025 packet's paper map) is SUPERSEDED by the digital boundary check.
+- **Implication (revised):** NO sewer SSA expansion/amendment required. But §270-8.1(3) requires subdivisions in the SSA to be **served by public sewer and water** — so sewer/water extension (incl. Lift Station No. 4, ~$2.0–2.1M) is a MANDATORY cost. Septic is not an option for new lots inside the SSA. The feasibility gate is now **who funds the lift station** (village special-assessment/recapture vs. developer upfront), not the SSA amendment.
 - Village wastewater + water master plans (Dec 2021) exist and Sub-Area C plan directs municipal sewer/water to service the area; developer would fund extensions (cf. Davel 1/12/2026: "developer would pay for sewer and water").
 - Water: LIKELY inside village municipal water planning/service area per Master Water Plan; exact boundary needs village water service area map.
 

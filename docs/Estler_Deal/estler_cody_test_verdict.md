@@ -46,7 +46,7 @@
 ### 4. UTILITIES — Score: 5/10 ⚠️ THE GATING ISSUE
 | Check | Rating | Finding | Status |
 |---|---|---|---|
-| **Sewer service area** | **3** | **⚠️ CRITICAL: Sub-Area C is OUTSIDE the certified 2040 Fox West SSA** (boundary runs south of Everglade/Mayflower; area is in the SSA *Planning Area* only). **Any subdivision requires an SSA expansion/amendment (WDNR process)** | ✅ FACT — THE GATE |
+| **Sewer service area** | **8** | **✅ VERIFIED 2026-10-16: Sub-Area C IS INSIDE the certified 2040 Fox West SSA** (ECWRPC GIS live point-in-polygon: 57/57 lots + lift-station zone in layer 0 "In Service Area"; only extreme north tip at Mayflower frontage pokes out). **No SSA amendment needed.** ⚠️ BUT being inside SSA means §270-8.1(3) REQUIRES public sewer + water — septic is NOT an option for new lots; the lift station question is unavoidable and the only issue is who pays | ✅ FACT — VERIFIED |
 | Water | 7 | Village Master Water Plan (Res 02-22) includes area; LIKELY in service area | 🟡 LIKELY |
 | Sewer/water extension cost | 4 | Developer pays extensions (Davel 1/12/2026: "developer would pay for sewer and water"); **lift station likely needed** — $200-500K if not shared | ⚠️ NOT YET UNDERSTOOD (cost) |
 | Shared lift station w/ Gunderson? | 6 | Doug Gunderson proposed joint lift station + park on Estler low ground — coordination possible but NOT agreed | ⚠️ NOT YET UNDERSTOOD |
@@ -93,7 +93,7 @@
 | M3 Seller qualification | Two-price script, education | 🟡 In progress — Evers connection is the key unknown |
 | M4 Control | Long PSA/option, staged EM, entitlement contingency | ❌ **NOT EXECUTED** — LOI drafted, never sent |
 | M5 Feasibility | Concept plan gate FIRST | 🟡 78-lot concept exists (Davel) but exceeds plan; needs Sub-Area-C-compliant concept |
-| M6 Entitlement | Rezone + plat | 🟡 Sub-Area C adopted (good), **SSA expansion is the new gate**, rezoning routine |
+| M6 Entitlement | Rezone + plat | 🟡 Sub-Area C adopted (good), **SSA confirmed inside (no expansion gate — REVISED 2026-10-16)**, rezoning routine |
 | M7 Disposition | Sell approved lots to builders | 🟡 Buyer pool confirmed (Cypress, Van's, VW, Keystone, Virtue) |
 
 ---
@@ -108,25 +108,27 @@
 
 **But two gates must close before any material spend:**
 
-### GATE 1 (the new one): SEWER SERVICE AREA EXPANSION — the gating issue
-Sub-Area C is **outside the certified 2040 Fox West SSA**. Every subdivision there needs an **SSA amendment/expansion (WDNR process)** — this is a jurisdiction-level decision with a timeline and political exposure we haven't priced. **Confirm the SSA amendment path and timeline with the Village BEFORE spending on concept plans.** This is the American Drive lesson applied: the infrastructure entitlement is the first question, not the last. Also confirm lift-station cost and whether the Gunderson joint-lift-station coordination is real.
+### GATE 1 (REVISED 2026-10-16): SEWER SERVICE AREA — CONFIRMED INSIDE, NOW A COST GATE NOT A PERMIT GATE
+**UPDATE:** Live ECWRPC GIS verification (2026-10-16) shows Sub-Area C is **INSIDE the certified 2040 Fox West SSA** — 57/57 proposed lots confirmed in layer 0 "In Service Area" (data: services1.arcgis.com/Osi6nedbad6tbPn5/.../SSA/FeatureServer/0). **No WDNR SSA amendment is required** — the earlier "SSA expansion is the new gate" finding was based on a stale boundary. 
+
+**What replaces it:** Being inside the certified SSA means Greenville §270-8.1(3) *requires* public sewer + water for new subdivisions — so the **lift station + sewer/water extension is a mandatory cost, not a choice**. Septic/private systems are NOT a legal alternative inside the SSA. The gate becomes: **who pays for the lift station ($2.0–2.1M) — village special assessment/recapture, or developer upfront.** The Oct 12, 2026 Village Board discussion (item 9.d) leaned "developer pays upfront, connection fees cover maintenance" with NO formal motion — door still open. Confirm gravity possibility (§4.3.3 master plan) + special-assessment/recapture path with Village staff before concept spend. Also confirm the Gunderson joint-lift-station coordination is real.
 
 ### GATE 2: THE EVERS/NINE TWENTY QUESTION — who controls the deal path?
 Kevin Evers is both the **listing agent** and **principal of Nine Twenty Realty** — the entity behind the 78-lot Davel concept. He may already hold an option or purchase agreement (NOT in county records — owns zero parcels). **Call him: does Nine Twenty hold an option? Would he partner, or is the listing clean?** This determines whether we negotiate with the Essler/Reinke family directly or with Evers as the deal's driver.
 
 ### Conditions to proceed (the full checklist)
 1. **ASK EVERS** about Nine Twenty's position (option? partnership?) — week 1
-2. **SSA amendment confirmation** with Village staff (timeline, cost, political risk) — before concept spend
+2. **Lift-station funding confirmation** with Village staff (gravity §4.3.3? special-assessment/recapture path? — SSA now confirmed inside, no amendment needed) — before concept spend
 3. **Concept plan** ($5-8K) compliant with Sub-Area C tiers (48-54 lot target, NOT the 78-lot dream) — Gate 1 decision
 4. **Builder LOIs** (Cypress, Van's, VW, Keystone, Virtue) — lock the $50-75K/lot exit band
 5. **LOI to Essler/Reinke** — $900K-$1M seller-financed, 24-mo entitlement, staged EM ≤$40K, entitlement contingency, assignment rights (already drafted)
-6. **Kill-switches:** <40 lots, SSA amendment denied, builder exit <$50K/lot, seller won't move below $1.1M
+6. **Kill-switches:** <40 lots, lift-station funded entirely by developer (≈−$929K fatal), builder exit <$50K/lot, seller won't move below $1.1M
 
 ---
 
 ## SUPPORTING FILES
 - /root/estler_builder_demand.md (19.3KB — named buyers, Dercks DeWitt model, SH6 takedowns, comps)
-- /root/estler_zoning_subarea_c.md (7.3KB — Sub-Area C tiers, SSA OUTSIDE finding, 2026 activity, lot model)
+- /root/estler_zoning_subarea_c.md (7.3KB — Sub-Area C tiers, SSA INSIDE finding — REVISED 2026-10-16, 2026 activity, lot model)
 - /root/estler_parcel_deed_forensics.md (6.0KB — APNs, ESSLER owner, MLS status, Nine Twenty Realty ID)
 - /root/estler_yield_v2.py + /root/estler_lot_yield_model.py (yield + economics models)
 - /root/wisconsin-overlay-map/docs/Greenville_MM.md + Greenville_Development_Case_Study.md (political intel)
