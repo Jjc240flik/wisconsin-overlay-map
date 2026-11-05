@@ -77,8 +77,10 @@ def test_outside_ssa_is_fatal():
 
 # ---------- classifier -----------------------------------------------------
 def test_paper_problem_classified_paper():
+    # complete data required: unknowns force HOLD regardless of species
     r = ScreenResult(Parcel(apn="X", county="Test", acres=40,
-                            road_frontage_ft=100, flu_code="AG", zoning="R-1"))
+                            road_frontage_ft=100, flu_code="AG", zoning="R-1",
+                            min_lot_sqft=43_560, in_sewer_service_area=True))
     screen_physical(r); screen_regulatory(r)
     c = classify(r)
     assert c["species"] == "paper"
@@ -87,10 +89,21 @@ def test_paper_problem_classified_paper():
 
 def test_capital_problem_classified_capital():
     r = ScreenResult(Parcel(apn="X", county="Test", acres=40,
-                            wetlands_pct=45, sewer_capacity="pump"))
+                            wetlands_pct=45, road_frontage_ft=1_000,
+                            min_lot_sqft=43_560, in_sewer_service_area=True))
     screen_physical(r); screen_regulatory(r)
     c = classify(r)
-    assert "pump" in " ".join(c["capital"]) or c["species"] == "capital"
+    assert c["species"] == "capital"
+    assert c["verdict"] == "HOLD"
+
+
+def test_unknowns_force_hold():
+    r = ScreenResult(Parcel(apn="X", county="Test", acres=40, road_frontage_ft=100,
+                            flu_code="AG", zoning="R-1"))
+    screen_physical(r); screen_regulatory(r)
+    c = classify(r)
+    assert c["verdict"] == "HOLD"
+    assert "INSUFFICIENT DATA" in c["reason"]
 
 
 def test_fatal_beats_species():
